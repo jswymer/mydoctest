@@ -1,2 +1,2 @@
-## [mport Data from Other Finance Systems](upload-data.md)
+## [Import Data from Other Finance Systems](upload-data.md)
 
