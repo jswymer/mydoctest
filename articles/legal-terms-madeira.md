@@ -5,16 +5,16 @@
 	authors="edupont" />
 MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
 MICROSOFT PROJECT “MADEIRA” PREVIEW 
-These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them.  This agreement applies to the pre-release software named above, which includes the media on which you received it, if any.  It also applies to any Microsoft
-   - updates,
-   - supplements,
-   - Internet-based services, and
-   - support services  
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them.  This agreement applies to the pre-release software named above, which includes the media on which you received it, if any.  It also applies to any Microsoft 
+•	updates,
+•	supplements,
+•	Internet-based services, and
+•	support services
 for the software, unless other terms accompany those items. If so, those terms apply.
-By installing, having installed, attempting to install, or using the software, you accept this agreement.  If you do not accept this agreement, you may not install, have installed, attempt to install, or use the software.  
-  
-If you comply with these license terms, you have the rights below.  
+By installing, having installed, attempting to install, or using the software, you accept this agreement.  If you do not accept this agreement, you may not install, have installed, attempt to install, or use the software.
+If you comply with these license terms, you have the rights below.
 1.	INSTALLATION AND USE RIGHTS.
+ 
     - **Installation and Use.**
         - You may install, test, and evaluate any number of copies of the software on your premises but only in a development or test environment for the software.  
         - You may not test the software in a live operating environment unless Microsoft permits you to do so under another agreement.
