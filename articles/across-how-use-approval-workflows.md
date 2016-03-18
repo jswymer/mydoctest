@@ -8,7 +8,7 @@
 #How to: Use Approval Workflows
 When a record, such as a purchase document or a customer card, needs to be approved by someone in your organization, you send an approval request as part of a workflow. Based on how the workflow is set up, the appropriate approver is then notified that the record requires their approval.
 
-Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup. For more information, see [Getting Ready for Doing Business](welcome.md).
+Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).
 
 You can set up workflows for practically all processes in Project "Madeira". For more information about advanced use of workflows, see [Workflow](https://msdn.microsoft.com/en-us/library/dn892100.aspx) in the MSDN Library.    
 

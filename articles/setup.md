@@ -9,7 +9,7 @@
     
 # Set Up Your Project "Madeira"
 Project "Madeira" includes a standard configuration of most business processes, but your can change the configuration to suit your business' needs. 
-From your Home page, you can access assisted setup guides that help you configure certain scenarios. For more information, see [Welcome to Project "Madeira"](get-started.md).  
+From your Home page, you can access assisted setup guides that help you configure certain scenarios. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).  
  
 The following table describes a sequence of tasks, with links to the topics that describe them.
 

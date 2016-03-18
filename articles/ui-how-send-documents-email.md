@@ -52,4 +52,4 @@ The following procedure describes how to send a posted sales invoice as an email
 
 ##See Also  
 [Work with Project "Madeira"](ui-work-product.md)  
-[How to: Invoice Sales](sales-how-invoice-sales.md)
+[How to: Invoice Sales](sales-how-invoice-sale.md)
