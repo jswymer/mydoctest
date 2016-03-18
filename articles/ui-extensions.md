@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>/>
+        authors="edupont"/>
     
 # Customizing Project "Madeira" Using Extensions
 You can change Project "Madeira" by installing extensions that add functionality, changes behavior, or gives you access to new online services, for example. 
