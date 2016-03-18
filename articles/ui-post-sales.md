@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>/>
+        authors="edupont"/>
     
 # Posting Sales
 In the **Posting group** on a sales document, you can choose between the following posting functions:

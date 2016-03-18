@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>/>
+        authors="edupont"/>
     
 # Entering Criteria in Filters
 When you enter criteria, you can use all the numbers and letters that you can normally use in the field. In addition, you can use special symbols to further filter the results. Later in this topic, you can read more about the Quick Filter on pages.

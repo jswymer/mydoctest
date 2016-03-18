@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>/>
+        authors="edupont"/>
     
 # Create Number Series
 
