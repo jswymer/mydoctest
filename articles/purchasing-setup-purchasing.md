@@ -3,7 +3,7 @@
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>/>
+                authors="edupont"/>
     
 # Set Up Purchasing
 Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.

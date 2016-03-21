@@ -3,7 +3,7 @@
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>/>
+                authors="edupont"/>
 
 #How to: Reconcile Payments Using Automatic Application
 The **Payment Reconciliation Journal** window specifies payments, either incoming or outgoing, that have been recorded as transactions on your online bank account and that you can apply to their related open customer, vendor, and bank account ledger entries. The lines in the journal are filled by importing a bank statement as a bank feed or file.

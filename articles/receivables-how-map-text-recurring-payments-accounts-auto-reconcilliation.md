@@ -2,7 +2,7 @@
                 pageTitle="How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation| Project Madeira" description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>/>
+                authors="edupont"/>
 
 #How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation
 In the **Text-to-Account Mapping** window, which you open from the **Payment Reconciliation Journal** window, you can set up mappings between text on payments and specific debit, credit, and balancing accounts so that such payments are posted to the specified accounts when you post the payment reconciliation journal.

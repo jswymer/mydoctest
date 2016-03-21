@@ -3,7 +3,7 @@
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>/>
+                authors="edupont"/>
 
 #How to: Reconcile Payments That Cannot be Applied Automatically
 You may sometimes have to handle payments to your bank account that cannot be applied to a related open customer, vendor or bank account ledger entry. Reasons may be that no document exists in Project "Madeira" that the payment can be applied to, or the related document in Project "Madeira" has a different amount than the transaction amount, for example, because of currency exchange. In the **Payment Reconciliation Journal** window, all transaction amounts for payments that are not yet applied appear in the **Difference** field, including amounts that cannot be applied because of reasons such as the above.

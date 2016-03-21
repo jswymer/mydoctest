@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>/>
+        authors="edupont"/>
     
 # Posting Purchases
 In the **Posting group** on a purchase document, you can choose between the following posting functions:

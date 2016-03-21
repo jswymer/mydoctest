@@ -3,7 +3,7 @@
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>/>
+                authors="edupont"/>
 
 # How to: Send Documents by Email
 To communicate the contents of business documents quickly to your business partners, such as the payment information on sales documents to customers, you can use the Report Layout feature to define document-specific content that gets inserted in email bodies automatically.
@@ -52,4 +52,4 @@ The following procedure describes how to send a posted sales invoice as an email
 
 ##See Also  
 [Work with Project "Madeira"](ui-work-product.md)  
-[How to: Invoice Sales](sales-how-invoice-sales.md)
+[How to: Invoice Sales](sales-how-invoice-sale.md)

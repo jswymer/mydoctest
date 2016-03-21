@@ -18,7 +18,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |-|-|
 |Create segments which allow you to select a group of contacts. For example, direct mail.|[How to: Create Segments](marketing-how-create-segment.md)|
 |Manage the contacts that are assigned to segments.|[How to: Add Contacts to Segments](marketing-add-contact-segment.md)|
-|Learn about using interactions and segments, including logging.|[Interaction and Segments](marketing-interactionsSegments.md)|
+|Learn about using interactions and segments, including logging.|[Interaction and Segments](marketing-interaction-segments.md)|
 
 ##See Also
 [Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
