@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Set Up Marketing and ContacAccounts | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Set Up Marketing and Contacts | Project “Madeira”" 
+                description="Set up Marketing" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
