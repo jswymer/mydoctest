@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Extensions | Project "Madeira""
-        description="Welcome to Project "Madeira"" 
+	pageTitle="Customizing Project &quot;Madeira&quot; Using Extensions | Project "Madeira""
+        description="Customizing Project &quot;Madeira&quot; Using Extensions" 
         services="" 
         documentationCenter="Madeira"
         authors="edupont"/>
