@@ -1,6 +1,6 @@
 <properties
                 pageTitle="Relationship Management | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                description="Relationship Management" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
