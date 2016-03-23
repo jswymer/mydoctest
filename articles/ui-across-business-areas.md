@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Across Business Areas | Project "Madeira""
-        description="Welcome to Project "Madeira"" 
+        description="Learn more about functionality that is common across business areas in Project “Madeira”" 
         services="" 
         documentationCenter="Madeira"
         authors="edupont"/>

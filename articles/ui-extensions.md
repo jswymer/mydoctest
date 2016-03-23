@@ -1,11 +1,11 @@
 <properties
-	pageTitle="Customizing Project &quot;Madeira&quot; Using Extensions | Project Madeira"
-        description="Customizing Project &quot;Madeira&quot; Using Extensions" 
+	pageTitle="Customizing Project “Madeira” Using Extensions | Project Madeira"
+        description="Customizing Project “Madeira” Using Extensions" 
         services="" 
         documentationCenter="Madeira"
         authors="edupont"/>
     
-# Customizing Project "Madeira" Using Extensions
+# Customizing Project “Madeira” Using Extensions
 You can change Project "Madeira" by installing extensions that add functionality, changes behavior, or gives you access to new online services, for example. 
 When you first launch Project "Madeira", some extensions are already installed for you. Over time, more extensions will be made available to you, and you can then choose if you want to use the extension or not.
 

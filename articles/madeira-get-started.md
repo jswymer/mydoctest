@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Welcome to Project "Madeira" | Project Madeira"
-    description="Welcome to Project "Madeira"" 
+	pageTitle="Welcome to Project “Madeira” | Project Madeira"
+    description="Welcome to Project “Madeira”" 
 	services="" 
 	documentationCenter="Madeira"
 	authors="edupont"/>

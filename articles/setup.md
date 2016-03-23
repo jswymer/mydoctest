@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Set Up Your Project &quot;Madeira&quot; | Project Madeira"
-    description="Set Up Your Project &quot;Madeira&quot;" 
+	pageTitle="Set Up Your Project “Madeira” | Project Madeira"
+    description="Set Up Your Project “Madeira”" 
     services="" 
     documentationCenter="Madeira"
     authors="edupont"/>

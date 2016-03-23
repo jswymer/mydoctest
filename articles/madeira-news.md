@@ -1,5 +1,5 @@
 <properties
-	pageTitle="What's New in Project "Madeira" | Project Madeira"
+	pageTitle="What's New in Project “Madeira”| Project Madeira"
     description="What's New" 
 	services="" 
 	documentationCenter="Madeira"
