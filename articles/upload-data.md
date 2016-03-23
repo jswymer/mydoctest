@@ -1,6 +1,6 @@
 <properties
     pageTitle="Import Data from Other Finance Systems| Project Madeira" 
-	description="Describes how you can import your own data into Project &quot;Madeira&quot;" 
+	description="Describes how you can import your own data into Project “Madeira”;" 
 	services="" 
 	documentationCenter="Madeira"
 	authors="edupont" />

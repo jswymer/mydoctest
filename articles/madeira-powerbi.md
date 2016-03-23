@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Using the Project "Madeira" Content Pack for Power BI | Project Madeira"
-    description="Using the Project "Madeira" content pack for Power BI" 
+	pageTitle="Using the Project “Madeira” Content Pack for Power BI | Project Madeira"
+    description="Using the Project “Madeira” content pack for Power BI" 
 	services="" 
 	documentationCenter="Madeira"
 	authors="edupont"/>
@@ -12,7 +12,7 @@ The content pack is preconfigured to work with sales data and financial data fro
 ## Accessing Project "Madeira" in Power BI
 To see your Project "Madeira" data in Power BI, you must have the following:
 - Access to Project "Madeira".
-For more information, see [Project "Madeira](http://go.microsoft.com/fwlink/?LinkID=759714).
+For more information, see [Project "Madeira"](http://go.microsoft.com/fwlink/?LinkID=759714).
 - Access to Power BI.
 For more information, see [powerbi.microsoft.com](https://powerbi.microsoft.com).
 
@@ -65,6 +65,6 @@ https://*mycronusus*.projectmadeira.com:7048/NAV/OData/
 
  
 ## See Also
-["Welcome to Project "Madeira"](madeira-get-started.md)  
+[Welcome to Project "Madeira"](madeira-get-started.md)  
 [Import Data from Other Finance Systems](upload-data.md)  
   
