@@ -5,7 +5,7 @@
 	documentationCenter="Madeira"
 	authors="edupont"/>
 # Using Project “Madeira” with Other Email Account
-Project “Madeira” has deep integration with office 365, but you can also use other email accounts.  
+Project “Madeira” has deep integration with Office 365, but you can also use other email accounts.  
 
 ## See Also
 ["Welcome to Project "Madeira"](madeira-get-started.md)  

@@ -18,4 +18,4 @@ The assisted setup includes an option to change the default configuration of the
 ##SeeAlso
 [Finance](finance.md)  
 [Customizing Project "Madeira" Using Extensions](ui-extensions.md)   
-[Set Up Your Project &quot;Madeira&quot;](setup.md) 
+[Set Up Your Project "Madeira"](setup.md) 

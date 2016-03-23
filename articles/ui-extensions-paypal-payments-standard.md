@@ -21,4 +21,4 @@ For more information, see [How to: Enable Customer Payment Through PayPal](sales
      
 ## See Also  
 [How to: Enable Customer Payment Through PayPal](sales-how-enable-customer-payments-paypal.md)  
-[Customizing Project &quot;Madeira&quot; Using Extensions ](ui-extensions.md)  
+[Customizing Project "Madeira" Using Extensions ](ui-extensions.md)  

@@ -24,3 +24,4 @@ The following table describes a sequence of tasks, with links to the topics that
 [Finance](finance.md)  
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)
+[Welcome to Project "Madeira"](madeira-get-started.md)
