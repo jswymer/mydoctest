@@ -12,4 +12,4 @@ For more information, see [Import Data from Other Finance Systems](upload-data.m
      
 ## See Also  
 [[Import Data from Other Finance Systems](upload-data.md)  
-[Customizing Project &quot;Madeira&quot; Using Extensions ](ui-extensions.md)  
+[Customizing Project "Madeira" Using Extensions ](ui-extensions.md)  

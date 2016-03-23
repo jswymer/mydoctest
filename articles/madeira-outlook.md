@@ -28,7 +28,7 @@ The Project “Madeira” Document Links add-in gives you quick access to docume
   
 For example, if you receive an email message that mentions the text *S-QUO100*, Project "Madeira" identifies that as a sales quote, and so you can open this document in Outlook. In Outlook, choose the **Document Links** button immediately above the body of the email message. In the Outlook Web App, choose the *S-QUO1001* text in the body of the email message.  
   
-In the add-in, you can modify and take actions with the document, just like you can in the Project “Madeira” application.
+In the Document Links add-in, you can modify and take actions with the document, just like you can in the Project “Madeira” application.
 
 ## See Also
 ["Welcome to Project "Madeira"](madeira-get-started.md)  
