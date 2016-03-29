@@ -1,13 +1,14 @@
 <properties
     pageTitle="Import Data from Other Finance Systems| Project Madeira" 
-	description="Describes how you can import your own data into Project Madeira" 
+	description="Describes how you can import your own data into Project “Madeira”;" 
 	services="" 
 	documentationCenter="Madeira"
 	authors="edupont" />
                 
 # Import Data from Other Finance Systems #
-You can import your existing business data into Project "Madeira". Depending on the financial software solution that your business uses today, you can transfer information about customers, vendors, inventory, and bank accounts, for example.
-From Home, you can start an assisted setup guide that helps you transfer the business data. For example, you can transfer data from QuickBooks or from an Excel file.  
+You can import your existing business data into Project "Madeira". Depending on the finance solution that your business uses today, you can transfer information about customers, vendors, inventory, and bank accounts.
+From Home, you can start an assisted setup guide that helps you transfer the business data from an Excel file or from other formats. The type of files you can upload depends on the extensions that are available. For example, you can upload a QuickBooks .IFF file because Project "Madeira" includes an extension that handles the conversion from QuickBooks. If you want to upload data from other finance solutions, you must either check if an extension is available for that solution or import from Excel.  
+Project "Madeira" includes templates for customers, vendors, and inventory items, that you can choose to apply when you upload your data.   
 
 ##Transfer from QuickBooks
 If your business uses QuickBooks today, you can export the relevant information to an .IFF file. You can then open the assisted setup guide to transfer the data. 
@@ -15,6 +16,6 @@ For example, if your .IFF file includes customers, vendors, and bank accounts, y
 The assisted setup includes an option to change the default configuration of the transfer, but we recommend that you only enter this advanced setup if you are familiar with database tables. In the vast majority of businesses, the default mapping from QuickBooks to Project "Madeira" will transfer the information that you want.
 
 ##SeeAlso
-Finance  
-   
- 
+[Finance](finance.md)  
+[Customizing Project "Madeira" Using Extensions](ui-extensions.md)   
+[Set Up Your Project "Madeira"](setup.md) 
