@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Manage Inventory| Project "Madeira" 
-                description="Welcome to Project "Madeira" 
+                pageTitle="Manage Inventory| Project Madeira" 
+                description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
