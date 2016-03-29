@@ -1,11 +1,11 @@
 <properties
-	pageTitle="Minimum Requirements for Using Project "Madeira" | Project Madeira"
-    description="System requirements for using Project "Madeira"" 
+	pageTitle="Minimum Requirements for Using Project “Madeira” | Project Madeira"
+    description="System requirements for using Project “Madeira”" 
 	services="" 
 	documentationCenter="Madeira"
 	authors="edupont"/>
-# Minimum Requirements for Using Project "Madeira"
-Before you access Project “Madeira”, we recommend that you verify that your computer or mobile device meets or exceeds the minimum system requirements for the product.  
+# Minimum Requirements for Using Project “Madeira”
+Before you access Project “Madeira”, we recommend that you verify that your computer or mobile device meets or exceeds the minimum system requirements for the product. This page lists the requirements.  
 
 ## Browsers
 **Chrome for Windows and Firefox for Windows:** Project “Madeira” is designed to work with the current version of these desktop browsers.  

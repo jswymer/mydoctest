@@ -1,15 +1,13 @@
 <properties
-	pageTitle="Set Up Your Project "Madeira" | Project Madeira"
-    <properties
-    pageTitle="How to: Connect and Disconnect Incoming Document Records from Documents and Entries| Project Madeira" 
-    description="Welcome to Project "Madeira"" 
+	pageTitle="Set Up Your Project “Madeira” | Project Madeira"
+    description="Set Up Your Project “Madeira”" 
     services="" 
     documentationCenter="Madeira"
     authors="edupont"/>
     
 # Set Up Your Project "Madeira"
 Project "Madeira" includes a standard configuration of most business processes, but your can change the configuration to suit your business' needs. 
-From your Home page, you can access assisted setup guides that help you configure certain scenarios. For more information, see [Welcome to Project "Madeira"](get-started.md).  
+From your Home page, you can access assisted setup guides that help you configure certain scenarios. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).  
  
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
@@ -26,3 +24,4 @@ The following table describes a sequence of tasks, with links to the topics that
 [Finance](finance.md)  
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)
+[Welcome to Project "Madeira"](madeira-get-started.md)

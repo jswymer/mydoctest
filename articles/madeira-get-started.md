@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Welcome to Project "Madeira" | Project Madeira"
-    description="Welcome to Project "Madeira"" 
+	pageTitle="Welcome to Project “Madeira” | Project Madeira"
+    description="Welcome to Project “Madeira”" 
 	services="" 
 	documentationCenter="Madeira"
 	authors="edupont"/>
@@ -22,7 +22,7 @@ In the **Assisted Setup** window, you will find the following:
 |Migrate Business Data    |Lets you import your existing company data such as vendors, customers, and items from Excel or Quickbooks.|
 |Set Up Sales Tax         |Gets you started with default Tax groups and assigning Tax area codes that you can assign to customers and vendors in order to automatically calculate sales tax in sales or purchase documents.|
 |Set Up Email             |Gets you ready for sending email messages directly from, for example, sales orders or contacts in Project "Madeira".|
-|Set Up Office Add-Ins    |Sets up the ability to use and launch Project "Madeira" from Outlook 365.|
+|Set Up Office Add-Ins    |Sets up the ability to use and launch Project "Madeira" from Outlook.|
 |Set Up Email Logging     |Sets up the capability to log email correspondance in Project "Madeira" to follow up on interactions.|
   
 When you have run an assisted setup, it is marked as **Completed**. To run the assisted setup, you choose the three dots also called the context menu, and then you select **Start Setup**.

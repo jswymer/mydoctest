@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Adjust Item Costs| Project "Madeira"" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="How to: Adjust Item Costs| Project "Madeira" 
+                description="Welcome to Project "Madeira" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>

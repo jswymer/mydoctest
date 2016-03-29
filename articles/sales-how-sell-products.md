@@ -8,7 +8,7 @@
 #How to: Sell Products
 You create a sales order or sales invoice to record your agreement with a customer to sell certain products on certain delivery and payment terms.
 
-You use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. In all other aspects, sales orders work the same way as sales invoices For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md).
+You use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. In all other aspects, sales orders work the same way as sales invoices For more information, see [How to: Invoice Sales](sales-how-invoice-sale.md).
   
 You can negotiate with the customer by first creating a sales quote, which you can convert to a sales order when you agree on the sale. For more information, see [How to: Make Offers](sales-how-make-offers.md).
 
