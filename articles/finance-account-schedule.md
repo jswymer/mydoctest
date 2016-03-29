@@ -17,6 +17,6 @@ You can use one of the default layouts for your account schedule, or you can set
 This means that you can create as many customized financial statements as you want. You use the **Account Schedule** window to set up account schedules.  
 
 ##See Also
-[Finance](conFinance.md)  
+[Finance](finance.md)  
 [Set Up Finance](finance-setup-finance.md)  
   

@@ -8,7 +8,7 @@
 #Manage Inventory
 Inventory management in Project "Madeira" is limited to registering and managing item cards representing physical products and to increase or decrease the quantity of an item in inventory by posting directly to the item ledger entries. 
 
-Inventory increases and decreases are naturally also recorded when you post purchase and sales documents respectively. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md), [How to: Sell Products](sales-how-sell-products.md), and [How to: Invoice Sales](sales-how-invoice-sales.md).  
+Inventory increases and decreases are naturally also recorded when you post purchase and sales documents respectively. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md), [How to: Sell Products](sales-how-sell-products.md), and [How to: Invoice Sales](sales-how-invoice-sale.md).  
 
 **Note**: In Project "Madeira", a product is referred to using the term “item”.
 

@@ -1,6 +1,6 @@
 <properties
                 pageTitle="Set Up Core Financial Processes| Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                description="Set Up Core Financial Processes" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
