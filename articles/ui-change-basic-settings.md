@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>/>
+        authors="edupont"/>
 
 # Changing Basic Settings
 In the **My Settings** window, you can see and change basic settings for Project "Madeira".  

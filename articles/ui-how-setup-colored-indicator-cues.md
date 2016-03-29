@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>/>
+        authors="edupont"/>
     
 # How to: Set Up a Colored Indicator on Cues
 You can set up Cues that appear on the **Home** page to include an indicator that changes color based on the data values in the Cues. 

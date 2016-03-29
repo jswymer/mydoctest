@@ -3,7 +3,7 @@
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>/>
+                authors="edupont"/>
 
 #How to: Enable Customer Payments Through PayPal#
 As an alternative to collecting payments through bank transfer, checks, and other payment methods, you can offer your customers to pay you through their PayPal account.

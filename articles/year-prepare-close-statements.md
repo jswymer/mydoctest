@@ -3,7 +3,7 @@
     description="Welcome to Project "Madeira"" 
     services="" 
     documentationCenter="Madeira"
-    authors="edupont"/>/>
+    authors="edupont"/>
 	
 # Prepare Closing Statements
 There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.

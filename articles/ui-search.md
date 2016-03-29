@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>/>
+        authors="edupont"/>
     
 # Using Search for Page or Report
 You can find any page, report, or view by using the **Search for Page or Report** field in the top right corner of the address bar.
