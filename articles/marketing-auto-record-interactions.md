@@ -7,6 +7,7 @@
 
 # Automatically Record Interactions with Contacts
 You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:
+
 * Print sales or purchase quotes, orders, invoices, credit memos, cover sheets.
 * Create sales service orders.
 * Post sales service orders.
