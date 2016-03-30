@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Set Up Alternative Addresses for Contacts | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="How to: Set Up Alternative Addresses for Contacts | Project “Madeira”" 
+                description="Welcome to Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
