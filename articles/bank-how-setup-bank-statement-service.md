@@ -4,7 +4,7 @@
 #How to: Set Up the Envestnet Yodlee Bank Feeds Service
 You can import electronic bank statements from your bank to quickly fill the **Payment Reconciliation Journal** window so you can apply payments and reconcile the bank account. For more information, see [Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
-Envestnet Yodlee Bank Feeds service, a global provider of bank feed services, is connected and ready to be enabled in Project "Madeira". 
+The Envestnet Yodlee Bank Feeds service is installed as an extension to Project "Madeira" and ready to be enabled. For more information, see [Customizing Project "Madeira" Using Extensions ](ui-extensions.md).
 
 When you have enabled the bank feed service, you must link the involved bank account to the online bank account that the feed will come from. You link bank accounts to online bank accounts in the following different scenarios:
 
@@ -15,12 +15,12 @@ When you have enabled the bank feed service, you must link the involved bank acc
 
 When the bank feed service is enabled, you can set a bank account up to automatically import new bank statements into the **Payment Reconciliation Journal** window every hour. Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported. For more information, see the “To enable automatic import of bank statements” section.
 
-##To enable the bank feed service##
+##To enable the bank feed service
 1. In the **Search** box, enter **Envestment Yodlee Bank Feeds Service Setup**, and then choose the related link.
 3. Enter your bank account credentials. 
 4. Choose the **Enables** check box to enable the service.
 
-##To create a new linked bank account##
+##To create a new linked bank account
 1. In the **Search** box, enter **Bank Accounts**, and then choose the related link.
 2. Select the relevant bank account, and then choose the **Create New Linked Bank Account**. The **Bank Account Linking** window opens after a few moments.
 
@@ -80,6 +80,6 @@ Every hour, the **Payment Reconciliation Journal** window will now be filled wit
 
 **Note**: Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported. 
  
-##See Also##  
+##See Also  
 [Set Up Banking](bank-setup-banking.md)  
 [Manage Bank Accounts](bank-manage-bank-accounts.md)

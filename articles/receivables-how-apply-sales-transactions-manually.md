@@ -5,7 +5,7 @@
                 documentationCenter="Madeira"
                 authors="edupont"/>
 
-#How to: Reconcile Customer Payments Manually#
+#How to: Reconcile Customer Payments Manually
 When you receive a cash receipt from a customer or you make a cash refund to a customer, you must decide whether to apply the payment or refund to one or more open debit or credit entries. You can specify the exact amount you want to apply. For example, you may only want to apply part of the payment and thereby only partly apply customer ledger entries. It is important at some stage to close (apply) all customer ledger entries in order to obtain correct customer statistics and printouts of the account statements and finance charges.
 
 You can apply customer ledger entries in three different ways:
@@ -85,7 +85,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 6. Choose the **OK** button. The **Sales Credit Memo** window now shows the amount of the credit memo to be posted, adjusted for any possible payment discounts.
 7. Post the credit memo.
 
-##To apply posted customer ledger entries##
+##To apply posted customer ledger entries
 1. In the **Search** box, enter **Customers**, and choose the related link.
 2. Open the customer card for the customer with entries that you want to apply.
 3. Choose the **Ledger Entries** action, and then select the line with the entry that will be the applying entry.
@@ -104,7 +104,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 
 **Note**: After you have selected an entry from the **Apply Customer Entries** window, or several entries by setting the **Applies-to ID**, the **Applied Amount** field on the journal line will contain the sum of the remaining amounts for the posted entries you have selected, unless the field contains something already. If you select **Apply to Oldest** in the **Application Method** field on the customer card, the application occurs automatically.
 
-##To apply customer ledger entries in different currencies to one another##
+##To apply customer ledger entries in different currencies to one another
 If you sell to a customer in one currency and receive payment in another currency, you can still apply the invoice to the payment.
 
 If you apply an entry (Entry 1) in one currency to an entry (Entry 2) in a different currency, the posting date on Entry 1 is used to find the relevant exchange rate to convert amounts on Entry 2. The relevant exchange rate is found in the **Currency Exchange Rates** window.
@@ -120,7 +120,7 @@ Applying customer ledger entries in different currencies must be enabled. For mo
 
 **Important**: When you apply entries in different currencies to one another, the entries are converted to LCY. Even though the exchange rates for the two relevant currencies are fixed, for example between USD and EUR, there may be a small residual amount when these foreign-currency amounts are converted to LCY. These small residual amounts are posted as gains and losses to the account specified in the **Realized Gains Account** or **Realized Losses Account** field in the **Currencies** window. The **Amount (LCY)** field is also adjusted on the relevant vendor ledger entries.
 
-##To unapply an application of customer entries##
+##To unapply an application of customer entries
 When you unapply an erroneous application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses. The entries that were closed by the application are reopened.
 
 1. In the **Search** box, enter **Customers**, and then choose the related link.
