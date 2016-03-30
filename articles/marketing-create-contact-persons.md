@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Create Contact Companies | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Create Contact Persons | Project “Madeira”" 
+                description="Welcome to Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
@@ -16,8 +16,8 @@ By recording as many details as possible about a contact person ensures that all
 
 The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
 
-|To|See|
-|--|---|
+|To |See |
+|---|----|
 |Provide information about a contact person.|[How to: Create Contact Person](marketing-how-create-contact-persons.md)|
 |Set up an alternative address for a contact.|[How to: Assign Alternative Addresses](marketing-how-assign-alternative-address.md)|
 |Describe the business relationship of a company contact.|[Set Up Job Responsibilities on Contacts](marketing-job-responsibilities.md)|

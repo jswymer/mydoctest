@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Create and Manage Contacts | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Create and Manage Contacts | Project “Madeira”" 
+                description="Welcome to Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>

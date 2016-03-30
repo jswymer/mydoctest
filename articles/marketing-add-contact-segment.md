@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Add Contacts to Segments | Project Madeira"
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Add Contacts to Segments | Project “Madeira”"
+                description="Welcome to Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
@@ -19,6 +19,7 @@ If you have added contacts by mistake and want to go back one step, then choose 
 
 ## To refine the number of contacts
 After you have selected the contacts within a segment, you may decide to remove some but keep others. You can manually remove contacts from the lines in the **Segment** window, but it is easier and faster to use the **Refine Contacts** action.
+
 1. Open the segment.
 2. Choose **Contacts**, and then choose the **Refine Contacts** action. The **Remove Contacts - Refine** window opens.
 3. In the **Contact** section, enter filters to specify the information that you want to use to select the contacts to be removed from the segment.
@@ -30,6 +31,7 @@ To see a list of the segment criteria that you have used, in the **General** sec
 
 ## To reduce the number of contacts
 After you have selected the contacts within a segment, you may want to remove some of them. You can do this by manually removing them from the lines in the Segment window, but it is easier and faster to use the Reduce Contacts function to specify which contacts to remove, and to use the Refine Contacts function to specify which contacts to keep.
+
 1. Open the segment.
 2. Choose Contacts, and then choose the **Reduce Contacts** action. The **Remove Contacts - Reduce** window opens.
 3. In the **Contact** section, enter filters to specify the information that you want to use to select the contacts to be removed from the segment.

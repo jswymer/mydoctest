@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Create Contact Companies | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Create Contact Companies | Project “Madeira”" 
+                description="Welcome to Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
@@ -25,7 +25,7 @@ Before creating a contact, you may want to check the settings in the **Marketing
 ## Create a company contact from a customer, vendor, or bank account
 If you have already set up a number of customers, vendors, and bank accounts, you can create contacts on the basis of the existing data. When you create a contact this way, the contact information is synchronized with the customer, vendor, or bank account information. 
 
->**Note:** Before you can create contact companies this way, you must specify a business relation code for customers, vendors, and bank accounts in the **Marketing Setup** window. If you will be creating contacts from a bank accounts, you must also specify numbers series for bank accounts in the **General Ledger Setup** window.
+**Note:** Before you can create contact companies this way, you must specify a business relation code for customers, vendors, and bank accounts in the **Marketing Setup** window. If you will be creating contacts from a bank accounts, you must also specify numbers series for bank accounts in the **General Ledger Setup** window.
 
 1. In the **Search** box, enter one of the following, depending on from where you want to create contacts, and then choose the related link.
   * **Create Contacts from Customers**
