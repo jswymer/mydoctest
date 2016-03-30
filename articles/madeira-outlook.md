@@ -31,7 +31,7 @@ For example, if you receive an email message that mentions the text *S-QUO100*, 
 In the Document Links add-in, you can modify and take actions with the document, just like you can in the Project “Madeira” application.
 
 ## See Also
-["Welcome to Project "Madeira"](madeira-get-started.md)  
+[Welcome to Project "Madeira"](madeira-get-started.md)  
 [Finance](finance.md)  
 [Manage Sales](sales-manage-sales.md)
 [Manage Purchasing](purchasing-manage-purchasing.md)  
