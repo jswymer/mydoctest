@@ -12,8 +12,8 @@ Inventory increases and decreases are naturally also recorded when you post purc
 
 **Note**: In Project "Madeira", a product is referred to using the term “item”.
 
-|To|See|
-|--|--|
+|To |See |
+|---|---|
 |Create an item card for each inventory item that you trade in.|[How to: Register New Products](inventory-how-register-new-products.md)|
 |Increase or decrease an item’s inventory quantity, for example, after a physical count or as a simple way to record purchase receipts.|[How to: Adjust Inventory](inventory-how-adjust-inventory.md)|
 |Adjust item costs, either automatically or manually, to forward cost changes from outbound entries to their related inbound entries.|[How to: Adjust Item Costs](inventory-how-adjust-item-costs.md)|

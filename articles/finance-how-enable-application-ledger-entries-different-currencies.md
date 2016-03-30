@@ -1,11 +1,11 @@
 <properties
-                pageTitle="How to: Allow Enable Application of Ledger Entries in Different Currencies| Project Madeira" 
+                pageTitle="How to: Enable Application of Ledger Entries in Different Currencies| Project Madeira" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
                 
-#How to: Allow Enable Application of Ledger Entries in Different Currencies
+#How to: Enable Application of Ledger Entries in Different Currencies
 If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.
 
 Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.
@@ -17,11 +17,11 @@ The following procedure describes how to set this up for vendor ledger entries i
 2. In the **Appln. between Currencies** field, select one of the following options.
 
 |Option|Description|
-|-|-|
+|--|---|
 |None|Application between currencies is not allowed.|
 |EMU|Application between EMU currencies is allowed.|
 |All|Application between all currencies is allowed.
 
 ##See Also  
-[Manage Receivables](receivables-manage-receivables.md)  
-[Manage Payables](payables-manage-payables.md)
+[Manage Payables](payables-manage-payables.md)  
+[Manage Receivables](receivables-manage-receivables.md)

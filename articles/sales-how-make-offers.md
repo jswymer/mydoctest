@@ -16,7 +16,7 @@ Products can be both inventory items and services. For more information, see [Ho
 
 You can fill customer fields on the sales quote in two ways depending on whether the customer is already registered.
 
-##To create a sales quote##
+##To create a sales quote
 1. On the Home page, choose the **Sales Quote** action.  
 2. In the **Customer** field, enter the name of an existing customer.
 

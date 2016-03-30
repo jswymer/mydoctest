@@ -36,7 +36,7 @@ The posted purchase invoices that you apply the credit memo to are now reversed.
 
 The purchase credit memo is removed and replaced with a new document in the list of posted purchase credit memos.
 
-##To create a purchase credit memo from scratch##
+##To create a purchase credit memo from scratch
 1. In the **Search** box, enter **Posted Purchase Invoices**, and then choose the related link.
 2. Choose the **New** action to open a new empty purchase credit memo.
 3. In the **Vendor** field, enter the name of an existing vendor.

@@ -13,7 +13,7 @@ Concerning prices, you can have a special sales price inserted on sales lines if
 Concerning discounts, you can set up and use two types of sales discounts:
 
 |Discount Type|Description|
-|-|-|
+|--|---|
 |**Sales Line Discount**|An amount discount that is inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists. This works in the same way as for sales prices.|
 |**Invoice Discount**|A percentage discount that is subtracted from the document total if the value amount of all lines on a sales document exceeds a certain minimum.|
 

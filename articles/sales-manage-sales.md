@@ -24,8 +24,8 @@ For all sales processes, you can incorporate an approval workflow, for example, 
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
-|To|See|
-|-|-|
+|To |See |
+|---|---|
 |Create a sales quote where you offer products on negotiable terms before converting the quote to a sales invoice.|[How to: Make Offers](sales-how-make-offers.md)|
 |Create a sales invoice to record your agreement with a customer to sell products on certain delivery and payment terms.|[How to: Invoice Sales](sales-how-invoice-sale.md)|
 |Process a sales order that involves inventory handling|[How to: Sell Products](sales-how-sell-products.md) 
