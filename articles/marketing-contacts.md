@@ -14,7 +14,7 @@ You can record information based on a company or a person at that company. You c
 
 The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
 
-|To|See|
+|To |See |
 |-|-|
 |Set up contact management prior to adding contacts|[Set Up Contacts](marketing-setup-contacts.md)|
 |Create a contact card for each new company that you interact with, such as a customer or vendor.|[Create Contact Companies](marketing-create-contact-companies.md)|
