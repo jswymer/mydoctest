@@ -10,7 +10,7 @@
 Project "Madeira" is a business management solution for small and mid-sized organizations that automates and streamlines business processes and helps you manage your business. Signing up is easy, and you can migrate existing business data from your legacy system.
 When you have signed up for the Project "Madeira" preview, you have access to a trial version for a limited period. The trial version contains sample data, but you can create your own sales documents, for example, or set up a bank account.  
 
-In the trial version, you can see visual guides that explain core functionality. These guides let you try out daily tasks such as making a sales invoice and viewing a report. When you want to explore Project "Madeira" on your own, you can always go back to the Getting Started tour by choosing **Activites** and then **Getting Started** on the Home page.   
+In the trial version, you can see visual guides that explain core functionality. These guides let you try out daily tasks such as making a sales invoice and viewing a report. When you want to explore Project "Madeira" on your own, you can always go back to the Getting Started tour by launching it from the Home page.   
   
 The Home page is also where you will find the **Assisted Setup & Tasks** action. Here you see a list of assisted setup that can help you getting started. Once you have migrated data such as vendors, customers, and items from your existing financial system using the **Migrate Business Data** assisted setup you are ready to begin. But depending on your needs, consider if the other assisted setup can help you. 
 
