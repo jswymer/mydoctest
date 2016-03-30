@@ -15,9 +15,9 @@ You can create a contact card for each contact who works for the companies you i
 
 2. Choose the **New** action.
 
-3. In the **No.** field, enter a number for the contact.
-
-  Alternatively, if you have set up a number series for contacts in the Marketing Setup window, you can press the Enter key to select the next available contact number. For more information, see [Create Number Series](ui-create-number-series.md).  
+3. In the **No.** field, enter a number for the contact.  
+  
+  Alternatively, if you have set up a number series for contacts in the **Marketing Setup** window, you can press the Enter key to select the next available contact number. For more information, see [Create Number Series](ui-create-number-series.md).  
 4. In the **Type** field, select **Person**.
 
 5. Fill in the other fields on the contact card. 
