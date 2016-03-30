@@ -17,7 +17,7 @@ The following procedure describes how to set this up for vendor ledger entries i
 2. In the **Appln. between Currencies** field, select one of the following options.
 
 |Option|Description|
-|--|---|
+|------|-----------|
 |None|Application between currencies is not allowed.|
 |EMU|Application between EMU currencies is allowed.|
 |All|Application between all currencies is allowed.
