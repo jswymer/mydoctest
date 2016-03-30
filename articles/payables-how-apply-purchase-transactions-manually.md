@@ -74,7 +74,7 @@ The **Purchase Credit Memo** window shows the entry that you have selected in th
 The **Post Application** window opens with the document number of the applying entry and the posting date of the entry with the most recent posting date.
 10. Choose the **OK** button to post the application.
 
-##To apply vendor ledger entries in different currencies to one another##
+##To apply vendor ledger entries in different currencies to one another
 If you buy from a vendor in one currency and make payment in another currency, you can still apply the invoice to the payment.
 
 If you apply an entry (Entry 1) in one currency to an entry (Entry 2) in a different currency, the posting date on Entry 1 is used to find the relevant exchange rate to convert amounts on Entry 2. The relevant exchange rate is found in the **Currency Exchange Rates** window.
@@ -90,7 +90,7 @@ Applying vendor ledger entries in different currencies must be enabled. For more
 
 **Important**: When you apply entries in different currencies to one another, the entries are converted to LCY. Even though the exchange rates for the two relevant currencies are fixed, for example between USD and EUR, there may be a small residual amount when these foreign-currency amounts are converted to LCY. These small residual amounts are posted as gains and losses to the account specified in the **Realized Gains Account** or **Realized Losses Account** field in the **Currencies** window. The **Amount (LCY)** field is also adjusted on the relevant vendor ledger entries.
 
-##To unapply an application of vendor entries##
+##To unapply an application of vendor entries
 When you unapply an erroneous application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses. The entries that were closed by the application are reopened.
 
 1. In the **Search** box, enter **Vendors**, and then choose the related link.

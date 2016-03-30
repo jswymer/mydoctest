@@ -25,7 +25,7 @@ When the value in the **Total Balance** field in the **Bank Statement Lines** pa
 
 **Note**: If bank statement lines relate to check ledger entries, then you cannot use the matching functions. Instead, you must choose the **Apply Entries** action, and then select the relevant check ledger entry to match the bank statement line with. 
 
-##To fill bank reconciliation lines by importing a bank statement##  
+##To fill bank reconciliation lines by importing a bank statement  
 1. In the **Search** box, enter **Bank Account Reconciliation**, and then choose the related link.
 2. Choose the **New** action.
 3. In the **Bank Account No.** field, select the relevant bank account. The bank account ledger entries that exist on the bank account appear in the **Bank Account Ledger Entries** pane.
@@ -34,14 +34,14 @@ When the value in the **Total Balance** field in the **Bank Statement Lines** pa
 6. If you have a bank statement file, choose the **Import Bank Statement** action. 
 7. Locate the file, and then choose the **Open** button to import the bank transactions into the lines of the **Bank Acc. Reconciliation** window.
 
-##To fill bank reconciliation lines with the Suggest Lines function##
+##To fill bank reconciliation lines with the Suggest Lines function
 1. In the **Bank Acc. Reconciliation** window, choose the **Suggest Lines** action.
 2. In the **Starting Date** field, enter the earliest posting date for the ledger entries to be reconciled. 
 3. In the **Ending Date** field, enter the latest posting date for the ledger entries to be reconciled.
 4. Select the **Include Checks** check box to any suggest check ledger entries instead of the corresponding bank account ledger entries. 
 5. Choose the **OK** button.
 
-##To match bank statement lines with bank account ledger entries automatically##
+##To match bank statement lines with bank account ledger entries automatically
 1. In the **Bank Acc. Reconciliation** window, choose the **Match Automatically**. **The Match Bank Entries** window opens.
 2. In the **Transaction Date Tolerance (Days)** field, specify the span of days before and after the bank account ledger entry posting date within which the function will search for matching transaction dates in the bank statement.
 
@@ -50,7 +50,7 @@ When the value in the **Total Balance** field in the **Bank Statement Lines** pa
 All bank statement lines and bank account ledger entries that can be matched change to green font, and the **Applied** check box is selected.
 4. To remove a match, select the bank statement line, and then choose the **Remove Match** action.
 
-##To match bank statement lines with bank account ledger entries manually##
+##To match bank statement lines with bank account ledger entries manually
 1. In the **Bank Acc. Reconciliation** window, select a non-applied line in the **Bank Statement Lines** pane.
 2. In the **Bank Account Ledger Entries** pane, select one or more banks account ledger entries that can be matched with the selected bank statement line. To choose multiple lines, press and hold the Ctrl key.  
 3. Choose the **Match Manually** action.
@@ -59,7 +59,7 @@ All bank statement lines and bank account ledger entries that can be matched cha
 4. Repeat steps 1 through 3 for all bank statement lines that are not matched.
 5. To remove a match, select the bank statement line, and then choose the **Remove Match** action.
 
-##To create missing ledger entries to match bank transactions with##
+##To create missing ledger entries to match bank transactions with
 Sometimes a bank statement contain amounts for interest or fees charged. Such bank transactions cannot be matched because no related ledger entries exist in Project "Madeira". You must then post a journal line for each transaction to create a related ledger entry that it can be matched with.
 
 1. In the **Bank Acc. Reconciliation** window, choose the **Transfer to General Journal** action.  

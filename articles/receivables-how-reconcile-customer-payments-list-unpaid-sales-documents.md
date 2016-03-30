@@ -86,7 +86,7 @@ The related document is closed.
   The **Payment Made** check box is automatically selected, and the **Date Received** field is filled with the work date.
 3. In the **Date Received** field, enter a payment date that is after the date in the **Pmt. Discount Date** field. Date fields change to red font, and an error message is shown at the bottom of the window.
 
-  **TIP**: If you want to make an exception and grant the discount even though the payment is late, then follow these steps:  
+  **Tip**: If you want to make an exception and grant the discount even though the payment is late, then follow these steps:  
 4. Choose the **Details** action.  
 5. In the **Payment Registration Details** window, in the **Pmt. Discount Date** field on the **Payment Discount** FastTab, enter a date that is after the date in the **Date Received** field in the **Payment Registration** window.
 
