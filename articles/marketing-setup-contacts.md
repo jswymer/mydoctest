@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Set Up Contact | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Set Up Contact | Project “Madeira”" 
+                description="Welcome to Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
@@ -15,7 +15,7 @@ By having this information set up, creating contacts is much more organized and 
 The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
 
 |To|See|
-|-|-|
+|--|---|
 |Set up the business relationship that you have with your contacts, for example, prospect, bank, consultant, and service supplier.|[Set Up Business Relations on Contacts Companies](marketing-business-relations.md)|
 |Set up the industry to which your contacts belong, for example, the retail industry and the automobile industry.|[Set Up Industry Groups on Contact Companies](marketing-industry-groups.md)|
 |Set up the mailing groups that you can use to identify groups of contacts that you want to receive the same information.|[Set Up Mailing Groups on Contact Companies](marketing-mailing-groups.md)|
