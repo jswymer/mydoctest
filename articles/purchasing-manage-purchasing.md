@@ -19,8 +19,8 @@ For all purchase processes, you can incorporate an approval workflow, for exampl
 The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
 
 
-|To |See |
-|---|--|
+|To|See|
+|--|---|
 |Create a purchase invoice to record your agreement with a vendor to purchase products on certain delivery and payment terms. |[How to: Record Purchases](purchasing-how-record-purchases.md)|
 |Create a purchase invoice for all or selected lines on a sales invoice.|[How to: Purchase Products for a Sale](purchasing-how-purchase-products-sale.md)|
 |Perform an action on an unpaid posted purchase invoice to automatically create a credit memo and either cancel the purchase invoice or recreate it so you can make corrections.|[How to: Correct or Cancel Unpaid Sales Invoices](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)|

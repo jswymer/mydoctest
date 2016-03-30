@@ -22,7 +22,7 @@ You can adjust item costs in two ways:
 2. In the **Inventory Setup** window, in the **Automatic Cost Adjustment** field, select one of the following values.
 
 |Option|Behavior|
-|---|----| 
+|------|--------| 
 |Never|Costs are not adjusted when posting|
 |Day|Costs are adjusted if posting occurs within one day from the work date|
 |Week|Costs are adjusted if posting occurs within one week from the work date|

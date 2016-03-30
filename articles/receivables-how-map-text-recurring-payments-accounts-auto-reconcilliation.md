@@ -33,7 +33,7 @@ Next time you import a bank statement file or choose the **Apply Automatically**
 To always post fuel expenses incurred at Shell gas stations to the general ledger account for gasoline (account 8510), fill a line in the **Text-to-Account Mapping** window as follows.
 
 |Mapping Text|Debit Acc. No.|Credit Acc. No.|Bal. Source Type|Bal. Source No.|  
-|--|--|--|--|--|
+|------------|--------------|---------------|----------------|---------------|
 |Shell |BLANK |8510 |G/L Account|BLANK|
  
 **Tip**: For more information about how to work with fields and columns, see Working with Project "Madeira". For more information about how to find specific pages, see Search.| 

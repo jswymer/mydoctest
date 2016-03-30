@@ -13,7 +13,7 @@ Concerning prices, you can have a special purchase price inserted on purchase li
 Concerning discounts, you can set up and use two types of purchase discounts:
 
 |Discount Type|Description|
-|--|---|
+|-------------|-----------|
 |**Purchase Line Discount**|An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists. This works in the same way as for purchase prices.|
 |**Invoice Discount**|A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.|
 

@@ -13,7 +13,7 @@ You can correct or cancel a posted sales invoice. This is useful if you make a m
 In the **Posted Sales Invoice** window, you can choose the **Correct** action or the **Cancel** action to perform the actions that are described in the following table.
  
 |Action|Description|
-|---|---|  
+|------|-----------|  
 |**Correct**|The posted sales invoice is canceled. A new sales invoice with the same information is created. You can make the correction and then continue the sales process. The new sales invoice has a different number than the initial sales invoice. A corrective sales credit memo is automatically created and posted to void the initial posted sales invoice. On the initial posted sales invoice, the Canceled and Paid check boxes are selected.|
 |**Cancel**|The posted sales invoice is canceled. A corrective sales credit memo is automatically created and posted to void the initial posted sales invoice. On the initial posted sales invoice, the Canceled and Paid check boxes are selected.| 
 
