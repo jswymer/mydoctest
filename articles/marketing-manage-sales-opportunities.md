@@ -1,8 +1,8 @@
-<properties pageTitle="Managing Sales Opportunities | Project Madeira" 
-description="Welcome to Project "Madeira"" 
+<properties pageTitle="Managing Sales Opportunities | Project “Madeira”" 
+description="Describes managing sales opportunities in Project “Madeira”" 
     services="" 
     documentationCenter="Madeira"
-    authors="edupont"/>
+    authors="jswymer"/>
     
 # Manage Sales Opportunities
 Any incoming lead can be considered a sales opportunity. You can create opportunities and associate them to a salesperson so that you can keep track of potential sales.
@@ -11,8 +11,8 @@ Before you can start using opportunity management, you must set up sales cycles 
 
 The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
 
-|To|See|
-|-|-|
+|To |See |
+|---|-----|
 |Set up the sales cycles that you usually follow, and the different stages within each opportunity sales cycle.|[How to: Set Up Opportunity Sales Cycles and Cycle Stages](marketing-how-setup-opportunity-sales-cycles-stages.md)|
 |Create sales opportunities that you have from your contacts.|[How to: Create Opportunities](marketing-how-create-opportunities.md)|
 

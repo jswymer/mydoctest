@@ -1,9 +1,9 @@
 <properties
                 pageTitle="Create and Manage Contacts | Project “Madeira”" 
-                description="Welcome to Project “Madeira”" 
+                description="Describes how to create and manage contacts in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="jswymer"/>
 
 #Create and Manage Contacts
 Different groups at your company will have business relationships with various companies. For example, a salesperson might regularly meet prospective customers and at the end of the week record the results of these visits.

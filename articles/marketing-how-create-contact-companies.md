@@ -1,9 +1,9 @@
 <properties
                 pageTitle="Create Contact Companies | Project “Madeira”" 
-                description="Welcome to Project “Madeira”" 
+                description="Describes how to create contact companies in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="jswymer"/>
 
 #Create Contact Companies
 You can create a contact for each new company you interact with, for example, a customer, vendor, prospective customer, bank, law firm, consultant, and so on.
@@ -31,16 +31,14 @@ If you have already set up a number of customers, vendors, and bank accounts, yo
   * **Create Contacts from Customers**
   * **Create Contacts from Vendors**
   * **Create Contacts from Bank Accounts**
-  
-  The batch job window opens.
-2. In the **Customer**, **Vendor**, or **Bank Account** section, set filters if you want to create contacts from specific customers, vendors, or bank accounts.
+2. In the batch job window that opens, in the **Customer**, **Vendor**, or **Bank Account** section, set filters if you want to create contacts from specific customers, vendors, or bank accounts.
 3. Choose the **OK** button to start creating contacts.
 
   The next contact numbers in the number series are assigned to the new contacts. The business relation for vendors that is specified in the **Marketing Setup** window is assigned to the newly created contacts.
-
+**Tip** You can also create a customer, vendor, or bank account from a contact. For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
 ##See Also
 [Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Assign Business Relations to a Contact](marketing-business-relations.md#assign-business-relations-to-a-contact)  
 [Assign Industry Groups to a Contact](marketing-industry-groups.md#assign-industry-groups-to-a-contact)  
-[Assign Mailing Groups to a Contact](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)
-
+[Assign Mailing Groups to a Contact](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)  
+[How to: Create Contact Persons](marketing-create-contact-persons.md)  

@@ -1,9 +1,9 @@
 <properties
                 pageTitle="Add Contacts to Segments | Project “Madeira”"
-                description="Welcome to Project “Madeira”" 
+                description="Describes how to add contacts to segments in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="jswymer"/>
 
 # How to: Add Contacts to Segments
 After you have created a segment and entered basic information about it, you may want to add contacts to the segment. You can do this by filling in the lines in the **Segment** window manually, but it is easier and faster to use the **Add Contacts** action.
