@@ -1,20 +1,9 @@
 <properties
-	pageTitle="Allocate Costs and Income | Project "Madeira""
+	pageTitle="Allocate Costs and Income | Project “Madeira”"
 	description="Explains how to allocate costs and income."
-	services="SMB"
-	documentationCenter=""
-	authors="jswymer"
-	manager="edupont"
-	editor=""/>
-	
-<tags
-	ms.service="SMB"
-	ms.workload=""
-	ms.tgt_pltfrm="na"
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="02/08/2016"
-	ms.author="jswymer" />
+	services=""
+	documentationCenter="Madeira"
+	authors="jswymer"/>
 	
 # Allocate Costs and Income
 You can allocate an entry in a general journal to several different accounts when you post the journal. The allocation can be made by three different methods:
@@ -28,8 +17,8 @@ The allocation features can be used with recurring journals and in fixed assets 
 
 The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
 
-|To| See|
-|--|--|
+|To |See |
+|---|----|
 |Fill in a recurring general journal and specify the allocation quantity, percentage, or amount for the relevant accounts or dimensions.|[How to: Use Allocation Keys in General Journals](ui-how-use-allocation-keys-general-journals.md)|
 |Change an allocation key that has already been set up.|[To change an allocation key](ui-how-use-allocation-keys-general-journals.md)|
 
