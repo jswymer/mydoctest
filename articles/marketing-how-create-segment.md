@@ -1,9 +1,9 @@
 <properties
-                pageTitle="Create Segments | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="How to: Create Segments | Project “Madeira”" 
+                description="Describes how to create segments for contacts in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="jswymer"/>
 
 # How to: Create Segments
 You can create segments to select a group of contacts, for example, if you want to create an interaction involving several contacts, such as direct mail.
