@@ -43,4 +43,4 @@ The customer template is added to the list of customer templates, so that you ca
 ##See Also  
 [Manage Sales](sales-manage-sales.md)    
 [Set Up Sales](sales-setup-sales.md)    
-[Working with NAV](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)

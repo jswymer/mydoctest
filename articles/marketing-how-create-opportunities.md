@@ -30,4 +30,4 @@ After you have created an opportunity, you can activate the first sales cycle st
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  
 [Create and Manage Contacts](marketing-contacts.md)  
-[Working with NAV](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)
