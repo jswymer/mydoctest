@@ -1,18 +1,20 @@
 <properties
-                pageTitle="Manage Segments | Project Madeira"
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Manage Segments | Project “Madeira”"
+                description="Describes how to use segments on contacts in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont" />
+                authors="jswymer" />
 
 # Interactions and Segments
 The **Segment** window is a type of worksheet where you can:
+
 * Create segments.
 * Save the segmentation criteria you have used to select contacts.
 * Log the segment and record interactions involving the contacts within the segment.
 
 ## Segmenting
 There are several ways to create segments:
+
 * You can manually enter the contacts you want to include in the segment in the segment lines.
 * You can select contacts. 
 * You can reuse a logged segment as the basis to create a new one.
@@ -35,3 +37,4 @@ In the **Logged Segments** window, you can decide to create a follow-up segment 
 [Manage Segments](marketing-segments.md)  
 [Recording Interactions With Contacts](marketing-interactions.md)  
 [Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
+[Create and Manage Contacts](marketing-contacts.md)
