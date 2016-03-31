@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Incoming Documents| Project “Madeira”"
+                pageTitle="Manage Incoming Documents| Project Madeira"
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

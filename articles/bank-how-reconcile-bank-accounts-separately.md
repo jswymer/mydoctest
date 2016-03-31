@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Reconcile Bank Accounts Separately| Project “Madeira”"
+                pageTitle="How to: Reconcile Bank Accounts Separately| Project Madeira"
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

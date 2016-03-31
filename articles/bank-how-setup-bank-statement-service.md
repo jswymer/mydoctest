@@ -1,9 +1,5 @@
 <properties
-                pageTitle="How to: Set Up the Envestnet Yodlee Bank Feeds Service| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
-                documentationCenter="Madeira"
-                authors="edupont"/>
+                pageTitle="How to: Set Up the Envestnet Yodlee Bank Feeds Service| Project Madeira" />
 
 #How to: Set Up the Envestnet Yodlee Bank Feeds Service
 You can import electronic bank statements from your bank to quickly fill the **Payment Reconciliation Journal** window so you can apply payments and reconcile the bank account. For more information, see [Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).

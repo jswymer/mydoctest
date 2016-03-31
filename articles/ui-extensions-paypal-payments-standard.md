@@ -1,5 +1,5 @@
 <properties
-	      pageTitle="PayPal Payments Standard | Project “Madeira”"
+	pageTitle="PayPal Payments Standard | Project Madeira"
         description="Provides information about the PayPal Payments Standard extension" 
         services="" 
         documentationCenter="Madeira"

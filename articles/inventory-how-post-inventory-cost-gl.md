@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Post Inventory Costs to the General Ledger| Project “Madeira”" 
+                pageTitle="How to: Post Inventory Costs to the General Ledger| Project Madeira" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Use Approval Workflows| Project “Madeira”"
+                pageTitle="How to: Use Approval Workflows| Project Madeira"
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Reconcile Payments That Cannot be Applied Automatically| Project “Madeira”" 
+                pageTitle="How to: Reconcile Payments That Cannot be Applied Automatically| Project Madeira" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Find Posted Documents without Incoming Document Records| Project “Madeira”
+                pageTitle="How to: Find Posted Documents without Incoming Document Records| Project Madeira"
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

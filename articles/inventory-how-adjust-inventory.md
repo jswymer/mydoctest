@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Adjust Inventory| Project “Madeira”" 
+                pageTitle="How to: Adjust Inventory| Project Madeira" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
