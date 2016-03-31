@@ -1,6 +1,6 @@
 <properties
-                pageTitle="The General Ledger and the Chart of Accounts| Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="The General Ledger and the Chart of Accounts| Project “Madeira”" 
+                description="Describes the general ledger and chart of accounts." 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>

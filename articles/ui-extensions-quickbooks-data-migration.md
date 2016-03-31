@@ -1,5 +1,5 @@
 <properties
-	pageTitle="QuickBooks Data Migration | Project Madeira"
+	pageTitle="QuickBooks Data Migration | Project “Madeira”"
         description="Provides information about the QuickBooks Data Migration extension" 
         services="" 
         documentationCenter="Madeira"

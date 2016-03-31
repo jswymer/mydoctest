@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Set Up Core Financial Processes| Project Madeira" 
+                pageTitle="Set Up Core Financial Processes| Project “Madeira”" 
                 description="Set Up Core Financial Processes" 
                 services="" 
                 documentationCenter="Madeira"

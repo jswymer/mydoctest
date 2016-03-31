@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Minimum Requirements for Using Project “Madeira” | Project Madeira"
+	pageTitle="Minimum Requirements for Using Project “Madeira” | Project “Madeira”"
     description="System requirements for using Project “Madeira”" 
 	services="" 
 	documentationCenter="Madeira"

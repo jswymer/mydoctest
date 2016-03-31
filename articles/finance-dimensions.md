@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Dimensions| Project Madeira"
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Dimensions| Project “Madeira”"
+                description="Using dimensions to analyse data." 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont" />
