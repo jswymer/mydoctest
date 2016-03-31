@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Make Offers| Project Madeira" 
+                pageTitle="How to: Make Offers| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

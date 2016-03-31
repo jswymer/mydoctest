@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Enable Customer Payments Through PayPal| Project Madeira" 
+                pageTitle="How to: Enable Customer Payments Through PayPal| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

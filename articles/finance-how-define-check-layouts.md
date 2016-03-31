@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Define Check Layouts| Project Madeira"
+                pageTitle="How to: Define Check Layouts| Project “Madeira”"
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

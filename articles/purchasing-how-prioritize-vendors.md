@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Prioritize Vendors| Project Madeira" 
+                pageTitle="How to: Prioritize Vendors| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
