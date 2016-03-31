@@ -1,28 +1,15 @@
 <properties
-	pageTitle="How to: Close Income Statement | Project "Madeira""
+	pageTitle="How to: Close Income Statement | Project “Madeira”"
 	description="Explains how to close an income statement."
-	services="SMB"
-	documentationCenter=""
-	authors="jswymer"
-	manager="edupont"
-	editor=""/>
-	
-<tags
-	ms.service="SMB"
-	ms.workload=""
-	ms.tgt_pltfrm="na"
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="02/08/2016"
-	ms.author="jswymer" />
+	services=""
+	documentationCenter="Madeira"
+	authors="jswymer"/>
 	
 # Close Income Statement
 When a fiscal year is over, you must close the periods that comprise it. To do this, you run the **Close Income Statement** batch job. This job transfers the year's result to an account in the balance sheet and closes the income statement accounts. You do this by creating lines in a journal, which you then can post.
 
 ## To run the Close Income Statement batch job 
-1. Close the fiscal year.
-
-  The fiscal year must closed before the batch job can be run. For more information, see [How to: Close Accounting Periods](year-close-account-periods.md).
+1. Close the fiscal year. The fiscal year must closed before the batch job can be run. For more information, see [How to: Close Accounting Periods](year-close-account-periods.md).
 2. To run the batch job, in the Seacrh box, enter **Close Income Statement**, and then choose the related link.
 
 ## About the Close Income Statement Batch Job
