@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Using Search for Page or Report | Project "Madeira""
+	pageTitle="Using Search for Page or Report | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -12,3 +12,4 @@ When you start typing characters, a drop-down list shows page names containing t
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
+

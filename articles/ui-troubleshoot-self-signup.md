@@ -1,12 +1,12 @@
 <properties
-	pageTitle="Troubleshooting Self-Service Sign-Up | Project Madeira"
+	pageTitle="Troubleshooting Self-Service Sign-Up | Project “Madeira”"
     description="Troubleshoot AAD issues when signing up." 
 	services="" 
 	documentationCenter="Madeira"
 	authors="edupont"/>
     
 # Troubleshooting Self-Service Sign-Up
-Signing up for Project "Madeira" is easy and can be done very quickly. You can create a free account even if you are an existing organization. This article addresses issues that you may have during sign-up.
+Signing up for Project "Madeira" is easy and can be done very quickly. You can create a free account even if you are an existing organization. This article addresses issues that you may have during signup.
 
 ## What email address can I use with Project "Madeira"?
 Project "Madeira" requires that you use a work, or school, email address to sign up. Project "Madeira" does not support email addresses provided by consumer email services or telecommunication providers. This includes outlook.com, hotmail.com, gmail.com, and others.

@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Entering Criteria in Filters | Project "Madeira""
+	pageTitle="Entering Criteria in Filters | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -202,3 +202,4 @@ You cannot use a wildcard when filtering on enumeration fields, such as the **St
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
+

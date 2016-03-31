@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Define Extended Text | Project "Madeira""
+	pageTitle="How to: Define Extended Text | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -21,3 +21,4 @@ You can extend a standard text by adding extra lines, and you can set up conditi
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
+

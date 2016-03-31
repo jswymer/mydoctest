@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Set Up a Colored Indicator on Cues | Project "Madeira""
+	pageTitle="How to: Set Up a Colored Indicator on Cues | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -31,3 +31,4 @@ The following table lists the colors that correspond to the options of the **Low
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
+

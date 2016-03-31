@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Changing Basic Settings | Project "Madeira""
+	pageTitle="Changing Basic Settings | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -27,3 +27,4 @@ The default work date is usually today's date. You may have to temporarily chang
  
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
+

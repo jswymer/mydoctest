@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Sorting | Project "Madeira""
+	pageTitle="Sorting | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -15,3 +15,4 @@ Choose a column heading and use the small arrow to sort ascending or descending.
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)  
 [Entering Criteria in Filters](ui-enter-criteria-filters.md)
+

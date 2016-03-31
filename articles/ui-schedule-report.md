@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Schedule a Report to Run | Project "Madeira""
+	pageTitle="Schedule a Report to Run | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
