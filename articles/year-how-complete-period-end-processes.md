@@ -1,20 +1,9 @@
 <properties
-	pageTitle="Close Periods | Project "Madeira""
+	pageTitle="Close Periods | Project “Madeira”"
 	description="Explains the processes to complete to close a period."
-	services="SMB"
-	documentationCenter=""
-	authors="jswymer"
-	manager="edupont"
-	editor=""/>
-	
-<tags
-	ms.service="SMB"
-	ms.workload=""
-	ms.tgt_pltfrm="na"
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="02/08/2016"
-	ms.author="jswymer" />
+	services=""
+	documentationCenter="Madeira"
+	authors="jswymer"/>
 
 # Close Periods 
 The application does not force you to close periods, however, there are many period-end (month-end) activities that can be performed in the application if you want. This topic provides an overview of these processes and activities, which may or may not be necessary for your company.
@@ -56,31 +45,6 @@ The application does not force you to close periods, however, there are many per
 
 ## Calculate and Process Sales Tax
 *  Complete Tax Statements.
-<!--### VAT and Intrastat--> 
-<!--* Calculate and Process VAT-->
-<!--* Report Intrastat.-->
-
-<!--## Tasks That You Perform Sequentially
-The following processes, which affect Manufacturing, Inventory, and General Ledger, should be performed sequentially.-->
-
-<!--### Manufacturing 
-* Post all Consumption and Output
-* Change the status of all completed Production Orders to Finished-->
-
-<!--### Inventory 
-* Make all necessary inventory adjustments using the item journal
-* Run the Adjust Cost - Item Entries batch job
-* Run the Post Inventory Cost to G/L batch job
-* Run the Inventory Valuation report and reconcile Inventory and COGS to the general ledger
-* Reconcile WIP to the general ledger-->
-
-<!--### General Ledger 
-* Make all necessary G/L adjustments
-* Update and post Recurring Journals
-* Process Consolidations>
-* Run account schedules:
-  1. Open the **Account Schedule** page, and choose the **Print** action.
-  2. Fill in the **Account Schedule** request page and choose the **Print** action.-->
 
 ## See Also
 [Closing Years and Periods](year-close-years-periods.md)  
