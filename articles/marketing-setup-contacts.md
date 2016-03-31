@@ -1,6 +1,6 @@
 <properties
                 pageTitle="Prepare for Setting Up Contacts | Project “Madeira”" 
-                description="Welcome to Project “Madeira”" 
+                description="Describes how to prepare for setting up contacts in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>

@@ -1,6 +1,6 @@
-<properties
+﻿<properties
                 pageTitle="Set Up Marketing and Contacts | Project “Madeira”" 
-                description="Set up Marketing" 
+                description="Describes how to set up marketing and contact management in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
@@ -11,23 +11,6 @@ Before you get started working with your contacts and marketing interests, there
 Managing your contacts and having a strategy in place to identify, attract, and retain customers will help optimize your business and increase customer satisfaction. Using a good contact management system will also help you create and maintain relationships with your customers. Communication is the key to these relationships. Being able to tailor communication with potential and existing customers, vendors, and business partners according to their needs, is necessary for companies to succeed. Establishing a strategy and defining how your company uses contact information is a primary step. This information will be viewed by many different groups in your company, so having a good system in place will help everyone be more productive.
 
 You set up the marketing and contact management from the **Marketing Setup** window. To open the **Marketing Setup** window, in the **Search** box, type **Marketing Setup** and choose the related link.
-
-## What do you want to do?
-[Automatically copy specific information from the contact companies to the contact persons](#automatically-copy-specific-information-from-the-contact-companies-to-the-contact-persons)  
-
-[Use predefined language codes, territory codes, country/region codes, and salutations for your contacts](#use-predefined-defaults-on-new-contacts)  
-
-[Automatically record sales and purchase documents, e-mails, and phone calls as interactions](#automatically-record-interactions)   
-
-[Synchronize contacts with customers, vendors, and bank accounts](#synchronize-contacts-with-customers-and-more)  
-
-[Use specific number series on contacts and opportunities](#assign-a-number-series-to-contacts-and-opportunities) 
-
-[Prevent creating duplicate contacts](#search-for-duplicate-contacts-when-contacts-are-created)  
-
-[Exchange email messages with your contacts, customers, vendors, and so on.](#set-up-email-logging)
-
-
 
 ## Automatically copy specific information from the contact companies to the contact persons
 Some information about contact companies is identical to the information about the contact persons working within these companies, for example, the address details. In the **Inheritance** section of the **Marketing Setup** window, you can set the application to automatically copy specific fields from the contact company card to the contact person card each time you create a contact person for a contact company. For example, you can select to copy the salesperson code, address details (address, address 2, city, post code, and county), communication details (fax number, telex answer back, and phone number), and more.

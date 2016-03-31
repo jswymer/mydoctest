@@ -1,9 +1,9 @@
 <properties
                 pageTitle="Create Contact Persons | Project “Madeira”" 
-                description="Welcome to Project “Madeira”" 
+                description="Describes how to create contact persons in roject “Madeira”" 
                 services="" 
                 documentationCenter=“Madeira”
-                authors="edupont"/>
+                authors="jswymer"/>
 
 #Create Contact Persons
 You can create a contact card for each contact who works for the companies you interact with. For each contact company you can enter as many contact persons as you want. You can also create contact cards for the persons that you want to record as independent.
