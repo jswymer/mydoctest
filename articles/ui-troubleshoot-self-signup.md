@@ -3,7 +3,7 @@
     description="Troubleshoot AAD issues when signing up." 
 	services="" 
 	documentationCenter="Madeira"
-	authors="edupont"/>
+	authors="solsen"/>
     
 # Troubleshooting Self-Service Sign-Up
 Signing up for Project "Madeira" is easy and can be done very quickly. You can create a free account even if you are an existing organization. This article addresses issues that you may have during signup.

@@ -1,6 +1,6 @@
 <properties
-	pageTitle="How to: Open a New Fiscal Year| Project "Madeira"" 
-    description="Welcome to Project "Madeira"" 
+	pageTitle="How to: Open a New Fiscal Year| Project “Madeira”" 
+    description="Describes how to open fiscal periods." 
     services="" 
     documentationCenter="Madeira"
     authors="edupont"/>

@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Get Project “Madeira” on my Mobile Device" | Project Madeira"
+	pageTitle="Get Project “Madeira” on my Mobile Device | Project “Madeira”"
     description="Get the app for your mobile device." 
 	services="" 
 	documentationCenter="Madeira"

@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Set Up the Chart of Accounts| Project Madeira"
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Set Up the Chart of Accounts| Project “Madeira”"
+                description="Describes how you can change the chart of accounts." 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont" />
