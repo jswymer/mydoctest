@@ -25,7 +25,7 @@ Products can be both inventory items and services. For more information, see [Ho
 
 You can fill customer fields on the sales invoice in two ways depending on whether the customer is already registered.
 
-##To create a sales invoice##
+##To create a sales invoice
 1. On the Home page,  choose the **Sales Invoice** action.  
 3. In the **Customer** field, enter the name of an existing customer.
 

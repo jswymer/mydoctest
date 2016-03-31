@@ -13,13 +13,13 @@ You can correct or cancel a posted sales invoice. This is useful if you make a m
 In the **Posted Sales Invoice** window, you can choose the **Correct** action or the **Cancel** action to perform the actions that are described in the following table.
  
 |Action|Description|
-|---|---|  
+|------|-----------|  
 |**Correct**|The posted sales invoice is canceled. A new sales invoice with the same information is created. You can make the correction and then continue the sales process. The new sales invoice has a different number than the initial sales invoice. A corrective sales credit memo is automatically created and posted to void the initial posted sales invoice. On the initial posted sales invoice, the Canceled and Paid check boxes are selected.|
 |**Cancel**|The posted sales invoice is canceled. A corrective sales credit memo is automatically created and posted to void the initial posted sales invoice. On the initial posted sales invoice, the Canceled and Paid check boxes are selected.| 
 
 When you correct or cancel a posted sales invoice, the corrective sales credit memo is applied to all general ledger and inventory ledger entries that were created when the initial sales invoice was posted. This reverses the posted sales invoice in your financial records and leaves the corrective posted sales credit memo for your audit trail.
 
-##To correct a posted sales invoice##
+##To correct a posted sales invoice
 1. In the **Search** box, enter **Posted Sales Invoices**, and then choose the related link.  
 2. Select the posted sales invoice that you want to correct.
 
@@ -30,7 +30,7 @@ When you correct or cancel a posted sales invoice, the corrective sales credit m
   A sales credit memo is automatically created and posted to void the initial posted sales invoice.
 5. Choose the **Show Corrective Credit Memo** action to view the posted sales credit memo that voids the initial posted sales invoice.
 
-##To cancel a posted sales invoice##
+##To cancel a posted sales invoice
 1. In the **Search** box, enter **Posted Sales Invoices**, and then choose the related link.  
 2. Select the posted sales invoice that you want to cancel.
 

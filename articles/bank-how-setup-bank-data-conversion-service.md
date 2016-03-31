@@ -50,6 +50,6 @@ You have now signed up for the bank data conversion service. Proceed to reflect 
 4. In the **Bank Name - Data Conversion** field, enter or select the name of the bank’s data format that you signed-up for in step 4 in the “To sign up for the bank data conversion service” section.
 5. Repeat steps 1 through 4 for other bank accounts that will use the bank data conversion service .
 
-##See Also##  
+##See Also  
 [Set Up Banking](bank-setup-banking.md)  
 [Manage Bank Accounts](bank-manage-bank-accounts.md)

@@ -14,7 +14,7 @@ Customer cards hold the information that is required to sell products to the cus
 
 **Note**: If customer templates exist for different customer types, then a window appears when you create a new customer card from where you can select an appropriate template. If only one customer template exists, then new customer cards always use that template.
  
-##To create a new customer card##
+##To create a new customer card
 1. On the Home page, choose the **Customers** action to open the list of existing customers.  
 2. In the **Customers** window, choose the **New** action.
 
@@ -31,7 +31,7 @@ The customer is now registered, and the customer card is ready to be used on sal
 
 If you want to use this customer card as a template when you create new customer cards, you can save it as a template. For more information, see the following section.
 
-##To save the customer card as a template##
+##To save the customer card as a template
 1. In the **Customer Card** window, choose the **Save as Template** action. The **Customer Template** window opens showing the customer card as a template.
 2. Fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
 3. To reuse dimensions in templates, choose the **Dimensions** action. The **Dimension Templates** window opens showing any dimension codes that are set up for the customer.

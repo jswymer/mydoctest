@@ -26,7 +26,7 @@ Products can be both inventory items and services. For more information, see [Ho
 
 You can fill customer fields on the sales order in two ways depending on whether the customer is already registered.
 
-##To create a sales order##
+##To create a sales order
 1. On the Home page, choose the **Sales Order** action.  
 2. In the **Customer** field, enter the name of an existing customer.
 

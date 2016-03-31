@@ -13,7 +13,7 @@ Practically every document and journal in Project "Madeira" offers a **Posting**
 The following table describes related tasks, with links to the topics that describe them.
 
 |To|See|
-|--|--| 
+|--|---| 
 |Learn about posting purchase documents.|[Posting Purchases](ui-post-purchases.md)| 
 |Learn about posting sales documents.|[Posting Sales](ui-post-sales.md)|
 |Learn about posting general journals.|[Work with General Journals](ui-work-general-journals.md)|
