@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Specify Printer Selection for Reports | Project "Madeira""
+	pageTitle="Specify Printer Selection for Reports | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"

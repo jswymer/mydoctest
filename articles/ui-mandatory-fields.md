@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Mandatory Fields | Project "Madeira""
+	pageTitle="Mandatory Fields | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
