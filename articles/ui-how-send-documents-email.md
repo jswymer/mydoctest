@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Send Documents by Email| Project Madeira" 
+                pageTitle="How to: Send Documents by Email| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

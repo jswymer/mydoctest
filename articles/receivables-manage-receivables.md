@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Receivables| Project Madeira" 
+                pageTitle="Manage Receivables| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

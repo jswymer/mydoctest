@@ -1,5 +1,6 @@
 <properties
-                pageTitle="How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation| Project Madeira" description="Welcome to Project "Madeira"" 
+                pageTitle="How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation| Project “Madeira”" 
+				description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>

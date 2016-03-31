@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Transfer Bank Funds| Project Madeira"
+                pageTitle="How to: Transfer Bank Funds| Project “Madeira”"
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

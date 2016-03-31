@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Bank Accounts| Project Madeira" 
+                pageTitle="Manage Bank Accounts| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

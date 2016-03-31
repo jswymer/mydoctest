@@ -1,8 +1,8 @@
 <properties
-	pageTitle="Envestnet Yodlee Bank Feeds | Project Madeira"
+	    pageTitle="Envestnet Yodlee Bank Feeds | Project “Madeira”"
         description="Provides information about the Envestnet Yodlee Bank Feeds extension" 
-        services="" 
         documentationCenter="Madeira"
+        services="" 
         authors="edupont"/>
     
 # The Envestnet Yodlee Bank Feeds Extension to Project "Madeira"
