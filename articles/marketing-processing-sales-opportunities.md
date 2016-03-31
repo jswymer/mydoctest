@@ -73,5 +73,5 @@ If an opportunity follows a sales cycle, you can move it forward or back through
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  
 [Create and Manage Contacts](marketing-contacts.md)  
-[Working with NAV](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)
 

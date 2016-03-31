@@ -54,4 +54,4 @@ You can fill vendor fields on the purchase invoice in two ways depending on whet
 [Set Up Purchasing](purchasing-setup-purchasing.md)  
 [How to: Purchase Products for a Sale](purchasing-how-purchase-products-sale.md)  
 [How to: Register New Vendors](purchasing-how-register-new-vendors.md)  
-[Working with NAV](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)
