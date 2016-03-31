@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Review or Apply Payments Manually After Automatic Application| Project Madeira" 
+                pageTitle="How to: Review or Apply Payments Manually After Automatic Application| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

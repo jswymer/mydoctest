@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Process Purchase Returns or Cancellations| Project Madeira" 
+                pageTitle="How to: Process Purchase Returns or Cancellations| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

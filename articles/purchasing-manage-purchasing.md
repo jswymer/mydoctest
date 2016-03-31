@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Purchasing| Project Madeira" 
+                pageTitle="Manage Purchasing| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

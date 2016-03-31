@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Set Up Document Sending Profiles| Project Madeira" 
+                pageTitle="How to: Set Up Document Sending Profiles| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Record Sales Prices and Discounts| Project Madeira" 
+                pageTitle="How to: Record Sales Prices and Discounts| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

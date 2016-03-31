@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Set Up the Bank Data Conversion Service| Project Madeira" 
+                pageTitle="How to: Set Up the Bank Data Conversion Service| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

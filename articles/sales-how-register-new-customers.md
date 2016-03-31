@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Register New Customers| Project Madeira" 
+                pageTitle="How to: Register New Customers| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
