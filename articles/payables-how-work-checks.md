@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Work With Checks| Project "Madeira"" 
+                pageTitle="How to: Work With Checks| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

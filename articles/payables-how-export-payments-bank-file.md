@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Export Payments to a Bank File| Project "Madeira"" 
+                pageTitle="How to: Export Payments to a Bank File| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Use OCR to Turn PDF and Image Files into Electronic Documents| Project Madeira"
+                pageTitle="How to: Use OCR to Turn PDF and Image Files into Electronic Documents| Project “Madeira”"
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

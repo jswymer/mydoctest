@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Correct or Cancel Unpaid Sales Invoices| Project Madeira" 
+                pageTitle="How to: Correct or Cancel Unpaid Sales Invoices| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"

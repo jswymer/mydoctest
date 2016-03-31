@@ -1,5 +1,5 @@
 <properties
-    pageTitle="How to: Connect and Disconnect Incoming Document Records from Documents and Entries| Project Madeira" 
+    pageTitle="How to: Connect and Disconnect Incoming Document Records from Documents and Entries| Project “Madeira”" 
     description="Welcome to Project "Madeira"" 
     services="" 
     documentationCenter="Madeira"

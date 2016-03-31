@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents| Project Madeira" 
+                pageTitle="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents| Project “Madeira”" 
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
