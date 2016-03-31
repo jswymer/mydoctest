@@ -1,9 +1,9 @@
 <properties
-                pageTitle="Automatically Record Interactions with Contacts | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Automatically Record Interactions with Contacts | Project “Madeira”" 
+                description="Describes how to automatically record interactions with contacts in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="jswymer"/>
 
 # Automatically Record Interactions with Contacts
 You can set up the application to automatically record interactions for sales, purchase and service documents, cover sheets, e-mails, phone calls, such as:

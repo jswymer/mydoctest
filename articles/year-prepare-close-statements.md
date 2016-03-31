@@ -1,9 +1,9 @@
 <properties
 	pageTitle="Prepare Closing Statements| Project Madeira" 
-    description="Welcome to Project "Madeira"" 
+    description="Describes how to prepare closing statements." 
     services="" 
     documentationCenter="Madeira"
-    authors="edupont"/>
+    authors="jswymer"/>
 	
 # Prepare Closing Statements
 There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.
@@ -11,7 +11,7 @@ There are a number of standard reports that you can use to gather the informatio
 The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.
 
 
-|To     |See this report                  |
+|To     |See this report       |
 |-------|----------------------|
 |Print a trial balance report with balances and net changes for general ledger accounts.|Trial Balance|
 |Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.|Aged Accounts Receivable|

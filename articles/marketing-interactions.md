@@ -1,9 +1,9 @@
 <properties
                 pageTitle="Interactions | Project “Madeira”" 
-                description="Welcome to Project “Madeira”" 
+                description="Describes using interactions with contacts in Project “Madeira”" 
                 services="" 
                 documentationCenter=“Madeira”
-                authors="edupont"/>
+                authors="jswymer"/>
 
 # Recording Interactions With Contacts
 In Project "Madeira", interactions are all types of communications between your company and your contacts. For example, communications can be by letter, fax, e-mail, telephone, meetings, and so on.

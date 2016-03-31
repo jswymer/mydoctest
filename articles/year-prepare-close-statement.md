@@ -1,28 +1,17 @@
 <properties
-	pageTitle="Prepare Closing Statements| Project "Madeira""
+	pageTitle="Prepare Closing Statements| Project “Madeira”"
 	description="Provides an overview of the reports that may be useful when closing the year."
-	services="SMB"
-	documentationCenter=""
-	authors="jswymer"
-	manager="edupont"
-	editor=""/>
+	services=""
+	documentationCenter="Madeira"
+	authors="jswymer"/>
 	
-<tags
-	ms.service="SMB"
-	ms.workload=""
-	ms.tgt_pltfrm="na"
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="02/08/2016"
-	ms.author="jswymer" />
-
 # Prepare Closing Statements
 There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.
 
 The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.
 
 |To     |See this report                  |
-|-------|----------------------|
+|-------|---------------------------------|
 |Print a trial balance report with balances and net changes for general ledger accounts.|Trial Balance|
 |Get an overview of accounts receivable, with the age of amounts receivable calculated from the due date, posting date, or document date.|Aged Accounts Receivable|
 |Get an overview of accounts payable, with the age of amounts payable calculated from the due date, posting date or document date.|Aged Accounts Payable|

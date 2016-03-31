@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Changing the Role Center | Project Madeira"
+	pageTitle="Changing the Role Center | Project “Madeira”"
     description="Get the app for your mobile device." 
 	services="" 
 	documentationCenter="Madeira"
@@ -19,3 +19,4 @@ The content on the Home page is based on the selected Role Center. The standard 
 ## See Also
 [Welcome to Project "Madeira"](madeira-get-started.md)  
 [Work With Project "Madeira"](ui-work-product.md)  
+

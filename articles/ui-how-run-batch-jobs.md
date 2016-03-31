@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Run Batch Jobs | Project "Madeira""
+	pageTitle="How to: Run Batch Jobs | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -18,8 +18,4 @@ A batch job is like a report, except the batch job uses the result of its work t
 
 ## See Also
 [Entering Criteria in Filters](ui-enter-criteria-filters.md)
-
-
-
-
 

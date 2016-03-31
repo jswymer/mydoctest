@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Web Sources for Contacts | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Web Sources for Contacts | Project “Madeira”" 
+                description="Describes how to use web sources for contacts in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
@@ -22,15 +22,13 @@ Repeat these steps to set up as many web sources as you want.
 ## Assign Web Sources to a Contact Company
 When assigning web sources, you specify which search engine and search word that the application will use to find the requested information.
 1. Open the contact.
-2. Choose the **Company** action, and then choose the **Web Sources** action. 
-
-  The Contact Web Sources window opens.
+2. Choose the **Company** action, and then choose the **Web Sources** action. The Contact Web Sources window opens.
 3. In the **Web Source Code** field, choose the web source you want to assign.
 4. In the **Search Word** field, enter the search word that you want to use to find the information.
 
 Repeat these steps to assign as many web sources as you want.
 
-You can also assign web sources from the Contact List window by following the same procedure. 
+You can also assign web sources from the **Contact List** window by following the same procedure. 
 
 ##See Also
 [Create Contact Companies](marketing-create-contact-companies.md)

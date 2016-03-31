@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Create Number Series | Project "Madeira""
+	pageTitle="Create Number Series | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"

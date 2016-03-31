@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Create Contact Companies | Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Create Contact Companies | Project “Madeira”" 
+                description="Describes how to create contact companies in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
@@ -14,8 +14,8 @@ You can also define the business relationship that you have with a contact. For 
 
 The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
 
-|To|See|
-|--|---|
+|To |See |
+|---|----|
 |Set up a contact for a new company, either from scratch or from a customer, vendor, or bank account.|[How to: Create Contact Companies](marketing-how-create-contact-companies.md)|
 |Synchronize information in contacts with common information in customers, vendors, and bank accounts|[Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)|
 |Describe the business relationship of a company contact.|[Set Up Business Relations on Contacts Companies](marketing-business-relations.md)|
