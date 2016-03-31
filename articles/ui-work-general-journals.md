@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Work with General Journals | Project "Madeira""
+	pageTitle="Work with General Journals | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"

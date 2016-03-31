@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Preview Posting Results | Project "Madeira""
+	pageTitle="How to: Preview Posting Results | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -17,3 +17,4 @@ The **G/L Entries Preview** window shows which entries will be created when you 
 
 ## See Also
 [Post Documents and Journals](ui-post-documents-journals.md)
+

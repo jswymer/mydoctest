@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Posting Purchases | Project "Madeira""
+	pageTitle="Posting Purchases | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
@@ -35,3 +35,4 @@ When the posting is completed, the posted purchase lines are removed from the or
 
 ## See Also
 [Post Documents and Journals](ui-post-documents-journals.md)
+

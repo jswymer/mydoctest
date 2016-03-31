@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Customizing Project “Madeira” Using Extensions | Project Madeira"
+	pageTitle="Customizing Project “Madeira” Using Extensions | Project “Madeira”"
         description="Customizing Project “Madeira” Using Extensions" 
         services="" 
         documentationCenter="Madeira"

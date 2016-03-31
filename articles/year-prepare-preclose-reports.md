@@ -1,27 +1,16 @@
 <properties
-	pageTitle="Prepare Pre-Closing Reports| Project "Madeira""
+	pageTitle="Prepare Pre-Closing Reports| Project “Madeira”"
 	description="Provides an overview of the reports that may be useful when closing the year."
-	services="SMB"
-	documentationCenter=""
-	authors="jswymer"
-	manager="edupont"
-	editor=""/>
-	
-<tags
-	ms.service="SMB"
-	ms.workload=""
-	ms.tgt_pltfrm="na"
-	ms.devlang="na"
-	ms.topic="article"
-	ms.date="02/08/2016"
-	ms.author="jswymer" />
+	services=""
+	documentationCenter="Madeira"
+	authors="jswymer"/>
 
 # Prepare Pre-Closing Reports
 There are many standard reports that you can use to verify the accuracy of the accounts before closing the books at the end of a year or period. For example, you can use the **Customer - Trial Balance** report to verify that the balance for a customer posting group is equal to the balance on the corresponding general ledger account on a certain date.
 
 The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.
 
-|To     |See this report                  |
+|To     |See this report       |
 |-------|----------------------|
 |Print a detailed trial balance report for one or more bank accounts with additional information about individual entries.|Bank Acc. - Detail Trial Bal.|
 |Print a detail trial balance for selected customers.|Customer - Trial Balance|

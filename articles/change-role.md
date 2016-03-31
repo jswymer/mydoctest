@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Changing the Role Center | Project Madeira"
+	pageTitle="Changing the Role Center | Project “Madeira”"
     description="Get the app for your mobile device." 
 	services="" 
 	documentationCenter="Madeira"

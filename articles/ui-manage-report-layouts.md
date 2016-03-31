@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Manage Report Layouts | Project "Madeira""
+	pageTitle="Manage Report Layouts | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
