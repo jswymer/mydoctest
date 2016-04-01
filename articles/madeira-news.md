@@ -14,7 +14,7 @@ In April 2016, everything about Project "Madeira" is new. We encourage you to st
 Key scenarios to try out on your own:  
 
 - [Using Project “Madeira” as your Business Inbox in Outlook](madeira-no-outlook.md)  
-- [Get Project "Madeira" on my Mobile Device](install-mobile.app.md)  
+- [Get Project "Madeira" on my Mobile Device](install-mobile-app.md)  
 - [Using the Project “Madeira” Content Pack for Power BI](madeira-powerbi.md)  
 - [Changing the Role Center](change-role.md)  
 
