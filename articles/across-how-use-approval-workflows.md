@@ -10,8 +10,6 @@ When a record, such as a purchase document or a customer card, needs to be appro
 
 Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).
 
-You can set up workflows for practically all processes in Project "Madeira". For more information about advanced use of workflows, see [Workflow](https://msdn.microsoft.com/en-us/library/dn892100.aspx) in the MSDN Library.    
-
 ##To request approval of a record
 The following task is performed by an approval user.
 1. In the window that presents the record, choose the **Send Approval Request** action.
@@ -72,10 +70,6 @@ The following task is performed by an approval user with approver rights.
 At regular intervals, you must remind approval workflow users of overdue approval requests that they must react on. You use the Send Overdue Approval Notifications function for this.
 
 The Send Overdue Approval Notifications function checks for all open approval requests that are currently overdue. Each approver that has at least one overdue approval entry receives a notification with the list of all their overdue approval requests. The notification is also sent to their approver and all the requesters of the overdue approvals. This helps if the overdue approval entry must be delegated to a substitute.
-
-The due date is either the date when the request was made or it a date calculated from the value in the Due Date Formula field on the workflow response that represents the approvers action. For more information, see [How to: Create Workflows](https://msdn.microsoft.com/en-us/library/dn892101.aspx) in the MSDN Library .
-
-You can set up the overdue approval notification to include a list of all pending approvals and not just new ones that are overdue. For more information, see [How to: Manage Notification Templates](https://msdn.microsoft.com/en-us/library/hh179441.aspx) in the MSDN Library .
 
 1. In the **Search** box, enter **Overdue Approval Requests**, and then choose the related link.
 2. In the **Overdue Approval Requests** window, choose the **Send Overdue Approval Notifications** action.
