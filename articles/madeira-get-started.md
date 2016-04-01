@@ -35,5 +35,5 @@ When you have run an assisted setup, it is marked as **Completed**. To run the a
 [Customizing Project "Madeira" Using Extensions](ui-extensions.md)  
 [Work With Project "Madeira"](ui-work-product.md)  
 [Using Project “Madeira” as your Business Inbox in Outlook](madeira-no-outlook.md)  
-[Get Project "Madeira" on my Mobile Device](install-mobile.app.md)  
+[Get Project "Madeira" on my Mobile Device](install-mobile-app.md)  
 [Changing the Role Center](change-role.md)  
