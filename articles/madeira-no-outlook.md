@@ -14,4 +14,4 @@ You can send documents such as invoices as email using your business email addre
 ## See Also
 ["Welcome to Project "Madeira"](madeira-get-started.md)  
 [Using Project “Madeira” as your Business Inbox in Outlook](madeira-no-outlook.md)  
-[Get Project "Madeira" on my Mobile Device](install-mobile.app.md)  
+[Get Project "Madeira" on my Mobile Device](install-mobile-app.md)  
