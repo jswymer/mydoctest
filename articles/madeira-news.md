@@ -11,7 +11,8 @@ Sign up for the preview, let us walk you through the basics of what you can do w
   
 In April 2016, everything about Project "Madeira" is new. We encourage you to start the Getting Started guide in the demonstation company that you get access to when you first sign up. The Getting Started guide steps you through key scenarios. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).  
   
-Key scenarios to try out on your own:
+Key scenarios to try out on your own:  
+
 - [Using Project “Madeira” as your Business Inbox in Outlook](madeira-no-outlook.md)  
 - [Get Project "Madeira" on my Mobile Device](install-mobile.app.md)  
 - [Using the Project “Madeira” Content Pack for Power BI](madeira-powerbi.md)  
