@@ -16,6 +16,14 @@ Before you can create opportunities, you must set up opportunity sales cycles. F
 2. Select the salesperson from the list for whom you want to create an opportunity.
 3. Choose the **Opportunities** action, and then choose **List**.
 4. Choose **New**, and then fill in the relevant fields.  
+>[AZURE.NOTE]To get help on a field, select the caption.
+>This is line two.
+
+>[AZURE.TIP]To get help on a field, select the caption.
+>This is line two.
+
+>[AZURE.IMPORTANT]To get help on a field, select the caption.
+>This is line two.
 
 ## To create an opportunity from a contact
 1. In the **Search** box, enter **Contacts**, and then choose the related link. 
