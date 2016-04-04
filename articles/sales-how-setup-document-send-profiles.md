@@ -12,8 +12,6 @@ In the **Document Sending Profiles** window, you set up different sending profil
 
 When you choose the **Post and Send** action on a sales document, the **Post and Send Confirmation** dialog box shows the sending profile used, either the one set up for the customer or the default for all customers. In the dialog box, you can change the sending profile for the sales document. For more information, see [How to: Invoice Sales](sales-how-invoice-sale.md).
 
-One of the options that you can choose for a sending profile is **Electronic Document**. This option means that the document is sent as a standard-compliant file representing the document record, such as a sales invoice, which can be imported into the recipient’s system as a purchase invoice. For more information, see [How to: Set Up Electronic Document Sending and Receiving](https://msdn.microsoft.com/en-us/library/dn892113.aspx) in the MSDN Library . 
-
 ##To set up a document sending profile
 1. In the **Search** box, enter **Document Sending Profiles**, and then choose the related link.
 2. In the **Document Sending Profiles** window, choose the **New** action.

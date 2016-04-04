@@ -12,8 +12,6 @@ As an alternative to sending the file from the Incoming Documents window, you ca
 
 After some seconds, you receive the file back from the OCR service as an electronic invoice that can be converted to a purchase invoice for the vendor. This is described in the third procedure.
 
-You can either send incoming document files to the OCR service manually, as described in this procedure, or you can enable a workflow to send them automatically when an incoming document with a PDF or image attachment is created. The generic version of Microsoft Dynamics NAV includes a workflow template, **Incoming Document OCR Workflow**, which is ready to create a workflow from. For more information, see [Workflow](https://msdn.microsoft.com/en-us/library/dn892100.aspx) in the MSDN Library.
-
 Because OCR is based on optical recognition, it is likely that the OCR service will interpret characters in your PDF or image files wrongly when it first processes a certain vendor’s documents, for example. It may not interpret the company logo as the vendor’s name or it may misinterpret the total amount on a receipt because of its layout. To avoid these errors going forward, you can correct the errors in a separate version of the Incoming Document window. Then you send the corrections back to the OCR service to train it to interpret the specific characters correctly next time it processes a PDF or image document for the same vendor. For more information, see the "To train the OCR service to avoid errors# section.
 
 The traffic of files to and from the OCR service is processed by a dedicated job queue entry, which are created automatically when you enable the related service connection. For more information, see [How to: Set Up an OCR Service](across-how-setup-income-documents.md).
