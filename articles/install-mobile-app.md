@@ -10,8 +10,8 @@ Access your Project "Madeira" data from your mobile device. You can navigate thr
 
 ## To get the app on my mobile device
 1. Install the Project “Madeira” app on your mobile device by downloading the app from the Windows Store, App Store, or Google Play.  
-[![Windows Store](./media/windowsstore.png)](http://go.microsoft.com/fwlink/?LinkId=734848)
-[![App Store](./media/appstore.png)](http://go.microsoft.com/fwlink/?LinkId=734847) [![Google Play](./media/googleplay.png)](http://go.microsoft.com/fwlink/?LinkId=734849)  
+[![Windows Store](./media/install-mobile-app/windowsstore.png)](http://go.microsoft.com/fwlink/?LinkId=734848)
+[![App Store](./media//install-mobile-app/appstore.png)](http://go.microsoft.com/fwlink/?LinkId=734847) [![Google Play](./media//install-mobile-app/googleplay.png)](http://go.microsoft.com/fwlink/?LinkId=734849)  
 2. Launch the app from your mobile device.
 3. Enter your activation code that you received during sign-up for Project “Madeira” and follow the instructions on the screen.
 4. Enter your user name and password that you created during sign-up for Project “Madeira” and follow the instructions on the screen.
