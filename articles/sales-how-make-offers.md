@@ -8,7 +8,7 @@
 #How to: Make Offers
 You create a sales quote to record your offer to a customer to sell certain products on certain delivery and payment terms. You can send the sales quote to the customer to communicate the offer.
 
-While you negotiate with the customer, you can change and resend the sales quote as much as needed. When the customer accepts the quote, you convert the sales quote to a sales invoice or a sales order in which you process the sale. For more information, see [How to: Invoice Sales](sales-how-invoice-sale.md) or [How to: Sell Products](sales-how-sell-products.md).
+While you negotiate with the customer, you can change and resend the sales quote as much as needed. When the customer accepts the quote, you convert the sales quote to a sales invoice or a sales order in which you process the sale. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) or [How to: Sell Products](sales-how-sell-products.md).
 
 Products can be both inventory items and services. For more information, see [How to: Register New Products](inventory-how-register-new-products.md). The sales quote process is the same for both product types.
 
@@ -57,7 +57,7 @@ You can fill customer fields on the sales quote in two ways depending on whether
   If you select the **Email** action, then a PDF file is automatically attached to an email to the customer. For more information, see [How to: Send Documents by Email](ui-how-send-documents-email.md).
 17. If the customer accepts the quote, choose the **Make Invoice** or the **Make Order** action.
 
-The sales quote is removed from the database. A sales invoice or a sales order is created based on the information in the sales quote in which you can process the sale. In the **Quote No.** field on the sales invoice or sales order, you can see the number of the sales quote that it was made from. For more information, see [How to: Invoice Sales](sales-how-invoice-sale.md) or [How to: Sell Products](sales-how-sell-products.md).
+The sales quote is removed from the database. A sales invoice or a sales order is created based on the information in the sales quote in which you can process the sale. In the **Quote No.** field on the sales invoice or sales order, you can see the number of the sales quote that it was made from. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) or [How to: Sell Products](sales-how-sell-products.md).
 
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  
