@@ -17,17 +17,17 @@ Before you can create opportunities, you must set up opportunity sales cycles. F
 3. Choose the **Opportunities** action, and then choose **List**.
 4. Choose **New**, and then fill in the relevant fields.  
 
+[AZURE.INCLUDE [tooltip-note](../includes/tooltip-note.md)]
+
 ## To create an opportunity from a contact
 1. In the **Search** box, enter **Contacts**, and then choose the related link. 
 2. Select the contact from the list for whom you want to create an opportunity.
 3. Do one of the following:
   * Choose the **Create Opportunity** action.
   * Choose the  **Opportunities** action, and then choose **New**.
-4. Fill in the relevant fields.  
-
-After you have created an opportunity, you can activate the first sales cycle stage, and update the opportunity.
+4. Fill in the relevant fields.
 
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  
 [Create and Manage Contacts](marketing-contacts.md)  
-[Working with NAV](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)

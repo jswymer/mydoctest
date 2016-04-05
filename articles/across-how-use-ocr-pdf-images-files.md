@@ -1,9 +1,9 @@
 <properties
                 pageTitle="How to: Use OCR to Turn PDF and Image Files into Electronic Documents| Project “Madeira”"
-                description="Welcome to Project "Madeira"" 
+                description="Describes how to use OCR to turn PDF and image files into electronic documents" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont" />
+                authors="sgroespe" />
 
 #How to: Use OCR to Turn PDF and Image Files into Electronic Documents
 From PDF or image files that you receive from your trading partners, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can be converted to document records in Project "Madeira". For example, when you receive an invoice in PDF format from your vendor, you can send it to the OCR service from the **Incoming Documents** window. This is described in the first procedure.

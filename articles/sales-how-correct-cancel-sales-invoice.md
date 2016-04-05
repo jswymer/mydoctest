@@ -44,4 +44,4 @@ When you correct or cancel a posted sales invoice, the corrective sales credit m
 [Manage Sales](sales-manage-sales.md)  
 [Set Up Sales](sales-setup-sales.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
-[Working with NAV](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)

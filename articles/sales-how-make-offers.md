@@ -63,4 +63,4 @@ The sales quote is removed from the database. A sales invoice or a sales order i
 [Manage Sales](sales-manage-sales.md)  
 [Set Up Sales](sales-setup-sales.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
-[Working with NAV](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)

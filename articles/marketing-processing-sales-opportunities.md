@@ -37,7 +37,7 @@ You can create sales quotes for contacts that are not recorded as customers.
 2. Fill in the relevant fields.
 
 ## Create sales orders for opportunities
-You can make sales orders from the sales quotes that you have created for your opportunities. Before you can create sales orders for your contacts, you must create the contact as a customer. For more information, see [How to: Create Contacts as Customers, Vendors, or Bank Accounts](marketing-how-create-new-contacts-customers-vendors-bank-accounts.md).
+You can make sales orders from the sales quotes that you have created for your opportunities. Before you can create sales orders for your contacts, you must create the contact as a customer. For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
 
 1. In the **Opportunity List** window, find the opportunity that you have created a sales quote for.
 2. Choose the Assign Sales Quote actions. The **Sales Quote** window opens to show the sales quote that you have assigned to the opportunity.
@@ -73,5 +73,5 @@ If an opportunity follows a sales cycle, you can move it forward or back through
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  
 [Create and Manage Contacts](marketing-contacts.md)  
-[Working with NAV](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)
 

@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Payment Methods| Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Payment Methods| Project “Madeira”" 
+                description="Describes what payment methods are and how they are used." 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>

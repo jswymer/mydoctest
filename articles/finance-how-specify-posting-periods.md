@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Specify Posting Periods | Project "Madeira""
+	pageTitle="How to: Specify Posting Periods | Project “Madeira”"
 	description="Explains how to set posting start and end dates."
 	services="SMB"
 	documentationCenter=""

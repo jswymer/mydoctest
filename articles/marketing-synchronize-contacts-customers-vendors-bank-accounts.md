@@ -14,7 +14,7 @@ Before you can synchronize your contacts with customers, vendors, or bank accoun
 You can synchronize your contacts with customers, vendors, or bank accounts by three methods:
 
 * Link contacts with existing customers, vendors, or bank accounts from the contact card. For more information, see [How to: Link Contacts With Customers, Vendors, and Bank Accounts](marketing-how-link-contact.md).
-* Create customers, vendors, or bank accounts from the contact. For more information, see [How to: Create Contacts as Customers, Vendors, or Bank Accounts](marketing-how-create-new-contacts-customers-vendors-bank-accounts.md).
+* Create customers, vendors, or bank accounts from the contact. For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
 *  Create contacts from customers, vendors or bank accounts. For more information, see [How to: Create Contacts from Customers, Vendors, or Bank Accounts](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
 
 ## Consequences of Synchronization

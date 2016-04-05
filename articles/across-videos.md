@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How Do I? | Project Madeira" 
+                pageTitle="How Do I? | Project “Madeira”" 
                 description="Provides access to getting-started videos that illustrate how to do common tasks." 
                 services="" 
                 documentationCenter="Madeira"

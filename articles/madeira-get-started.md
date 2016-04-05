@@ -27,7 +27,7 @@ In the **Assisted Setup** window, you will find the following:
   
 When you have run an assisted setup, it is marked as **Completed**. To run the assisted setup, you choose the three dots also called the context menu, and then you select **Start Setup**.
 
-Project "Madeira" is related to the Dynamics NAV business management solution. As a result, some of the functionality that you can access in Project "Madeira" is limited in range, and occasionally you will be referred to Help for Dynamics NAV for more in-depth assistance. For more information, see <a href="http://go.microsoft.com/FwLink/?LinkId=31636">Microsoft Dynamics NAV</a> in the MSDN Library.   
+<!-- Project "Madeira" is related to the Dynamics NAV business management solution. As a result, some of the functionality that you can access in Project "Madeira" is limited in range, and occasionally you will be referred to Help for Dynamics NAV for more in-depth assistance. For more information, see <a href="http://go.microsoft.com/FwLink/?LinkId=31636">Microsoft Dynamics NAV</a> in the MSDN Library. -->   
 
 ## See Also
 [Setup](setup.md)  
@@ -35,5 +35,5 @@ Project "Madeira" is related to the Dynamics NAV business management solution. A
 [Customizing Project "Madeira" Using Extensions](ui-extensions.md)  
 [Work With Project "Madeira"](ui-work-product.md)  
 [Using Project “Madeira” as your Business Inbox in Outlook](madeira-no-outlook.md)  
-[Get Project "Madeira" on my Mobile Device](install-mobile.app.md)  
+[Get Project "Madeira" on my Mobile Device](install-mobile-app.md)  
 [Changing the Role Center](change-role.md)  
