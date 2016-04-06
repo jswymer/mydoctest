@@ -1,11 +1,11 @@
 <properties
                 pageTitle="How to: Use OCR to Turn PDF and Image Files into Electronic Documents| Project “Madeira”"
-                description="Describes how to use OCR to turn PDF and image files into electronic documents" 
-                services="" 
+                description="Describes how to use OCR to turn PDF and image files into electronic documents"
+                services=""
                 documentationCenter="Madeira"
                 authors="sgroespe" />
 
-#How to: Use OCR to Turn PDF and Image Files into Electronic Documents
+# How to: Use OCR to Turn PDF and Image Files into Electronic Documents
 From PDF or image files that you receive from your trading partners, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can be converted to document records in Project "Madeira". For example, when you receive an invoice in PDF format from your vendor, you can send it to the OCR service from the **Incoming Documents** window. This is described in the first procedure.
 
 As an alternative to sending the file from the Incoming Documents window, you can send the file to the OCR service by email. Then, when you receive the electronic document back, a related incoming document record is created automatically. This is described in the second procedure.
@@ -21,19 +21,19 @@ To send a PDF or image file to the OCR service from the **Incoming Documents** w
 2. Create a new incoming document record and attach the file. For more information, see [How to: Create Incoming Document Records](across-how-create-income-document-records.md).  
 3. In the **Incoming Documents** window, select one or more lines, and then choose the **Send to Job Queue** action.
 
-  The value in the **OCR Status** field changes to **Ready**. The attached PDF or image file is sent to the OCR service by the job queue according to the schedule, provided that no errors exist.
-5. Alternatively, in the **Incoming Documents** window, select one or more lines, and then choose the **Send to OCR Service** action.
+    The value in the **OCR Status** field changes to **Ready**. The attached PDF or image file is sent to the OCR service by the job queue according to the schedule, provided that no errors exist.
+4. Alternatively, in the **Incoming Documents** window, select one or more lines, and then choose the **Send to OCR Service** action.
 
 The value in the OCR Status field changes to Sent, provided that no errors exist.
 
-##To send a PDF or image file to the OCR service by email
- - From your email application, send an email to the OCR service provider with the PDF or image file attached. For information about the email address to send to, see the OCR service provider’s web site.
+## To send a PDF or image file to the OCR service by email
+From your email application, you can send an email to the OCR service provider with the PDF or image file attached. For information about the email address to send to, see the OCR service provider’s web site.
 
 Because no incoming document record exists for the file, a new record will be created automatically in the **Incoming Documents** window when you receive the resulting electronic document from the OCR service. For more information, see [How to: Create Incoming Document Records](across-how-create-income-document-records.md).
 
 **Note**: If you work on a tablet or phone, you can send the file to the OCR service as soon as you have taken a photo of the document, or you can create an incoming document directly. For more information, see the "To create incoming document records by taking a photo" section in [How to: Create Incoming Document Records](across-how-create-income-document-records.md).
 
-##To train the OCR service to avoid errors
+## To train the OCR service to avoid errors
 Because OCR is based on optical recognition, it is likely that the OCR service will interpret characters in your PDF or image files wrongly when it first processes documents from a certain vendor, for example. It may not interpret the company logo as the vendor’s name or it may misinterpret the total amount on an expense receipt because of its layout. To avoid such errors going forward, you can correct data received by the OCR service and then send the feedback to the service.
 
 The **OCR Data Correction** window, which you open from the Incoming Document window, shows the fields from the **Financial Information** FastTab in two columns, one with the OCR data editable and one with the OCR data read-only. When you choose the **Send OCR Feedback** button, the content of the OCR Data Correction window is sent to the OCR service. Next time the service processes PDF or image files that contain the data in question, your corrections will be incorporated to avoid the same errors.
@@ -48,8 +48,7 @@ The **OCR Data Correction** window, which you open from the Incoming Document wi
 
 The fields on the **Financial Information** FastTab in the **Incoming Document** window are updated with any new values that you entered in step 4.
 
-
-##See Also  
+## See Also  
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  

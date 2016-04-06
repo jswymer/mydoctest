@@ -1,18 +1,18 @@
 <properties
-                pageTitle="Apply Payments Automatically and Reconcile Bank Accounts| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="Apply Payments Automatically and Reconcile Bank Accounts| Project “Madeira”"
+                description="Welcome to Project "Madeira""
+                services=""
                 documentationCenter="Madeira"
                 authors="edupont"/>
 
-#Apply Payments Automatically and Reconcile Bank Accounts
+# Apply Payments Automatically and Reconcile Bank Accounts
 You must regularly reconcile your bank, receivables, and payables accounts in Project "Madeira" by applying payments recorded in the bank to their related unpaid invoices and credit memos or other open entries in Project "Madeira".
 
 You can perform this task in the **Payment Reconciliation Journal** window by importing a bank statement file or feed to quickly register the payments in Project "Madeira". An automatic application function applies the payments to their related open customer or vendor ledger entries based on data matches between payment text and entry information. You can review and change automatic applications before you post the journal. You can choose to close any open bank account ledger entries related to the applied ledger entries when you post the journal. This means that the bank account is automatically reconciled when all payments are applied.
 
 To enable import of bank statements as a bank feed, you must first set up and enable the Envestnet Yodlee Bank Feed service, and then link your bank accounts to the related online bank accounts. For more information, see [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md).
 
-Alternatively, you can use the bank data conversion service to have a bank statement file in any format converted to a data stream that you can import into Project "Madeira". For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md). 
+Alternatively, you can use the bank data conversion service to have a bank statement file in any format converted to a data stream that you can import into Project "Madeira". For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
@@ -23,6 +23,6 @@ The following table describes a sequence of tasks, with links to the topics that
 |Resolve payments that cannot be applied automatically to their related open ledger entries, for example because the amounts differ or because a related ledger entry does not exist. | [How to: Reconcile Payments That Cannot be Applied Automatically](receivables-how-reconcile-payments-cannot-apply-auto.md)
 |Link text on payments to specific customer, vendor, or general ledger accounts to always post recurring cash receipts or expenses to those accounts when no documents exist to apply to.| [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)|
 
-##See Also
+## See Also
 [Manage Receivables](receivables-manage-receivables.md)  
 [Manage Sales](sales-manage-sales.md)

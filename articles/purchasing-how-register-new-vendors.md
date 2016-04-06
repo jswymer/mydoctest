@@ -1,12 +1,12 @@
 <properties
-                pageTitle="How to: Register New Vendors| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="How to: Register New Vendors| Project “Madeira”"
+                description="Welcome to Project "Madeira""
+                services=""
                 documentationCenter="Madeira"
                 authors="edupont"/>
 
 # How to: Register New Vendors
-Vendors provide the products that you sell. Each vendor that you purchase from must be registered as a vendor card. 
+Vendors provide the products that you sell. Each vendor that you purchase from must be registered as a vendor card.
 
 Before you can register new vendors, you must set up various purchase codes that you can select from when you fill vendor cards. When all of the required master data is created, you can perform additional configuration of the vendor, such as prioritize the vendor for payment purposes and list items that the vendor and other vendors can supply. Another group of setup tasks for vendors is to record your agreements concerning discounts, prices, and payment methods. For more information, see [Set Up Purchasing](purchasing-setup-purchasing.md).
 
@@ -18,7 +18,7 @@ Vendor cards hold the information that is required to buy products from the vend
 1. On the Home page, choose **Vendors** to open the list of existing vendors.  
 2. In the **Vendors** window, Choose **New**.
 
-  If more than one vendor template exists, then a window opens from which you can select a vendor template. In that case, follow the next two steps.
+    If more than one vendor template exists, then a window opens from which you can select a vendor template. In that case, follow the next two steps.
 3. In the **Select a template for a new vendor** window, choose the template that you want to use for the new vendor card.
 4. Choose the **OK** button. A new vendor card opens with some fields filled with information from the template.
 5. Proceed to fill or change fields on the vendor card as necessary. Choose a field to read a short description of the field or link to more information.
@@ -33,7 +33,7 @@ If you want to use this vendor card as a template when you create new vendor car
 3. To reuse dimensions in templates, choose the **Dimensions** action. The **Dimension Templates** window opens showing any dimension codes that are set up for the vendor.
 4. Edit or enter dimension codes that will apply to new vendor cards created by using the template.
 5. When you have completed the new vendor template, choose the **OK** button.  
-The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards. 
+The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards.
 
 ## See Also
 [Manage Purchasing](purchasing-manage-purchasing.md)  
