@@ -1,14 +1,14 @@
 <properties
-                pageTitle="How to: Purchase Products for a Sale| Project “Madeira”"
-                description="Welcome to Project "Madeira""
-                services=""
+                pageTitle="How to: Purchase Products for a Sale| Project “Madeira”" 
+                description="Welcome to Project "Madeira"" 
+                services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>
 
 # How to: Purchase Products for a Sale
 From an open sales invoice, you can use the **Create Purchase Invoice** function to create a purchase invoice for a selected vendor for all lines or selected lines on the sales invoice. You can then process this purchase invoice just like you would if you had created it from a new invoice.
 
-**Note**: There is no link between the created purchase invoice and the sales invoice that it was created from.
+**Note** There is no link between the created purchase invoice and the sales invoice that it was created from.
 
 ## To create a purchase invoice from a sales invoice
 1. On the Home page, choose the **Ongoing Sales Invoices** tile.
@@ -18,9 +18,9 @@ From an open sales invoice, you can use the **Create Purchase Invoice** function
 5. Select either **All Lines** or **Selected Lines**, and then choose the **OK** button.  
 6. In the list of vendors that appears, select the vendor who will deliver the items or services, and then choose the **OK** button.
 
-    A purchase invoice is created that has one, more, or all the lines on the sales invoice.
+  A purchase invoice is created that has one, more, or all the lines on the sales invoice.
 7. Proceed to process the purchase invoice, for example, by editing or adding purchase invoice lines. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).
-
+            
 ## See Also
 [Manage Purchasing](purchasing-manage-purchasing.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)  

@@ -1,17 +1,18 @@
 <properties
 	pageTitle="Entering Criteria in Filters | Project “Madeira”"
-        description="Welcome to Project "Madeira""
-        services=""
+        description="Welcome to Project "Madeira"" 
+        services="" 
         documentationCenter="Madeira"
         authors="edupont"/>
-
+    
 # Entering Criteria in Filters
 When you enter criteria, you can use all the numbers and letters that you can normally use in the field. In addition, you can use special symbols to further filter the results. Later in this topic, you can read more about the Quick Filter on pages.
 
 ## Symbols
 The following tables show the symbols which can be used in filters in Project "Madeira".
 
-**Important**: There may be instances where field values contain these symbols and you want to filter on them. To do this, you must include the filter expression that contains the symbol in quotation marks (''). For example, if you want to filter on records that start with the text S&R, the filter expression is 'S&R*'.  
+**Important**  
+There may be instances where field values contain these symbols and you want to filter on them. To do this, you must include the filter expression that contains the symbol in quotation marks (''). For example, if you want to filter on records that start with the text S&R, the filter expression is 'S&R*'.  
 
 ### Interval
 |Sample Expression|Records Displayed|
@@ -25,7 +26,7 @@ The following tables show the symbols which can be used in filters in Project "M
 |22..23|From 22-current month-current year 0:00:00 until 23-current month-current year 23:59:59.|
 
 <!-- html syntax because symbols conflict with MarkDown syntax -->
-### (|) Either/or
+### (|) Either/or 
 <TABLE>
   <TR>
     <TH>Sample Expression</TH>
@@ -76,7 +77,7 @@ The following tables show the symbols which can be used in filters in Project "M
     <TD>Numbers less than or equal to 1200.</TD>
   </TR>
 </TABLE>
-
+ 
 ### (&) And
 <TABLE>
   <TR>
@@ -145,13 +146,14 @@ The following tables show the symbols which can be used in filters in Project "M
     <TD>Include records with numbers that are greater than 50 and less than 100 (numbers 51 through 99).</TD>
   </TR>
 </TABLE>
-
+ 
 ## Quick filter
 You can add filters to all pages, either by using the Quick Filter or the Advanced Filter. The Quick Filter is enabled by entering criteria in the **Type to filter** box at the top of a page. This filtering type is used for a fast entry of criteria. The advanced filtering option is available when you click the expand button next to the Quick Filter or when you press F3. All filters are cleared by pressing Ctrl+Shift+A.
 
-**Note**: In Project "Madeira" Tablet client and Project "Madeira" Phone client, you have a Search capability that works in the same way as Quick Filter.
+**Note** In Project "Madeira" Tablet client and Project "Madeira" Phone client, you have a Search capability that works in the same way as Quick Filter.
 
-**Important**: Filtering using the Quick Filter works a bit differently than using the Advanced Filter. The Quick Filter provides an easy access to filter data by entering plain text, but does also provide a lot of search criteria options. Depending on whether you enter plain text or text including symbols, the Quick Filter behaves differently.  
+**Important**  
+Filtering using the Quick Filter works a bit differently than using the Advanced Filter. The Quick Filter provides an easy access to filter data by entering plain text, but does also provide a lot of search criteria options. Depending on whether you enter plain text or text including symbols, the Quick Filter behaves differently.  
 - If you enter plain text in the search criteria, the search criteria is interpreted as a case insensitive search that contains certain text.  
 - If you enter text including symbols in the search criteria, the search criteria is interpreted exactly as you entered it, and the search is case sensitive
 
@@ -195,7 +197,9 @@ You can add filters to all pages, either by using the Quick Filter or the Advanc
   </TR>
 </TABLE>
 
-**Note**: You cannot use a wildcard when filtering on enumeration fields, such as the **Status** field on sales orders. To enter a filter for this type of field, you can enter the numeric value as a filtering parameter. For example, in the **Status** field on a sales order that has the values **Open**, **Released**, **Pending Approval**, and **Pending Prepayment**, use the values **0**, **1**, **2**, and **3** to filter for these options.  
+**Note**  
+You cannot use a wildcard when filtering on enumeration fields, such as the **Status** field on sales orders. To enter a filter for this type of field, you can enter the numeric value as a filtering parameter. For example, in the **Status** field on a sales order that has the values **Open**, **Released**, **Pending Approval**, and **Pending Prepayment**, use the values **0**, **1**, **2**, and **3** to filter for these options.  
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
+
