@@ -3,7 +3,7 @@
                 description="How to: Set Up the Bank Data Conversion Service"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # How to: Set Up the Bank Data Conversion Service
 You can export payment lines from the **ayment Journal** window to a data stream that you then upload to your bank for automatic processing so that do not have to make electronic payments individually. For more information, see [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).

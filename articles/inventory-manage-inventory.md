@@ -3,7 +3,7 @@
                 description="Manage Inventory"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # Manage Inventory
 Inventory management in Project "Madeira" is limited to registering and managing item cards representing physical products and to increase or decrease the quantity of an item in inventory by posting directly to the item ledger entries.

@@ -3,7 +3,7 @@
                 description="How to: Invoice Sales"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # How to: Invoice Sales
 

@@ -3,7 +3,7 @@
         description="Provides information about the Envestnet Yodlee Bank Feeds extension"
         services=""
         documentationCenter="Madeira"
-        authors="edupont"/>
+        authors="sgroespe"/>
 
 # The Envestnet Yodlee Bank Feeds Extension to Project "Madeira"
 To quickly reconcile payments made to your bank accounts, the Envestnet Yodlee Bank Feeds service allows you to link your system bank account to your online bank account. This means that the latest bank statement is automatically or manually fed into your reconciliation journal, ensuring that you are always processing the latest payments with minimal risk of errors.

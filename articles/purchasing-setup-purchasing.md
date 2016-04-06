@@ -1,9 +1,9 @@
 <properties
                 pageTitle="Set Up Purchasing| Project “Madeira”"
-                description="Set Up Purchasing" 
+                description="Set Up Purchasing"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # Set Up Purchasing
 Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.

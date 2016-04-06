@@ -3,7 +3,7 @@
                 description="Apply Payments Automatically and Reconcile Bank Accounts"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # Apply Payments Automatically and Reconcile Bank Accounts
 You must regularly reconcile your bank, receivables, and payables accounts in Project "Madeira" by applying payments recorded in the bank to their related unpaid invoices and credit memos or other open entries in Project "Madeira".
