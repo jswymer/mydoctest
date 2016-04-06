@@ -22,7 +22,7 @@ When the Incoming Documents feature is set up, you can use different functions t
 1. In the **Search** box, enter **Incoming Document Setup**, and then choose the related link.  
 2. In the **Incoming Documents Setup** window, choose the **Approvers** action.
 
-  The **Incoming Document Approvers** window shows all users that are set up in your Project 'Madeira*.  
+    The **Incoming Document Approvers** window shows all users that are set up in your Project 'Madeira*.  
 3. Select one or more users that can approve an incoming document before a related document or journal line can be created.
 
 When approvers have been set up in the **Incoming Document Approvers** window, only those users can approve an incoming document if the **Require Approval To Create** check box in the **Incoming Documents Setup** window is selected.

@@ -33,7 +33,7 @@ If you want to make a minor change to a record after it has been approved, you c
 
 1. Open the window that displays the record, such as a purchase invoice, and then choose the **Reopen** action.
 
-  The Document Status field is changed to Open.
+    The Document Status field is changed to Open.
 3. Make the necessary changes on the record, such as the vendor’s address.
 4. Choose the **Release** action.
 
