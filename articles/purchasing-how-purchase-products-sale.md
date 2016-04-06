@@ -17,8 +17,8 @@ From an open sales invoice, you can use the **Create Purchase Invoice** function
 4. Choose the **Create Purchase Invoice** action.
 5. Select either **All Lines** or **Selected Lines**, and then choose the **OK** button.  
 6. In the list of vendors that appears, select the vendor who will deliver the items or services, and then choose the **OK** button.
-
-  A purchase invoice is created that has one, more, or all the lines on the sales invoice.
+    
+    A purchase invoice is created that has one, more, or all the lines on the sales invoice.
 7. Proceed to process the purchase invoice, for example, by editing or adding purchase invoice lines. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).
             
 ## See Also

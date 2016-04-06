@@ -8,8 +8,7 @@
 # How to: View Test Reports Before Posting
 When you are ready to post a document, such as an order, invoice, or a credit memo, you can test the document to ensure that no issues exist that will block the posting.
 
-**Note**  
-The following procedure is about testing before posting a purchase document. The functionality works in the same way for sales documents.
+**Note**: The following procedure is about testing before posting a purchase document. The functionality works in the same way for sales documents.
 
 ## To print a test report before posting a purchase invoice
 1. In the **Search** box, enter **Purchase Invoices**, and then select the related link.
