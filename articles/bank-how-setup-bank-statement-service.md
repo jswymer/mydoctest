@@ -1,11 +1,11 @@
 <properties
                 pageTitle="How to: Set Up the Envestnet Yodlee Bank Feeds Service| Project “Madeira”"
-                description="Welcome to Project "Madeira""
+                description="How to: Set Up the Envestnet Yodlee Bank Feeds Service"
                 services=""
                 documentationCenter="Madeira"
                 authors="edupont" />
 
-#How to: Set Up the Envestnet Yodlee Bank Feeds Service
+# How to: Set Up the Envestnet Yodlee Bank Feeds Service
 You can import electronic bank statements from your bank to quickly fill the **Payment Reconciliation Journal** window so you can apply payments and reconcile the bank account. For more information, see [Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
 The Envestnet Yodlee Bank Feeds service is installed as an extension to Project "Madeira" and ready to be enabled. For more information, see [Customizing Project "Madeira" Using Extensions ](ui-extensions.md).
@@ -19,71 +19,71 @@ When you have enabled the bank feed service, you must link the involved bank acc
 
 When the bank feed service is enabled, you can set a bank account up to automatically import new bank statements into the **Payment Reconciliation Journal** window every hour. Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported. For more information, see the “To enable automatic import of bank statements” section.
 
-##To enable the bank feed service
+## To enable the bank feed service
 1. In the **Search** box, enter **Envestment Yodlee Bank Feeds Service Setup**, and then choose the related link.
-3. Enter your bank account credentials. 
+3. Enter your bank account credentials.
 4. Choose the **Enables** check box to enable the service.
 
-##To create a new linked bank account
+## To create a new linked bank account
 1. In the **Search** box, enter **Bank Accounts**, and then choose the related link.
 2. Select the relevant bank account, and then choose the **Create New Linked Bank Account**. The **Bank Account Linking** window opens after a few moments.
 
-  **Note**: This window shows the actual web page of the Envestnet Yodlee Bank Feeds service. Terminology and functionality in the window may not match instructions provided in this topic.  
+    **Note**: This window shows the actual web page of the Envestnet Yodlee Bank Feeds service. Terminology and functionality in the window may not match instructions provided in this topic.  
 3. In the **Online Bank Account Linking** window, in the **Link Account** pane, use the Search function to find the bank where you have one or more online bank accounts.
 4. Choose the bank name. The **Log In** pane opens.
 5. Enter the username and password that you use to log on to the online bank, and then choose the **Next** button.  
 6. The bank feed service prepares to link the first online bank account at the specified bank to a new bank account in Project "Madeira".
 
-  **Note**: If you have more than one online bank account at the bank, you must create additional bank accounts in Project "Madeira" for those additional online bank accounts. See steps 8 through 10.  
+    **Note**: If you have more than one online bank account at the bank, you must create additional bank accounts in Project "Madeira" for those additional online bank accounts. See steps 8 through 10.  
 When the process has completed successfully, the bank name will appear in the **My Accounts** pane on the **Linked** tab. The number in brackets indicates how many online bank accounts were linked.  7. Choose the **OK** button.
 
-  If only one online bank account is linked, the **Bank Account Card** window for a new bank account opens, prefilled with the name of the online bank account. In this case, the bank account linking task is completed. All that remains is to set up the bank account. For more information, see [How to: Set Up Bank Accounts](bank-how-setup-bank-accounts.md).
-  
-  If more than one online bank accounts were linked, the **Bank Account Linking** window opens listing the additional online bank accounts that are not linked to bank accounts in Project "Madeira" yet. In that case, follow the next step.  
+    If only one online bank account is linked, the **Bank Account Card** window for a new bank account opens, prefilled with the name of the online bank account. In this case, the bank account linking task is completed. All that remains is to set up the bank account. For more information, see [How to: Set Up Bank Accounts](bank-how-setup-bank-accounts.md).
+
+    If more than one online bank accounts were linked, the **Bank Account Linking** window opens listing the additional online bank accounts that are not linked to bank accounts in Project "Madeira" yet. In that case, follow the next step.  
 8. In the **Bank Account Linking** window, select the line for an online bank account, and then choose the **Link to New Bank Account** action.
 
-  The **Bank Account Card** window for a new bank account opens, prefilled with the name of the online bank account.
-  
-  If a bank account already exists in Project "Madeira" that you want to link the additional online bank account to, follow the next step.  
+    The **Bank Account Card** window for a new bank account opens, prefilled with the name of the online bank account.
+
+    If a bank account already exists in Project "Madeira" that you want to link the additional online bank account to, follow the next step.  
 9. In the **Bank Account Linking** window, select the line for an online bank account, and then choose the **Link to Existing Bank Account** action.
 10. In the **Bank Account List** window, select the bank account that you want to link to, and then choose the **OK** button.
 
-##To link a bank account to an online bank account
+## To link a bank account to an online bank account
 1. In the **Search** box, enter **Bank Accounts**, and then choose the related link.
 2. Select the line for a bank account that is not linked to an online bank account, and then choose the **Link to Online Bank Account** action. The **Online Bank Account Linking** window opens with the name of the bank prefilled in the **Link Account** pane.
 3. Choose the bank name. The **Log In** pane opens.
 4. Enter the username and password that you use to log on to the online bank, and then choose the **Next** button.
 
-  The bank feed service prepares to link your bank account in Project "Madeira" to the related online bank account.
-  
-  When the process has completed successfully, the bank name will appear in the **My Accounts** pane on the **Linked** tab. If the bank has more than one bank account, only the bank account that you selected in step 2 is linked.
+    The bank feed service prepares to link your bank account in Project "Madeira" to the related online bank account.
+
+    When the process has completed successfully, the bank name will appear in the **My Accounts** pane on the **Linked** tab. If the bank has more than one bank account, only the bank account that you selected in step 2 is linked.
 5. Choose the **OK** button.
 
 In the **Bank Account List** window, the **Linked** check box is selected.
 
-##To unlink a bank account
+## To unlink a bank account
 1. In the **Search** box, enter **Bank Accounts**, and then choose the related link.  
 2. Select the line for a linked bank account that you want to unlink from its related online bank account, and the choose the **Unlink Online Bank Account** action.
 
-**Note**: If you choose **Yes** on the confirmation dialog, the link to the online bank account is removed, and the log-in details are cleared. To link the bank account to the online bank account again, you must log on to the bank again. For more information, see the “To link a bank account to an online bank account“ section. 
+**Note**: If you choose **Yes** on the confirmation dialog, the link to the online bank account is removed, and the log-in details are cleared. To link the bank account to the online bank account again, you must log on to the bank again. For more information, see the “To link a bank account to an online bank account“ section.
 
-##To update bank account linking
+## To update bank account linking
 1. In the **Search** box, enter **Bank Accounts**, and then choose the related link.
 2. Select the relevant bank account, and then choose the **Update Bank Account Linking** action.
 
 If issues exist for any of the linked bank accounts in the **Bank Account List** window, the **Bank Account Linking** window opens specifying which bank accounts have issues. Issues can best be resolved by unlinking the online bank account and then re-creating the link. For more information, see the “To link a bank account to an online bank account“ section.
 
-##To enable automatic import of bank statements
+## To enable automatic import of bank statements
 1. In the **Search** box, enter **Bank Accounts**, and then choose the related link.
 2. Select the line for a linked bank account, and then choose the **Automatic Bank Statement Import Setup** action**.
 3. In the **Automatic Bank Statement Import Setup** window, in the **Number of Days Included** field, specify how far back in time to get new bank transactions for.
 
-  **Note**: It is recommended that you set this value to 7 days or more.
+    **Note**: It is recommended that you set this value to 7 days or more.
 4. Select the **Enabled** check box.  
 Every hour, the **Payment Reconciliation Journal** window will now be filled with any new payments that are made on the online bank account.
 
-**Note**: Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported. 
- 
-##See Also  
+**Note**: Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported.
+
+## See Also  
 [Set Up Banking](bank-setup-banking.md)  
 [Manage Bank Accounts](bank-manage-bank-accounts.md)
