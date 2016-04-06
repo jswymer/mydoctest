@@ -150,7 +150,7 @@ There may be instances where field values contain these symbols and you want to 
 ## Quick filter
 You can add filters to all pages, either by using the Quick Filter or the Advanced Filter. The Quick Filter is enabled by entering criteria in the **Type to filter** box at the top of a page. This filtering type is used for a fast entry of criteria. The advanced filtering option is available when you click the expand button next to the Quick Filter or when you press F3. All filters are cleared by pressing Ctrl+Shift+A.
 
-**Note** In Project "Madeira" Tablet client and Project "Madeira" Phone client, you have a Search capability that works in the same way as Quick Filter.
+**Note**: In Project "Madeira" Tablet client and Project "Madeira" Phone client, you have a Search capability that works in the same way as Quick Filter.
 
 **Important**  
 Filtering using the Quick Filter works a bit differently than using the Advanced Filter. The Quick Filter provides an easy access to filter data by entering plain text, but does also provide a lot of search criteria options. Depending on whether you enter plain text or text including symbols, the Quick Filter behaves differently.  
@@ -197,8 +197,7 @@ Filtering using the Quick Filter works a bit differently than using the Advanced
   </TR>
 </TABLE>
 
-**Note**  
-You cannot use a wildcard when filtering on enumeration fields, such as the **Status** field on sales orders. To enter a filter for this type of field, you can enter the numeric value as a filtering parameter. For example, in the **Status** field on a sales order that has the values **Open**, **Released**, **Pending Approval**, and **Pending Prepayment**, use the values **0**, **1**, **2**, and **3** to filter for these options.  
+**Note**: You cannot use a wildcard when filtering on enumeration fields, such as the **Status** field on sales orders. To enter a filter for this type of field, you can enter the numeric value as a filtering parameter. For example, in the **Status** field on a sales order that has the values **Open**, **Released**, **Pending Approval**, and **Pending Prepayment**, use the values **0**, **1**, **2**, and **3** to filter for these options.  
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
