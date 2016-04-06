@@ -10,7 +10,7 @@ The sorting function makes it easy for you to get a quick overview of your data.
 
 Choose a column heading and use the small arrow to sort ascending or descending.  
 
-**Note** that sorting is not supported images, BLOB fields, FlowFilters, and fields that do not belong to a table.
+**Note**: Sorting is not supported images, BLOB fields, FlowFilters, and fields that do not belong to a table.
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)  
