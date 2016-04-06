@@ -3,7 +3,7 @@
                 description="How to: Work With Checks"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # How to: Work With Checks
 Project "Madeira" supports electronic and manual check issuance. Both methods use the payment journal to issue checks to vendors. You can also void checks and view check ledger entries.
@@ -29,7 +29,7 @@ Your printer must be correctly set up with the check forms, and you must define 
 **Note**: If you want to print checks in more than one currency from different bank accounts, you must run the **Print Check** batch job separately for each currency and specify the appropriate bank account.
 
 ## To cancel printed checks that are not posted
-You can cancel non-posted checks after they have been printed by using the **Void Check** action in the **Payment Journal** window. 
+You can cancel non-posted checks after they have been printed by using the **Void Check** action in the **Payment Journal** window.
 1. In the **Payment Journal** window, choose the **Void Check**, and then choose which checks to cancel.
 
 ## To void checks

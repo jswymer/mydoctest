@@ -3,7 +3,7 @@
                 description="Set Up Sales"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # Set Up Sales
 

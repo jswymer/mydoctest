@@ -3,7 +3,7 @@
         description="Provides information about the PayPal Payments Standard extension"
         services=""
         documentationCenter="Madeira"
-        authors="edupont"/>
+        authors="sgroespe"/>
 
 # The PayPal Payments Standard Extension to Project "Madeira"
 Customers continuously require higher customer service, both in terms of product quality but also in terms of delivery and payment options. The PayPal Payments Standard service helps you increase your customer service.

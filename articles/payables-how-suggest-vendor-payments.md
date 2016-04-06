@@ -3,7 +3,7 @@
                 description="How to: Suggest Vendor Payments"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # How to: Suggest Vendor Payments
 In the **Payment Journal** window, you can use a function to suggest payment lines according to your settings, such as payments that are due soon or payments where a payment discount is available.

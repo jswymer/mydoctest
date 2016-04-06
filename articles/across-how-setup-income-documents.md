@@ -3,7 +3,7 @@
                 description="How to: Set Up Incoming Documents"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont" />
+                authors="sgroespe" />
 
 # How to: Set Up Incoming Documents
 If you create general journal lines from incoming document records, you must specify in the **Incoming Documents Setup** window which journal template and batch to use.

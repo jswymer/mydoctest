@@ -3,7 +3,7 @@
                 description="Process Incoming Documents"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # Process Incoming Documents
 
