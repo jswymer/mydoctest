@@ -16,9 +16,9 @@ Vendor cards hold the information that is required to buy products from the vend
 
 ## To create a new vendor card
 1. On the Home page, choose **Vendors** to open the list of existing vendors.  
-2. In the **Vendors** window, Choose **New**.
+2. In the **Vendors** window, Choose **New**. 
 
-  If more than one vendor template exists, then a window opens from which you can select a vendor template. In that case, follow the next two steps.
+    If more than one vendor template exists, then a window opens from which you can select a vendor template. In that case, follow the next two steps.
 3. In the **Select a template for a new vendor** window, choose the template that you want to use for the new vendor card.
 4. Choose the **OK** button. A new vendor card opens with some fields filled with information from the template.
 5. Proceed to fill or change fields on the vendor card as necessary. Choose a field to read a short description of the field or link to more information.
