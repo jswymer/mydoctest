@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Synchronizing Contacts With Customers, Vendors, and Bank Accounts | Project “Madeira”" 
-                description="Describes synchronizing contacts with customers, vendors, and bank accounts in Project “Madeira”" 
-                services="" 
+                pageTitle="Synchronizing Contacts With Customers, Vendors, and Bank Accounts | Project “Madeira”"
+                description="Describes synchronizing contacts with customers, vendors, and bank accounts in Project “Madeira”"
+                services=""
                 documentationCenter="Madeira"
                 authors="edupont"/>
 
@@ -27,8 +27,7 @@ When the contact is synchronized with the customer, vendor, bank account:
 * If you delete a contact linked to a customer, vendor or bank account, only the contact is removed. The customer, vendor, or bank account remains.
 * If you delete a customer, vendor, bank account linked to a contact, the contact remains.
 
-**Note:** Some details, such as invoicing and posting details, do not appear on the contact card. Therefore, you may want to add them manually on the customer card, vendor card, or bank account card when you create contacts as customers, vendors or bank accounts. 
-
+**Note**: Some details, such as invoicing and posting details, do not appear on the contact card. Therefore, you may want to add them manually on the customer card, vendor card, or bank account card when you create contacts as customers, vendors or bank accounts.
 
 ##See Also
 [Manage Contacts](marketing-contacts.md)
