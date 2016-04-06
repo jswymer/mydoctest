@@ -21,7 +21,7 @@ The process for closing the book includes these main tasks:
 
 2. Registering prior-year entries.
 
-    When you close a fiscal year, you must enter a number of administrative transactions (such as prepaid and accrued items). These transactions are called adjusting entries. There are no special rules for posting these entries, and they (like other entries) contain a check mark in the Prior-Year Entry field if they are posted on a date in a closed fiscal year. Even though a fiscal year has been closed, you can still post general ledger entries to it.
+    When you close a fiscal year, you must enter a number of administrative transactions (such as prepaid and accrued items). These transactions are called adjusting entries. There are no special rules for posting these entries, and they (like other entries) contain a check mark in the **Prior-Year Entry** field if they are posted on a date in a closed fiscal year. Even though a fiscal year has been closed, you can still post general ledger entries to it.
 
 3. Transferring balances from the income statement accounts to the balance sheet.
 
