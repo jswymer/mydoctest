@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Correct or Cancel Unpaid Purchase Invoices| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="How to: Correct or Cancel Unpaid Purchase Invoices| Project “Madeira”"
+                description="How to: Correct or Cancel Unpaid Purchase Invoices"
                 services=""     
                 documentationCenter="Madeira"
                 authors="edupont"/>
@@ -28,7 +28,7 @@ In the **Posted Purchase Invoice** window, you can choose the **Correct** button
 2. Select the posted purchase invoice that you want to cancel.
 
     **Note** If the **Canceled** check box is selected, then you cannot cancel the posted purchase invoice because it has already been canceled or corrected.
-3. In the **Posted Purchase Invoice** window, choose **Cancel**. 
+3. In the **Posted Purchase Invoice** window, choose **Cancel**.
 
     A purchase credit memo is automatically created and posted to void the initial posted purchase invoice. The **Canceled** field on the initial posted purchase invoice is changed to **Yes**.
 5. Choose **Show Corrective Credit Memo** to view the posted purchase credit memo that voids the initial posted purchase invoice.

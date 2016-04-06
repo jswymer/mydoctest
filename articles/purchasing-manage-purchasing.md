@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Manage Purchasing| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="Manage Purchasing| Project “Madeira”"
+                description="Manage Purchasing" 
+                services=""
                 documentationCenter="Madeira"
                 authors="edupont"/>
 

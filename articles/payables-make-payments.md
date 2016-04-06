@@ -1,11 +1,11 @@
 <properties
-                pageTitle="Make Payments| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="Make Payments| Project “Madeira”"
+                description="Make Payments"
+                services=""
                 documentationCenter="Madeira"
                 authors="edupont"/>
 
-#Make Payments
+# Make Payments
 When you make payments to vendors, you post the related payment lines in the **Payment Journal** window. You can use the **Suggest Vendor Payments** function to find payments that are due. You can also use the **Vendor - Summary Aging** report to get an overview of due payments.
 
 From the payment journal, you can print computer checks or record when checks are written. If you select **Computer Check** in the **Bank Payment Type** field, then any lines representing checks must be printed before the payment journal can be posted.
@@ -16,10 +16,10 @@ After the payments are made at your bank, you must apply them to their related o
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
-| To   | See                             |
-|------|-------------------|
+|To |See |
+|---|----|
 |Use a function to suggest vendor payments according to selected criteria, such as due date, discount eligibility, and your liquidity.|[How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md)|
-|Issue checks for payments, either as print-outs or as computer checks. Void checks before or after posting.|[How to: Work With Checks](payables-how-work-checks.md)| 
+|Issue checks for payments, either as print-outs or as computer checks. Void checks before or after posting.|[How to: Work With Checks](payables-how-work-checks.md)|
 |Export payments from the **Payment Journal** window to a bank file that you upload to your bank for processing.|[How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md)|
 
 ## See Also

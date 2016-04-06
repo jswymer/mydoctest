@@ -1,10 +1,10 @@
 <properties
-                pageTitle="How to: Collect Outstanding Balances| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="How to: Collect Outstanding Balances| Project “Madeira”"
+                description="How to: Collect Outstanding Balances"
+                services=""
                 documentationCenter="Madeira"
                 authors="edupont"/>
-                
+
 #How to: Collect Outstanding Balances
 Managing receivables includes checking whether amounts due are paid on time. If customers have overdue payments, you can send the Customer Statement report as a reminder.
 
@@ -14,6 +14,6 @@ Managing receivables includes checking whether amounts due are paid on time. If 
 2. Fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
 3. Under **Output Options**, select how to send the report to the customer.
 
-##See Also
+## See Also
 [Manage Receivables](receivables-manage-receivables.md)  
 [Manage Sales](sales-manage-sales.md)
