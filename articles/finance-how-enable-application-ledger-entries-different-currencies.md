@@ -16,8 +16,8 @@ The following procedure describes how to set this up for vendor ledger entries i
 1. In the **Search** box, enter **Purchases & Payables Setup**, and then choose the related link.
 2. In the **Appln. between Currencies** field, select one of the following options.
 
-|Option|Description|
-|------|-----------|
+|Option |Description |
+|-------|------------|
 |None|Application between currencies is not allowed.|
 |EMU|Application between EMU currencies is allowed.|
 |All|Application between all currencies is allowed.
