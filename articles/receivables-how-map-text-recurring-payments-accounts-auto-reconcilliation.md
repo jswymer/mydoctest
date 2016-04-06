@@ -1,11 +1,11 @@
 <properties
-                pageTitle="How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation| Project “Madeira”" 
-				description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation| Project “Madeira”"
+				description="How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation"
+                services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
-#How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation
+# How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation
 In the **Text-to-Account Mapping** window, which you open from the **Payment Reconciliation Journal** window, you can set up mappings between text on payments and specific debit, credit, and balancing accounts so that such payments are posted to the specified accounts when you post the payment reconciliation journal.
 
 Similar functionality exists to reconcile excess amounts on payment reconciliation journal lines on an ad-hoc basis. For more information, see [How to: Reconcile Payments That Cannot be Applied Automatically](receivables-how-reconcile-payments-cannot-apply-auto.md).
@@ -16,7 +16,7 @@ Payments posted based on text-to-account mapping are not applied to open entries
 
 On a payment reconciliation journal line where the payment has been set to posting according to text-to-account mapping, the **Match Confidence** field contains **High - Text-to-Account Mapping**, and the **Account Type** and **Account No.** fields contain the mapped accounts.
 
-##To map text on recurring payments to accounts for automatic reconciliation
+## To map text on recurring payments to accounts for automatic reconciliation
 1. In the **Search** box, enter **Payment Reconciliation Journals**, and then choose the related link.
 2. Open a payment reconciliation journal. For more information, see [How to: Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).
 3. Choose the **Map Text to Account** action. The **Text-to-Account Mapping** window opens.
@@ -33,12 +33,12 @@ Next time you import a bank statement file or choose the **Apply Automatically**
 
 To always post fuel expenses incurred at Shell gas stations to the general ledger account for gasoline (account 8510), fill a line in the **Text-to-Account Mapping** window as follows.
 
-|Mapping Text|Debit Acc. No.|Credit Acc. No.|Bal. Source Type|Bal. Source No.|  
-|------------|--------------|---------------|----------------|---------------|
+|Mapping Text |Debit Acc. No. |Credit Acc. No. |Bal. Source Type |Bal. Source No. |
+|-------------|---------------|----------------|-----------------|----------------|
 |Shell |BLANK |8510 |G/L Account|BLANK|
- 
-**Tip**: For more information about how to work with fields and columns, see Working with Project "Madeira". For more information about how to find specific pages, see Search.| 
- 
-##See Also
+
+**Tip**: For more information about how to work with fields and columns, see Working with Project "Madeira". For more information about how to find specific pages, see Search.|
+
+## See Also
 [Manage Receivables](receivables-manage-receivables.md)  
 [Manage Sales](sales-manage-sales.md)
