@@ -8,7 +8,7 @@
 #Create Contact Persons
 You can create a contact card for each contact who works for the companies you interact with. For each contact company you can enter as many contact persons as you want. You can also create contact cards for the persons that you want to record as independent.
 
-**Tip:** Before creating a contact, you may want to check the **Inheritance** settings in the **Marketing Setup** window. Setting up inheritance enables information about contact companies that is common to contact persons, such as address details, to be automatically copied from the contact company to the contact person each time you create a contact person for a recorded contact company.
+**Tip**: Before creating a contact, you may want to check the **Inheritance** settings in the **Marketing Setup** window. Setting up inheritance enables information about contact companies that is common to contact persons, such as address details, to be automatically copied from the contact company to the contact person each time you create a contact person for a recorded contact company.
 
 ## To create a contact card for a person
 1. In the **Search** box, enter **Contacts**, and then choose the related link.
@@ -19,7 +19,7 @@ You can create a contact card for each contact who works for the companies you i
 4. In the **Type** field, select **Person**.
 5. Fill in the other fields on the contact card.
 
-**Note:** The contents of the fields that you have selected in the **Inheritance** section of the **Marketing Setup** window are copied from the company to the persons within that company.
+**Note**: The contents of the fields that you have selected in the **Inheritance** section of the **Marketing Setup** window are copied from the company to the persons within that company.
 
 ##See Also
 [Set Up Marketing and Contact Management](marketing-setup-marketing.md)  
