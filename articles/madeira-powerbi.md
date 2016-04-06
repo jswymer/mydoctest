@@ -20,7 +20,7 @@ To access the Project "Madeira" content pack in Power BI, you must get two piece
 **Getting the URL**  
 When you add Project "Madeira" to Power BI, you must specify a URL so Power BI can access data from your company. In the connection page, the URL is referred to as the **OData Feed URL**, and it must have the following format:
 
-         https://*mycronusus*.projectmadeira.com:7048/NAV/OData/Company('*CRONUS%20US*') 
+         https://*mycronusus*.projectmadeira.com:7048/MS/OData/Company('*CRONUS%20US*')  
 In this example, *mycronusus* is the name of your Project "Madeira" instance, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name. To get the URL, in Project "Madeira", search for the **Web Services** page, and then copy the link from one of the default OData web services.  
 **Getting the web service access key**  
 In order to use data from Project "Madeira", you will need to create a web service access key for your user account. In Project “Madeira”, search for the **Users** page, and then open the card for your user account. Here you can generate a new web services access key and copy it to the Password field in the Power BI connection page. The user name is the email account that you use for Project "Madeira".  
@@ -44,7 +44,7 @@ The Power BI dashboard relies on the published web services that are listed abov
 **"Parameter validation failed, please make sure all parameters are valid"**  
 If you see this error after you enter your Project “Madeira” URL, make sure the following requirements are satisfied:  
 - The URL follows exactly this pattern:
-https://*mycronusus*.projectmadeira.com:7048/NAV/OData/Company('*CRONUS%20US*')  
+https://*mycronusus*.projectmadeira.com:7048/MS/OData/Company('*CRONUS%20US*')  
 - Delete any text after the company name in parenthesis  
 - Make sure there are no trailing forward slash at the end of the URL.  
 - Make sure the URL is uses a secure connection as indicated by the URL starting with *https*.  
@@ -56,11 +56,11 @@ If you get a "login failed" error when you log in to the dashboard, using your P
 
 **"Oops"**  
 If you see an "Oops" error dialog after you pass the authentication dialog, this is most frequently caused by a problem connecting to the data for the content pack. 
-Verify that the URL follows the pattern that was specified earlier: https://*mycronusus*.projectmadeira.com:7048/NAV/OData/Company('*CRONUS%20US*')  
+Verify that the URL follows the pattern that was specified earlier: https://*mycronusus*.projectmadeira.com:7048/MS/OData/Company('*CRONUS%20US*')  
 A common mistake is to specify the full URL for a specific web service:  
-https://*mycronusus*.projectmadeira.com:7048/NAV/OData/Company('*CRONUS%20US*')/powerbifinance  
+https://*mycronusus*.projectmadeira.com:7048/MS/OData/Company('*CRONUS%20US*')/powerbifinance  
 Or you might have forgotten to specify the company name: 
-https://*mycronusus*.projectmadeira.com:7048/NAV/OData/  
+https://*mycronusus*.projectmadeira.com:7048/MS/OData/  
 
  
 ## See Also
