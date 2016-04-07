@@ -1,9 +1,9 @@
 <properties
-                pageTitle="How to: Export Payments to a Bank File| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="How to: Export Payments to a Bank File| Project “Madeira”"
+                description="How to: Export Payments to a Bank File"
+                services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # How to: Export Payments to a Bank File
 When you are ready to make payments to your vendors using the **Payment Journal** window, you can export a file with the payment information on the journal lines. You can then upload the file to your electronic bank to process the related money transfers.
@@ -12,22 +12,22 @@ In the generic version of Project "Madeira", a global provider of services to co
 
 **Note**: Before you can export from a payment journal, you must enable export on the related journal batch. In addition, your bank account and the vendor’s bank account must be set up for electronic payment. For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).
 
-You use the **Credit Transfer Registers** window to view the payment files that have been exported from the payment journal. From this window, you can also re-export payment files in case of technical errors or file changes. 
+You use the **Credit Transfer Registers** window to view the payment files that have been exported from the payment journal. From this window, you can also re-export payment files in case of technical errors or file changes.
 
 ## To export payments to a bank file
 1. In the **Search** box, enter **Payment Journals**, and then choose the related link.
 2. Fill payment journal lines, for example, by using the **Suggest Vendor Payments** function. For more information, see [How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md).  
 3. When you have completed all payment journal lines, choose **Export Payment to File**.
 
-  Any error messages will be shown in the **Payment File Errors** FactBox where you can also choose an error message to see detailed information. You must resolve all errors before the payment file can be exported.
-  
-  **Tip**: When you use the bank data conversion service, a common error message states that the bank account number does not have the length that your bank requires. To avoid or resolve the error, you must remove the value in the **IBAN** field in the **Bank Account Card** window and then, in the **Bank Account No.** field, enter a bank account number in the format that your bank requires.
-4. In the **Save As** window, specify the location that the file is exported to, and then choose **Save**. 
-  The bank payment file is exported to the location that you specify, and you can proceed to upload it to your electronic bank account and make the actual payments.
-  
+    Any error messages will be shown in the **Payment File Errors** FactBox where you can also choose an error message to see detailed information. You must resolve all errors before the payment file can be exported.
+    **Tip**: When you use the bank data conversion service, a common error message states that the bank account number does not have the length that your bank requires. To avoid or resolve the error, you must remove the value in the **IBAN** field in the **Bank Account Card** window and then, in the **Bank Account No.** field, enter a bank account number in the format that your bank requires.
+4. In the **Save As** window, specify the location that the file is exported to, and then choose **Save**.
+
+The bank payment file is exported to the location that you specify, and you can proceed to upload it to your electronic bank account and make the actual payments.
+
 When you receive confirmation that the payments are successfully processed in the bank, you can post the exported payment journal lines.
 
-##To plan when to post exported payments 
+## To plan when to post exported payments
 If you do not want to post a payment journal line for an exported payment, for example because you are waiting for confirmation that the transaction has been processed by the bank, you can just delete the journal line. When you later create a payment journal line to pay the remaining amount on the invoice, the **Total Exported Amount** field shows how much of the payment amount has already been exported. Also, you can find detailed information about the exported total by choosing the **Credit Transfer Reg. Entries** button to see details about exported payment files.
 
 If you follow a process where you do not post payments until you have confirmation that they have been processed in the bank, you can control this in two ways.

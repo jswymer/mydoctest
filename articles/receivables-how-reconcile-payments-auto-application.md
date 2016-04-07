@@ -1,11 +1,11 @@
 <properties
-                pageTitle="How to: Reconcile Payments Using Automatic Application| Project “Madeira”" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="How to: Reconcile Payments Using Automatic Application| Project “Madeira”"
+                description="How to: Reconcile Payments Using Automatic Application"
+                services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
-#How to: Reconcile Payments Using Automatic Application
+# How to: Reconcile Payments Using Automatic Application
 The **Payment Reconciliation Journal** window specifies payments, either incoming or outgoing, that have been recorded as transactions on your online bank account and that you can apply to their related open customer, vendor, and bank account ledger entries. The lines in the journal are filled by importing a bank statement as a bank feed or file.
 
 A payment reconciliation journal is related to one bank account in Project "Madeira" that reflects the online bank account where the payment transactions are recorded. Any open bank account ledger entries related to the applied customer or vendor ledger entries will be closed when you choose the **Post Payments and Reconcile Bank Account** action. This means that the bank account is automatically reconciled for payments that you post with the journal.
@@ -22,24 +22,24 @@ On journal lines where a payment has been applied automatically to one or more o
 
 For each journal line in the **Payment Reconciliation Journal** window, you can open the **Payment Application** window to see all candidate open entries for the payment and view detailed information for each entry about the data matching that a payment application is based on. Here, you can manually apply payments or reapply payments that were applied automatically to a wrong entry. For more information, see [How to: Review or Apply Payments After Automatic Application](receivables-how-review-apply-payments-auto-application.md).
 
-> **Note:** You can start the bank transactions import at the same time as you open the **Payment Reconciliation** Journal window for an existing payment reconciliation journal in the **Payment Reconciliation Journals** window. The following procedure describes how to import bank transactions into the **Payment Reconciliation Journal** window after you have created a new journal.
+    **Note:** You can start the bank transactions import at the same time as you open the **Payment Reconciliation** Journal window for an existing payment reconciliation journal in the **Payment Reconciliation Journals** window. The following procedure describes how to import bank transactions into the **Payment Reconciliation Journal** window after you have created a new journal.
 
-##To reconcile payments using automatic application
+## To reconcile payments using automatic application
 1. In the **Search** box, enter **Payment Reconciliation Journals**, and then choose the related link.
 2. To work in a new payment reconciliation journal, choose the **New Journal** action.
-3. In the **Payment Bank Account List** window, select the bank account that you want to reconcile payments for, and then choose the **OK** button. 
+3. In the **Payment Bank Account List** window, select the bank account that you want to reconcile payments for, and then choose the **OK** button.
 The **Payment Reconciliation Journal** window opens prepared for the selected bank account.
 4. Choose the **Import Bank Transactions** action.
 If the bank account for the selected journal is not set up for import of bank transactions, then a dialog box will open to help you fill the relevant fields.
 5. In the **Select a file to import** window, select the file that contains the bank transactions for payments that you want to reconcile, and then choose the **Open** button.  
 6. If the Bank Statement service is enabled, in the **Bank Statement Filter** window that opens automatically, specify the date interval for the bank statements to be imported.
 
-  The **Payment Reconciliation Journal** window is filled with lines for payments representing bank transactions in the imported bank statement.
-  
-  On lines for payments that have been automatically applied to their related open entries, the **Match Confidence** field has a value between **Low** and **High** to indicate the quality of the data matching that the suggested payment application is based on. In addition, the **Account Type** and **Account No.** fields are filled with information about the customer or vendor that the payment is applied to.
+    The **Payment Reconciliation Journal** window is filled with lines for payments representing bank transactions in the imported bank statement.
+
+    On lines for payments that have been automatically applied to their related open entries, the **Match Confidence** field has a value between **Low** and **High** to indicate the quality of the data matching that the suggested payment application is based on. In addition, the **Account Type** and **Account No.** fields are filled with information about the customer or vendor that the payment is applied to.
 7. Select a journal line, and then, choose the **Apply Manually** action to review, reapply, or apply the payment manually in the **Payment Application** window. For more information, see [How to: Review or Apply Payments After Automatic Application](receivables-how-review-apply-payments-auto-application.md).
 
-  When you have finished your manual application, the **Match Confidence** field on the journal line that you have processed manually contains **Accepted**.
+    When you have finished your manual application, the **Match Confidence** field on the journal line that you have processed manually contains **Accepted**.
 8. Select an unapplied journal line for a recurring cash receipt or expense, such as a car gasoline purchase, and then on the Home tab, in the Review group, choose Map Text to Account. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md)
 9. When you have finished your mapping of payment text to accounts, choose the **Apply Manually** action.
 10. When you are content that all payments on the journal lines are correctly applied or set to direct posting, choose the **Post** action.
@@ -50,6 +50,6 @@ You can compare the value in the **Balance on Bank Account After Posting** field
 
 **Note**: If you do not want to reconcile the bank account from the **Payment Reconciliation Journal** window, then you must use the **Bank Acc. Reconciliation** window. For more information, see [Reconcile Bank Accounts Separately](bank-how-reconcile-bank-accounts-separately.md).
 
-##See Also
+## See Also
 [Manage Receivables](receivables-manage-receivables.md)  
 [Manage Sales](sales-manage-sales.md)
