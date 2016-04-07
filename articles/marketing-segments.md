@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Manage Segments | Project “Madeira”" 
-                description="Describes segments for contacts in Project “Madeira”" 
-                services="" 
+                pageTitle="Manage Segments | Project “Madeira”"
+                description="Describes segments for contacts in Project “Madeira”"
+                services=""
                 documentationCenter="Madeira"
                 authors="jswymer"/>
 
@@ -9,6 +9,7 @@
 You create segments to select a group of contacts according to specific criteria. For example, a segment could be the industry that the contacts belong to or your business relationship with the contacts. You can create a segment to select the contacts you want to target with a campaign.
 
 There are two main tasks in creating a segment:
+
 * Enter general information about the segment. Before you can select the contacts within the segment, you must first create the segment.
 * Select the contacts to be included within the segment.
 
