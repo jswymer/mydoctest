@@ -13,7 +13,7 @@ You create a sales invoice or sales order to record your agreement with a custom
 
 You can negotiate with the customer by first creating a sales quote, which you can convert to a sales invoice when you agree on the sale. For more information, see [How to: Make Offers](sales-how-make-offers.md).
 
-After the customer has confirmed the agreement, for example after a quote process, you post the sales invoice to to create the related quantity and value entries in your system. When you post the sales invoice, you can also email the document as a PDF attachment. You can have the email body prefilled with a summary of the order and payment information, such as a link to PayPal. For more information, see [Set Up Sales](sales-setup-sales.md).
+After the customer has confirmed the agreement, for example after a quote process, you post the sales invoice to create the related quantity and value entries in your system. When you post the sales invoice, you can also email the document as a PDF attachment. You can have the email body prefilled with a summary of the invoice and payment information, such as a link to PayPal. For more information, see [How to: Send Documents by Email](ui-how-send-documents-email.md).
 
 In business environments where the customer must pay before products are delivered, such as in retail, you must wait for the receipt of payment before you deliver the products. In most cases, you process incoming payments some weeks after delivery by applying the payments to their related posted, unpaid sales invoices. For more information, see [How to: Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).
 
