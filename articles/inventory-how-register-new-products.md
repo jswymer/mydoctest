@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Register New Products| Project "Madeira""
-                description="Welcome to Project "Madeira"" 
+                pageTitle="How to: Register New Products| Project "Madeira"
+                description="Welcome to Project "Madeira" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont" />
