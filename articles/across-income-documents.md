@@ -22,7 +22,7 @@ The incoming document process can consists of the following main activities:
     * Automatically, by receiving the document from the OCR service as an electronic document after you have e-mailed the related PDF or image file to the OCR service. The **Financial Information** FastTab is automatically filled in the **Incoming Document** window.
 * Use the OCR service to have PDF or image files turned into electronic documents that can be converted to document records in Project 'Madeira'.
 * Create new documents or general journal lines for incoming document records by entering the information as you it read from incoming document files.
-* Attach incoming document files to purchase and sales documents of any status, including to the resulting vendor, customer, and general ledger entries that result from posting.
+* Attach incoming document files to purchase and sales documents of any status, including to the vendor, customer, and general ledger entries that result from posting.
 * View incoming document records and their attachments from any purchase and sales document or entry, or find all general ledger entries without incoming document records from the **Chart of Accounts** window.
 
 
