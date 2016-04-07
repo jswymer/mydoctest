@@ -31,6 +31,7 @@ You can fill customer fields on the sales order in two ways depending on whether
 2. In the **Customer** field, enter the name of an existing customer.
 
     Other fields in the **Sales Order** window are now filled with the standard information of the selected customer. If the customer is not registered, then follow these steps:
+
 3. In the **Customer** field, enter the name of the new customer.
 4. In the dialog box about registering the new customer, choose the **Yes** button.  
 5. In the **Select a template for a new customer** window, choose a template to base the new customer card on, and then choose the **OK** button.
