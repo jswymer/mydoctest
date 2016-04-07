@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Define Check Layouts| Project Madeira"
+                pageTitle="How to: Define Check Layouts| Project “Madeira”"
                 description="Welcome to Project "Madeira"" 
                 services="" 
                 documentationCenter="Madeira"
@@ -17,7 +17,7 @@ Checks are designed to print in both the United States and Canadian check image 
 3. Select one of the following report IDs.
 
 | Report ID   | Report Name   | Description |
-|------|-------------------|
+|-------------|---------------|-------------|
 |1401|Check|This is the default report.|
 |10401|Check (Stub/Stub/Check)|This report is designed to print checks in a stub/stub/check format.|
 |10411|Check (Stub/Check/Stub)|This report is designed to print checks in a check/stub/check format.|

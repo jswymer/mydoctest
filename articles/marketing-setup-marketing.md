@@ -1,7 +1,7 @@
-<properties
-                pageTitle="Set Up Marketing and Contacts | Project “Madeira”" 
-                description="Set up Marketing" 
-                services="" 
+﻿<properties
+                pageTitle="Set Up Marketing and Contacts | Project “Madeira”"
+                description="Describes how to set up marketing and contact management in Project “Madeira”"
+                services=""
                 documentationCenter="Madeira"
                 authors="edupont"/>
 
@@ -12,23 +12,6 @@ Managing your contacts and having a strategy in place to identify, attract, and 
 
 You set up the marketing and contact management from the **Marketing Setup** window. To open the **Marketing Setup** window, in the **Search** box, type **Marketing Setup** and choose the related link.
 
-## What do you want to do?
-[Automatically copy specific information from the contact companies to the contact persons](#automatically-copy-specific-information-from-the-contact-companies-to-the-contact-persons)  
-
-[Use predefined language codes, territory codes, country/region codes, and salutations for your contacts](#use-predefined-defaults-on-new-contacts)  
-
-[Automatically record sales and purchase documents, e-mails, and phone calls as interactions](#automatically-record-interactions)   
-
-[Synchronize contacts with customers, vendors, and bank accounts](#synchronize-contacts-with-customers-and-more)  
-
-[Use specific number series on contacts and opportunities](#assign-a-number-series-to-contacts-and-opportunities) 
-
-[Prevent creating duplicate contacts](#search-for-duplicate-contacts-when-contacts-are-created)  
-
-[Exchange email messages with your contacts, customers, vendors, and so on.](#set-up-email-logging)
-
-
-
 ## Automatically copy specific information from the contact companies to the contact persons
 Some information about contact companies is identical to the information about the contact persons working within these companies, for example, the address details. In the **Inheritance** section of the **Marketing Setup** window, you can set the application to automatically copy specific fields from the contact company card to the contact person card each time you create a contact person for a contact company. For example, you can select to copy the salesperson code, address details (address, address 2, city, post code, and county), communication details (fax number, telex answer back, and phone number), and more.
 
@@ -38,9 +21,9 @@ For more information, see [How to: Create Contact Persons](marketing-how-create-
 
 ## Use predefined defaults on new contacts
 You can decide that the application automatically assigns a specific language code, territory code, salesperson code, and country/region code as defaults to each new contact you create. You can also enter a default sales cycle code that the program automatically assigns to each new opportunity you create.
- 
->The inheritance of fields overwrites the default values you have set up. For example, if you have set up English as the default language, but the contact company's language is German, the program will automatically assign German as the language code for the contact persons recorded for that company.
- 
+
+The inheritance of fields overwrites the default values you have set up. For example, if you have set up English as the default language, but the contact company's language is German, the program will automatically assign German as the language code for the contact persons recorded for that company.
+
 <!--You can also setup a default salutation that the program automatically assigns to your contacts. You can use these salutations in your interaction template attachments (for example, Microsoft Word documents). When setting up a default salutation, you can enter a salutation text and a salutation format. For example, if the salutation text is Dear, and the salutation format is Salutation Text + Title + Name, the program will automatically enter Dear Mr. John Smith as a salutation for a contact called John Smith.-->
 
 ## Automatically record interactions
@@ -62,8 +45,7 @@ For more information about number series, see [Create Number Series](ui-create-n
 You can choose to have the program automatically search for duplicates each time you create a contact company, or you can choose to search manually after you have created contacts. You can also choose to have the program update the search strings automatically each time you modify contact information or create a contact. You can decide the search hit percentage, that is, the percentage of identical strings two contacts must have for the program to consider them as duplicates.
 
 ## Set up email logging
-You can exchange email messages with your contacts, customers, vendors, and so on. You can send and receive your email messages either from the application or from Outlook. Before you can exchange messages this way and have the system store and queue them, you have to set up some parameters, such as time interval at which the program will check whether any emails are waiting to be processed, email logging profile name, and so on. 
+You can exchange email messages with your contacts, customers, vendors, and so on. You can send and receive your email messages either from the application or from Outlook. Before you can exchange messages this way and have the system store and queue them, you have to set up some parameters, such as time interval at which the program will check whether any emails are waiting to be processed, email logging profile name, and so on.
 
 ##See Also
 [Manage Contacts](marketing-contacts.md)  
-

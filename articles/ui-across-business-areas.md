@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Across Business Areas | Project "Madeira""
+	pageTitle="Across Business Areas | Project “Madeira”"
         description="Learn more about functionality that is common across business areas in Project “Madeira”" 
         services="" 
         documentationCenter="Madeira"
@@ -11,8 +11,8 @@ Project "Madeira" provides dedicated functionality for typical business areas, s
 
 The following table lists these general business areas with links to topics that describe them.
 
-|To|See|
-|--|---|
+|To   |See   |
+|-----|------|
 |Assign unique identification codes to records, such as general ledger accounts, customer and vendor accounts, invoices, and documents. A well-designed numbering system also makes the company more manageable and easy to analyze and can reduce the number of errors that occur in data entry.|[Create Number Series](ui-create-number-series.md)|
 |Set up standard text codes so you can extend standard text by adding extra lines, and set up conditions for use of the extra lines.|[How to: Define Extended Text](ui-how-define-ext-text.md)|
 |Change Project "Madeira" by installing extensions that add functionality, changes behavior, or gives you access to new online services.|[Customizing Project "Madeira" Using Extensions](ui-extensions.md)|
@@ -26,3 +26,4 @@ The following table lists these general business areas with links to topics that
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
+

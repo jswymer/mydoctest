@@ -1,8 +1,8 @@
-<properties pageTitle="How to: Set Up Opportunity Sales Cycles and Cycle Stages | Project Madeira" 
-    description="Welcome to Project "Madeira"" 
+<properties pageTitle="How to: Set Up Opportunity Sales Cycles and Cycle Stages | Project “Madeira”" 
+    description="Describes how to set up opportunity sales cycles and stages in Project “Madeira”" 
     services="" 
     documentationCenter="Madeira"
-    authors="edupont"/>
+    authors="jswymer"/>
     
 # How to: Set Up Opportunity Sales Cycles and Cycle Stages
 Before you can start using sales opportunities, you must set up sales cycles and sales cycle stages. A sales cycle is made up of a series of stages that go from the initial contact to the closing of a sale. Each stage can have certain requirements that must be met, such as requiring a sales quote, before an opportunity can go to the next stage. You can also specify whether a stage can be skipped. You can setup as many sales cycles as you need, and you can set up as many sales cycle stages as necessary within a sales cycle.
@@ -10,17 +10,13 @@ Before you can start using sales opportunities, you must set up sales cycles and
 Implementing opportunity sales cycles involves setting up the sales cycle code, defining the different stages of the cycle, and then assigning the cycle to opportunities. 
 
 ## To set up an opportunity sales cycle code
-1. In the **Search** box, enter **Sales Cycles**, and then choose the related link.
-
-  The **Sales Cycles** window opens, and lists all the existing sales cycles. 
+1. In the **Search** box, enter **Sales Cycles**, and then choose the related link. The **Sales Cycles** window opens, and lists all the existing sales cycles. 
 2. Choose the **New** action, and fill in the fields.
 
 Repeat these steps to set up as many sales cycles as you want. After you have set up opportunity sales cycles, you may want to set up the different stages within each cycle. 
 
 ## To define opportunity sales cycle stages
-1. In the **Sales Cycles** window, select the opportunity sales cycle for which you want to set up stages, and then choose the **Stages** action.
-
-  The **Sales Cycle Stages** window opens.
+1. In the **Sales Cycles** window, select the opportunity sales cycle for which you want to set up stages, and then choose the **Stages** action. The **Sales Cycle Stages** window opens.
 2. Choose the **New** action to enter a new stage in the sales cycle.
 
 Repeat these steps to set up as many stages as you want within the sales cycle.

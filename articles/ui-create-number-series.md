@@ -1,10 +1,10 @@
 <properties
-	pageTitle="Create Number Series | Project "Madeira""
-        description="Welcome to Project "Madeira"" 
-        services="" 
+	pageTitle="Create Number Series | Project “Madeira”"
+        description="Welcome to Project "Madeira""
+        services=""
         documentationCenter="Madeira"
         authors="edupont"/>
-    
+
 # Create Number Series
 
 For each company that you set up, you need to assign unique identification codes to things such as general ledger accounts, customer and vendor accounts, invoices, and documents. Numbering is important not only for identification. A well-designed numbering system also makes the company more manageable and easy to analyze, and can reduce the number of errors that occur in data entry.
@@ -19,7 +19,7 @@ After you have set up a code, you set must set up at least one number series lin
 
 If you want to use more than one number series code for one type of master data - for example, if you want to use different number series for different categories of items - you can use number series relationships.
 
-In addition to the numbers that you assign manually or by use of the numbering system, all transactions (ledger entries) are automatically assigned consecutive numbers. These numbers can be seen in the Entry No. field in all the ledger entry windows. You cannot modify or delete these numbers.
+In addition to the numbers that you assign manually or by use of the numbering system, all transactions (ledger entries) are automatically assigned consecutive numbers. These numbers can be seen in the **Entry No.** field in all the ledger entry windows. You cannot modify or delete these numbers.
 
 ## To create relationships between number series
 If you have set up more than one number series code for the same kind of basic information or transactions, you can create relationships between the codes. This feature can assist you in deciding among the codes when you use a number.
@@ -34,5 +34,3 @@ Now when you set up something that requires a number, you can use the relationsh
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
-
-

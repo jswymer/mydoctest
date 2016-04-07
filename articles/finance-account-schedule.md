@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Account Schedules| Project Madeira"
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Account Schedules| Project “Madeira”"
+                description="Using account schedules to analyse data." 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont" />

@@ -1,14 +1,14 @@
 <properties
-                pageTitle="Manage Incoming Documents| Project Madeira"
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="Manage Incoming Documents| Project “Madeira”"
+                description="Manage Incoming Documents"
+                services=""
                 documentationCenter="Madeira"
-                authors="edupont" />
+                authors="sgroespe" />
 
-#Manage Incoming Documents
-Some business transactions are not recorded in Project 'Madeira' from the outset. Instead, an external business document comes into your company as an e-mail attachment or a paper copy that you scan to file. This is typical of purchases, where such incoming document files represent payment receipts for expenses or small purchases. 
+# Manage Incoming Documents
+Some business transactions are not recorded in Project 'Madeira' from the outset. Instead, an external business document comes into your company as an e-mail attachment or a paper copy that you scan to file. This is typical of purchases, where such incoming document files represent payment receipts for expenses or small purchases.
 
-From PDF or image files representing incoming documents, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can then be converted to document records inside Project 'Madeira'. 
+From PDF or image files representing incoming documents, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can then be converted to document records inside Project 'Madeira'.
 
 In the **Incoming Documents** window, you can use different functions to review expense receipts, manage OCR tasks, and convert incoming document files, manually or automatically, to the relevant documents or journal lines. The external files can be attached at any process stage, including to posted documents and to the resulting vendor, customer, and general ledger entries.
 
@@ -23,27 +23,14 @@ The incoming document process can consists of the following main activities:
 * Use the OCR service to have PDF or image files turned into electronic documents that can be converted to document records in Project 'Madeira'.
 * Create new documents or general journal lines for incoming document records by entering the information as you it read from incoming document files.
 * Attach incoming document files to purchase and sales documents of any status, including to the resulting vendor, customer, and general ledger entries that result from posting.
-* View incoming document records and their attachments from any purchase and sales document or entry, or find all general ledger entries without incoming document records from the Chart of Accounts window.
+* View incoming document records and their attachments from any purchase and sales document or entry, or find all general ledger entries without incoming document records from the **Chart of Accounts** window.
 
 
-|To     |See                   |
-|-------|----------------------|
+|To |See |
+|---|----|
 |Set up the Incoming Documents feature and set up the OCR service.|[How to: Set Up Incoming Documents](across-how-setup-income-documents.md)|
 |Create incoming document records, attach files, use OCR to turn PDF files into electronic documents, convert electronic documents to document records, audit incoming document records from posted sales and purchase documents.|[Process Incoming Documents](across-process-income-documents.md)|
 
-##See Also  
+## See Also  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
 [Work With Project "Madeira"](ui-work-product.md)
-
-
-
-
-
-
-
-
-
-
-
-
-

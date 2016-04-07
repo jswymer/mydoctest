@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Using Project “Madeira” as your Business Inbox in Outlook | Project Madeira"
+	pageTitle="Using Project “Madeira” as your Business Inbox in Outlook | Project “Madeira”a"
     description="Using Project “Madeira” as your Business Inbox in Outlook" 
 	services="" 
 	documentationCenter="Madeira"
@@ -10,7 +10,7 @@ Project “Madeira” introduces the ability to manage business interactions wit
 Some companies using Office 365 restrict users’ permissions to deploy add-ins. So you must make sure that you have an Office 365 subscription that includes email and allows you to deploy add-ins. You can sign up for a 1-month free trial of Office 365 [here](https://products.office.com/try).  
 
 ## Get the add-in
-In Project “Madeira”, one of the steps in the Getting Started assisted setup is the **Run your business from within Office 365** page. On that page, when you choose the **Set up in Outlook** button, you must specify your Office 365 user name and password. The Project "Madeira" add-in is then automatically added to your Outlook.  
+In Project “Madeira”, one of the steps in the Getting Started assisted setup is the **Run your business within Office 365** page. On that page, when you choose the **Set up in Outlook** button, you must specify your Office 365 user name and password. The Project "Madeira" add-in is then automatically added to your Outlook.  
 
 Then, when you open Outlook, you should see three email messages from Project “Madeira” Admin, Andy Teal, and Julia Collins, respectively. The new add-in is added to the Outlook ribbon, and in Outlook Web Access, you can see it in the add-in ribbon, immediately above the body of the email message.  
 
@@ -31,7 +31,7 @@ For example, if you receive an email message that mentions the text *S-QUO100*, 
 In the Document Links add-in, you can modify and take actions with the document, just like you can in the Project “Madeira” application.
 
 ## See Also
-["Welcome to Project "Madeira"](madeira-get-started.md)  
+[Welcome to Project "Madeira"](madeira-get-started.md)  
 [Finance](finance.md)  
 [Manage Sales](sales-manage-sales.md)
 [Manage Purchasing](purchasing-manage-purchasing.md)  

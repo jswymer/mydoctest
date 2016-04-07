@@ -1,10 +1,10 @@
 <properties
-                pageTitle="Set Up Purchasing| Project Madeira" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="Set Up Purchasing| Project “Madeira”"
+                description="Set Up Purchasing"
+                services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
-    
+                authors="sgroespe"/>
+
 # Set Up Purchasing
 Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.
 
@@ -18,7 +18,7 @@ Finance-related purchase setup, such as payment methods and currencies, are cove
 
 |To |See |
 |---|----|
-|Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.|[Record Purchase Price, Discount, and Payment Agreements](purchasing-how-record-purcahse-price-discount-payment-agreements.md)|
+|Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.|[Record Purchase Price, Discount, and Payment Agreements](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
 |Prioritize vendors|[How to: Prioritize Vendors](purchasing-how-prioritize-vendors.md)|
 |Set up purchasers |[How to: Set Up Purchasers](purchasing-how-setup-purchasers.md)|
 

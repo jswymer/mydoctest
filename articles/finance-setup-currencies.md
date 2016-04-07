@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Currencies | Project Madeira"
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Currencies | Project “Madeira”"
+                description="Working with multiple currencies" 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont" />

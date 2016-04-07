@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Set Up Dimensions| Project Madeira" 
-                description="Welcome to Project "Madeira"" 
+                pageTitle="Set Up Dimensions| Project “Madeira”" 
+                description="Describes how to set up dimensions." 
                 services="" 
                 documentationCenter="Madeira"
                 authors="edupont"/>

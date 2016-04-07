@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Finance| Project Madeira"
+    pageTitle="Finance| Project “Madeira”"
     description="Learn about key financial concepts and processes " 
 	services="" 
 	documentationCenter="Madeira"

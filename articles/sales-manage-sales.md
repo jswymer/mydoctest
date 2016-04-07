@@ -1,14 +1,14 @@
 <properties
-                pageTitle="Manage Sales" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="Manage Sales| Project “Madeira”"
+                description="Manage Sales"
+                services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
-                
-#Manage Sales
+                authors="sgroespe"/>
+
+# Manage Sales
 You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms. You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. In all other aspects, sales orders work the same way as sales invoices.
 
-Good sales and marketing practices are all about how to make the best decisions at the right time. Marketing functionality in Project "Madeira" provide precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction. For more information, see [Relationship Management](marketing-relationship-management.md). 
+Good sales and marketing practices are all about how to make the best decisions at the right time. Marketing functionality in Project "Madeira" provide precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction. For more information, see [Relationship Management](marketing-relationship-management.md).
 
 You can negotiate with the customer by first creating a sales quote, which you can convert to a sales invoice when you agree on the sale. After the customer has confirmed the agreement, for example after a quote process, you can send an order confirmation to record your obligation to deliver the products as agreed.
 
@@ -20,20 +20,20 @@ You can easily correct or cancel a posted sales invoice before it is paid. This 
 
 Sales documents can be sent as PDF files attached to email. The email body will contain an extract of the sales document, such as products, total amount, and a link to the PayPal site. For more information, see [How to: Send Documents by Email](ui-how-send-documents-email.md).
 
-For all sales processes, you can incorporate an approval workflow, for example, to require that large sales to certain customers are approved by the accounting manager. For more information, see [Using Approval Workflows](across-how-use-approval-workflows.md). 
+For all sales processes, you can incorporate an approval workflow, for example, to require that large sales to certain customers are approved by the accounting manager. For more information, see [Using Approval Workflows](across-how-use-approval-workflows.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
-|To|See|
-|-|-|
+|To |See |
+|---|----|
 |Create a sales quote where you offer products on negotiable terms before converting the quote to a sales invoice.|[How to: Make Offers](sales-how-make-offers.md)|
-|Create a sales invoice to record your agreement with a customer to sell products on certain delivery and payment terms.|[How to: Invoice Sales](sales-how-invoice-sale.md)|
-|Process a sales order that involves inventory handling|[How to: Sell Products](sales-how-sell-products.md) 
+|Create a sales invoice to record your agreement with a customer to sell products on certain delivery and payment terms.|[How to: Invoice Sales](sales-how-invoice-sales.md)|
+|Process a sales order that involves inventory handling|[How to: Sell Products](sales-how-sell-products.md)
 |Perform an action on an unpaid posted sales invoice to automatically create a credit memo and either cancel the sales invoice or recreate it so you can make corrections.|[How to: Correct or Cancel Unpaid Sales Invoices](sales-how-correct-cancel-sales-invoice.md)|
 |Create a sales credit memo to revert a specific posted sales invoice to reflect which products the customer returns and which payment amount you will refund.|[How to: Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md)|
 |Create a customer card for each customer that you sell to.|[How to: Register New Customers](sales-how-register-new-customers.md)|
 
-##See Also  
+## See Also  
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Receivables](receivables-manage-receivables.md)  
 [Manage Payables](payables-manage-payables.MD)      

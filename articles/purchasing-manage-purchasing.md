@@ -1,9 +1,9 @@
 <properties
-                pageTitle="Manage Purchasing| Project Madeira" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="Manage Purchasing| Project “Madeira”"
+                description="Manage Purchasing"
+                services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # Manage Purchasing
 You create a purchase invoice to record the cost of purchases and to track accounts payable. If you need to control an inventory, purchase invoices are also used to dynamically update inventory levels so that you can minimize your inventory costs and provide better customer service. The purchasing costs, including service expenses, and inventory values that result from posting purchase invoices contribute to profit figures and other financial KPIs on your Home page.
@@ -19,8 +19,8 @@ For all purchase processes, you can incorporate an approval workflow, for exampl
 The following table describes a sequence of tasks, with links to the topics that describe them. These tasks are listed in the order in which they are generally performed.
 
 
-|To     |See                   |
-|-------|----------------------|
+|To |See |
+|---|----|
 |Create a purchase invoice to record your agreement with a vendor to purchase products on certain delivery and payment terms. |[How to: Record Purchases](purchasing-how-record-purchases.md)|
 |Create a purchase invoice for all or selected lines on a sales invoice.|[How to: Purchase Products for a Sale](purchasing-how-purchase-products-sale.md)|
 |Perform an action on an unpaid posted purchase invoice to automatically create a credit memo and either cancel the purchase invoice or recreate it so you can make corrections.|[How to: Correct or Cancel Unpaid Sales Invoices](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)|

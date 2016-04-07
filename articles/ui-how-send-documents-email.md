@@ -1,9 +1,9 @@
 <properties
-                pageTitle="How to: Send Documents by Email| Project Madeira" 
-                description="Welcome to Project "Madeira"" 
-                services="" 
+                pageTitle="How to: Send Documents by Email| Project “Madeira”"
+                description="How to: Send Documents by Email"
+                services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="sgroespe"/>
 
 # How to: Send Documents by Email
 To communicate the contents of business documents quickly to your business partners, such as the payment information on sales documents to customers, you can use the Report Layout feature to define document-specific content that gets inserted in email bodies automatically.
@@ -44,12 +44,12 @@ The following procedure describes how to send a posted sales invoice as an email
 9. In the **Attachment** field, the generated invoice is attached by default as a PDF file. Choose the lookup button to open the file or attach another one.
 10. In the **Body** field, enter a short message to the recipient.
 
-  If a document-specific email body is set up in the **Report Selection - Sales** window, then the **Body** field is filled automatically. For more information, see the “To set up a document-specific email body for sales invoices” section in this topic.
+    If a document-specific email body is set up in the **Report Selection - Sales** window, then the **Body** field is filled automatically. For more information, see the “To set up a document-specific email body for sales invoices” section in this topic.
 11. Select the **Edit in Outlook Web App** check box to open the email message in the email app for Office 365.
 12. Choose the **OK** button to send the email message.
 
 **Note**: If you do not need to specify email settings each time you email a document, you can select the **Yes (Use Default Settings)** option in the Email field in the **Send Document To** window. In that case, the **Send Email** window will not open. See Step 4. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
 
-##See Also  
+## See Also  
 [Work with Project "Madeira"](ui-work-product.md)  
-[How to: Invoice Sales](sales-how-invoice-sale.md)
+[How to: Invoice Sales](sales-how-invoice-sales.md)
