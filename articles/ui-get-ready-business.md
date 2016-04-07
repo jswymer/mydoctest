@@ -38,9 +38,12 @@ If you need to add more users, this is done from Office 365, and you should ther
     
 ## Getting Help
 In Project "Madeira" you will find tooltips that can help guide you through the various business processes. In each tooltip you will find a link called **Learn More** that takes you to product Help. The question mark in the upper right corner also points you to product Help.
-<!-- see madeira.com information here --> 
+For the newest information and Help go to [Project "Madeira"](http://go.microsoft.com/fwlink/?LinkID=784954&clcid=0x409)
 
 ## Next Steps 
-Based on your migrated data, you can now proceed to create new sales or purchase documents. Use the **My Company** section of your **Home** page to quickly create a new sales quote, sales invoice, sales order, purchase invoice or payment registration.
+Based on your migrated data, you can now proceed to create new sales or purchase documents. Use the **My Company** section of your **Home** page to quickly create a new sales quote, sales invoice, sales order, purchase invoice, or payment registration.
 
 ## See Also
+[Project "Madeira"](http://go.microsoft.com/fwlink/?LinkID=784954&clcid=0x409)  
+[Welcome to Project "Madeira"](madeira-get-started.md)  
+[Work With Project "Madeira"](ui-work-product.md)  
