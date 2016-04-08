@@ -46,10 +46,12 @@ You can fill vendor fields on the purchase invoice in two ways depending on whet
     The **Line Amount** field is updated to show the value in the **Direct Unit Cost** field multiplied by the value in the **Quantity** field.
 
     The price and line amount are shown with or without sales tax depending on what you selected in the **Prices Including Tax** field on the vendor card.
-11. In the **Invoice Discount Amount** field, enter an amount that should be deducted from the value shown in the **Total Incl. Tax** field at the bottom of the invoice.
+12. In the **Invoice Discount Amount** field, enter an amount that should be deducted from the value shown in the **Total Incl. Tax** field at the bottom of the invoice.
 
     **Note**: If you have set up invoice discounts for the vendor, then the specified percentage value is automatically inserted in the **Vendor Invoice Discount %** field if the criteria are met, and the related amount is inserted in the **Invoice Discount Amount** field.
-13. When you receive the purchased items or services, choose **Post**. The purchase is now reflected in inventory and financial records, and the vendor payment is activated. The purchase invoice is removed from the list of purchase invoices and replaced with a new document in the list of posted purchase invoices.
+13. When you receive the purchased items or services, choose **Post**.
+
+The purchase is now reflected in inventory and financial records, and the vendor payment is activated. The purchase invoice is removed from the list of purchase invoices and replaced with a new document in the list of posted purchase invoices.
 
 ## See Also  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
