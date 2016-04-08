@@ -33,5 +33,5 @@ In the Document Links add-in, you can modify and take actions with the document,
 ## See Also
 [Welcome to Project "Madeira"](madeira-get-started.md)  
 [Finance](finance.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
