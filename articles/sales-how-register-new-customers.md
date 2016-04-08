@@ -3,7 +3,7 @@
                 description="How to: Register New Customers"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Register New Customers
 Customers are the source of your income. Each customer who you sell to must be registered as a customer card.

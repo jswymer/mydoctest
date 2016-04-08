@@ -3,7 +3,7 @@
                 description="How to: Record Purchase Prices and Discounts"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 #How to: Record Purchase Prices and Discounts
 The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.

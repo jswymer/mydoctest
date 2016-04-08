@@ -3,7 +3,7 @@
                 description="Set Up Sales"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # Set Up Sales
 

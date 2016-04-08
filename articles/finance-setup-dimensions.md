@@ -3,7 +3,7 @@
                 description="Describes how to set up dimensions." 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="edupont04"/>
                 
 #Set Up Dimensions
 You must define which dimensions and dimension values you want to use in your company. You should also define which dimensions you wish to use as global and shortcut dimensions. You should consider carefully which dimensions will be most effective as global and shortcut dimensions for your company.  

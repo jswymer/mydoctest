@@ -3,7 +3,7 @@
                 description="How to: Export Payments to a Bank File"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Export Payments to a Bank File
 When you are ready to make payments to your vendors using the **Payment Journal** window, you can export a file with the payment information on the journal lines. You can then upload the file to your electronic bank to process the related money transfers.

@@ -3,7 +3,7 @@
                 description="How to: Sell Products"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Sell Products
 You create a sales order or sales invoice to record your agreement with a customer to sell certain products on certain delivery and payment terms.

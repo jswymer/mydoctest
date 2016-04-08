@@ -3,7 +3,7 @@
     description="Set Up Your Project “Madeira”" 
     services="" 
     documentationCenter="Madeira"
-    authors="edupont"/>
+    authors="edupont04"/>
     
 # Set Up Your Project "Madeira"
 Project "Madeira" includes a standard configuration of most business processes, but your can change the configuration to suit your business' needs. 

@@ -3,7 +3,7 @@
                 description="How to: Apply Vendor Payments Manually"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Apply Vendor Payments Manually
 
