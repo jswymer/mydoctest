@@ -3,7 +3,7 @@
                 description="Set Up Core Financial Processes" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="edupont04"/>
                 
 #Set Up Core Financial Processes
 Project "Madeira" includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 

@@ -3,7 +3,7 @@
                 description="How to: Correct or Cancel Unpaid Sales Invoices"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Correct or Cancel Unpaid Sales Invoices
 You can correct or cancel a posted sales invoice. This is useful if you make a mistake or if the customer requests a change.

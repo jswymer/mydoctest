@@ -3,7 +3,7 @@
                 description="Welcome to Project "Madeira""
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe" />
+                authors="SorenGP" />
 
 # Set Up Banking
 

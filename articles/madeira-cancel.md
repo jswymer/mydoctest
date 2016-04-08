@@ -3,7 +3,7 @@
     description="Describes how to cancel your Project “Madeira” experience." 
 	services="" 
 	documentationCenter="Madeira"
-	authors="edupont"/>
+	authors="edupont04"/>
     
 # Canceling Project "Madeira"
 When you have signed up for Project "Madeira", you can choose to cancel your subscription at any time. Similarly, you can choose to reset the company that you can been using in Project "Madeira". This page describes how to cancel your Project "Madeira" experience.  

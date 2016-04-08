@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>
+        authors="edupont04"/>
 
 # How to: Create a Custom Report Layout
 By default, a report will have a built-in report layout, which can be either an RDLC report layout or Word report layout, or both. You cannot modify built-in layouts. However, you can create your own custom layouts that enable you to change the appearance of report when it is viewed, printed or saved. You can create multiple custom report layouts for the same report, and then switch the layout that is used by a report as needed.

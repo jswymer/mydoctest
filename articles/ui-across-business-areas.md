@@ -3,7 +3,7 @@
         description="Learn more about functionality that is common across business areas in Project “Madeira”" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>
+        authors="edupont04"/>
 
 # Across Business Areas
 

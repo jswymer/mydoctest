@@ -3,7 +3,7 @@
                 description="How to: Work With Checks"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Work With Checks
 Project "Madeira" supports electronic and manual check issuance. Both methods use the payment journal to issue checks to vendors. You can also void checks and view check ledger entries.

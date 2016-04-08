@@ -3,7 +3,7 @@
                 description="Manage Receivables"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # Manage Receivables#
 A central task in managing receivables is to apply incoming payments to their related customer or vendor ledger entries and thereby close the related sales invoices or purchase credit memos as paid. When all payments are applied, you can reconcile the bank account.  

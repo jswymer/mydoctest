@@ -3,7 +3,7 @@
                 description="How to: Prioritize Vendors"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Prioritize Vendors
 Project "Madeira" can suggest various payments to vendors, for example, payments that will be due soon or payments where a discount is available. for more information, see [How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md).
