@@ -36,7 +36,7 @@ You can fill customer fields on the sales quote in two ways depending on whether
 
     **Note**: If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the quote by choosing the **Get Recurring Sales Lines** action.
 10. On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.
-11. In the **Quantity **field, enter the number of items to be offered.
+11. In the **Quantity ** field, enter the number of items to be offered.
 
     **Note**: For items of type Service, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.
 
