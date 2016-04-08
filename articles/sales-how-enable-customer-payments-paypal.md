@@ -11,6 +11,7 @@ As an alternative to collecting payments through bank transfer or credit cards, 
 When a customer chooses the PayPal link on a sales invoice or sales order document, the service page for their PayPal account appears showing the payment details for the sale. The customer can then pay the invoice as any other PayPal payment.
 
 To enable customer payments through PayPal, you must do the following:
+
 1. Set up PayPal Payments Standard as a payment service in the **Payments Services** window.
 2. Select PayPal Payments Standard in the **Payment Service** field on the sales document in question.
 
