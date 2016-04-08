@@ -6,7 +6,7 @@
                 authors="SorenGP"/>
 
 # How to: Set Up the Bank Data Conversion Service
-You can export payment lines from the **ayment Journal** window to a data stream that you then upload to your bank for automatic processing so that do not have to make electronic payments individually. For more information, see [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).
+You can export payment lines from the **Payment Journal** window to a data stream that you then upload to your bank for automatic processing so that do not have to make electronic payments individually. For more information, see [How to: Export Payments to a Bank File](payables-how-export-payments-bank-file.md).
 
 A global provider of services to convert payment information to any data format that your bank requires is connected and ready to be enabled in Project "Madeira".
 
