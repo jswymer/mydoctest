@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira"" 
         services="" 
         documentationCenter="Madeira"
-        authors="edupont"/>
+        authors="edupont04"/>
     
 # Sorting
 The sorting function makes it easy for you to get a quick overview of your data. A sorted list can be saved using the **Save View As…** functionality which is found by choosing the page title. If you have many customers, for example, you can choose to sort them by **Customer No.**, **Customer Posting Group**, **Currency Code**, **Country Region Code**, or **Sales Tax Registration No.** to get the overview you need.

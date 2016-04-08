@@ -3,7 +3,7 @@
                 description="How to: Collect Outstanding Balances"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 #How to: Collect Outstanding Balances
 Managing receivables includes checking whether amounts due are paid on time. If customers have overdue payments, you can send the Customer Statement report as a reminder.

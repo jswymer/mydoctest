@@ -3,7 +3,7 @@
     description="Get the app for your mobile device." 
 	services="" 
 	documentationCenter="Madeira"
-	authors="edupont"/>
+	authors="edupont04"/>
     
 # Changing the Role Center
 The Home page is your main point of entry into Project "Madeira". Here you can get an overview of the daily work tasks and their status. Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon. 

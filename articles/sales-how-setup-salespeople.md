@@ -3,7 +3,7 @@
                 description="How to: Set Up Salespeople"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Set Up Salespeople
 Many companies want to follow an individual employee's performance as a basis for calculating the sales commission or bonus. See, for example, the Salesperson Commissions report. A company may also want to assign a salesperson to each of their contacts.

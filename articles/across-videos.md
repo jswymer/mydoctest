@@ -3,7 +3,7 @@
                 description="Provides access to getting-started videos that illustrate how to do common tasks." 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="edupont04"/>
 
 # How Do I?
 On this page, we will provide access to getting-started videos that illustrate how to do common tasks. The page will be updated over time.  
