@@ -7,7 +7,11 @@
 # Using the Project "Madeira" Content Pack for Power BI
 Getting insights into your Project "Madeira" data is easy with Power BI and the Project "Madeira" content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
 
-The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for the Project "Madeira" preview. Choose any visual on the dashboard to bring up one of seven underlying reports. Filter the report or add fields that you want to monitor. Pin this customized view to the dashboard to continue tracking. The dashboard and underlying reports refresh daily. You can control the refresh schedule and modify the frequency on the dataset.  
+The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for the Project "Madeira" preview.  
+- Choose any visual on the dashboard to bring up one of seven underlying reports.  
+- Filter the report or add fields that you want to monitor.  
+- Pin this customized view to the dashboard to continue tracking.  
+The dashboard and underlying reports refresh daily. You can control the refresh schedule and modify the frequency on the dataset.  
 
 ## Accessing Project "Madeira" in Power BI
 To see your Project "Madeira" data in Power BI, you must have the following:  
@@ -16,23 +20,35 @@ To see your Project "Madeira" data in Power BI, you must have the following:
 
 On the Power BI site, you can find additional information about [adding the Project "Madeira" content pack to Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
   
-To access the Project "Madeira" content pack in Power BI, you must get two pieces of information from Project "Madeira": The OData URL and the web service access key for your user account.  
+To access the Project "Madeira" content pack in Power BI, in the connection page, you must specify the following information:
+
+| Field       | Description              |
+|-------------|--------------------------|
+|**OData Feed URL**|The OData URL so Power BI can access data from your company, such as https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US').|
+|**Authentication method**|Choose **Basic**.|
+|**User name**|The email account that you used to sign up for Project "Madeira", such as *me@mybusiness.com*.|
+|**Password**|This is the web service access key for your user account in Project "Maderia".| 
+
+This means that you must get two pieces of information from Project "Madeira": The OData URL and the web service access key for your user account.  
 **Getting the URL**  
 When you add Project "Madeira" to Power BI, you must specify a URL so Power BI can access data from your company. In the connection page, the URL is referred to as the **OData Feed URL**, and it must have the following format:
 
-         https://*mycronusus*.projectmadeira.com:7048/MS/OData/Company('*CRONUS%20US*')  
-In this example, *mycronusus* is the name of your Project "Madeira" instance, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name. To get the URL, in Project "Madeira", search for the **Web Services** page, and then copy the link from one of the default OData web services.  
+         https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+In this example, *mybusiness* is the name of your Project "Madeira" service, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name.   
+To get the URL, in Project "Madeira", search for and open the **Web Services** page. This page lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.  
 **Getting the web service access key**  
-In order to use data from Project "Madeira", you will need to create a web service access key for your user account. In Project “Madeira”, search for the **Users** page, and then open the card for your user account. Here you can generate a new web services access key and copy it to the Password field in the Power BI connection page. The user name is the email account that you use for Project "Madeira".  
+In order to use data from Project "Madeira", in Power BI, in the **Connect to Project "Madeira"** page, you must specify your user name,which is your email account, and a password. The password is the web service access key that is set up for your user account in Project "Madeira".  
+To get a web service access key, in Project “Madeira”, search for the **Users** page, and then open the card for your user account. On the **Web Service Access** FastTab, copy the contents of the **Web Service Access Key** field. If the field is blank, in the ribbon, choose **Change Web Service Access Key**, choose the **Key Never Expires** field, and then choose the OK button. You can then copy the key.  
   
 ## Getting Data from Project "Madeira"
-The Project "Madeira" dashboard shows the most typical reports that you will want to use to track your business. The data is extracted from your Project "Madeira" company using web services to read live data. In Project "Madeira", the **Web Services** window lists the web services that have been set up for you, including the following that are consumed by the content pack in Power BI:
-- ItemSalesAndProfit
-- ItemSalesByCustomer
-- powerbifinance
-- SalesDashboard
-- SalesOpportunities
-- SalesOrdersBySalesPerson
+The Project "Madeira" dashboard shows the most typical reports that you will want to use to track your business. The data is extracted from your Project "Madeira" company using web services to read live data. In Project "Madeira", the **Web Services** window lists the web services that have been set up for you, including the following that are consumed by the content pack in Power BI:  
+
+- ItemSalesAndProfit  
+- ItemSalesByCustomer  
+- powerbifinance  
+- SalesDashboard  
+- SalesOpportunities  
+- SalesOrdersBySalesPerson  
 - TopCustomerOverview  
 
 **Note**: If you change the name of any of these web services, the data will not show up in Power BI.  
@@ -44,23 +60,33 @@ The Power BI dashboard relies on the published web services that are listed abov
 **"Parameter validation failed, please make sure all parameters are valid"**  
 If you see this error after you enter your Project “Madeira” URL, make sure the following requirements are satisfied:  
 - The URL follows exactly this pattern:
-https://*mycronusus*.projectmadeira.com:7048/MS/OData/Company('*CRONUS%20US*')  
+  
+    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
 - Delete any text after the company name in parenthesis  
 - Make sure there are no trailing forward slash at the end of the URL.  
 - Make sure the URL is uses a secure connection as indicated by the URL starting with *https*.  
 
 **"Login failed"**  
-If you get a "login failed" error when you log in to the dashboard, using your Project “Madeira” credentials, thenthis can be caused by one of the following issues:  
-- The account you are using does not have permissions to read the Project “Madeira” data from your account. Verify your user account in Project "Madeira", and make sure that you have used the right web service access key as the password, and then try again.  
-- The Project "Madeira"  instance that you are trying to connect to does not have a valid SSL certificate. In this case you'll see a more detailed error message ("unable to establish trusted SSL relationship"). Note that self-signed certificates are not supported.  
+If you get a "login failed" error when you log in to the dashboard, using your Project “Madeira” credentials, then this can be caused by one of the following issues:  
+- The account you are using does not have permissions to read the Project “Madeira” data from your account.
+  
+    Verify your user account in Project "Madeira", and make sure that you have used the right web service access key as the password, and then try again.  
+- The Project "Madeira"  instance that you are trying to connect to does not have a valid SSL certificate.
+  
+    In this case you'll see a more detailed error message ("unable to establish trusted SSL relationship"). Note that self-signed certificates are not supported.  
 
 **"Oops"**  
 If you see an "Oops" error dialog after you pass the authentication dialog, this is most frequently caused by a problem connecting to the data for the content pack. 
-Verify that the URL follows the pattern that was specified earlier: https://*mycronusus*.projectmadeira.com:7048/MS/OData/Company('*CRONUS%20US*')  
-A common mistake is to specify the full URL for a specific web service:  
-https://*mycronusus*.projectmadeira.com:7048/MS/OData/Company('*CRONUS%20US*')/powerbifinance  
-Or you might have forgotten to specify the company name: 
-https://*mycronusus*.projectmadeira.com:7048/MS/OData/  
+  
+- Verify that the URL follows the pattern that was specified earlier:
+  
+    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+- A common mistake is to specify the full URL for a specific web service:
+  
+    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance  
+- Or you might have forgotten to specify the company name:
+  
+    https://mybusiness.projectmadeira.com:7048/MS/OData/  
 
  
 ## See Also
