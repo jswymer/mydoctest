@@ -9,7 +9,7 @@
 # Getting Ready for Doing Business
 Congratulations, you have just set up your first company in Project "Madeira". 
 
-We have prepared some company data for you, for example, your chart of accounts is prefilled with a number of posting accounts ready for use. You can, of course, change the chart of accounts to suit your needs. For more information, see [Set Up Finance](SetUpFinance/conSetUpFinance.md). 
+We have prepared some company data for you, for example, your chart of accounts is prefilled with a number of posting accounts ready for use. You can, of course, change the chart of accounts to suit your needs. For more information, see [Finance](Finance.md). 
 
 From the Home page, you will find the **Assisted Setup & Tasks** action. Here you see a list of assisted setup that can help you getting started. Once you have migrated data such as vendors, customers, and items from your existing financial system, you are ready to begin. But depending on your needs, consider if the other assisted setup can help you. 
 
