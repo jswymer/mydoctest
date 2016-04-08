@@ -26,4 +26,5 @@ The default work date is usually today's date. You may have to temporarily chang
 **Important**: The work date is only changed until you close the company or until the date changes. If you open a different company or open the same company the next day and still have to use a different work date, then you must set the work date again.
 
 ## See Also
-[Work with Project "Madeira"](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)  
+[How to: Change the Role Center](change-role.md)

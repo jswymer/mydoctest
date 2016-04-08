@@ -28,9 +28,6 @@ In the **Posted Purchase Invoice** window, you can choose the **Correct** button
 1. In the **Search** box, enter **Posted Purchase Invoices**, and then choose the related link.  
 2. Select the posted purchase invoice that you want to cancel.
 
-    **Note** If the **Canceled** check box is selected, then you cannot cancel the posted purchase invoice because it has already been canceled or corrected.
-3. In the **Posted Purchase Invoice** window, choose **Cancel**.
-
     **Note**: If the **Canceled** check box is selected, then you cannot cancel the posted purchase invoice because it has already been canceled or corrected.
 3. In the **Posted Purchase Invoice** window, choose **Cancel**.
 
