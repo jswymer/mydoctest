@@ -3,7 +3,7 @@
                 description="Set Up Purchasing"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # Set Up Purchasing
 Before you can manage purchase processes, you must configure the rules and values that define the company's purchase policies.

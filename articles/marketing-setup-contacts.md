@@ -3,7 +3,7 @@
                 description="Describes how to prepare for setting up contacts in Project “Madeira”" 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="edupont04"/>
 
 #Prepare for Setting Up Contacts
 When creating contacts, you can enter specific information, such as the industry that the contact companies belong to and your business relationship with the contacts.

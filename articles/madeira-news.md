@@ -3,7 +3,7 @@
     description="What's New" 
 	services="" 
 	documentationCenter="Madeira"
-	authors="edupont"/>
+	authors="edupont04"/>
     
 # What's New in Project "Madeira" 
 We hope you already got started with Project "Madeira". This is still a preview only, but we have added capabilities that we you you find interesting.  

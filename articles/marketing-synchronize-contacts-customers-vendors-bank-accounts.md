@@ -3,7 +3,7 @@
                 description="Describes synchronizing contacts with customers, vendors, and bank accounts in Project “Madeira”"
                 services=""
                 documentationCenter="Madeira"
-                authors="edupont"/>
+                authors="edupont04"/>
 
 # Synchronizing Contacts With Customers, Vendors, and Bank Accounts
 If some of your contacts are also customers, vendors, or bank accounts, you can synchronize the contact information with the related customer, vendor, or bank account. Synchronization makes information that is common between contacts and customers, vendors, or bank account the same.  

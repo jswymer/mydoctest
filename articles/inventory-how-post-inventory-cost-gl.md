@@ -3,7 +3,7 @@
                 description="How to: Post Inventory Costs to the General Ledger"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Post Inventory Costs to the General Ledger   
 When you post inventory transactions, such as sales shipments, purchase invoices, or inventory adjustments, the changed quantities and costs are recorded in the item ledger entries and the value entries, respectively. To reflect this change of inventory value in your financial books, you must post inventory costs to the related inventory accounts in the general ledger.

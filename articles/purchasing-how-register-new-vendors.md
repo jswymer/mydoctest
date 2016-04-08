@@ -3,7 +3,7 @@
                 description="Welcome to Project "Madeira""
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe"/>
+                authors="SorenGP"/>
 
 # How to: Register New Vendors
 Vendors provide the products that you sell. Each vendor that you purchase from must be registered as a vendor card.

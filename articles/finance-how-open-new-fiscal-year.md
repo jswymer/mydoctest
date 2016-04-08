@@ -3,7 +3,7 @@
     description="Describes how to open fiscal periods." 
     services="" 
     documentationCenter="Madeira"
-    authors="edupont"/>
+    authors="edupont04"/>
     
 # How to: Open a New Fiscal Year 
 Before you can post in a fiscal year, you must open the fiscal year and define its accounting periods.
