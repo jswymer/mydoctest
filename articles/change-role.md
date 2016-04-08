@@ -1,11 +1,11 @@
 <properties
-	pageTitle="Changing the Role Center | Project “Madeira”"
-    description="Get the app for your mobile device." 
+	pageTitle="How to: Change the Role Center | Project “Madeira”"
+    description="Describes how you can change the current role center." 
 	services="" 
 	documentationCenter="Madeira"
 	authors="edupont04"/>
     
-# Changing the Role Center
+# How to: Change the Role Center
 The Home page is your main point of entry into Project "Madeira". Here you can get an overview of the daily work tasks and their status. Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon. 
 
 The content on the Home page is based on the selected Role Center. The standard Role Center for Project "Madeira" is **Business Manager**, but you can change this and choose between a number of Role Centers. 
