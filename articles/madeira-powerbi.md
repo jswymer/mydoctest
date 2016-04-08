@@ -59,32 +59,32 @@ The Power BI dashboard relies on the published web services that are listed abov
 
 **"Parameter validation failed, please make sure all parameters are valid"**  
 If you see this error after you enter your Project “Madeira” URL, make sure the following requirements are satisfied:  
-- The URL follows exactly this pattern:
-  
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
-- Delete any text after the company name in parenthesis  
-- Make sure there are no trailing forward slash at the end of the URL.  
-- Make sure the URL is uses a secure connection as indicated by the URL starting with *https*.  
+* The URL follows exactly this pattern:
+
+    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')
+* Delete any text after the company name in parenthesis  
+* Make sure there are no trailing forward slash at the end of the URL.  
+* Make sure the URL is uses a secure connection as indicated by the URL starting with *https*.  
 
 **"Login failed"**  
 If you get a "login failed" error when you log in to the dashboard, using your Project “Madeira” credentials, then this can be caused by one of the following issues:  
-- The account you are using does not have permissions to read the Project “Madeira” data from your account.
-  
-    Verify your user account in Project "Madeira", and make sure that you have used the right web service access key as the password, and then try again.  
-- The Project "Madeira"  instance that you are trying to connect to does not have a valid SSL certificate.
-  
-    In this case you'll see a more detailed error message ("unable to establish trusted SSL relationship"). Note that self-signed certificates are not supported.  
+* The account you are using does not have permissions to read the Project “Madeira” data from your account.
 
+    Verify your user account in Project "Madeira", and make sure that you have used the right web service access key as the password, and then try again.
+* The Project "Madeira"  instance that you are trying to connect to does not have a valid SSL certificate. In this case you'll see a more detailed error message ("unable to establish trusted SSL relationship").
+  
+    **Note**: Self-signed certificates are not supported.
+  
 **"Oops"**  
 If you see an "Oops" error dialog after you pass the authentication dialog, this is most frequently caused by a problem connecting to the data for the content pack. 
   
-- Verify that the URL follows the pattern that was specified earlier:
+* Verify that the URL follows the pattern that was specified earlier:
   
     https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
-- A common mistake is to specify the full URL for a specific web service:
+* A common mistake is to specify the full URL for a specific web service:
   
     https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance  
-- Or you might have forgotten to specify the company name:
+* Or you might have forgotten to specify the company name:
   
     https://mybusiness.projectmadeira.com:7048/MS/OData/  
 
