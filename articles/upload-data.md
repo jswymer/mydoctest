@@ -3,7 +3,7 @@
 	description="Describes how you can import your own data into Project “Madeira”;" 
 	services="" 
 	documentationCenter="Madeira"
-	authors="edupont" />
+	authors="edupont04" />
                 
 # Import Data from Other Finance Systems #
 When you sign up for Project "Madeira", you can choose to create an empty company so that you can upload your own data and to test your new Project "Madeira" company. Depending on the finance solution that your business uses today, you can transfer information about customers, vendors, inventory, and bank accounts.

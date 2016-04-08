@@ -3,7 +3,7 @@
     description="How to: Connect and Disconnect Incoming Document Records from Documents and Entries"
     services=""
     documentationCenter="Madeira"
-    authors="sgroespe"
+    authors="SorenGP"
 />
 
 # How to: Connect and Disconnect Incoming Document Records from Documents and Entries

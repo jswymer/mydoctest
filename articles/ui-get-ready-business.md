@@ -3,7 +3,7 @@
     description="Get the app for your mobile device." 
 	services="" 
 	documentationCenter="Madeira"
-	authors="edupont"/>
+	authors="edupont04"/>
         
     
 # Getting Ready for Doing Business

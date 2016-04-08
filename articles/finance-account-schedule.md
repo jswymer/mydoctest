@@ -3,7 +3,7 @@
                 description="Using account schedules to analyse data." 
                 services="" 
                 documentationCenter="Madeira"
-                authors="edupont" />
+                authors="edupont04" />
                 
 #Account Schedules
 With account schedules, you can can get detailed insights into your financial data. You can set up various layouts to define the information that you want to extract from the chart of accounts

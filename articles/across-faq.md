@@ -3,7 +3,7 @@
     description="Frequently asked questions about signing up for and using Project “Madeira”." 
     services="" 
     documentationCenter="Madeira"
-    authors="edupont"
+    authors="edupont04"
 />  
   
 # Frequently Asked Questions

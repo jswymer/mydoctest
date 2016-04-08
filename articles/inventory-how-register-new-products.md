@@ -3,7 +3,7 @@
                 description="How to: Register New Products"
                 services=""
                 documentationCenter="Madeira"
-                authors="sgroespe" />
+                authors="SorenGP" />
 
 # How to: Register New Products
 
