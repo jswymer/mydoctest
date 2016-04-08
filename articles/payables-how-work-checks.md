@@ -34,6 +34,7 @@ You can cancel non-posted checks after they have been printed by using the **Voi
 
 ## To void checks
 When check payment have been posted, you can only cancel (void) checks from the resulting bank ledger entries.
+
 1. In the **Search** box, enter **Bank Accounts**, and then choose the related link.
 2. Select the relevant bank account, choose the **Edit** action, and then choose the **Check Ledger Entries** action.
 3. In the **Check Ledger Entries** window, choose the **Void Check** action.

@@ -21,7 +21,7 @@ Products can be both inventory items and services. For more information, see [Ho
 You can fill vendor fields on the purchase invoice in two ways depending on whether the vendor is already registered.
 
 ## To create a purchase invoice
-1. On tghe Home page, choose the **Purchase Invoice** action.  
+1. On the Home page, choose the **Purchase Invoice** action.  
 2. In the **Vendor** field, enter the name of an existing customer.
 
     Other fields in the **Purchase Invoice** window are now filled with the standard information of the selected vendor. If the vendor is not registered, then follow these steps:
@@ -39,7 +39,7 @@ You can fill vendor fields on the purchase invoice in two ways depending on whet
 
     **Note**: If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these line on the invoice by choosing the **Get Recurring Purchase Lines** action.
 10. On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.
-11. In the **Quantity** field, enter the number of items purchased.
+11. In the **Quantity** field, enter the number of items to be purchased.
 
     **Note**: For items of type **Service**, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.
 

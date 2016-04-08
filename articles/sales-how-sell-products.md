@@ -47,7 +47,7 @@ You can fill customer fields on the sales order in two ways depending on whether
 
     If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the order by choosing the **Get Recurring Sales Lines** action.
 9. On the **Lines** FastTab, in the **Item** field, enter the number of an inventory item or service.  
-10. In the **Quantity **field, enter the number of items to be sold.
+10. In the **Quantity ** field, enter the number of items to be sold.
 
     **Note**: For items of type Service, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.
 
