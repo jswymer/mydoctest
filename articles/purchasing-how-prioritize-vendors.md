@@ -11,7 +11,7 @@ Project "Madeira" can suggest various payments to vendors, for example, payments
 First, you must prioritize your vendors by assigning numbers to them.
 
 ## To prioritize vendors
-1. In the **Search** box, enter **Vendors**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Vendors**, and then choose the related link.
 2. Select the relevant vendor, and then choose **Edit**.
 3. In the **Priority** field, enter a number.
 
