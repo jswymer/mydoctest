@@ -34,8 +34,10 @@ When the bank feed service is enabled, you can set a bank account up to automati
 5. Enter the username and password that you use to log on to the online bank, and then choose the **Next** button.  
 6. The bank feed service prepares to link the first online bank account at the specified bank to a new bank account in Project "Madeira".
 
-    **Note**: If you have more than one online bank account at the bank, you must create additional bank accounts in Project "Madeira" for those additional online bank accounts. See steps 8 through 10.  
-When the process has completed successfully, the bank name will appear in the **My Accounts** pane on the **Linked** tab. The number in brackets indicates how many online bank accounts were linked.  7. Choose the **OK** button.
+    **Note**: If you have more than one online bank account at the bank, you must create additional bank accounts in Project "Madeira" for those additional online bank accounts. See steps 8 through 10.
+
+    When the process has completed successfully, the bank name will appear in the **My Accounts** pane on the **Linked** tab. The number in brackets indicates how many online bank accounts were linked.
+7. Choose the **OK** button.
 
     If only one online bank account is linked, the **Bank Account Card** window for a new bank account opens, prefilled with the name of the online bank account. In this case, the bank account linking task is completed. All that remains is to set up the bank account. For more information, see [How to: Set Up Bank Accounts](bank-how-setup-bank-accounts.md).
 
@@ -75,7 +77,7 @@ If issues exist for any of the linked bank accounts in the **Bank Account List**
 
 ## To enable automatic import of bank statements
 1. In the **Search** box, enter **Bank Accounts**, and then choose the related link.
-2. Select the line for a linked bank account, and then choose the **Automatic Bank Statement Import Setup** action**.
+2. Select the line for a linked bank account, and then choose the **Automatic Bank Statement Import Setup** action.
 3. In the **Automatic Bank Statement Import Setup** window, in the **Number of Days Included** field, specify how far back in time to get new bank transactions for.
 
     **Note**: It is recommended that you set this value to 7 days or more.
