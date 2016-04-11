@@ -20,6 +20,7 @@ You use the **Credit Transfer Registers** window to view the payment files that 
 3. When you have completed all payment journal lines, choose **Export Payment to File**.
 
     Any error messages will be shown in the **Payment File Errors** FactBox where you can also choose an error message to see detailed information. You must resolve all errors before the payment file can be exported.
+
     **Tip**: When you use the bank data conversion service, a common error message states that the bank account number does not have the length that your bank requires. To avoid or resolve the error, you must remove the value in the **IBAN** field in the **Bank Account Card** window and then, in the **Bank Account No.** field, enter a bank account number in the format that your bank requires.
 4. In the **Save As** window, specify the location that the file is exported to, and then choose **Save**.
 
