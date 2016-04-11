@@ -16,7 +16,7 @@ The following task is performed by an approval user.
 1. In the window that presents the record, choose the **Send Approval Request** action.
 2. To see all your approval requests, In the **Search** box, enter **Approval Request Entries**, and then choose the related link.
 
-The status of the approval entry is updated from **Created** to **Open**. The status of the record, for example a purchase invoice, is updated from **Open to **Pending Approval** and remains locked for processing until all approvers have approved the record.
+The status of the approval entry is updated from **Created** to **Open**. The status of the record, for example a purchase invoice, is updated from **Open** to **Pending Approval** and remains locked for processing until all approvers have approved the record.
 
 When the approver has approved the record, the status changes to **Released**. You can then continue your tasks with the record.
 
