@@ -18,7 +18,7 @@ To enable customer payments through PayPal, you must do the following:
 The PayPal Payments Standard service is installed as an extension to Project "Madeira" and ready to enabled. For more information, see [Customizing Project "Madeira" Using Extensions ](ui-extensions.md).
 
 ## To enable the PayPal Payments Standard service
-1. In the **Search** box, **Payment Services**, and then choose the related link.  
+1. In the **Search for Page or Report** field, **Payment Services**, and then choose the related link.  
 2. In the **Payment Services** window, choose the **New** action.
 3. Select **PayPal Standard**, and then choose the **OK** button.
 4. In the **Payment Services** window, choose the **Setup** action.
@@ -29,7 +29,7 @@ The PayPal Payments Standard service is installed as an extension to Project "Ma
 6. Choose the **OK** button.
 
 ## To select PayPal Payments Standard on a customer card
-1. In the **Search** box, **Customers**, and then choose the related link.
+1. In the **Search for Page or Report** field, **Customers**, and then choose the related link.
 2. Open the card of the customer that you want to enable PayPal payments for.
 3. In the **Payment Service** field, choose PayPal Payments Standard.
 

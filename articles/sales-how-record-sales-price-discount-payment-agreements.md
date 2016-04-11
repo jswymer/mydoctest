@@ -20,7 +20,7 @@ Concerning discounts, you can set up and use two types of sales discounts:
 Because sales prices and sales line discounts are based on a combination of item and customer, you can also perform this configuration from the item card of the item where the rules and values apply.
 
 ## To set up a sales price for a customer
-1. In the **Search** box, enter **Customers**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Customers**, and then choose the related link.
 2. Open the relevant customer card, and then choose the **Prices** action.
 
     The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.
@@ -28,7 +28,7 @@ Because sales prices and sales line discounts are based on a combination of item
 4. Fill a line for each combination that will grant a special sales price to the customer.
 
 ## To set up a sales line discount for a customer
-1. In the **Search** box, enter **Customers**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Customers**, and then choose the related link.
 2. Open the relevant customer card, and then choose the **Line Discounts** action.
 
     The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.
@@ -38,7 +38,7 @@ Because sales prices and sales line discounts are based on a combination of item
 ## To set up an invoice discount for a customer
 When you have decided which customers are eligible for invoice discounts, enter the invoice discount code on the customer cards and set up the terms for each code.
 
-1. In the **Search** box, enter **Customers**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Customers**, and then choose the related link.
 2. Open the customer card for a customer that will be eligible for invoice discounts.
 3. In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the customer.
 
