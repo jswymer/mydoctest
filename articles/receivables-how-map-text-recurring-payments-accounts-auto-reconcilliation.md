@@ -37,7 +37,7 @@ To always post fuel expenses incurred at Shell gas stations to the general ledge
 |-------------|---------------|----------------|-----------------|----------------|
 |Shell |BLANK |8510 |G/L Account|BLANK|
 
-**Tip**: For more information about how to work with fields and columns, see Working with Project "Madeira". For more information about how to find specific pages, see Search.|
+**Tip**: For more information about how to work with fields and columns, see [Working with Project "Madeira"](ui-work-product.md). For more information about how to find specific pages, see [Search](ui-search.md).
 
 ## See Also
 [Manage Receivables](receivables-manage-receivables.md)  

@@ -20,7 +20,7 @@ If necessary, you can set up multiple journal batches (individual journals) for 
 ## Main Accounts and Balancing Accounts
 If you have set up default balancing accounts for the journal batches, the balancing account will be filled in automatically when you fill in the **Account No.** field. Otherwise, fill in both the **Account No.** field and the **Bal. Account No.** field manually. A positive amount in the **Amount** field is debited to the main account and credited to the balancing account. A negative amount is credited to the main account and debited to the balancing account.
 
-**Note** VAT is calculated separately for the main account and the balancing account, so they can use different VAT percentage rates.
+**Note**: VAT is calculated separately for the main account and the balancing account, so they can use different VAT percentage rates.
 
 ## Recurring Journals
 A recurring journal is a general journal with specific fields for managing transactions that you post frequently with few or no changes. Using these fields for recurring transactions, you can post both fixed and variable amounts. You can also specify automatic reversal entries for the day after the posting date and use allocation keys with the recurring entries.
