@@ -12,7 +12,7 @@ You can design your checks to conform with the standards set by the local author
 Checks are designed to print in both the United States and Canadian check image formats in either a check-stub-check format or a stub-stub-check format. 
 
 ##To define check layouts
-1. In the **Search** box, enter **Report Selections Bank Account**, and choose the related link.
+1. In the **Search for Page or Report** field, enter **Report Selections Bank Account**, and choose the related link.
 2. In the **Report Selection - Bank Acc.** window, in the **Usage** field, select **Check**.
 3. Select one of the following report IDs.
 

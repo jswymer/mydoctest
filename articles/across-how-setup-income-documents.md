@@ -15,11 +15,11 @@ To turn PDF and image files into electronic documents that you can convert to, f
 When the Incoming Documents feature is set up, you can use different functions to review expense receipts, manage OCR tasks, and convert incoming document files, manually or automatically, to the relevant documents or journal lines. The external files can be attached at any process stage, including to posted documents and to the resulting vendor, customer, and general ledger entries. For more information, see [How to: Process Incoming Documents](across-process-income-documents.md).
 
 ## To set up the Incoming Documents feature
-1. In the **Search** box, enter **Incoming Document Setup**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Incoming Document Setup**, and then choose the related link.
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
 ## To set up approvers of incoming document records
-1. In the **Search** box, enter **Incoming Document Setup**, and then choose the related link.  
+1. In the **Search for Page or Report** field, enter **Incoming Document Setup**, and then choose the related link.  
 2. In the **Incoming Documents Setup** window, choose the **Approvers** action.
 
     The **Incoming Document Approvers** window shows all users that are set up in your Project 'Madeira*.  
@@ -30,7 +30,7 @@ When approvers have been set up in the **Incoming Document Approvers** window, o
 **Note**: This approval setup is not related to approval workflows. For more information, see [How to: Use Approval Workflows](across-how-use-approval-workflows.md).
 
 ## To set up an OCR service
-1. In the **Search** box, enter **OCR Service Setup**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **OCR Service Setup**, and then choose the related link.
 2. Fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
 
