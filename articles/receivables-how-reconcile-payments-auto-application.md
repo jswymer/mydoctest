@@ -22,7 +22,7 @@ On journal lines where a payment has been applied automatically to one or more o
 
 For each journal line in the **Payment Reconciliation Journal** window, you can open the **Payment Application** window to see all candidate open entries for the payment and view detailed information for each entry about the data matching that a payment application is based on. Here, you can manually apply payments or reapply payments that were applied automatically to a wrong entry. For more information, see [How to: Review or Apply Payments After Automatic Application](receivables-how-review-apply-payments-auto-application.md).
 
-    **Note:** You can start the bank transactions import at the same time as you open the **Payment Reconciliation** Journal window for an existing payment reconciliation journal in the **Payment Reconciliation Journals** window. The following procedure describes how to import bank transactions into the **Payment Reconciliation Journal** window after you have created a new journal.
+**Note**: You can start the bank transactions import at the same time as you open the **Payment Reconciliation** Journal window for an existing payment reconciliation journal in the **Payment Reconciliation Journals** window. The following procedure describes how to import bank transactions into the **Payment Reconciliation Journal** window after you have created a new journal.
 
 ## To reconcile payments using automatic application
 1. In the **Search** box, enter **Payment Reconciliation Journals**, and then choose the related link.
