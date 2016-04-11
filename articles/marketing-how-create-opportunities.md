@@ -12,7 +12,7 @@ You can create opportunities from the **Opportunity List** window. But you typic
 Before you can create opportunities, you must set up opportunity sales cycles. For more information see [How to: Set Up Opportunity Sales Cycles and Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).
 
 ## To create an opportunity from a salesperson
-1. In the **Search** box, enter **Salespeople**, and then choose the related link. 
+1. In the **Search for Page or Report** field, enter **Salespeople**, and then choose the related link. 
 2. Select the salesperson from the list for whom you want to create an opportunity.
 3. Choose the **Opportunities** action, and then choose **List**.
 4. Choose **New**, and then fill in the relevant fields.  
@@ -20,7 +20,7 @@ Before you can create opportunities, you must set up opportunity sales cycles. F
 [AZURE.INCLUDE [tooltip-note](../includes/tooltip-note.md)]
 
 ## To create an opportunity from a contact
-1. In the **Search** box, enter **Contacts**, and then choose the related link. 
+1. In the **Search for Page or Report** field, enter **Contacts**, and then choose the related link. 
 2. Select the contact from the list for whom you want to create an opportunity.
 3. Do one of the following:
   * Choose the **Create Opportunity** action.

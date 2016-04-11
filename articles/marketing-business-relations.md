@@ -15,7 +15,7 @@ Using business relations on contacts is a two-step process. First, you define th
 ## Define a Business Relation Code
 The business relation code defines a category or type of the business relationship, such as BANK or Law. You can have several business relation codes. To define the business relation, you use the **Business Relations** window.
 
-1. In the **Search** box, enter **Business Relations**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Business Relations**, and then choose the related link.
 2. Choose the **New** action, and fill in a code and description. The code can be a maximum of 11 characters, and can be any combination of numbers and letters.
 
 ## Assign Business Relations to a Contact

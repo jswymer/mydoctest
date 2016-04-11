@@ -27,7 +27,7 @@ There are two ways of recording interactions:
 ## View and Manage Recorded Interactions
 You can view all the recorded interactions that have not been deleted in the **Interaction Log Entries** window. You can open this window by:
 
-* Using the **Search** box to search on **Interaction Log Entries**.
+* Using the **Search for Page or Report** field to search on **Interaction Log Entries**.
 * Choosing the **Interaction Log Entries** action on a contact or segment.
 The **Interaction Log Entry** window contains the interactions you create manually and the interactions that the application records automatically.
 
@@ -36,7 +36,7 @@ In this window, you can:
 * View the status of interactions.
 * Mark interactions as canceled.
 
-You can delete interaction log entries that have been canceled. To delete interaction log entries, in the **Search** box, enter *Delete Canceled Interaction Log Entries*, and then choose the related link, and then fill in the information..
+You can delete interaction log entries that have been canceled. To delete interaction log entries, in the **Search for Page or Report** field, enter *Delete Canceled Interaction Log Entries*, and then choose the related link, and then fill in the information..
 
 ##See Also
 [Manage Contacts](marketing-contacts.md)  
