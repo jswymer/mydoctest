@@ -8,6 +8,7 @@
 Getting insights into your Project "Madeira" data is easy with Power BI and the Project "Madeira" content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
 
 The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for the Project "Madeira" preview.  
+
 - Choose any visual on the dashboard to bring up one of seven underlying reports.  
 - Filter the report or add fields that you want to monitor.  
 - Pin this customized view to the dashboard to continue tracking.  
@@ -15,6 +16,7 @@ The dashboard and underlying reports refresh daily. You can control the refresh 
 
 ## Accessing Project "Madeira" in Power BI
 To see your Project "Madeira" data in Power BI, you must have the following:  
+
 - Access to Project "Madeira". For more information, see [Project "Madeira"](http://go.microsoft.com/fwlink/?LinkID=759714).  
 - Access to Power BI. For more information, see [Power BI](https://powerbi.microsoft.com).
 
