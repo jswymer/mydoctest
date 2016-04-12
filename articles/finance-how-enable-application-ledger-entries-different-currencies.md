@@ -13,7 +13,7 @@ Likewise, if you sell to a customer in one currency and receive payment in anoth
 The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window. The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.
 
 ##To enable application of vendor ledger entries in different currencies
-1. In the **Search** box, enter **Purchases & Payables Setup**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Purchases & Payables Setup**, and then choose the related link.
 2. In the **Appln. between Currencies** field, select one of the following options.
 
 |Option |Description |

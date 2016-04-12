@@ -13,7 +13,7 @@ Using organizational levels on contacts is a two-step process. First, you define
 ## Define an Organizational Level Code
 The organizational level code defines the type or category of the organizational level, such a CEO  or CFO. You can have several organizational level codes. To define the organizational level, you use the **Organizational Levels** window.
 
-1. In the **Search** box, enter **Organizational Levels**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Organizational Levels**, and then choose the related link.
 2. Choose the **New** action, and fill in a code and description. The code can be a maximum of 11 characters, and can be any combination of numbers and letters.
 
 ## Assign Organizational Levels to a Contact Person
