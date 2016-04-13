@@ -8,7 +8,7 @@
 # Welcome to Project "Madeira" 
 
 Project "Madeira" is a business management solution for small and mid-sized organizations that automates and streamlines business processes and helps you manage your business. Signing up is easy, and you can migrate existing business data from your legacy system.
-When you have signed up for the Project "Madeira" preview, you have access to a demonstration company. The demonstation company contains sample data, but you can create your own sales documents, for example, or set up a bank account.  
+When you have signed up for the Project "Madeira" preview, you have access to a demonstration company. The demonstration company contains sample data, but you can create your own sales documents, for example, or set up a bank account.  
 
 In the preview, you can see visual guides that explain core functionality. These guides let you try out daily tasks such as making a sales invoice and viewing a report. When you want to explore Project "Madeira" on your own, you can always go back to the Getting Started tour by launching it from the Home page.   
   
@@ -23,7 +23,7 @@ In the **Assisted Setup** window, you will find the following:
 |Set Up Sales Tax         |Gets you started with default Tax groups and assigning Tax area codes that you can assign to customers and vendors in order to automatically calculate sales tax in sales or purchase documents.|
 |Set Up Email             |Gets you ready for sending email messages directly from, for example, sales orders or contacts in Project "Madeira".|
 |Set Up Office Add-Ins    |Sets up the ability to use and launch Project "Madeira" from Outlook.|
-|Set Up Email Logging     |Sets up the capability to log email correspondance in Project "Madeira" to follow up on interactions.|
+|Set Up Email Logging     |Sets up the capability to log email correspondence in Project "Madeira" to follow up on interactions.|
   
 When you have run an assisted setup, it is marked as **Completed**. To run the assisted setup, you choose the three dots also called the context menu, and then you select **Start Setup**.
 

@@ -19,7 +19,7 @@ If you uninstall an extension, and you then change your mind, you can install it
 When you install an extension, you might have to set it up, such as specifying an account for use with the **PayPal Payments Standard for Project "Madeira"** extension. 
 Other extensions simply add fields to an existing page, or they add a new page, for example.   
   
-The **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by other companies. All extensions are tested before they are made availalbe to you, but we recommend that you access the links that are provided with each extension to learn more about the extension before you choose to install it.  
+The **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by other companies. All extensions are tested before they are made available to you, but we recommend that you access the links that are provided with each extension to learn more about the extension before you choose to install it.  
 
 Microsoft provides the following extensions:  
 - [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
