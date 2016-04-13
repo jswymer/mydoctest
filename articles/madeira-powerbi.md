@@ -8,6 +8,7 @@
 Getting insights into your Project "Madeira" data is easy with Power BI and the Project "Madeira" content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
 
 The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for the Project "Madeira" preview.  
+
 - Choose any visual on the dashboard to bring up one of seven underlying reports.  
 - Filter the report or add fields that you want to monitor.  
 - Pin this customized view to the dashboard to continue tracking.  
@@ -15,6 +16,7 @@ The dashboard and underlying reports refresh daily. You can control the refresh 
 
 ## Accessing Project "Madeira" in Power BI
 To see your Project "Madeira" data in Power BI, you must have the following:  
+
 - Access to Project "Madeira". For more information, see [Project "Madeira"](http://go.microsoft.com/fwlink/?LinkID=759714).  
 - Access to Power BI. For more information, see [Power BI](https://powerbi.microsoft.com).
 
@@ -37,7 +39,7 @@ When you add Project "Madeira" to Power BI, you must specify a URL so Power BI c
 In this example, *mybusiness* is the name of your Project "Madeira" service, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name.   
 To get the URL, in Project "Madeira", search for and open the **Web Services** page. This page lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.  
 **Getting the web service access key**  
-In order to use data from Project "Madeira", in Power BI, in the **Connect to Project "Madeira"** page, you must specify your user name,which is your email account, and a password. The password is the web service access key that is set up for your user account in Project "Madeira".  
+In order to use data from Project "Madeira", in Power BI, in the **Connect to Project "Madeira"** page, you must specify your user name, which is your email account, and a password. The password is the web service access key that is set up for your user account in Project "Madeira".  
 To get a web service access key, in Project “Madeira”, search for the **Users** page, and then open the card for your user account. On the **Web Service Access** FastTab, copy the contents of the **Web Service Access Key** field. If the field is blank, in the ribbon, choose **Change Web Service Access Key**, choose the **Key Never Expires** field, and then choose the OK button. You can then copy the key.  
   
 ## Getting Data from Project "Madeira"
