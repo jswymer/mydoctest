@@ -15,7 +15,7 @@ Vendor entries that are not marked **On Hold** are not included in the batch job
 **Important**: If you want to take advantage of payment discounts and have entered an available amount, the amount will be used for prioritized overdue vendor entries first in order of priority, and then for overdue vendor entries that are not prioritized, and finally for open vendor entries that qualify for payment discounts in order of vendor number.
 
 ## To use the Suggest Vendor Payments function
-1. In the **Search** box, enter **Payment Journals**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Payment Journals**, and then choose the related link.
 2. Open the relevant journal, and then choose the **Suggest Vendor Payments** action.
 3. Fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
 4. Choose the **OK** button.
