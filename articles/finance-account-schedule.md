@@ -6,7 +6,7 @@
                 authors="edupont04" />
                 
 #Account Schedules
-With account schedules, you can can get detailed insights into your financial data. You can set up various layouts to define the information that you want to extract from the chart of accounts
+With account schedules, you can get detailed insights into your financial data. You can set up various layouts to define the information that you want to extract from the chart of accounts
 The chart of accounts stores your financial data, but sometimes you want to get a view on your data that the chart of accounts cannot really show. So you use account schedules to analyze figures in general ledger accounts and to compare general ledger entries with general ledger budget entries. 
 For example, you want to calculate subtotals for groups of accounts, and you want to include these subtotals in new totals, and so on. 
 Project "Madeira" includes sample account schedules that are used to generate the charts on your Home page. You can also create account schedules to calculate profit margins on such dimensions as departments or customer groups.  
