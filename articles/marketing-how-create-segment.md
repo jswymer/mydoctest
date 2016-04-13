@@ -9,7 +9,7 @@
 You can create segments to select a group of contacts, for example, if you want to create an interaction involving several contacts, such as direct mail.
 
 ## To create a segment
-1. On the Home page, choose **Active Segments**. Or, in the **Search** box, enter **Segments**, and then choose the related link.
+1. On the Home page, choose **Active Segments**. Or, in the **Search for Page or Report** field, enter **Segments**, and then choose the related link.
 2. Choose the **New** action.
 3. In the **General** section, in the **No.** field, enter a number for the segment.
 

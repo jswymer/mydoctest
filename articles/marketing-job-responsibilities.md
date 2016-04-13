@@ -13,7 +13,7 @@ Using job responsibilities on contacts is a two-step process. First, you define 
 ## Define a Job Responsibility Code
 The job responsibility code defines the type or category of the job, such a MARKETING or PURCHASE. You can have several job responsibility codes. To define the job responsibility, you use the **Job Responsibilities** window. 
 
-1. In the **Search** box, enter **Job Responsibilities**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Job Responsibilities**, and then choose the related link.
 2. Choose the **New** action, and fill in a code and description. The code can be a maximum of 11 characters, and can be any combination of numbers and letters.
 
 ## Assign Job Responsibilities to a Contact Person

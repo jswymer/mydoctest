@@ -15,7 +15,7 @@ Using industry groups on contacts is a two-step process. First, you define the i
 ## Define an Industry Group Code
 The industry group code defines the type or category of the group, such as ADVERT for advertising, or PRESS, for TV and radio. You can have several industry group codes. To define the industry groups, you use the **Industry Groups** window.
 
-1. In the **Search** box, enter **Industry Groups**, and then choose the related link.
+1. In the **Search for Page or Report** field, enter **Industry Groups**, and then choose the related link.
 2. Choose the **New** action, and fill in a code and description. The code can be a maximum of 11 characters, and can be any combination of numbers and letters.
 
 ## Assign Industry Groups to a Contact
