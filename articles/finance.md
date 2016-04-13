@@ -16,7 +16,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | To                                                                  | See                      |
 |---------------------------------------------------------------------|--------------------------|
 |Apply incoming payments, reconcile bank accounts during payment application, and collect outstanding balances. |[Manage Receivables](receivables-manage-receivables.md)|
-|Make payments, apply outgoing payments, and handlework with checks.|[Manage Payables](payables-manage-payables.md)|
+|Make payments, apply outgoing payments, and handle work with checks.|[Manage Payables](payables-manage-payables.md)|
 |Reconcile bank accounts and transfer funds between bank accounts.|[Manage Bank Accounts](bank-manage-bank-accounts.md)|
 |Understand the general ledger and the chart of accounts.|[The General Ledger and the Chart of Accounts](finance-general-ledger.md)|
 |Add dimensions for richer business intelligence.|[Dimensions](finance-dimensions.md)|
