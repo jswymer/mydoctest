@@ -12,7 +12,7 @@ From PDF or image files representing incoming documents, you can have an externa
 
 In the **Incoming Documents** window, you can use different functions to review expense receipts, manage OCR tasks, and convert incoming document files, manually or automatically, to the relevant documents or journal lines. The external files can be attached at any process stage, including to posted documents and to the resulting vendor, customer, and general ledger entries.
 
-The incoming document process can consists of the following main activities:
+The incoming document process can consist of the following main activities:
 
 * Record the external documents inside Project 'Madeira' by creating lines in the **Incoming Documents** window in either of the following ways:
     * Manually, by using simple functions, either from a PC or from a mobile device, in one of the following ways:
