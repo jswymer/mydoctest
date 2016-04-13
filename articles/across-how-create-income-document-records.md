@@ -20,7 +20,7 @@ If you do want to allow users to create invoices or general journal lines from i
 
 If you approve the incoming document record, the **Released** check box on the incoming document line is selected. The user in charge of creating, for example, purchase invoices can proceed to process the record.
 
-## to create an incoming document record by taking a photo
+## To create an incoming document record by taking a photo
 **Note**: The following procedure only applies to the Project "Madeira" Tablet and Phone clients.
 
 1. On the app bar, choose the **Create Incoming Document from Camera** tile, and then go to step 4.
@@ -51,6 +51,9 @@ The image is attached to the incoming document record.
 6. In the **Insert File** window, select the file that represents the incoming document in question, and then choose the **Open** button.
 7. In the **Incoming Document** window, fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
+## To manage the number of lines in the **Incoming Documents** window.
+As you create or process incoming document records in the, the number of lines in the **Incoming Documents** window may grow to an extent where you loose overview. To get a better overview, you can set incoming document records to **Processed**, which will remove them from the default view. With the **Show All** action, you can view both processed and unprocessed records.
+1. 
 ##See Also  
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
