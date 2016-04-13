@@ -24,10 +24,10 @@ You cannot assign business relations to a contact person - only companies.
 1. Open the contact.
 2. Choose the **Company** action, and then the **Business Relations** action.
 
-  The **Contact Business Relations** window opens.
+    The **Contact Business Relations** window opens.
 3. In the **Business Relation Code** field, select the business relation you want to assign.
 
-    Repeat these steps to assign as many business relations as you want. You can also assign business relations from the contact list by following the same procedure.
+Repeat these steps to assign as many business relations as you want. You can also assign business relations from the contact list by following the same procedure.
 
 The number of business relations you have assigned to the contact is displayed in the **No. of Business Relations** field on the **Segmentation** section of the contact page.
 
