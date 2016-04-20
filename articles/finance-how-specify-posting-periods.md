@@ -9,7 +9,7 @@
 	
 <tags
 	ms.service="SMB"
-	ms.workload=""
+	ms.workload="na"
 	ms.tgt_pltfrm="na"
 	ms.devlang="na"
 	ms.topic="article"

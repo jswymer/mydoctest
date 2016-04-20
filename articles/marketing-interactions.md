@@ -2,7 +2,7 @@
                 pageTitle="Interactions | Project “Madeira”"
                 description="Describes using interactions with contacts in Project “Madeira”"
                 services=""
-                documentationCenter=“Madeira”
+                documentationCenter="Madeira"
                 authors="jswymer"/>
 
 # Recording Interactions With Contacts

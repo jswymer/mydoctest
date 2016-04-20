@@ -2,7 +2,7 @@
                 pageTitle="Create Contact Persons | Project “Madeira”"
                 description="Describes how to create contact persons in roject “Madeira”"
                 services=""
-                documentationCenter=“Madeira”
+                documentationCenter="Madeira"
                 authors="jswymer"/>
 
 # Create Contact Persons
