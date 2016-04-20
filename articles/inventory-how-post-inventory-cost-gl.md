@@ -36,6 +36,6 @@ If you would like to simply get an overview of what values could be posted to th
 
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)    
-[How to: Adjust Item Costs](inventory-how-adjust-item-costs.md)  
+[How to: Adjust Item Costs](inventory-how-adjust-item-cost.md)  
 [Manage Sales](sales-manage-sales.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)
