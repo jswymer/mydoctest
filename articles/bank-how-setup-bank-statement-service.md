@@ -20,10 +20,9 @@ When you have enabled the bank feed service, you must link the involved bank acc
 When the bank feed service is enabled, you can set a bank account up to automatically import new bank statements into the **Payment Reconciliation Journal** window every hour. Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported. For more information, see the “To enable automatic import of bank statements” section.
 
 ## To enable the bank feed service
-1. In the **Search for Page or Report** field, enter **Bank Accounts**, and then choose the related link.
-2. In the **Bank Accounts** window, in the **Bank Statement Import Format** field, select YODLEEBANKFEED.
-
-The bank feed service will be enabled when you link a bank account to its related online bank account. See the next procedures.
+1. In the **Search for Page or Report** field, enter **Envestment Yodlee Bank Feeds Service Setup**, and then choose the related link.
+3. Enter your bank account credentials.
+4. Choose the **Enables** check box to enable the service.
 
 ## To create a new linked bank account
 1. In the **Search for Page or Report** field, enter **Bank Accounts**, and then choose the related link.
