@@ -27,7 +27,7 @@ There are two ways of recording interactions:
 ## View and Manage Recorded Interactions
 You can view all the recorded interactions that have not been deleted in the **Interaction Log Entries** window. You can open this window by:
 
-* Using the **Search for Page or Report** field to search on **Interaction Log Entries**.
+* Using the **Search for Page or Report** icon to search on **Interaction Log Entries**.
 * Choosing the **Interaction Log Entries** action on a contact or segment.
 The **Interaction Log Entry** window contains the interactions you create manually and the interactions that the application records automatically.
 
