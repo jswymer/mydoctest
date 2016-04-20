@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Interactions | Project “Madeira”" 
-                description="Describes using interactions with contacts in Project “Madeira”" 
-                services="" 
+                pageTitle="Interactions | Project “Madeira”"
+                description="Describes using interactions with contacts in Project “Madeira”"
+                services=""
                 documentationCenter=“Madeira”
                 authors="jswymer"/>
 
@@ -17,7 +17,7 @@ The relationship management area enables you to record all the interactions you 
 ## Set Up Interaction Templates
 Before you can create and record interactions, you must set up interaction templates. When creating interactions, you must specify the interaction templates they are based on. An interaction template is a model that defines the basic characteristics of an interaction.
 You set up an interaction template in the **Interaction Templates** window.  
-  
+
 ## Create Interactions
 There are two ways of recording interactions:
 
@@ -36,7 +36,7 @@ In this window, you can:
 * View the status of interactions.
 * Mark interactions as canceled.
 
-You can delete interaction log entries that have been canceled. To delete interaction log entries, in the **Search for Page or Report** field, enter *Delete Canceled Interaction Log Entries*, and then choose the related link, and then fill in the information..
+You can delete interaction log entries that have been canceled. To delete interaction log entries, in the top right corner, choose the **Search for Page or Report** icon, enter *Delete Canceled Interaction Log Entries*, and then choose the related link, and then fill in the information..
 
 ##See Also
 [Manage Contacts](marketing-contacts.md)  

@@ -15,7 +15,7 @@ As an alternative to the Envestnet Bank Data Feeds service, you can also use the
 **Note**: The bank data conversion service may impose a limit on the number of lines that can be exported in one file. You will receive an error message if the limit is exceeded. It is recommended that bank statement files do not exceed 1000 lines as the processing time in the bank data conversion service may otherwise increase significantly.
 
 ## To sign your company up for the bank data conversion service
-1. In the **Search for Page or Report** field, enter **Bank Data Conv. Service Setup**, and then choose the related link.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Data Conv. Service Setup**, and then choose the related link.  
 2. The **Bank Data Conv. Service Setup** window opens with three fields prefilled with relevant URLs of the provider of bank data conversion service.
 
     **Note**: In the CRONUS International Ltd. demonstration database, the User Name and Password fields are prefilled with demonstration logon information, which you will replace with your company’s actual information as you sign up for the bank data conversion service.
@@ -33,7 +33,7 @@ It is recommended that you protect the logon information that you enter in the *
 2. In the **Data Encryption Management** window, enable encryption of your data.
 
 ##To view or update the list of currently supported bank data formats
-1. In the **Search for Page or Report** field, enter **Bank Data Conv. Service Setup** , and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Data Conv. Service Setup** , and then choose the related link.
 2. In the **Bank Data Conv. Service Setup** window, choose the **Bank Name - Data Conversion List** action to open the list of bank names representing bank data formats that are supported by the conversion service.
 3. In the **Bank Name - Data Conversion List** page, choose the **Update Bank Name List** action.
 
@@ -44,7 +44,7 @@ The list of bank data formats that are supported by the bank data conversion ser
 You have now signed up for the bank data conversion service. Proceed to reflect the sign-up information on every bank account that will use the service.
 
 ## To set up bank accounts to use the bank data conversion service
-1. In the **Search for Page or Report** field, enter **Bank Accounts**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
 2. Open the card for a bank account that you will export or import bank files for by using the bank data conversion service.
 3. On the **Transfer** FastTab, in the **Payment Export Format** field, choose **Bank Data Conversion Service - Credit Transfer** to set up for payment export.
 4. In the **Bank Name - Data Conversion** field, enter or select the name of the bank’s data format that you signed-up for in step 4 in the “To sign up for the bank data conversion service” section.

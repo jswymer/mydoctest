@@ -21,7 +21,7 @@ You can apply customer payments manually in the **Cash Receipt Journal** window.
 You can also apply customer payments, and vendor payments, in the **Payment Reconciliation Journal** window using functions for bank statement import, automatic application, and bank account reconciliation. For more information, see [Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md). Alternatively, you can reconcile customer payments based on a list of unpaid sales documents in the **Payment Registration** window. For more information, see [How to: Reconcile Customer Payments From a List of Unpaid Sales Documents](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
 
 ## To fill and post a cash receipt journal
-1. In the **Search for Page or Report** field, enter **Cash Receipt Journal**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Cash Receipt Journal**, and then choose the related link.
 2. Select the relevant batch in the **Batch Name** field.
 3. Fill in the **Posting Date** field.  
 4. In the **Document Type** field, select **Payment**.
@@ -36,7 +36,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 11. Post the journal.
 
 ## To apply a payment to a single customer ledger entry
-1. In the **Search for Page or Report** field, enter **Cash Receipt Journal** and choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Cash Receipt Journal** and choose the related link.
 2. On the first journal line, enter the relevant information about the entry to be applied.
 3. In the **Document Type** field, enter **Payment**.
 4. In the **Account Type** field, enter **Customer**.
@@ -50,7 +50,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 10. Post the cash receipt journal.
 
 ## To apply a payment to multiple customer ledger entries
-1. In the **Search for Page or Report** field, enter **Cash Receipt Journal**, and choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Cash Receipt Journal**, and choose the related link.
 2. On the first journal line, enter the relevant information about the entry to be applied.
 3. In the **Document Type** field, enter **Payment**.
 4. In the **Account Type** field, enter **Customer**.
@@ -65,7 +65,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 11. Post the cash receipt journal.
 
 ## To apply a credit memo to a single customer ledger entry
-1. In the **Search for Page or Report** field, enter **Sales Credit Memos**, and choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Credit Memos**, and choose the related link.
 2. Open the relevant sales credit memo.
 3. To apply the credit memo to a single customer ledger entry when posting, in the **Applies-to Doc. No.** field, select the entry to which you want to apply the payment.
 4. On the line in the **Amount to Apply** field, enter the amount you want to apply to the entry.
@@ -75,7 +75,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 6. Post the credit memo.
 
 ## To apply a credit memo to multiple customer ledger entries
-1. In the **Search for Page or Report** field, enter **Sales Credit Memos**, and choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Credit Memos**, and choose the related link.
 2. Open the relevant sales credit memo.
 3. To apply the credit memo to multiple customer ledger entries when posting, choose the **Apply Entries** action.
 4. Select the lines with the entries that you want the applying entry to be applied to, and then choose the **Set Applies-to ID** action.
@@ -86,7 +86,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 7. Post the credit memo.
 
 ## To apply posted customer ledger entries
-1. In the **Search for Page or Report** field, enter **Customers**, and choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and choose the related link.
 2. Open the customer card for the customer with entries that you want to apply.
 3. Choose the **Ledger Entries** action, and then select the line with the entry that will be the applying entry.
 4. Choose the **Apply Entries** action. The **Apply Customer Entries** window opens showing the open entries for the customer.
@@ -98,7 +98,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 8. Choose the **OK** button to post the application.
 
     If the posted application has resulted in closed customer ledger entries, the **Open** field is cleared for these ledger entries.
-9. To see the ledger entries, in the **Search for Page or Report** field, enter **Customers**, and choose the related link. Browse to the card for the relevant customer to see the ledger entries.
+9. To see the ledger entries, in the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and choose the related link. Browse to the card for the relevant customer to see the ledger entries.
 
 On the ledger entry list, on the line that contains the ledger entry that was fully applied to, you can see that the **Open** check box is not selected.  
 
@@ -111,7 +111,7 @@ If you apply an entry (Entry 1) in one currency to an entry (Entry 2) in a diffe
 
 Applying customer ledger entries in different currencies must be enabled. For more information, see [How to: Enable Application of Ledger Entries in Different Currencies](finance-how-enable-application-ledger-entries-different-currencies.md)
 
-1. In the **Search for Page or Report** field, enter **Cash Receipts Journal**, and choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Cash Receipts Journal**, and choose the related link.
 2. Open the journal you want, and fill in the first empty journal line using a currency code.
 3. Choose the **Apply Entries** action.
 4. Select the line with the entry you want to apply to the entry in the cash receipt journal, choose the **Set Applies-to ID** action, and then select the entry you want to apply to.
@@ -123,7 +123,7 @@ Applying customer ledger entries in different currencies must be enabled. For mo
 ## To unapply an application of customer entries
 When you unapply an erroneous application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses. The entries that were closed by the application are reopened.
 
-1. In the **Search for Page or Report** field, enter **Customers**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.
 2. Open the relevant customer card.
 3. Choose the **Ledger Entries** action.
 4. Select the relevant ledger entry, and then choose the **Unapply Entries** action.
