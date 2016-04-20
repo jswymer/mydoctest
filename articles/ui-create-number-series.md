@@ -24,7 +24,7 @@ In addition to the numbers that you assign manually or by use of the numbering s
 ## To create relationships between number series
 If you have set up more than one number series code for the same kind of basic information or transactions, you can create relationships between the codes. This feature can assist you in deciding among the codes when you use a number.
 
-1. In the **Search for Page or Report** field, enter **No. Series**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **No. Series**, and then choose the related link.
 2. Select the line with the number series you want to create relationships for and then choose **Relationships**.
 3. In the **Series Code** field, enter the code for the number series that you want to relate to the series you selected in step 2.
 4. Add a line for each code that you want to relate to the selected number series.
