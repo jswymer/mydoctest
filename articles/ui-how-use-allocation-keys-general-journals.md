@@ -13,7 +13,7 @@ You can allocate an entry in a general journal to several different accounts whe
 2. Choose the **Batch Name** field to open the **General Journal Batches** window.
 3. You can either modify allocations on an existing batch in the list or create a new batch with allocations.
   * To create a new batch, choose the **New** action, and go to the next step.
-  * To change the allocations of an existing journal, select the jourmnal and go to step 7.    
+  * To change the allocations of an existing journal, select the journal and go to step 7.    
 4. In the **Name** field, enter a name for the batch, such as CLEANING. In the **Description** field, enter a description, such as Cleaning Expenses Journal.
 5. When you are done, choose the **OK** button. A new, empty recurring journal opens. 
 6. Fill in the fields in the line.

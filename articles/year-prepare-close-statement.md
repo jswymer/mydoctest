@@ -4,7 +4,7 @@
 	services=""
 	documentationCenter="Madeira"
 	authors="jswymer"/>
-	
+
 # Prepare Closing Statements
 There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.
 
@@ -23,5 +23,4 @@ The following table describes a number of reports that may be useful in this pro
 To see a report, in the **Search for Page or Report** field, type the name as it appears in the table, and then choose the related link.
 
 ## See Also
-[Close Years and Periods](year-close-years-periods.md)  
-How to: View and Print Reports
+[Close Years and Periods](year-close-years-periods.md)

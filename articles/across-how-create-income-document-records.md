@@ -20,7 +20,7 @@ If you do want to allow users to create invoices or general journal lines from i
 
 If you approve the incoming document record, the **Released** check box on the incoming document line is selected. The user in charge of creating, for example, purchase invoices can proceed to process the record.
 
-## to create an incoming document record by taking a photo
+## To create an incoming document record by taking a photo
 **Note**: The following procedure only applies to the Project "Madeira" Tablet and Phone clients.
 
 1. On the app bar, choose the **Create Incoming Document from Camera** tile, and then go to step 4.
