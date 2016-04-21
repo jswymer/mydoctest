@@ -8,7 +8,7 @@
 # Prepare Pre-Closing Reports
 There are many standard reports that you can use to verify the accuracy of the accounts before closing the books at the end of a year or period. For example, you can use the **Customer - Trial Balance** report to verify that the balance for a customer posting group is equal to the balance on the corresponding general ledger account on a certain date.
 
-The following table describes a number of reports that may be useful in this process, with links to the topics that describe them.
+The following table describes a number of reports that may be useful in this process.
 
 |To     |See this report       |
 |-------|----------------------|
@@ -21,6 +21,7 @@ The following table describes a number of reports that may be useful in this pro
 |Print a detailed trial balance report for general ledger account balances.|Detail Trial Balance|
 |Print a trial balance report with balances and net changes for general ledger accounts.|Trial Balance|
 |Print a trial balance for a consolidated company.|Consolidated Trial Balance|
+
 To see a report, in the top right corner, choose the **Search for Page or Report** icon, type the name as it appears in the table, and then choose the related link.
 
 ## See Also
