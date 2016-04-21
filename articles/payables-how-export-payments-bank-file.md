@@ -15,7 +15,7 @@ In the generic version of Project "Madeira", a global provider of services to co
 You use the **Credit Transfer Registers** window to view the payment files that have been exported from the payment journal. From this window, you can also re-export payment files in case of technical errors or file changes.
 
 ## To export payments to a bank file
-1. In the **Search for Page or Report** field, enter **Payment Journals**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Journals**, and then choose the related link.
 2. Fill payment journal lines, for example, by using the **Suggest Vendor Payments** function. For more information, see [How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md).  
 3. When you have completed all payment journal lines, choose **Export Payment to File**.
 
