@@ -11,7 +11,7 @@ When you want to search for data, such as customer names, addresses, or product 
 ## Searching using the Quick Filter
 You can add filters to all pages by using the Quick Filter. The Quick Filter is enabled by choosing the magnifier icon in the top right corner of a page. This filtering type is used for a fast entry of criteria.
 
-**Important**: Filtering using the Quick Filter works a bit differently than using the Advanced Filter. The Quick Filter provides an easy access to filter data by entering plain text, but does also provide a lot of search criteria options. Depending on whether you enter plain text or text including symbols, the Quick Filter behaves differently.  
+**Important**: The Quick Filter provides an easy access to filter data by entering plain text, but does also provide a lot of search criteria options. Depending on whether you enter plain text or text including symbols, the Quick Filter behaves differently.  
 - If you enter plain text in the search criteria, the search criteria is interpreted as a case insensitive search that contains certain text.  
 - If you enter text including symbols in the search criteria, the search criteria is interpreted exactly as you entered it, and the search is case sensitive
 
