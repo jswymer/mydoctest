@@ -18,7 +18,7 @@ You can adjust item costs in two ways:
  - Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.  
 
 ## To adjust item costs automatically
-1. In the **Search for Page or Report** field, enter **Inventory Setup**, and then  choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.
 2. In the **Inventory Setup** window, in the **Automatic Cost Adjustment** field, select one of the following values.
 
 |Option |Behavior |
@@ -32,7 +32,7 @@ You can adjust item costs in two ways:
 |Always|Costs are always adjusted when posting, irrespective of the posting date|
 
 ## To adjust item costs manually
-1. In the **Search for Page or Report** field, enter **Adjust Cost - Item Entries**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Cost - Item Entries**, and then choose the related link.
 2. In the **Adjust Cost - Item Entries** window, specify which items to adjust costs for and whether the adjusted costs will be posted to the general ledger at the same time.
 
 ## See Also

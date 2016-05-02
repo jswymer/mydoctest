@@ -16,12 +16,12 @@ Payments for different customers that have different payment dates must be poste
 
 ## To set up the payment registration journal
 Because you can post different payment types to different balancing accounts, you must select a balancing account in the **Payment Registration Setup** window before you start processing customer payments. If you always post to the same balancing account, you can set that account as the default and avoid this step every time that you open the **Payment Registration** window.
-1. In the **Search for Page or Report** field, enter **Payment Registration Setup**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration Setup**, and then choose the related link.
   Alternatively, in the **Payment Registration** window, choose the **Setup** action.
 2. Fill the fields in the **Payment Registration Setup** window. Choose a field to read a short description of the field or link to related information.  
 
 ## To reconcile payments individually
-1. In the **Search for Page or Report** field, enter **Payment Registration**, and then choose the related link.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 2. Select the **Payment Made** check box on the line that represents the posted document for which a payment has been made.
 
     If the **Auto Fill Date Received** check box is selected in the **Payment Registration Setup** window, then the work date is entered in the **Date Received** field.
@@ -37,7 +37,7 @@ The payment information is posted for documents represented by lines where the *
 Payments entries are posted to general ledger, bank, and customer accounts. Each payment is applied to the related posted sales document.
 
 ## To reconcile lump payments
-1. In the **Search for Page or Report** field, enter **Payment Registration**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.
 2. Select the **Payment Made** check box on the lines that represent posted documents for the same customer for which a lump payment has been made.
 
     **Note**: The customer in the **Name** field must be the same on all lines that will be posted as a lump payment.
@@ -69,7 +69,7 @@ This procedure explains four different procedures for posting discounted payment
 - The payment amount is more than the remaining discounted amount. You post the payments as is. Only the remaining amount is posted. The additional amount is credited to the customer.
 
 ## To process a payment amount that is equal to the discounted amount and where the payment date is before the discount date
-1. In the **Search for Page or Report** field, enter **Payment Registration**, and then choose the related link.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 2. Enter the payment amount in the **Amount Received** field. The amount is equal to the amount in the **Rem. Amt. after Discount** field.
 
     The **Payment Made** check box is automatically selected, and the **Date Received** field is filled with the work date.
@@ -80,7 +80,7 @@ This procedure explains four different procedures for posting discounted payment
 The related document is closed.
 
 ## To process a payment amount that is equal to the discounted amount but where the payment date is after the discount date
-1. In the **Search for Page or Report** field, enter **Payment Registration**, and then choose the related link.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 2. Enter the payment amount in the **Amount Received** field. The amount is equal to the amount in the **Rem. Amt. after Discount** field.
 
     The **Payment Made** check box is automatically selected, and the **Date Received** field is filled with the work date.
@@ -96,7 +96,7 @@ The related document is closed.
 The related document remains open.
 
 ## To process a payment that is lower than the remaining discounted amount
-1. In the **Search for Page or Report** field, enter **Payment Registration**, and then choose the related link.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 2. Enter the payment amount in the **Amount Received** field. The amount is lower than the amount in the **Rem. Amt. after Discount** field.
 
     The **Payment Made** check box is automatically selected, and the **Date Received** field is filled with the work date.
@@ -106,7 +106,7 @@ The related document remains open.
 The related document remains open.
 
 ## To process a payment that is more than the remaining discounted amount
-1. In the **Search for Page or Report** field, enter **Payment Registration**, and then choose the related link.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 2. Enter the payment amount in the **Amount Received** field. The amount is more than the amount in the **Rem. Amt. after Discount** field.
 
     The **Payment Made** check box is automatically selected, and the **Date Received** field is filled with the work date.
@@ -128,7 +128,7 @@ In the **Document Search** window, you can search among documents that are not f
 
 The following procedure explains how to find a specific document by using both search criteria.
 
-1. In the **Search for Page or Report** field, enter **Payment Registration**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.
 2. With the pointer on any line, Choose the **Search Documents** action.
 3. In the **Document Search** window, enter a search value in the **Document No.** field.
 
@@ -148,7 +148,7 @@ If a payment in the bank is not represented by any document in Project "Madeira"
 ##To record or post a payment without a related document
 If a payment in the bank is not represented by any document Project "Madeira", then you can open a prefilled general journal line from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been clarified.
 
-1. In the **Search for Page or Report** field, enter **Payment Registration**, and then choose the related link.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 Proceed to record an undocumented payment.  
 2. Choose the **General Journal** action.
 

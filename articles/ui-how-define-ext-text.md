@@ -10,7 +10,7 @@
 You can extend a standard text by adding extra lines, and you can set up conditions for use of the extra lines. Before you do this, you must set up standard text codes.
 
 ## To define extended text for standard text codes
-1. In the **Search for Page or Report** field, enter **Standard Text Codes**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Standard Text Codes**, and then choose the related link.
 2. In the **Code** field, enter the code, and in the **Description** field, enter the desired text.
 3. Choose **Extended Texts**.
 4. Fill in the lines in the **Extended Text** window with the additional text.

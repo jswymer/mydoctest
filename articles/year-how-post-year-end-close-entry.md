@@ -9,7 +9,7 @@
 After you use the Close Income Statement batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.
 
 ## To post the year end closing entry
-1. In the **Search for Page or Report** field, enter **General Journal**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.
 2. In the **General Journal** window, in the **Batch Name** field, select the batch that contains the closing entries.
 3. Review the entries.
 4. To post the journal, choose the **Post** action.

@@ -17,7 +17,7 @@ A return or reimbursement may relate to only some of the items or services on th
 You can send the posted sales credit memo to the customer to confirm the return or cancellation and communicate that the related value will be reimbursed, for example when the items are returned.
 
 ## To create a sales credit memo from a posted sales invoice
-1. In the **Search for Page or Report** field, enter **Posted Sales Invoices**, and the choose the related link.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and the choose the related link.  
 2. In the **Posted Sales Invoices** window, select the posted sales invoice that you want to reverse, and then choose the **Create Corrective Credit Memo** action.
 
     Most fields on the sales credit memo header are filled with the information from the posted sales invoice. You can edit all the fields, for example with new information that reflects the return agreement.
@@ -39,7 +39,7 @@ The **Post and Send Confirmation** dialog box opens showing the preferred sendin
 The posted sales documents that you applied the credit memo to are now reversed, and a refund payment can be created for the customer. The sales credit memo is removed and replaced with a new document in the list of posted sales credit memos.
 
 ## To create a sales credit memo from scratch
-1. In the **Search for Page or Report** field, enter **Posted Sales Invoices**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.
 2. Choose the **New** action to open a new empty sales credit memo.
 3. In the **Customer** field, enter the name of an existing customer.
 4. Choose the **Copy Document** action.

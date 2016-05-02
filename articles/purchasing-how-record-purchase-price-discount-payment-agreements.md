@@ -20,7 +20,7 @@ Concerning discounts, you can set up and use two types of purchase discounts:
 Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).
 
 ## To set up a special purchase price for a vendor
-1. In the **Search for Page or Report** field, enter **Vendors**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.
 2. Open the relevant vendor card, and then choose the **Prices** action.
 
     The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.
@@ -28,7 +28,7 @@ Because purchase line discounts and purchase prices are based on a combination o
 4. Fill a line for each combination for which the vendor grants you a purchase line discount.
 
 ## To set up a line discount for a vendor
-1. In the **Search for Page or Report** field, enter **Vendors**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.
 2. Open the relevant vendor card, and then choose the **Line Discounts** action.
 
     The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.
@@ -38,7 +38,7 @@ Because purchase line discounts and purchase prices are based on a combination o
 ## To set up an invoice discount for a vendor
 When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.
 
-1. In the **Search for Page or Report** field, enter **Vendors**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.
 2. Open the vendor card for a vendor that will be eligible for invoice discounts.
 3. In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.
 
