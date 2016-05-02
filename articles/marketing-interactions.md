@@ -5,7 +5,7 @@
                 documentationCenter="Madeira"
                 authors="jswymer"/>
 
-# Recording Interactions With Contacts
+# Managing Interactions With Contacts
 In Project "Madeira", interactions are all types of communications between your company and your contacts. For example, communications can be by letter, fax, e-mail, telephone, meetings, and so on.
 
 The relationship management area enables you to record all the interactions you have with your contacts in order to keep track of the sales and marketing efforts you have directed at your contacts and to improve your future business interactions with them. Setting up your application to record interactions consists of these tasks:
@@ -21,7 +21,7 @@ You set up an interaction template in the **Interaction Templates** window.
 ## Create Interactions
 There are two ways of recording interactions:
 
-* You can manually create interactions that are linked to a single contact or to a segment.  
+* You can manually create interactions that are linked to a single contact or to a segment. For more information, see [How to: Create Interactions on Contacts and Segments](marketing-how-create-interactions.md).  
 * You can automatically record interactions when you perform actions in the application, for example, when you print an invoice, or quote. For more information, see [Automatically Record Interactions with Contacts](marketing-auto-record-interactions.md).
 
 ## View and Manage Recorded Interactions
@@ -36,7 +36,7 @@ In this window, you can:
 * View the status of interactions.
 * Mark interactions as canceled.
 
-You can delete interaction log entries that have been canceled. To delete interaction log entries, in the top right corner, choose the **Search for Page or Report** icon, enter *Delete Canceled Interaction Log Entries*, and then choose the related link, and then fill in the information..
+You can delete interaction log entries that have been canceled. To delete interaction log entries, in the top right corner, choose the **Search for Page or Report** icon, enter **Delete Canceled Interaction Log Entries**, and then choose the related link, and then fill in the information.
 
 ##See Also
 [Manage Contacts](marketing-contacts.md)  
