@@ -1,10 +1,10 @@
-<properties pageTitle="Software License Terms for Project "Madeira"" 
+<properties pageTitle="Software License Terms for Project "Test"" 
 	description="Contains the terms of use for Project Madeira as specified below." 
 	services="" 
 	documentationCenter=""
 	authors="edupont" />
 # MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
-MICROSOFT PROJECT “MADEIRA” PREVIEW 
+MICROSOFT PROJECT “Test” PREVIEW 
 These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them.  This agreement applies to the pre-release software named above, which includes the media on which you received it, if any.  It also applies to any Microsoft 
 •	updates,
 •	supplements,
