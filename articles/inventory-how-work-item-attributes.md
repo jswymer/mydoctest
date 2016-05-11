@@ -6,7 +6,7 @@
                 authors="SorenGP"/>
 
 # How to: Work with Item Attributes
-When a customer inquiries about an item, either in correspondence or through a web shop, the customer may ask or search according to characteristics, such as size and color. To provide this customer service, you can assign item attribute values of different types to your items, which will then function as categories when searching or sorting items.
+When a customer inquiries about an item, either in correspondence or through a web shop, the customer may ask or search according to characteristics, such as size and color. To provide this customer service, you can assign item attribute values of different types to your items, which can then be used when searching for items.
 
 ## To create an item attribute
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Item Attributes**, and then choose the related link.
@@ -19,7 +19,14 @@ When a customer inquiries about an item, either in correspondence or through a w
 1. In the **Item Attributes** window, select the item attribute that you want to assign values to, and then choose the **Item Attribute Values** action.
 2. In the **Item Attribute Values** window, fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
+
 **Note**: You can also assign item attribute values from an item attribute card. For more information, see the note in the ""To create an item attribute"" section.
+ 
+## To assign item attributes to an item
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.
+2. In the **Items** window, select the item that you want to assign item attributes to, and then choose the **Attributes** action.
+3. In the **Item Attribute Values** window, choose the drop-down arrow in the **Attribute** field, and then select an existing item attribute.
+4. Repeat step 3 for all item attributes that you want to assign to the item.
  
 ## See Also  
 [How to: Register New Products](inventory-how-register-new-products.md)  
