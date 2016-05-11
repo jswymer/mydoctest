@@ -18,7 +18,7 @@ Inventory increases and decreases are naturally also recorded when you post purc
 |Increase or decrease an item’s inventory quantity, for example, after a physical count or as a simple way to record purchase receipts.|[How to: Adjust Inventory](inventory-how-adjust-inventory.md)|
 |Adjust item costs, either automatically or manually, to forward cost changes from outbound entries to their related inbound entries.|[How to: Adjust Item Costs](inventory-how-adjust-item-costs.md)|
 |Reflect inventory value changes in your company books by posting inventory costs, either automatically or manually, to the related inventory accounts in the general ledger.|[How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md)|
-|Assign item attributes and their translations to your items to help you and your customers search and sort items by categories.|[How to: Work with Item Attributes](inventory-how-work-item-attributes.md)|   
+|Assign item attributes of different value types to your items to help you and your customers search and sort items.|[How to: Work with Item Attributes](inventory-how-work-item-attributes.md)|   
 
 ## See Also  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
