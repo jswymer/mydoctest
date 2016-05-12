@@ -26,7 +26,8 @@ When a customer inquiries about an item, either in correspondence or through a w
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.
 2. In the **Items** window, select the item that you want to assign item attributes to, and then choose the **Attributes** action.
 3. In the **Item Attribute Values** window, choose the drop-down arrow in the **Attribute** field, and then select an existing item attribute.
-4. Repeat step 3 for all item attributes that you want to assign to the item.
+4. In the **Value** field, choose the drop-down arrow and select an existing item attribute value. 
+5. Repeat step 3 and 4 for all item attributes that you want to assign to the item.
  
 ## See Also  
 [How to: Register New Products](inventory-how-register-new-products.md)  
