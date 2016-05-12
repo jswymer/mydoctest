@@ -1,9 +1,17 @@
 <properties
 	pageTitle="Troubleshooting Self-Service Sign-Up | Project “Madeira”"
     description="Troubleshoot AAD issues when signing up." 
-	services="" 
-	documentationCenter="Madeira"
+	services="project-madeira" 
+	documentationCenter=""
 	authors="solsen"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="solsen" />
     
 # Troubleshooting Self-Service Sign-Up
 Signing up for Project "Madeira" is easy and can be done very quickly. You can create a free account even if you are an existing organization. This article addresses issues that you may have during signup.

@@ -1,9 +1,18 @@
 <properties
                 pageTitle="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents| Project “Madeira”"
                 description="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="SorenGP" />
 
 # How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents
 When your customers have made payments to your electronic bank account, you must apply each amount paid to the related sales document and then post the payment to update the customer, general ledger, and bank ledger entries.

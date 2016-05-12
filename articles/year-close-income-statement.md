@@ -1,9 +1,17 @@
 <properties
 	pageTitle="How to: Close Income Statement | Project “Madeira”"
 	description="Explains how to close an income statement."
-	services=""
-	documentationCenter="Madeira"
+	services="project-madeira"
+	documentationCenter=""
 	authors="jswymer"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 	
 # Close Income Statement
 When a fiscal year is over, you must close the periods that comprise it. To do this, you run the **Close Income Statement** batch job. This job transfers the year's result to an account in the balance sheet and closes the income statement accounts. You do this by creating lines in a journal, which you then can post.

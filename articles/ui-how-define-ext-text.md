@@ -1,9 +1,17 @@
 <properties
 	pageTitle="How to: Define Extended Text | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
-        services="" 
-        documentationCenter="Madeira"
+        services="project-madeira" 
+        documentationCenter=""
         authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
     
 # How to: Define Extended Text
 

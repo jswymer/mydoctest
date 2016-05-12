@@ -1,9 +1,17 @@
 <properties
 	pageTitle="Get Project “Madeira” on my Mobile Device | Project “Madeira”"
     description="Get the app for your mobile device." 
-	services="" 
-	documentationCenter="Madeira"
+	services="project-madeira" 
+	documentationCenter=""
 	authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
     
 # Get Project "Madeira" on my Mobile Device 
 Access your Project "Madeira" data from your mobile device. You can navigate through your business data, use features such as send to Excel or Office 365, view up-to-date charts and KPIs, email sales quotes and invoices, and shoot and attach pictures with your camera. Follow the steps below to download the app and get started.

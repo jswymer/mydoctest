@@ -1,9 +1,17 @@
 <properties
 	pageTitle="How to: Open a New Fiscal Year| Project “Madeira”" 
     description="Describes how to open fiscal periods." 
-    services="" 
-    documentationCenter="Madeira"
+    services="project-madeira" 
+    documentationCenter=""
     authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
     
 # How to: Open a New Fiscal Year 
 Before you can post in a fiscal year, you must open the fiscal year and define its accounting periods.

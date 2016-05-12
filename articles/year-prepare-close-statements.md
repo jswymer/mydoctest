@@ -1,9 +1,18 @@
 <properties
 	pageTitle="Prepare Closing Statements| Project “Madeira”"
     description="Describes how to prepare closing statements."
-    services=""
-    documentationCenter="Madeira"
-    authors="jswymer"/>
+    services="project-madeira"
+    documentationCenter=""
+    authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 
 # Prepare Closing Statements
 There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.

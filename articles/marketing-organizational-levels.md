@@ -1,9 +1,18 @@
 <properties
                 pageTitle="Organizational Levels for Contacts | Project “Madeira”" 
                 description="Describes organizational levels for contacts in Project “Madeira”" 
-                services="" 
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira" 
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 
 # Set Up Organizational Levels for Contact Persons
 You can use organizational levels on your contacts to specify which position they have in the company, for example, top management. You can use this information when entering information about your contacts.

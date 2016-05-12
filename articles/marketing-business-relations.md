@@ -1,9 +1,18 @@
 <properties
                 pageTitle="Business Relations for Contacts | Project “Madeira”"
                 description="Describes business relations for contacts in Project “Madeira”"
-                services=""
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 
 # Set Up Business Relations on Contact Companies
 You can use business relations to indicate the business relationship you have with your contacts, for example, a prospect, bank, consultant, service supplier, and so on.

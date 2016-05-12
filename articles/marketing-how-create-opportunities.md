@@ -1,8 +1,17 @@
 <properties pageTitle="How to: Create Sales Opportunities | Project “Madeira”"
     description="Describes how to create sales opportunities on contacts in Project “Madeira”"
-    services=""
-    documentationCenter="Madeira"
-    authors="jswymer"/>
+    services="project-madeira"
+    documentationCenter=""
+    authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 
 # How to: Create Sales Opportunities
 You can create opportunities for the sales opportunities you have on your contacts. All opportunities must be assigned to a salesperson or purchaser and must have a contact.
