@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Adjust Inventory| Project “Madeira”"
                 description="How to: Adjust Inventory"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Adjust Inventory   
 After you have made a physical count of an item in your inventory area, you can use the **Adjust Inventory** function to record the actual inventory quantity.

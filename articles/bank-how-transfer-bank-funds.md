@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Transfer Bank Funds| Project “Madeira”"
                 description="How to: Transfer Bank Funds"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP" />
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Transfer Bank Funds
 You may sometimes need to transfer an amount from one bank account to another. To do this, you must post the a transaction in the general journal. The task varies depending on whether the bank accounts use the same currency or different currencies.

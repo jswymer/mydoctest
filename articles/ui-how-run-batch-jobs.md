@@ -1,9 +1,14 @@
 <properties
 	pageTitle="How to: Run Batch Jobs | Project “Madeira”"
         description="Welcome to Project "Madeira""
-        services=""
-        documentationCenter="Madeira"
-        authors="edupont04"/>
+        services="project-madeira"
+        documentationCenter=""
+        authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 # How to: Run Batch Jobs
 A batch job is a routine that processes data in batches, for example the **Adjust Exchange Rates** batch job. There are batch jobs that perform periodic accounting activities, such as closing the income statement at the end of a fiscal year. Many batch jobs do calculation work, such as calculation of finance charges, exchange rate adjustment, and calculation of unit prices.

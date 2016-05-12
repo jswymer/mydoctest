@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Set Up Incoming Documents| Project “Madeira”"
                 description="How to: Set Up Incoming Documents"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP" />
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Set Up Incoming Documents
 If you create general journal lines from incoming document records, you must specify in the **Incoming Documents Setup** window which journal template and batch to use.

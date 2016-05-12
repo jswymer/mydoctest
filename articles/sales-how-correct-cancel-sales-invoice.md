@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Correct or Cancel Unpaid Sales Invoices| Project “Madeira”"
                 description="How to: Correct or Cancel Unpaid Sales Invoices"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Correct or Cancel Unpaid Sales Invoices
 You can correct or cancel a posted sales invoice. This is useful if you make a mistake or if the customer requests a change.

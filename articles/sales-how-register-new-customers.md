@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Register New Customers| Project “Madeira”"
                 description="How to: Register New Customers"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Register New Customers
 Customers are the source of your income. Each customer who you sell to must be registered as a customer card.

@@ -1,10 +1,15 @@
 <properties
     pageTitle="Frequently Asked Questions| Project “Madeira”" 
     description="Frequently asked questions about signing up for and using Project “Madeira”." 
-    services="" 
-    documentationCenter="Madeira"
+    services="project-madeira" 
+    documentationCenter=""
     authors="edupont04"
-/>  
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
+  
   
 # Frequently Asked Questions
 This section contains answers to frequently asked questions about signing up for and using Project “Madeira”.  

@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Manage Receivables| Project “Madeira”"
                 description="Manage Receivables"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # Manage Receivables#
 A central task in managing receivables is to apply incoming payments to their related customer or vendor ledger entries and thereby close the related sales invoices or purchase credit memos as paid. When all payments are applied, you can reconcile the bank account.  

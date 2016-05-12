@@ -1,8 +1,13 @@
 <properties pageTitle="Sample article" 
 	description="This is an example article" 
-	services="" 
+	services="project-madeira" 
 	documentationCenter=""
-	authors="bursteg" />
+	authors="bursteg"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 # Article Title #
 

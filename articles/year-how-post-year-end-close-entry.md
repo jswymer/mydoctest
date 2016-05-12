@@ -1,9 +1,14 @@
 <properties
 	pageTitle="How to: Post Year-End Closing Entry | Project “Madeira”"
 	description="Explains how to post year-end closing entry."
-	services=""
-	documentationCenter="Madeira"
-	authors="jswymer"/>
+	services="project-madeira"
+	documentationCenter=""
+	authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # How to: Post Year-End Closing Entry
 After you use the Close Income Statement batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.

@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Reconcile Bank Accounts Separately| Project “Madeira”"
                 description="How to: Reconcile Bank Accounts Separately"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP" />
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Reconcile Bank Accounts Separately
 To reconcile bank accounts in Project "Madeira" with statements received from the bank, you must fill the lines in the **Bank Acc. Reconciliation** window.

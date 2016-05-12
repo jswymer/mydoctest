@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Manage Payables| Project “Madeira”"
                 description="Manage Payables|"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP" />
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # Manage Payables
 A central task in managing accounts payable is to pay your vendors. You can use functions to automatically fill the **Payment Journal** window with payments lines for due purchase invoices. To quickly perform the involved bank transactions, you can export multiple payment journal lines to a file, which you then upload to your bank for processing. You can also make payments by check, including to transmit checks as electronic payments.

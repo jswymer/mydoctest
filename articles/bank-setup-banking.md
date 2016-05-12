@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Set Up Banking| Project “Madeira”"
                 description="Welcome to Project "Madeira""
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP" />
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # Set Up Banking
 

@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Manage Segments | Project “Madeira”"
                 description="Describes how to use segments on contacts in Project “Madeira”"
-                services=""
-                documentationCenter="Madeira"
-                authors="jswymer" />
+                services="project-madeira"
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # Interactions and Segments
 The **Segment** window is a type of worksheet where you can:

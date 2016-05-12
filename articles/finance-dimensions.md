@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Dimensions| Project “Madeira”"
                 description="Using dimensions to analyse data." 
-                services="" 
-                documentationCenter="Madeira"
-                authors="edupont04" />
+                services="project-madeira" 
+                documentationCenter=""
+                authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
                 
 #Dimensions
 Dimensions are data that you add to entries to categorize them for analysis. For example, you can have dimensions that indicate which project or department an entry originates from. 

@@ -1,9 +1,13 @@
 <properties
 	pageTitle="How to: View Test Reports Before Posting | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
-        services="" 
-        documentationCenter="Madeira"
+        services="project-madeira" 
+        documentationCenter=""
         authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
     
 # How to: View Test Reports Before Posting
 When you are ready to post a document, such as an order, invoice, or a credit memo, you can test the document to ensure that no issues exist that will block the posting.

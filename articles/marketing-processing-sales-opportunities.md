@@ -1,8 +1,13 @@
 <properties pageTitle="Processing Sales Opportunities | Project “Madeira”"
     description="Describes the process for sales opportunities in Project “Madeira”"
-    services=""
-    documentationCenter="Madeira"
-    authors="jswymer"/>
+    services="project-madeira"
+    documentationCenter=""
+    authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # Processing Sales Opportunities
 After you create an opportunity, there are several features for managing the opportunity and moving it through to completion.

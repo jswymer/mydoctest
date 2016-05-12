@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Job Responsibilities for Contacts | Project “Madeira”"
                 description="Describes job responsibilities for contacts in Project “Madeira”"
-                services=""
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # Set Up Job Responsibilities for Contact Persons
 You can add information about the job responsibilities of contact persons to indicate what the contact person is responsible for within their company, for example, IT, management, or production. You can use this information when entering information about your contacts.

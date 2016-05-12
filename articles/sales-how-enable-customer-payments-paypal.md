@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Enable Customer Payments Through PayPal| Project “Madeira”"
                 description="How to: Enable Customer Payments Through PayPal"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Enable Customer Payments Through PayPal#
 As an alternative to collecting payments through bank transfer or credit cards, you can offer your customers to pay you through their PayPal account.

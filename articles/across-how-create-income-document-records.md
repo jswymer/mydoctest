@@ -1,10 +1,14 @@
 <properties
                 pageTitle="How to: Create Incoming Document Records| Project “Madeira”"
                 description="How to: Create Incoming Document Records"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
-
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 # How to: Create Incoming Document Records
 In the **Incoming Documents** window, you can use different functions to review expense receipts, manage OCR tasks, and convert incoming document files, manually or automatically, to the relevant documents or journal lines. The external files can be attached at any process stage, including to posted documents and to the resulting vendor, customer, and general ledger entries.
 

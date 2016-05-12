@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Register New Products| Project “Madeira”"
                 description="How to: Register New Products"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP" />
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Register New Products
 

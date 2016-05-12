@@ -1,9 +1,14 @@
 <properties
 	pageTitle="Prepare Closing Statements| Project “Madeira”"
 	description="Provides an overview of the reports that may be useful when closing the year."
-	services=""
-	documentationCenter="Madeira"
-	authors="jswymer"/>
+	services="project-madeira"
+	documentationCenter=""
+	authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # Prepare Closing Statements
 There are a number of standard reports that you can use to gather the information that you need to prepare your company's closing statements.

@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Invoice Sales| Project “Madeira”"
                 description="How to: Invoice Sales"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Invoice Sales
 

@@ -1,9 +1,13 @@
 <properties
                 pageTitle="Payment Methods| Project “Madeira”" 
                 description="Describes what payment methods are and how they are used." 
-                services="" 
-                documentationCenter="Madeira"
+                services="project-madeira" 
+                documentationCenter=""
                 authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
                 
 # Payment Methods
 Payment methods define how an invoice will be paid. You can set up any number of payment methods. Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT. 

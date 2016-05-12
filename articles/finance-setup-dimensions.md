@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Set Up Dimensions| Project “Madeira”" 
                 description="Describes how to set up dimensions." 
-                services="" 
-                documentationCenter="Madeira"
+                services="project-madeira" 
+                documentationCenter=""
                 authors="edupont04"/>
+                
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
                 
 #Set Up Dimensions
 You must define which dimensions and dimension values you want to use in your company. You should also define which dimensions you wish to use as global and shortcut dimensions. You should consider carefully which dimensions will be most effective as global and shortcut dimensions for your company.  

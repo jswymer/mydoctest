@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Work With Checks| Project “Madeira”"
                 description="How to: Work With Checks"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Work With Checks
 Project "Madeira" supports electronic and manual check issuance. Both methods use the payment journal to issue checks to vendors. You can also void checks and view check ledger entries.

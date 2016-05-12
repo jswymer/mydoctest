@@ -1,9 +1,14 @@
 <properties
 	pageTitle="Using Search for Page or Report | Project “Madeira”"
         description="Welcome to Project "Madeira""
-        services=""
-        documentationCenter="Madeira"
-        authors="edupont04"/>
+        services="project-madeira"
+        documentationCenter=""
+        authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 # Using Search for Page or Report
 You can find any page, report, or view by using the **Search for Page or Report** icon in the top right corner of the address bar.

@@ -1,9 +1,14 @@
 <properties
 	pageTitle="How to: Use Allocation Keys in General Journals | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
-        services="" 
-        documentationCenter="Madeira"
-        authors="edupont04"/>
+        services="project-madeira" 
+        documentationCenter=""
+        authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 #  How to: Use Allocation Keys in General Journals
 You can allocate an entry in a general journal to several different accounts when you post the journal. The allocation can be made by quantity, percentage, or amount.

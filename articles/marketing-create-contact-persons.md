@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Create Contact Persons | Project “Madeira”" 
                 description="Describes how to create contact persons in Project “Madeira”" 
-                services="" 
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira" 
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 #Create Contact Persons
 You create a contact by setting up a contact card for the person. You can create contact persons from existing contact companies, or you can create independent contact persons.

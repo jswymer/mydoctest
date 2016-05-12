@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Mailing Groups for Contacts| Project “Madeira”" 
                 description="Describes mailing groups for contacts in Project “Madeira”" 
-                services="" 
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira" 
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # Set Up Mailing Groups for Contacts 
 You can use mailing groups to identify groups of contacts that you want to receive the same information. For example, you can set up a mailing group for the contacts that you want to send a notification of an office move, or another group for sending holiday gifts.

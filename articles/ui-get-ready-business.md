@@ -1,10 +1,13 @@
 <properties
 	pageTitle="Welcome | Project “Madeira”"
     description="Get the app for your mobile device." 
-	services="" 
-	documentationCenter="Madeira"
+	services="project-madeira" 
+	documentationCenter=""
 	authors="edupont04"/>
-        
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
     
 # Getting Ready for Doing Business
 Congratulations, you have just set up your first company in Project "Madeira". 

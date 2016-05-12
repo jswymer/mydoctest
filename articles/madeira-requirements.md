@@ -1,9 +1,14 @@
 <properties
 	pageTitle="Minimum Requirements for Using Project “Madeira” | Project “Madeira”"
     description="System requirements for using Project “Madeira”" 
-	services="" 
-	documentationCenter="Madeira"
+	services="project-madeira" 
+	documentationCenter=""
 	authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
+	
 # Minimum Requirements for Using Project “Madeira”
 Before you access Project “Madeira”, we recommend that you verify that your computer or mobile device meets or exceeds the minimum system requirements for the product. This page lists the requirements.  
 

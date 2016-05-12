@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Linking Contacts With Customers, Vendors, and Bank Accounts | Project “Madeira”" 
                 description="Describes how to link contacts with customers, vendors, and bank accounts in Project “Madeira”" 
-                services="" 
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira" 
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # How to: Link Contacts With Customers, Vendors, and Bank Accounts
 If you have contact and either a customer, vendor, or bank account for the same company, you can link the two entities. Linking the two entities enables you to synchronize data that is common so that it is the same in both places.

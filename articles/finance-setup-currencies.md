@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Currencies | Project “Madeira”"
                 description="Working with multiple currencies" 
-                services="" 
-                documentationCenter="Madeira"
-                authors="edupont04" />
+                services="project-madeira" 
+                documentationCenter=""
+                authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
                 
 # Currencies
 You must set up a code for each currency you use if you buy or sell in currencies other than your local currency, have receivables or payables in other currencies, or record G/L transactions in different currencies.  

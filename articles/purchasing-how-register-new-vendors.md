@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Register New Vendors| Project “Madeira”"
                 description="Welcome to Project "Madeira""
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Register New Vendors
 Vendors provide the products that you sell. Each vendor that you purchase from must be registered as a vendor card.

@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Apply Vendor Payments Manually| Project “Madeira”"
                 description="How to: Apply Vendor Payments Manually"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Apply Vendor Payments Manually
 

@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Process Incoming Documents| Project “Madeira”"
                 description="Process Incoming Documents"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # Process Incoming Documents
 

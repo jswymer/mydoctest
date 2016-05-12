@@ -1,9 +1,14 @@
 <properties
 	pageTitle="Entering Criteria in Filters | Project “Madeira”"
         description="Welcome to Project "Madeira""
-        services=""
-        documentationCenter="Madeira"
-        authors="edupont04"/>
+        services="project-madeira"
+        documentationCenter=""
+        authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 # Entering Criteria in Filters
 When you want to search for data, such as customer names, addresses, or product groups, you enter criteria. In search criteria you can use all the numbers and letters that you normally use in the specific field. In addition, you can use special symbols to further filter the results.

@@ -1,9 +1,14 @@
 <properties
 	pageTitle="PayPal Payments Standard| Project “Madeira”"
         description="Provides information about the PayPal Payments Standard extension"
-        services=""
-        documentationCenter="Madeira"
-        authors="SorenGP"/>
+        services="project-madeira"
+        documentationCenter=""
+        authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # The PayPal Payments Standard Extension to Project "Madeira"
 Customers continuously require higher customer service, both in terms of product quality but also in terms of delivery and payment options. The PayPal Payments Standard service helps you increase your customer service.

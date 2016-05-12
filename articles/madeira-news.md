@@ -1,9 +1,13 @@
 <properties
 	pageTitle="What's New in Project “Madeira”| Project “Madeira”"
     description="What's New" 
-	services="" 
-	documentationCenter="Madeira"
+	services="project-madeira" 
+	documentationCenter=""
 	authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
     
 # What's New in Project "Madeira" 
 We hope you already got started with Project "Madeira". This is still a preview only, but we have added capabilities that we hope you find interesting.  

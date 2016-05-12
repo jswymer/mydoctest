@@ -1,9 +1,14 @@
 <properties
 	pageTitle="How to: Change Which Layout is Currently Used on a Report | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
-        services="" 
-        documentationCenter="Madeira"
-        authors="edupont04"/>
+        services="project-madeira" 
+        documentationCenter=""
+        authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 # How to: Change Which Layout is Currently Used on a Report
 A report can be set up with more than one report layout, which you can then switch among as needed.

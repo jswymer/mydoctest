@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Create Contact Companies | Project “Madeira”" 
                 description="Describes how to create contact companies in Project “Madeira”" 
-                services="" 
-                documentationCenter="Madeira"
-                authors="edupont04"/>
+                services="project-madeira" 
+                documentationCenter=""
+                authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 #Create Contact Companies
 Your company regularly meets prospective companies that usually develop into future business relationships. When a new contact is made, this information needs to be recorded so that communication can continue.

@@ -1,9 +1,13 @@
 <properties
 	pageTitle="Post Documents and Journals | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
-        services="" 
-        documentationCenter="Madeira"
+        services="project-madeira" 
+        documentationCenter=""
         authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
     
 # Post Documents and Journals
 Posting represents the accounting action of recording business transactions in the various company ledgers.

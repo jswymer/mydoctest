@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Set Up the Chart of Accounts| Project “Madeira”"
                 description="Describes how you can change the chart of accounts." 
-                services="" 
-                documentationCenter="Madeira"
-                authors="edupont04" />
+                services="project-madeira" 
+                documentationCenter=""
+                authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
                 
 # Set Up or Change the Chart of Accounts
 The chart of accounts shows the ledger accounts that store your financial data. Project "Madeira" includes a standard chart of accounts that is ready to support your business. 

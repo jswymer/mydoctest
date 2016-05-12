@@ -1,8 +1,13 @@
 <properties pageTitle="Managing Sales Opportunities | Project “Madeira”"
 description="Describes managing sales opportunities in Project “Madeira”"
-    services=""
-    documentationCenter="Madeira"
-    authors="jswymer"/>
+    services="project-madeira"
+    documentationCenter=""
+    authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # Manage Sales Opportunities
 Any incoming lead can be considered a sales opportunity. You can create opportunities and associate them to a salesperson so that you can keep track of potential sales.

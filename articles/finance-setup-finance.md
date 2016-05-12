@@ -1,9 +1,13 @@
 <properties
                 pageTitle="Set Up Core Financial Processes| Project “Madeira”" 
                 description="Set Up Core Financial Processes" 
-                services="" 
-                documentationCenter="Madeira"
+                services="project-madeira" 
+                documentationCenter=""
                 authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
                 
 #Set Up Core Financial Processes
 Project "Madeira" includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 

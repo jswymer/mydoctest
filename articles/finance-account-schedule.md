@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Account Schedules| Project “Madeira”"
                 description="Using account schedules to analyse data." 
-                services="" 
-                documentationCenter="Madeira"
-                authors="edupont04" />
+                services="project-madeira" 
+                documentationCenter=""
+                authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
                 
 #Account Schedules
 With account schedules, you can get detailed insights into your financial data. You can set up various layouts to define the information that you want to extract from the chart of accounts

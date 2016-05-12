@@ -1,9 +1,14 @@
 <properties
 	pageTitle="Posting Sales | Project “Madeira”"
         description="Welcome to Project "Madeira""
-        services=""
-        documentationCenter="Madeira"
-        authors="edupont04"/>
+        services="project-madeira"
+        documentationCenter=""
+        authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 # Posting Sales
 In the **Posting group** on a sales document, you can choose between the following posting functions:

@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Set Up Sales| Project “Madeira”"
                 description="Set Up Sales"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # Set Up Sales
 

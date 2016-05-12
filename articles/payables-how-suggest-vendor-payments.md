@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Suggest Vendor Payments| Project “Madeira”"
                 description="How to: Suggest Vendor Payments"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Suggest Vendor Payments
 In the **Payment Journal** window, you can use a function to suggest payment lines according to your settings, such as payments that are due soon or payments where a payment discount is available.

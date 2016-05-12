@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Collect Outstanding Balances| Project “Madeira”"
                 description="How to: Collect Outstanding Balances"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Collect Outstanding Balances
 Managing receivables includes checking whether amounts due are paid on time. If customers have overdue payments, you can send the Customer Statement report as a reminder.

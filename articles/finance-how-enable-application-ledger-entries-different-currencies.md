@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Enable Application of Ledger Entries in Different Currencies| Project “Madeira”"
                 description="Welcome to Project "Madeira""
-                services=""
-                documentationCenter="Madeira"
-                authors="edupont04"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
 
 # How to: Enable Application of Ledger Entries in Different Currencies
 If you purchase from a vendor in one currency and submit payment in another currency, you can apply the payment to the purchase.

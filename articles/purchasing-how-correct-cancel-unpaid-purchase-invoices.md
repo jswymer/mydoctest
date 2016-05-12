@@ -1,9 +1,14 @@
 <properties
                 pageTitle="How to: Correct or Cancel Unpaid Purchase Invoices| Project “Madeira”"
                 description="How to: Correct or Cancel Unpaid Purchase Invoices"
-                services=""     
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"     
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="SorenGP" />
 
 # How to: Correct or Cancel Unpaid Purchase Invoices
 You can correct or cancel a posted purchase invoice. This is useful if you want to correct a typing mistake, or if you want to change the purchase early in the order process.

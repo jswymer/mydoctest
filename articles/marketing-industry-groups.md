@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Industry Groups | Project “Madeira”"
                 description="Describes using industry groups with contacts in Project “Madeira”"
-                services=""
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # Set Up Industry Groups for Contact Companies
 You use industry groups to indicate the type of industry to which your contacts belong, for example,the retail industry or the automobile industry.

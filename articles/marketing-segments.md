@@ -1,9 +1,14 @@
 <properties
                 pageTitle="Manage Segments | Project “Madeira”"
                 description="Describes segments for contacts in Project “Madeira”"
-                services=""
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="jswymer" />
 
 # Manage Segments
 You create segments to select a group of contacts according to specific criteria. For example, a segment could be the industry that the contacts belong to or your business relationship with the contacts. You can create a segment to select the contacts you want to target with a campaign.

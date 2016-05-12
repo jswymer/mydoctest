@@ -1,9 +1,14 @@
 <properties
 	pageTitle="Using Project “Madeira” without Outlook | Project “Madeira”"
     description="Using Project “Madeira” without Outlook" 
-	services="" 
-	documentationCenter="Madeira"
+	services="project-madeira" 
+	documentationCenter=""
 	authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.author="edupont04" />
+	
 # Using Project “Madeira” without Outlook
 Project “Madeira” has deep integration with Office 365, and you can use Project "Madeira" as your business inbox in Outlook. But if you do not have Outlook, you can work with Project "Madeira" in the browser or on your mobile device.  
 
