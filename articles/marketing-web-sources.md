@@ -1,9 +1,18 @@
 <properties
                 pageTitle="Web Sources for Contacts | Project “Madeira”"
                 description="Describes how to use web sources for contacts in Project “Madeira”"
-                services=""
-                documentationCenter="Madeira"
-                authors="edupont04"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
 
 # Set Up Web Sources for Contact Companies
 You can use web sources with your contact companies to identify, for example, search engines and web sites, on the Internet that you want to use to search for information about the contacts. When assigning web sources, you specify which search engine and search word the application will use to find the requested information.

@@ -1,9 +1,18 @@
 <properties
 	pageTitle="Prepare Pre-Closing Reports| Project “Madeira”"
 	description="Provides an overview of the reports that may be useful when closing the year."
-	services=""
-	documentationCenter="Madeira"
-	authors="jswymer"/>
+	services="project-madeira"
+	documentationCenter=""
+	authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 
 # Prepare Pre-Closing Reports
 There are many standard reports that you can use to verify the accuracy of the accounts before closing the books at the end of a year or period. For example, you can use the **Customer - Trial Balance** report to verify that the balance for a customer posting group is equal to the balance on the corresponding general ledger account on a certain date.

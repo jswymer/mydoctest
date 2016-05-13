@@ -1,9 +1,18 @@
 <properties
 	pageTitle="Across Business Areas | Project “Madeira”"
         description="Learn more about functionality that is common across business areas in Project “Madeira”" 
-        services="" 
-        documentationCenter="Madeira"
-        authors="edupont04"/>
+        services="project-madeira" 
+        documentationCenter=""
+        authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
 
 # Across Business Areas
 

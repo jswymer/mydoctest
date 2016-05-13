@@ -1,9 +1,18 @@
 <properties
                 pageTitle="How to: Sell Products| Project “Madeira”"
                 description="How to: Sell Products"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="SorenGP" />
 
 # How to: Sell Products
 You create a sales order or sales invoice to record your agreement with a customer to sell certain products on certain delivery and payment terms.

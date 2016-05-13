@@ -1,9 +1,18 @@
 <properties
                 pageTitle="How to: Set Up Document Sending Profiles| Project “Madeira”"
                 description="How to: Set Up Document Sending Profiles"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="SorenGP" />
 
 # How to: Set Up Document Sending Profiles
 You can set each customer up with a preferred method of sending sales documents, so that you do not have to select a sending option every time you choose the **Post and Send** action.

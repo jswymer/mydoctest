@@ -1,9 +1,17 @@
 <properties
 	pageTitle="Close Years and Periods| Project “Madeira”"
 	description="Explains how to close a fiscal year and periods."
-	services=""
-	documentationCenter="Madeira"
+	services="project-madeira"
+	documentationCenter=""
 	authors="jswymer"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 	
 # Close Years and Periods
 At the end of a fiscal year, there are a number of administrative tasks that you have to perform, like making sure all documents and journals are posted, making sure currency data are up-to-date, closing the books, and more. The actual tasks will depend your company.

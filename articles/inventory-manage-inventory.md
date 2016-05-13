@@ -1,9 +1,18 @@
 <properties
                 pageTitle="Manage Inventory| Project “Madeira”"
                 description="Manage Inventory"
-                services=""
-                documentationCenter="Madeira"
-                authors="SorenGP"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="SorenGP"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="SorenGP" />
 
 # Manage Inventory
 Inventory management in Project "Madeira" is limited to registering and managing item cards representing physical products and to increase or decrease the quantity of an item in inventory by posting directly to the item ledger entries.

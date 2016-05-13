@@ -1,9 +1,18 @@
 <properties
 	pageTitle="Using the Project “Madeira” Content Pack for Power BI | Project “Madeira”"
     description="Using the Project “Madeira” content pack for Power BI" 
-	services="" 
-	documentationCenter="Madeira"
+	services="project-madeira" 
+	documentationCenter=""
 	authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
+
 # Using the Project "Madeira" Content Pack for Power BI
 Getting insights into your Project "Madeira" data is easy with Power BI and the Project "Madeira" content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
 
