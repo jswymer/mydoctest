@@ -19,7 +19,7 @@ As you create or process incoming document records, the number of lines in the *
 
 **Note**: You cannot edit information, attach files, or perform other processes on incoming document records that are set to Processed. You must first set it to Unprocessed.
 
-The **Processed** check box is automatically selected on incoming documents records that have been processed, but you can also select or deselect the check box manually. Depending on your business process, an incoming document record may be processed when a related document has been created for it or a file has been attached.
+The **Processed** check box is automatically selected on incoming document records that have been processed, but you can also select or deselect the check box manually. Depending on your business process, an incoming document record may be processed when a related document has been created for it or a file has been attached.
 
 **Note**: When you open the **Incoming Documents** window with the **My Incoming Documents** action on the Role Center, only unprocessed incoming document records are shown by default. This is referred to in this topic as "the default view".
 
