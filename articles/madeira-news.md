@@ -21,11 +21,12 @@ On a regular basis, we will update Project "Madeira" with additional capabilitie
    
 ## May 2016 Update
 With the May update of Project "Madeira", new extensions have been added. Examples are Sana Commerce for Project "Madeira" that provides B2B Commerce capabilities, and ChargeLogic Payments that provides payment and credit card processing capabilities.  
+![Extension Management](./media/madeira-news/2016mayextensions.png)  
   
 This is just the beginning, several partners in our ecosystem are lined up to provide additional extensions to make sure Project "Madeira" is the choice for growing companies. It's your choice to use any of the new extensions - they make your Project "Madeira" truly your own because you know better than anyone if the capabilities in an extension will help you in your business.  
   
 Here is a brief introduction to each of the new, powerful extensions to the core functionality in Project "Madeira":  
-**Sana Commerce for Project "Madeira"**
+**Sana Commerce for Project "Madeira"**  
 Sana Commerce is the integrated B2B e-commerce platform for Project "Madeira" that helps wholesale, distribution and manufacturing companies efficiently run their business, improve their customer service and ultimately generate more revenue through easy online order processing and a 24/7 online access of product information. Sana Commerce makes a web store simple to setup and run because it seamlessly integrates with your ERP. This way Project "Madeira" can be the heart of your online business. A seamless integration with all business logic and customer data makes your ERP a valuable source of real-time product, stock and price information for you and your customers as part of your online webstore.  
 
 **ChargeLogic Notify**  
@@ -39,12 +40,14 @@ ChargeLogic Base contains shared functionality for the ChargeLogic Notify and Ch
 We have also changed some core functionality in this month's update: The list of incoming documents is now filtered to show only entries that have not been used to create posted documents with.  
   
 To reduce the amount of entries in the incoming documents list page, we have added a processed field, and now filter to show only unprocessed incoming documents in the list. You can choose to view all incoming documents in the list if desired, using the show Show All action. When documents are posted, the processed flag is set to Yes, such that incoming documents that have been processed into posted documents are filtered out. You can also manually switch the processing flag.  
+For more information, see [Manage Incoming Documents](across-income-documents.md)  
 
 ### Office Suite notifications are now enabled in Project "Madeira"
-Project "Madeira" is part of the Office experience, as you have seen, the May update enables Office notifications. In the top right corner, next to the Settings menu, you will notice the bell symbol that you probably already know well from other Office products: That's the Notifications menu.  
+Project "Madeira" is part of the Office experience, as you have seen, the May update enables Office notifications. In the top right corner, next to the Settings menu, you will notice the bell symbol that you probably already know well from other Office products: That's the Notifications menu. 
+![Notifications](./media/madeira-news/2016maynotifications.png) 
 Here you will receive notifications such as new mail and calendar reminders directly while working in Project "Madeira".  
   
-## April 2016
+## April 2016 Preview
 In April 2016, we launched the preview of Project "Madeira". Everything was new, and we encouraged you to start the Getting Started guide in the demonstration company that you get access to when you first sign up. The Getting Started guide steps you through key scenarios. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).  
   
 Key scenarios to try out on your own:  
