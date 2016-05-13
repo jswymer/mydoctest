@@ -43,8 +43,8 @@ To reduce the amount of entries in the incoming documents list page, we have add
 For more information, see [Manage Incoming Documents](across-income-documents.md)  
 
 ### Office Suite notifications are now enabled in Project "Madeira"
-Project "Madeira" is part of the Office experience, as you have seen, the May update enables Office notifications. In the top right corner, next to the Settings menu, you will notice the bell symbol that you probably already know well from other Office products: That's the Notifications menu. 
-![Notifications](./media/madeira-news/2016maynotifications.png) 
+Project "Madeira" is part of the Office experience, as you have seen, the May update enables Office notifications. In the top right corner, next to the Settings menu, you will notice the bell symbol that you probably already know well from other Office products: That's the Notifications menu.  
+![Notifications](./media/madeira-news/2016maynotifications.png)  
 Here you will receive notifications such as new mail and calendar reminders directly while working in Project "Madeira".  
   
 ## April 2016 Preview
