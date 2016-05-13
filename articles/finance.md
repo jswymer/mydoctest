@@ -1,9 +1,18 @@
 <properties
     pageTitle="Finance| Project “Madeira”"
     description="Learn about key financial concepts and processes " 
-	services="" 
-	documentationCenter="Madeira"
-	authors="edupont04" />
+	services="project-madeira" 
+	documentationCenter=""
+	authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
 #Finance
 Project "Madeira" includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 
 Also, if you chose not to apply the standard configuration, you must add your own configuration. For more information, see [Setup](setup.md).  

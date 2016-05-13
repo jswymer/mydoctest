@@ -1,9 +1,18 @@
 <properties
 	pageTitle="How to: Close Accounting Periods | Project “Madeira”"
 	description="Explains how to close accounting periods."
-	services=""
-	documentationCenter="Madeira"
-	authors="jswymer"/>
+	services="project-madeira"
+	documentationCenter=""
+	authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 
 # How to: Close Accounting Periods
 When a fiscal year is over, you must close the periods that comprise it.

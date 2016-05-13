@@ -1,9 +1,17 @@
 <properties
 	pageTitle="Work with General Journals | Project “Madeira”"
         description="Welcome to Project "Madeira"" 
-        services="" 
-        documentationCenter="Madeira"
+        services="project-madeira" 
+        documentationCenter=""
         authors="edupont04"/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
     
 # Work with General Journals
 General journals are used to post to general ledger accounts and other accounts such as bank, customer, vendor, and fixed assets accounts. Posting with a general journal always creates entries on general ledger accounts. This is true even if, for example, a journal line is posted to a customer account, because an entry is posted to a general ledger receivables account through a posting group.

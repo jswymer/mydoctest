@@ -1,8 +1,8 @@
 <properties
 	pageTitle="How to: Change the Role Center | Project “Madeira”"
     description="Describes how you can change the current role center." 
-	services="" 
-	documentationCenter="Madeira"
+	services="project-madeira" 
+	documentationCenter=""
 	authors="edupont04"/>
     
 # How to: Change the Role Center

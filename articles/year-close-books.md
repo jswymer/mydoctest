@@ -1,9 +1,18 @@
 <properties
 	pageTitle="Close Books| Project “Madeira”"
 	description="Explains the processes involved in closing the books for a fiscal year or period."
-	services=""
-	documentationCenter="Madeira"
-	authors="jswymer"/>
+	services="project-madeira"
+	documentationCenter=""
+	authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 
 # Close Books
 After you ensure that all your accounts are up-to-date, and you allocate costs and income, then you can close the books for a fiscal year or period.

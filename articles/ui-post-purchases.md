@@ -1,9 +1,18 @@
 <properties
 	pageTitle="Posting Purchases | Project “Madeira”"
         description="Welcome to Project "Madeira""
-        services=""
-        documentationCenter="Madeira"
-        authors="edupont04"/>
+        services="project-madeira"
+        documentationCenter=""
+        authors="edupont04"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="edupont04" />
 
 # Posting Purchases
 In the **Posting group** on a purchase document, you can choose between the following posting functions:

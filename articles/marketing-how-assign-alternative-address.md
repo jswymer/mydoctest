@@ -1,9 +1,18 @@
 <properties
                 pageTitle="How to: Set Up Alternative Addresses for Contacts | Project “Madeira”"
                 description="Describes how to set up alternative addresses for contacts in Project “Madeira”"
-                services=""
-                documentationCenter="Madeira"
-                authors="jswymer"/>
+                services="project-madeira"
+                documentationCenter=""
+                authors="jswymer"
+/>
+<tags
+    ms.service="project-madeira"
+    ms.topic="article"
+    ms.devlang="na"
+    ms.tgt_pltfrm="na"
+    ms.workload="Madeira"
+    ms.date="05/12/2016"
+    ms.author="jswymer" />
 
 # How to: Set Up Alternative Addresses for Contacts
 You can assign an alternative address where your contacts are sometimes sent mail and information, for example, their summer cottage. You can also assign one or several date ranges to each alternative address you have entered for your contacts to specify when each address is valid.
