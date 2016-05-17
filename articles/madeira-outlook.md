@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Using Project “Madeira” as your Business Inbox in Outlook | Project “Madeira”a"
+	pageTitle="Using Project “Madeira” as your Business Inbox in Outlook | Project “Madeira”"
     description="Using Project “Madeira” as your Business Inbox in Outlook" 
 	services="project-madeira" 
 	documentationCenter=""
