@@ -20,7 +20,7 @@ Sign up for the preview, let us walk you through the basics of what you can do w
 On a regular basis, we will update Project "Madeira" with additional capabilities in the core application and with new [extensions](ui-extensions.md). 
    
 ## May 2016 Update
-We are in process of updating your Project "Madeira" with new capabilities as [announced on the blog](https://madeira.microsoft.com/en-us/blog/2016-may-update).  
+We are in process of updating your Project "Madeira" with new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-may-update).  
 
 ### New extensions made available
 Check out the **Extension Management** window: The May update adds new extensions, including Sana Commerce for Project "Madeira" that provides B2B Commerce capabilities, and ChargeLogic Payments that provides payment and credit card processing capabilities. For more information, see see [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md).  
