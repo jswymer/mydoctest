@@ -17,7 +17,7 @@
 # How to: Set Up the Envestnet Yodlee Bank Feeds Service
 You can import electronic bank statements from your bank to quickly fill the **Payment Reconciliation Journal** window so you can apply payments and reconcile the bank account. For more information, see [Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
-The Envestnet Yodlee Bank Feeds service is installed as an extension to Project "Madeira" and ready to be enabled. For more information, see [Customizing Project "Madeira" Using Extensions ](ui-extensions.md).
+The Envestnet Yodlee Bank Feeds service is installed as an extension to Project "Madeira" and is ready to be enabled. For more information, see [Customizing Project "Madeira" Using Extensions ](ui-extensions.md).
 
 When you have enabled the bank feed service, you must link the involved bank account to the online bank account that the feed will come from. You link bank accounts to online bank accounts in the following different scenarios:
 
@@ -26,10 +26,7 @@ When you have enabled the bank feed service, you must link the involved bank acc
 - A linked bank account must be unlinked because you want to stop using the bank feed service for the account.
 - Online bank accounts have changed and you want to update the information on bank accounts in Project "Madeira".
 
-When the bank feed service is enabled, you can set a bank account up to automatically import new bank statements into the **Payment Reconciliation Journal** window every hour. Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported. For more information, see the “To enable automatic import of bank statements” section.
-
-
-**Note**: If you use the Set Up Company assisted setup, then some of the steps in the following procedures will be performed automatically when you get to the company bank account setup. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).
+When the bank feed service is enabled, you can set a bank account up to automatically import new bank statements into the **Payment Reconciliation Journal** window every two hour. Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported. For more information, see the “To enable automatic import of bank statements” section.
 
 ## To enable the bank feed service
 1. In the top right corner, choose the **Search for Page or Report** icon,enter **Bank Accounts**, and then choose the related link.
