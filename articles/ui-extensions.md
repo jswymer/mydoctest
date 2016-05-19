@@ -9,7 +9,7 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
     ms.author="edupont04" />
     
@@ -27,16 +27,17 @@ If you uninstall an extension, and you then change your mind, you can install it
 When you install an extension, you might have to set it up, such as specifying an account for use with the **PayPal Payments Standard for Project "Madeira"** extension. 
 Other extensions simply add fields to an existing page, or they add a new page, for example.   
   
-The **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by other companies. All extensions are tested before they are made available to you, but we recommend that you access the links that are provided with each extension to learn more about the extension before you choose to install it.  
+The **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by [other companies](ui-extensions-other.md). All extensions are tested before they are made available to you, but we recommend that you access the links that are provided with each extension to learn more about the extension before you choose to install it.  
 
 Microsoft provides the following extensions:  
 - [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
 - [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 - [QuickBooks Data Migration](ui-extensions-quickbooks-data-migration.md)
 
-     
+      
 ## See Also  
 [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)  
 [How to: Enable Customer Payment Through PayPal](sales-how-enable-customer-payments-paypal.md)  
 [Import Data from Other Finance Systems](upload-data.md)  
+[Project “Madeira” Extensions by Other Providers](ui-extensions-other.md)  
 [Welcome to Project "Madeira"](madeira-get-started.md)  
