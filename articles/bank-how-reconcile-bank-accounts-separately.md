@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # How to: Reconcile Bank Accounts Separately
 To reconcile bank accounts in Project "Madeira" with statements received from the bank, you must fill the lines in the **Bank Acc. Reconciliation** window.

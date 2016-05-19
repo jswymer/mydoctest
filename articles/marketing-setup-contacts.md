@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 
 #Prepare for Setting Up Contacts
 When creating contacts, you can enter specific information, such as the industry that the contact companies belong to and your business relationship with the contacts.

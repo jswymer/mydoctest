@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 	
 # Close Years and Periods
 At the end of a fiscal year, there are a number of administrative tasks that you have to perform, like making sure all documents and journals are posted, making sure currency data are up-to-date, closing the books, and more. The actual tasks will depend your company.

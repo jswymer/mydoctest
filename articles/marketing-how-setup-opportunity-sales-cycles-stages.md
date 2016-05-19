@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 
 # How to: Set Up Opportunity Sales Cycles and Cycle Stages
 Before you can start using sales opportunities, you must set up sales cycles and sales cycle stages. A sales cycle is made up of a series of stages that go from the initial contact to the closing of a sale. Each stage can have certain requirements that must be met, such as requiring a sales quote, before an opportunity can go to the next stage. You can also specify whether a stage can be skipped. You can setup as many sales cycles as you need, and you can set up as many sales cycle stages as necessary within a sales cycle.

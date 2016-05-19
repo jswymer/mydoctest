@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
 
 # Using Search for Page or Report
 You can find any page, report, or view by using the **Search for Page or Report** icon in the top right corner of the address bar.

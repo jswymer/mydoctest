@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 
 # Set Up Business Relations on Contact Companies
 You can use business relations to indicate the business relationship you have with your contacts, for example, a prospect, bank, consultant, service supplier, and so on.

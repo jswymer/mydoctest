@@ -11,7 +11,7 @@ description="Describes managing sales opportunities in Project “Madeira”"
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 
 # Manage Sales Opportunities
 Any incoming lead can be considered a sales opportunity. You can create opportunities and associate them to a salesperson so that you can keep track of potential sales.

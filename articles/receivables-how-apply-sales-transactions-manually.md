@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # How to: Reconcile Customer Payments Manually
 When you receive a cash receipt from a customer or you make a cash refund to a customer, you must decide whether to apply the payment or refund to one or more open debit or credit entries. You can specify the exact amount you want to apply. For example, you may only want to apply part of the payment and thereby only partly apply customer ledger entries. It is important at some stage to close (apply) all customer ledger entries in order to obtain correct customer statistics and printouts of the account statements and finance charges.

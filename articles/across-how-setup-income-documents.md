@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # How to: Set Up Incoming Documents
 If you create general journal lines from incoming document records, you must specify in the **Incoming Documents Setup** window which journal template and batch to use.

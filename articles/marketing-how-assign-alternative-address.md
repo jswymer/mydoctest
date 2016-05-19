@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 
 # How to: Set Up Alternative Addresses for Contacts
 You can assign an alternative address where your contacts are sometimes sent mail and information, for example, their summer cottage. You can also assign one or several date ranges to each alternative address you have entered for your contacts to specify when each address is valid.

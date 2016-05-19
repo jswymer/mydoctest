@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
 
 # Using the Project "Madeira" Content Pack for Power BI
 Getting insights into your Project "Madeira" data is easy with Power BI and the Project "Madeira" content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  

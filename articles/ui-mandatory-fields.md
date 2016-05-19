@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
     
 # Mandatory Fields
 When you enter data on pages in Project "Madeira", certain fields are marked with a red asterisk. The red asterisk means that the field must be filled to complete a certain process that uses the field, such as posting a transaction that uses the value in the field. 

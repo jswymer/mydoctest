@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # Changing Basic Settings
 In the **My Settings** window, you can see and change basic settings for Project "Madeira".  

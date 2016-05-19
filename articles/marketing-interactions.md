@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 
 # Managing Interactions With Contacts
 In Project "Madeira", interactions are all types of communications between your company and your contacts. For example, communications can be by letter, fax, e-mail, telephone, meetings, and so on.

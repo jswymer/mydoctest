@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
                 
 #Account Schedules
 With account schedules, you can get detailed insights into your financial data. You can set up various layouts to define the information that you want to extract from the chart of accounts

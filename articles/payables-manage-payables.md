@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # Manage Payables
 A central task in managing accounts payable is to pay your vendors. You can use functions to automatically fill the **Payment Journal** window with payments lines for due purchase invoices. To quickly perform the involved bank transactions, you can export multiple payment journal lines to a file, which you then upload to your bank for processing. You can also make payments by check, including to transmit checks as electronic payments.

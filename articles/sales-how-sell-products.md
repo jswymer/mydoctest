@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # How to: Sell Products
 You create a sales order or sales invoice to record your agreement with a customer to sell certain products on certain delivery and payment terms.

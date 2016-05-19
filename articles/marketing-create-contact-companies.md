@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
 
 #Create Contact Companies
 Your company regularly meets prospective companies that usually develop into future business relationships. When a new contact is made, this information needs to be recorded so that communication can continue.

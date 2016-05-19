@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
 
 # How Do I?
 On this page, we will provide access to getting-started videos that illustrate how to do common tasks. The page will be updated over time.  

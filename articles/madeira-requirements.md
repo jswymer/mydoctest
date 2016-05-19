@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
 	
 # Minimum Requirements for Using Project “Madeira”
 Before you access Project “Madeira”, we recommend that you verify that your computer or mobile device meets or exceeds the minimum system requirements for the product. This page lists the requirements.  

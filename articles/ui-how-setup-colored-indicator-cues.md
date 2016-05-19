@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
     
 # How to: Set Up a Colored Indicator on Cues
 You can set up Cues that appear on the **Home** page to include an indicator that changes color based on the data values in the Cues. 

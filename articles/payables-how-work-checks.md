@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # How to: Work With Checks
 Project "Madeira" supports electronic and manual check issuance. Both methods use the payment journal to issue checks to vendors. You can also void checks and view check ledger entries.

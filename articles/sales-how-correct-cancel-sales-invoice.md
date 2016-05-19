@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # How to: Correct or Cancel Unpaid Sales Invoices
 You can correct or cancel a posted sales invoice. This is useful if you make a mistake or if the customer requests a change.

@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
     
 # Specify Printer Selection for Reports
 You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection: 

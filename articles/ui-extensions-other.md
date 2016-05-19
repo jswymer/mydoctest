@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
     
 # Project “Madeira” Extensions by Other Providers
 In Project "Madeira", the **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by other companies. With the May update of Project "Madeira", extensions have been added by other providers, and we refer to the websites that these companies provide for more information. However, this page gives you an overview of the new extensions.   

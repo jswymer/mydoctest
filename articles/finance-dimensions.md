@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
                 
 #Dimensions
 Dimensions are data that you add to entries to categorize them for analysis. For example, you can have dimensions that indicate which project or department an entry originates from. 

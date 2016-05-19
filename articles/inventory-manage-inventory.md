@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # Manage Inventory
 Inventory management in Project "Madeira" is limited to registering and managing item cards representing physical products and to increase or decrease the quantity of an item in inventory by posting directly to the item ledger entries.

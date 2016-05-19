@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\sgroespe" />
+    ms.author="SorenGP" />
 
 # How to: Work with Item Attributes
 When a customer inquiries about an item, either in correspondence or through a web shop, the customer may ask or search according to characteristics, such as size and color. To provide this customer service, you can assign item attribute values of different types to your items, which can then be used when searching for items.

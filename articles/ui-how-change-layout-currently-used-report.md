@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
 
 # How to: Change Which Layout is Currently Used on a Report
 A report can be set up with more than one report layout, which you can then switch among as needed.

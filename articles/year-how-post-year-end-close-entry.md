@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 
 # How to: Post Year-End Closing Entry
 After you use the Close Income Statement batch job to generate the year-end closing entry or entries, you must open the journal you specified in the batch job, and then review and post the entries.

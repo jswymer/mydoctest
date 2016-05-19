@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
     
 # The QuickBooks Data Migration Extension for Project "Madeira"
 This extension makes it easy to migrate customers, vendors, and items from QuickBooks to Project “Madeira”. If your business uses QuickBooks today, you can export the relevant information and then open an assisted setup guide to upload the data to Project "Madeira".  

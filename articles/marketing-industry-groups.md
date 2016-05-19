@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\jswymer" />
+    ms.author="jswymer" />
 
 # Set Up Industry Groups for Contact Companies
 You use industry groups to indicate the type of industry to which your contacts belong, for example,the retail industry or the automobile industry.

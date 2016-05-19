@@ -11,7 +11,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="europe\edupont" />
+    ms.author="edupont04" />
 	
 # Using Project “Madeira” as your Business Inbox in Outlook
 Project “Madeira” introduces the ability to manage business interactions with your customers and vendors, directly in Microsoft Outlook. With the Project “Madeira” Outlook Add-in, you can see financial data related to customers and vendors, as well as create and send financial documents, such as quotes and invoices.  
