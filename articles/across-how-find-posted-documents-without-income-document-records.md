@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="SorenGP" />
+    ms.author="europe\sgroespe" />
 
 # How to: Find Posted Documents without Incoming Document Records
 From the **Chart of Accounts** and **General Ledger Entries** windows, you can use a search function to find general ledger entries for posted purchase and sales documents that do not have incoming document records and then centrally link to existing records or create new ones with attached document files.

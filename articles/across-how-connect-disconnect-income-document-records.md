@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="SorenGP" />
+    ms.author="europe\sgroespe" />
 
 # How to: Connect and Disconnect Incoming Document Records from Documents and Entries
 You can store external business documents in Project "Madeira" by attaching the document files to the related incoming document records. If the document, such as a purchase invoice, did not start its existence as an incoming document record, you can still create and connect an incoming document record to it later. You can also attach incoming document files to posted purchase and sales documents and to vendor, customer, and general ledger entries by using the **Incoming Document Files** FactBox in, for example, the **Posted Purchase Invoices** and **Vendor Ledger Entries** windows.

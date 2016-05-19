@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="SorenGP" />
+    ms.author="europe\sgroespe" />
 
 # Make Payments
 When you make payments to vendors, you post the related payment lines in the **Payment Journal** window. You can use the **Suggest Vendor Payments** function to find payments that are due. You can also use the **Vendor - Summary Aging** report to get an overview of due payments.

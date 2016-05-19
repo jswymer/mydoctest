@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="SorenGP" />
+    ms.author="europe\sgroespe" />
 
 # How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation
 In the **Text-to-Account Mapping** window, which you open from the **Payment Reconciliation Journal** window, you can set up mappings between text on payments and specific debit, credit, and balancing accounts so that such payments are posted to the specified accounts when you post the payment reconciliation journal.

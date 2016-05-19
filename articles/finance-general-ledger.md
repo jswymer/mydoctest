@@ -9,9 +9,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
                 
 # The General Ledger and the Chart of Accounts
 The general ledger stores your financial data, and the chart of accounts shows the accounts that all general ledger entries are posted to. Project "Madeira" includes a standard chart of accounts that is ready to support your business. 

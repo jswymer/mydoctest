@@ -9,9 +9,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
     
 # Post Documents and Journals
 Posting represents the accounting action of recording business transactions in the various company ledgers.

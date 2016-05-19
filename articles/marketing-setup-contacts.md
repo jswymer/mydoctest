@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="jswymer" />
+    ms.author="europe\jswymer" />
 
 #Prepare for Setting Up Contacts
 When creating contacts, you can enter specific information, such as the industry that the contact companies belong to and your business relationship with the contacts.

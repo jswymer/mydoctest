@@ -9,9 +9,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
     
 # Manage Report Layouts
 A report layout controls content and format of the report, including which data fields of a report dataset appear on the report and how they are arranged, text style, images, and more. From the Project "Madeira" clients, you can change which layout is used on a report, create new layout, or modify the existing layouts. 

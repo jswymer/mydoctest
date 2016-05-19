@@ -9,9 +9,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
     
 # Canceling Project "Madeira"
 When you have signed up for Project "Madeira", you can choose to cancel your subscription at any time. Similarly, you can choose to reset the company that you can been using in Project "Madeira". This page describes how to cancel your Project "Madeira" experience.  

@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
                 
 # Set Up or Change the Chart of Accounts
 The chart of accounts shows the ledger accounts that store your financial data. Project "Madeira" includes a standard chart of accounts that is ready to support your business. 

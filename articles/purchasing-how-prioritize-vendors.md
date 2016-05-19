@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="SorenGP" />
+    ms.author="europe\sgroespe" />
 
 # How to: Prioritize Vendors
 Project "Madeira" can suggest various payments to vendors, for example, payments that will be due soon or payments where a discount is available. for more information, see [How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md).

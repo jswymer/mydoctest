@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
                 
 #Set Up Dimensions
 You must define which dimensions and dimension values you want to use in your company. You should also define which dimensions you wish to use as global and shortcut dimensions. You should consider carefully which dimensions will be most effective as global and shortcut dimensions for your company.  

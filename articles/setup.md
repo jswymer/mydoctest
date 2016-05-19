@@ -9,9 +9,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
     
 # Set Up Your Project "Madeira"
 Project "Madeira" includes a standard configuration of most business processes, but you can change the configuration to suit your business' needs. 

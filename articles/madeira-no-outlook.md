@@ -9,9 +9,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
 	
 # Using Project “Madeira” without Outlook
 Project “Madeira” has deep integration with Office 365, and you can use Project "Madeira" as your business inbox in Outlook. But if you do not have Outlook, you can work with Project "Madeira" in the browser or on your mobile device.  

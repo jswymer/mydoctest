@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
 #Finance
 Project "Madeira" includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 
 Also, if you chose not to apply the standard configuration, you must add your own configuration. For more information, see [Setup](setup.md).  

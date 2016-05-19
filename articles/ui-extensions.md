@@ -9,9 +9,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
     
 # Customizing Project “Madeira” Using Extensions
 You can change Project "Madeira" by installing extensions that add functionality, changes behavior, or gives you access to new online services, for example. 

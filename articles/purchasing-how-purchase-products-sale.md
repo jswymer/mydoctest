@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="SorenGP" />
+    ms.author="europe\sgroespe" />
 
 # How to: Purchase Products for a Sale
 From an open sales invoice, you can use the **Create Purchase Invoice** function to create a purchase invoice for a selected vendor for all lines or selected lines on the sales invoice. You can then process this purchase invoice just like you would if you had created it from a new invoice.

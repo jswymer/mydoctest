@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="jswymer" />
+    ms.author="europe\jswymer" />
 
 #Create Contact Persons
 You create a contact by setting up a contact card for the person. You can create contact persons from existing contact companies, or you can create independent contact persons.

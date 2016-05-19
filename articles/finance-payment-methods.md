@@ -9,9 +9,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="europe\edupont" />
                 
 # Payment Methods
 Payment methods define how an invoice will be paid. You can set up any number of payment methods. Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT. 

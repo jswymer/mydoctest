@@ -12,9 +12,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="jswymer" />
+    ms.author="europe\jswymer" />
 	
 # How to: Specify Posting Periods 
 When you specify posting periods, you limit the period in which posting is allowed.

@@ -10,9 +10,9 @@
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
+    ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="SorenGP" />
+    ms.author="europe\sgroespe" />
 
 # How to: Enable Customer Payments Through PayPal#
 As an alternative to collecting payments through bank transfer or credit cards, you can offer your customers to pay you through their PayPal account.
