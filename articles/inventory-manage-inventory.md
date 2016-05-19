@@ -25,7 +25,7 @@ Inventory increases and decreases are naturally also recorded when you post purc
 |---|----|
 |Create an item card for each inventory item that you trade in.|[How to: Register New Products](inventory-how-register-new-products.md)|
 |Increase or decrease an item’s inventory quantity, for example, after a physical count or as a simple way to record purchase receipts.|[How to: Adjust Inventory](inventory-how-adjust-inventory.md)|
-|Assign item attributes of different value types to your items to help you and your customers search and sort items.|[How to: Work with Item Attributes](inventory-how-work-item-attributes.md)|
+|Assign item attributes of different value types to your items to help you and your customers search for items.|[How to: Work with Item Attributes](inventory-how-work-item-attributes.md)|
 |Adjust item costs, either automatically or manually, to forward cost changes from outbound entries to their related inbound entries.|[How to: Adjust Item Costs](inventory-how-adjust-item-costs.md)|
 |Reflect inventory value changes in your company books by posting inventory costs, either automatically or manually, to the related inventory accounts in the general ledger.|[How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md)|
 
