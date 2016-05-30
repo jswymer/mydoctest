@@ -23,7 +23,7 @@ On a regular basis, we will update Project "Madeira" with additional capabilitie
 We are in process of updating your Project "Madeira" with new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-may-update).  
 
 ### New extensions made available
-Check out the **Extension Management** window: The May update adds new extensions, including Sana Commerce for Project "Madeira" that provides B2B Commerce capabilities, and ChargeLogic Payments that provides payment and credit card processing capabilities. For more information, see see [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md).  
+Check out the **Extension Management** window: The update adds new extensions, including Sana Commerce for Project "Madeira" that provides B2B Commerce capabilities, and ChargeLogic Payments that provides payment and credit card processing capabilities. The extenstions are not installed automatically for you, but the **Extension Management** will help you install the extensions that you want to use. For more information, see [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md).  
   
 ### Filter on unprocessed incoming documents
 We have also changed some core functionality in this month's update: The list of incoming documents is now filtered to show only entries that have not been used to create posted documents with. For more information, see [Manage Incoming Documents](across-income-documents.md)  

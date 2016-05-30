@@ -14,7 +14,7 @@
     ms.author="edupont04" />
     
 # Project “Madeira” Extensions by Other Providers
-In Project "Madeira", the **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by other companies. With the May update of Project "Madeira", extensions have been added by other providers, and we refer to the websites that these companies provide for more information. However, this page gives you an overview of the new extensions.   
+In Project "Madeira", the **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by other companies. With the first update of Project "Madeira", extensions have been added by other providers, and we refer to the websites that these companies provide for more information. However, this page gives you an overview of the new extensions.   
 
 ## Sana Commerce for Project "Madeira"  
 Sana Commerce is the integrated B2B e-commerce platform for Project "Madeira" that helps wholesale, distribution and manufacturing companies efficiently run their business, improve their customer service and ultimately generate more revenue through easy online order processing and a 24/7 online access of product information. Sana Commerce makes a web store simple to setup and run because it seamlessly integrates with your ERP. This way Project "Madeira" can be the heart of your online business. A seamless integration with all business logic and customer data makes your ERP a valuable source of real-time product, stock and price information for you and your customers as part of your online webstore.  
@@ -27,5 +27,5 @@ With **ChargeLogic Notify**, you can automatically deliver customized, targeted 
 For more information, see the [ChargeLogic website](https://www.chargelogic.com).
       
 ## See Also  
-[Customizing Project “Madeira” Using Extensions](ui-extensions-other.md)  
+[Customizing Project “Madeira” Using Extensions](ui-extensions.md)  
 [Welcome to Project "Madeira"](madeira-get-started.md)  
