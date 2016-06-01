@@ -24,12 +24,14 @@ In the **Assisted Setup** window, you will find the following:
 
 |Assisted Setup           |Description                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
-|Migrate Data             |Lets you import your existing company data from Excel or Quickbooks.|
-|Set Up Email             |Gets you ready for sending email messages directly from, for example, sales orders or contacts.|
-|Set Up Office Add-Ins    |Sets up the ability to use and launch Project "Madeira" from Outlook 365.|
-|Set Up Sales Tax         |Gets you started with default Tax groups and assigning Tax areas.|
-|Set Up Approval Workflows |Sets up automatic notifications to approvers when a user makes certain changes in the product.|
-|Set Up Email Logging     |Sets up capability to log email correspondance in Project "Madeira".|
+|Set Up Company           |Creates a new trial company for you to enter data and try our Project "Madeira". If you went through the Getting Started tour this is probably already **Completed**. |
+|Migrate Business Data    |Lets you import your existing company data such as vendors, customers, and items from Excel or Quickbooks.|
+|Set Up Sales Tax         |Gets you started with default Tax groups and assigning Tax area codes that you can assign to customers and vendors in order to automatically calculate sales tax in sales or purchase documents.|
+|Set Up Email             |Gets you ready for sending email messages directly from, for example, sales orders or contacts in Project "Madeira".|
+|Set Up Office Add-Ins    |Sets up the ability to use and launch Project "Madeira" from Outlook.|
+|Set Up Approval Workflow|Sets up the ability to automatically notify an approver when a user tries to create or change certain values on documents, journal lines, or cards, such as an amount above a specified limit.|
+|Set Up Email Logging     |Sets up the capability to log email correspondence in Project "Madeira" to follow up on interactions.|
+|Set Up Dynamics CRM Connection|Sets up a connection to Dynamics CRM which allows you to synchronize data such as contacts and sales order information.|
   
 When you have run an assisted setup, it is marked as **Completed**. To run the assisted setup, you choose the three dots also called the context menu, and then you select **Start Setup**.
 
