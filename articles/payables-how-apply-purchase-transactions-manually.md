@@ -97,7 +97,7 @@ Applying vendor ledger entries in different currencies must be enabled. For more
 5. Choose the **OK** button to return to the payment journal.
 6. Post the payment journal.
 
-**Important**: When you apply entries in different currencies to one another, the entries are converted to LCY. Even though the exchange rates for the two relevant currencies are fixed, for example between USD and EUR, there may be a small residual amount when these foreign-currency amounts are converted to LCY. These small residual amounts are posted as gains and losses to the account specified in the **Realized Gains Account** or **Realized Losses Account** field in the **Currencies** window. The **Amount (LCY)** field is also adjusted on the relevant vendor ledger entries.
+**Important**: When you apply entries in different currencies to one another, the entries are converted to USD. Even though the exchange rates for the two relevant currencies are fixed, for example between USD and EUR, there may be a small residual amount when these foreign-currency amounts are converted to USD. These small residual amounts are posted as gains and losses to the account specified in the **Realized Gains Account** or **Realized Losses Account** field in the **Currencies** window. The **Amount (USD)** field is also adjusted on the relevant vendor ledger entries.
 
 ## To unapply an application of vendor entries
 When you unapply an erroneous application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses. The entries that were closed by the application are reopened.
