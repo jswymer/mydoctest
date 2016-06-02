@@ -1,9 +1,9 @@
 <properties
 	pageTitle="Specify Printer Selection for Reports | Project “Madeira”"
-        description="Specify printer selection for reports." 
-        services="project-madeira" 
+        description="Specify printer selection for reports."
+        services="project-madeira"
         documentationCenter=""
-        authors="edupont04"/>
+        authors="SusanneWindfeldPedersen"/>
 <tags
     ms.service="project-madeira"
     ms.topic="article"
@@ -11,16 +11,16 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
-    
+    ms.author="SusanneWindfeldPedersen" />
+
 # Specify Printer Selection for Reports
-You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection: 
+You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
 - You can print reports on special company letterhead.
 - You can print reports on different paper sizes.
 - You can print reports on the default printer of a specified employee.
 
-You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields. 
+You use the **Printer Selections** window to set different values to obtain different output. If you set a specific printer selection, then it takes precedence over a more general printer selection. For example, you can set a printer selection that has values in the **User ID**, **Report ID**, and **Printer Name** fields. This printer selection takes precedence over a printer selection that has blank entries in the **User ID** or **Report ID** fields.
 
 The following table describes the combination of values to specify when you set up printer selections for a report.
 

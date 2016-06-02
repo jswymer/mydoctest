@@ -1,9 +1,9 @@
 <properties
 	pageTitle="How to: Preview Posting Results | Project “Madeira”"
-        description="Welcome to Project "Madeira"" 
-        services="project-madeira" 
+        description="Welcome to Project "Madeira""
+        services="project-madeira"
         documentationCenter=""
-        authors="edupont04"/>
+        authors="SusanneWindfeldPedersen"/>
 <tags
     ms.service="project-madeira"
     ms.topic="article"
@@ -11,8 +11,8 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
-    
+    ms.author="SusanneWindfeldPedersen" />
+
 # How to: Preview Posting Results
 On every document and journal that can be posted, you can choose the **Preview Posting** button to review the different types of entries that will be created when you post the document or journal.
 
@@ -25,4 +25,3 @@ The **G/L Entries Preview** window shows which entries will be created when you 
 
 ## See Also
 [Post Documents and Journals](ui-post-documents-journals.md)
-
