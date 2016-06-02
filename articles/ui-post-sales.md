@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira""
         services="project-madeira"
         documentationCenter=""
-        authors="edupont04"
+        authors="SusanneWindfeldPedersen"
 />
 <tags
     ms.service="project-madeira"
@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="SusanneWindfeldPedersen" />
 
 # Posting Sales
 In the **Posting group** on a sales document, you can choose between the following posting functions:
@@ -35,7 +35,7 @@ For each sales order line, an item ledger entry will be created in the Item Ledg
 
 In addition to this, sales orders are always recorded in the Sales Shipment Header and Sales Invoice Header tables.
 
-**Important**: When you post an order, you can create both a shipment and an invoice. These can be done at the same time or independently. You can also create a partial shipment and a partial invoice by completing the Qty. to Ship or Qty. to Invoice fields on the individual sales order lines before you post. Note that you cannot create an invoice for something that is not shipped. That is, before you can invoice, you must have recorded a shipment, or you must choose to ship and invoice at the same time. 
+**Important**: When you post an order, you can create both a shipment and an invoice. These can be done at the same time or independently. You can also create a partial shipment and a partial invoice by completing the Qty. to Ship or Qty. to Invoice fields on the individual sales order lines before you post. Note that you cannot create an invoice for something that is not shipped. That is, before you can invoice, you must have recorded a shipment, or you must choose to ship and invoice at the same time.
 
 When the posting is completed, the posted sales lines are removed from the order. A message tells you when the posting is completed. After this, you will be able to see the posted entries in the various windows that contain posted entries, such as **Cust. Ledger Entries**, **G/L Entries**, **Item Ledger Entries**, **Warehouse Entries**, **Posted Sales Shipment**, and **Posted Sales Invoice**.
 

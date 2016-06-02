@@ -29,7 +29,7 @@ You can allocate an entry in a general journal to several different accounts whe
 7. Choose the **Allocations** action. 
 8. Add a line for each allocation. You must fill in either the **Allocation %**, **Allocation Quantity**, or **Amount** field. You must also fill in the **Account No.** field and, if you are allocating the transaction among global dimensions, the global dimension fields.
 9. If you enter a percentage on a line, the amount in the **Amount** field is calculated automatically. These amounts have the opposite sign from the total amount in the **Amount** field in the recurring journal.
-10. After entering the allocations lines, choose **OK** to return to the **Recurring General Journal** window. The **Allocated Amt. (LCY)** field is filled in and matches the **Amount** field.
+10. After entering the allocations lines, choose **OK** to return to the **Recurring General Journal** window. The **Allocated Amt. (USD)** field is filled in and matches the **Amount** field.
 11. Post the journal.
 
 ## To change an allocation key that has already been set up

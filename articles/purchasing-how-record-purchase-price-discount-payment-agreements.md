@@ -55,7 +55,7 @@ When your vendors have informed you which invoice discounts they grant, enter th
 
     Proceed to set up new the purchase invoice discount terms.
 4. In the **Vendor Card** window, choose the **Invoice Discounts** action. The **Vend. Invoice Discounts** window opens.
-5. In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to. Leave the field blank to set up invoice discount terms in LCY.
+5. In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to. Leave the field blank to set up invoice discount terms in USD.
 6. In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.
 7. In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.
 8. Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.

@@ -3,7 +3,7 @@
         description="Welcome to Project "Madeira""
         services="project-madeira"
         documentationCenter=""
-        authors="edupont04"
+        authors="SusanneWindfeldPedersen"
 />
 <tags
     ms.service="project-madeira"
@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="SusanneWindfeldPedersen" />
 
 # Create Number Series
 

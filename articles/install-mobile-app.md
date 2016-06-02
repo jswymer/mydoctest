@@ -1,9 +1,9 @@
 <properties
 	pageTitle="Get Project “Madeira” on my Mobile Device | Project “Madeira”"
-    description="Get the app for your mobile device." 
-	services="project-madeira" 
+    description="Get the app for your mobile device."
+	services="project-madeira"
 	documentationCenter=""
-	authors="edupont04"/>
+	authors="SusanneWindfeldPedersen"/>
 <tags
     ms.service="project-madeira"
     ms.topic="article"
@@ -11,9 +11,9 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
-    
-# Get Project "Madeira" on my Mobile Device 
+    ms.author="SusanneWindfeldPedersen" />
+
+# Get Project "Madeira" on my Mobile Device
 Access your Project "Madeira" data from your mobile device. You can navigate through your business data, use features such as send to Excel or Office 365, view up-to-date charts and KPIs, email sales quotes and invoices, and shoot and attach pictures with your camera. Follow the steps below to download the app and get started.
 
 ## To get the app on my mobile device
@@ -24,9 +24,8 @@ Access your Project "Madeira" data from your mobile device. You can navigate thr
 3. Enter your activation code that you received during sign-up for Project “Madeira” and follow the instructions on the screen.
 4. Enter your user name and password that you created during sign-up for Project “Madeira” and follow the instructions on the screen.
 
-You should now have access to Project “Madeira” and be able to view and edit data. 
-  
+You should now have access to Project “Madeira” and be able to view and edit data.
+
 ## See Also
 [Welcome to Project "Madeira"](madeira-get-started.md)  
 [Work With Project "Madeira"](ui-work-product.md)  
-
