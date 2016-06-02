@@ -1,9 +1,9 @@
 <properties
 	pageTitle="How to: Set Up a Colored Indicator on Cues | Project “Madeira”"
-        description="Welcome to Project "Madeira"" 
-        services="project-madeira" 
+        description="Welcome to Project "Madeira""
+        services="project-madeira"
         documentationCenter=""
-        authors="edupont04"/>
+        authors="SusanneWindfeldPedersen"/>
 <tags
     ms.service="project-madeira"
     ms.topic="article"
@@ -11,10 +11,10 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
-    
+    ms.author="SusanneWindfeldPedersen" />
+
 # How to: Set Up a Colored Indicator on Cues
-You can set up Cues that appear on the **Home** page to include an indicator that changes color based on the data values in the Cues. 
+You can set up Cues that appear on the **Home** page to include an indicator that changes color based on the data values in the Cues.
 
 The indicator appears as a colored bar along the top border of the Cue tile. It provides a visual signal of the status of the Cue's activity, which can indicate favorable or unfavorable conditions to prompt the user to take action. For example, if a Cue displays ongoing sales invoices, you can set up the indicator to appear green (favorable) when total number of ongoing sales invoices is below 10, and appears red (unfavorable) when the total is greater than 20.
 
@@ -39,4 +39,3 @@ The following table lists the colors that correspond to the options of the **Low
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
-
