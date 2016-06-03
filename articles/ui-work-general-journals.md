@@ -1,9 +1,9 @@
 <properties
 	pageTitle="Work with General Journals | Project “Madeira”"
-        description="Welcome to Project "Madeira"" 
-        services="project-madeira" 
+        description="Welcome to Project "Madeira""
+        services="project-madeira"
         documentationCenter=""
-        authors="edupont04"/>
+        authors="SusanneWindfeldPedersen"/>
 <tags
     ms.service="project-madeira"
     ms.topic="article"
@@ -11,8 +11,8 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
-    
+    ms.author="SusanneWindfeldPedersen" />
+
 # Work with General Journals
 General journals are used to post to general ledger accounts and other accounts such as bank, customer, vendor, and fixed assets accounts. Posting with a general journal always creates entries on general ledger accounts. This is true even if, for example, a journal line is posted to a customer account, because an entry is posted to a general ledger receivables account through a posting group.
 
@@ -35,12 +35,3 @@ A recurring journal is a general journal with specific fields for managing trans
 
 ## See Also
 [Managing Payables](payables-manage-payables.md)
-
-
-
-
-
-
-
-
-

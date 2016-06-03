@@ -1,6 +1,6 @@
 <properties
                 pageTitle="The General Ledger and the Chart of Accounts| Project “Madeira”" 
-                description="Describes the general ledger and chart of accounts." 
+                description="Describes the general ledger, the chart of accounts, and the account categories." 
                 services="project-madeira" 
                 documentationCenter=""
                 authors="edupont04"/>
@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="06/02/2016"
     ms.author="edupont04" />
                 
 # The General Ledger and the Chart of Accounts
@@ -27,7 +27,17 @@ The chart of accounts shows all accounts, and from here, you can open various re
 For each account, you can open the G/L account card and add or change settings. You can also see a list of posting groups that post to that account.  
 
 Project "Madeira" will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.  
+  
+## Account Categories
+With account categories, you can map general ledger accounts to categories as a personalization of the structure of your financial statements.  
+
+The **G/L Account Categories** window shows your existing main categories and subcategories and the G/L accounts that you have assigned each category. You can create new subcategories and assign those categories to existing accounts.  
+  
+You can group the account categories by indenting individual subcategories. This makes it easy for you to get an overview, because each grouping shows a total balance. For example, you can create subcategories for different types of assets and then create category groups for fixed assets versus current assets, for example. You create a category group by indenting other subcategories under a line in the **G/L Account Categories** window.  
+  
+For each subcategory, you can specify if accounts of this category must be included in specific types of financial reports. The account categories help define the layout of your financial statements. For example, the default balance statement has a single entry for cash under assets. If you want the balance statement to have subentries for petty cash and your checking account, then you can add two new subcategories, specify the additional report definition Cash Accounts for each of them, and indent them under the Cash subcategory. Then, when you have generated account schedules based on your changes, your next balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.     
 
 ##See Also
 [Finance](finance.md)  
 [Set Up or Change the Chart of Accounts](finance-setup-chart-accounts.md)  
+[Account Schedules](finance-account-schedule.md)  

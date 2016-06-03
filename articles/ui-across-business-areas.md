@@ -1,9 +1,9 @@
 <properties
 	pageTitle="Across Business Areas | Project “Madeira”"
-        description="Learn more about functionality that is common across business areas in Project “Madeira”" 
-        services="project-madeira" 
+        description="Learn more about functionality that is common across business areas in Project “Madeira”"
+        services="project-madeira"
         documentationCenter=""
-        authors="edupont04"
+        authors="SusanneWindfeldPedersen"
 />
 <tags
     ms.service="project-madeira"
@@ -12,7 +12,7 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.author="SusanneWindfeldPedersen" />
 
 # Across Business Areas
 
@@ -35,4 +35,3 @@ The following table lists these general business areas with links to topics that
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
-

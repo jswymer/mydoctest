@@ -1,9 +1,9 @@
 <properties
 	pageTitle="Post Documents and Journals | Project “Madeira”"
-        description="Welcome to Project "Madeira"" 
-        services="project-madeira" 
+        description="Welcome to Project "Madeira""
+        services="project-madeira"
         documentationCenter=""
-        authors="edupont04"/>
+        authors="SusanneWindfeldPedersen"/>
 <tags
     ms.service="project-madeira"
     ms.topic="article"
@@ -11,8 +11,8 @@
     ms.tgt_pltfrm="na"
     ms.workload="na"
     ms.date="05/12/2016"
-    ms.author="edupont04" />
-    
+    ms.author="SusanneWindfeldPedersen" />
+
 # Post Documents and Journals
 Posting represents the accounting action of recording business transactions in the various company ledgers.
 
@@ -21,8 +21,8 @@ Practically every document and journal in Project "Madeira" offers a **Posting**
 The following table describes related tasks, with links to the topics that describe them.
 
 |To   |See   |
-|-----|------| 
-|Learn about posting purchase documents.|[Posting Purchases](ui-post-purchases.md)| 
+|-----|------|
+|Learn about posting purchase documents.|[Posting Purchases](ui-post-purchases.md)|
 |Learn about posting sales documents.|[Posting Sales](ui-post-sales.md)|
 |Learn about posting general journals.|[Work with General Journals](ui-work-general-journals.md)|
 |Preview, in a window, the entries that will be created when you post.|[How to: Preview Posting Results](ui-how-preview-post-results.md)|
