@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="06/03/2016"
     ms.author="edupont04" />
     
 # Customizing Project “Madeira” Using Extensions
@@ -19,6 +19,8 @@ When you first launch Project "Madeira", some extensions are already installed f
 
 For example, Microsoft provides an extension that provides integration with PayPal Payments Standard. This extension is installed by default. 
 But if another extension is made available that offers integration with another payment service, you can install the new extension and then choose which of the two services to use.  
+  
+You manage the extensions in the **Extension Management** window. You can access this window from Home. Alternatively, choose the **Search for Page or Report** icon in the top right corner, enter **Extension**, and then choose the related link.   
 
 ## Installing an Extension
 In the **Extension Management** window, you can see the extensions that have been made available to you, and you can see if they are installed or not. If you choose an extension, you can read about what the extension does, and you can access Help for the extension to learn more.

@@ -18,12 +18,19 @@ We hope you already got started with Project "Madeira". This is still a preview 
 Sign up for the preview, let us walk you through the basics of what you can do with Project "Madeira", and then try things out on your own for a while. When you are ready, you can open a blank company and set things up for yourself. Optionally, you can import your own business data to the company.  
   
 On a regular basis, we will update Project "Madeira" with additional capabilities in the core application and with new [extensions](ui-extensions.md). 
-   
+  
+## June 2016 Update
+The second update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-june-update).  
+  
+### New extensions made available
+With this update, you can choose between even more extensions in the **Extension Management** window.
+For more information, see [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md).  
+  
 ## May 2016 Update
 The first update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-may-update).  
 
 ### New extensions made available
-Check out the **Extension Management** window: The update adds new extensions, including Sana Commerce for Project "Madeira" that provides B2B Commerce capabilities, and ChargeLogic Payments that provides payment and credit card processing capabilities. The extenstions are not installed automatically for you, but the **Extension Management** window will help you install the extensions that you want to use. For more information, see [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md).  
+Check out the **Extension Management** window: The update adds new extensions, including Sana Commerce for Project "Madeira" that provides B2B Commerce capabilities, and ChargeLogic Payments that provides payment and credit card processing capabilities. The extensions are not installed automatically for you, but the **Extension Management** window will help you install the extensions that you want to use. For more information, see [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md).  
   
 ### Filter on unprocessed incoming documents
 We have also changed some core functionality in this month's update: The list of incoming documents is now filtered to show only entries that have not been used to create posted documents with. For more information, see [Manage Incoming Documents](across-income-documents.md).  
