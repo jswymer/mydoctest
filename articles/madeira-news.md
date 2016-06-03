@@ -6,7 +6,7 @@
 	authors="edupont04"/>
 <tags
     ms.service="project-madeira"
-    ms.topic="article"
+    ms.topic="get-started-article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
