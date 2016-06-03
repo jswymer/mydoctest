@@ -20,7 +20,7 @@ In the **My Settings** window, you can see and change basic settings for Project
 ## Role Center
 The Role Center represents the Home page, a starting page that is designed for the needs of the role.
 
-The default Role Center is Business Manager, but you can select another Role Center that fits your needs better.
+The default Role Center is **Business Manager**, but you can select another Role Center that fits your needs better. For more information, see [How to: Change the Role Center](change-role.md).
 
 ## Company
 A company functions as a container for data in Project "Madeira". There can be multiple companies in a database, but only one can be selected at a time.

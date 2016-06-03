@@ -31,7 +31,9 @@ In the **Assisted Setup** window, you will find the following:
 |Set Up Sales Tax         |Gets you started with default Tax groups and assigning Tax area codes that you can assign to customers and vendors in order to automatically calculate sales tax in sales or purchase documents.|
 |Set Up Email             |Gets you ready for sending email messages directly from, for example, sales orders or contacts in Project "Madeira".|
 |Set Up Office Add-Ins    |Sets up the ability to use and launch Project "Madeira" from Outlook.|
+|Set Up Approval Workflow|Sets up the ability to automatically notify an approver when a user tries to create or change certain values on documents, journal lines, or cards, such as an amount above a specified limit.|
 |Set Up Email Logging     |Sets up the capability to log email correspondence in Project "Madeira" to follow up on interactions.|
+|Set Up Dynamics CRM Connection|Sets up a connection to Dynamics CRM which allows you to synchronize data such as contacts and sales order information.|
   
 When you have run an assisted setup, it is marked as **Completed**. To run the assisted setup, you choose the three dots also called the context menu, and then you select **Start Setup**.
 
