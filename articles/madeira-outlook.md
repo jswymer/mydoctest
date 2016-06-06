@@ -6,11 +6,11 @@
 	authors="edupont04"/>
 <tags
     ms.service="project-madeira"
-    ms.topic="article"
+    ms.topic="get-started-article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="06/09/2016"
+    ms.date="06/03/2016"
     ms.author="edupont04" />
 	
 # Using Project “Madeira” as your Business Inbox in Outlook
