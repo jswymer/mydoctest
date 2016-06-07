@@ -17,7 +17,7 @@
 # Manage your customer relationships using Microsoft Dynamics CRM from inside Project "Madeira"
 If you use Dynamics CRM for customer engagement, you can use Project "Madeira" for order processing and financials and have seamless integration in the lead-to-cash process. Tight integration with  Dynamics CRM provides the following capabilities:
   
-When your application is set up to integrate with Dynamics CRM, you have access to Dynamics CRM data from Project "Madeira" and vice versa in some cases. This integration enables you to work with and synchronize data types that are common to both Dynamics CRM and project "Madeira", such as customers, contacts, and sales information, and keep the data up\-to\-date in both locations.  
+When your application is set up to integrate with Dynamics CRM, you have access to Dynamics CRM data from Project "Madeira" and vice versa in some cases. This integration enables you to work with and synchronize data types that are common to both Dynamics CRM and Project "Madeira", such as customers, contacts, and sales information, and keep the data up\-to\-date in both locations.  
   
 ## Setting up the connection
 From the Business Manager, you can access the list of assisted setup guides. One of the guides will help you through the setup process. Once that's done, you'll have a seamless coupling of Dynamics CRM records with Project "Madeira" records.  
