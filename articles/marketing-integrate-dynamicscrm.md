@@ -19,8 +19,11 @@ If you use Dynamics CRM for customer engagement, you can use Project "Madeira" f
   
 When your application is set up to integrate with Dynamics CRM, you have access to Dynamics CRM data from Project "Madeira" and vice versa in some cases. This integration enables you to work with and synchronize data types that are common to both Dynamics CRM and Project "Madeira", such as customers, contacts, and sales information, and keep the data up\-to\-date in both locations.  
   
+Note that you'll have to choose set the experience to *Suite* in the **Company Information** window to get access to integration to the CRM functionality.  
+  
 ## Setting up the connection
 From the Business Manager, you can access the list of assisted setup guides. One of the guides will help you through the setup process. Once that's done, you'll have a seamless coupling of Dynamics CRM records with Project "Madeira" records.  
  
 ## See Also
 [Relationship Management](marketing-relationship-management.md)  
+  
