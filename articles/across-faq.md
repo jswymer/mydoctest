@@ -21,7 +21,7 @@ This section contains answers to frequently asked questions about signing up for
 ## What email address can I use with Project "Madeira"?
 Project "Madeira" requires that you use a work, or school, email address to sign up. Project "Madeira" does not support email addresses provided by consumer email services or telecommunication providers. This includes outlook.com, hotmail.com, gmail.com, and others.  
 
-If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address. For more information, see [Troubleshooting Self-Service Sign-Up](ui-troubleshoot-self-signup.md)  
+If you try to sign up with a personal email address, you will get a message indicating to use a work or school email address. For more information, see [Troubleshooting Self-Service Sign-Up](ui-troubleshoot-self-signup.md).  
   
 ## Do I have to buy Office 365?
 No. But if you want to experience Project "Madeira" as fully integrated with Office 365, you can sign up for a 1-month free trial of Office 365 [here](https://products.office.com/try).  
