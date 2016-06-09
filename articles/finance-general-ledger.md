@@ -18,7 +18,7 @@ The general ledger stores your financial data, and the chart of accounts shows t
 
 ## General Ledger Setup and General Posting Setup
 At the core of your business processes is the general ledger and the configuration of how data is posted to the general ledger. 
-In the **General Ledger Setup** window, you specify how you to handle certain accounting issues in your company. This includes invoice rounding details, address formats, and whether you want to use an additional reporting currency, for example. 
+In the **General Ledger Setup** window, you specify how to handle certain accounting issues in your company. This includes invoice rounding details, address formats, and whether you want to use an additional reporting currency, for example. 
 Similarly, in the **General Posting Setup** window, you specify how you want to set up combinations of general business and general product posting groups. You fill in a line for each combination of business posting group and product posting group.  
 
 ## The Chart of Accounts

@@ -45,7 +45,7 @@ You can fill customer fields on the sales quote in two ways depending on whether
 
     **Note**: If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the quote by choosing the **Get Recurring Sales Lines** action.
 10. On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.
-11. In the **Quantity ** field, enter the number of items to be offered.
+11. In the **Quantity** field, enter the number of items to be offered.
 
     **Note**: For items of type Service, the quantity is a time unit, such as hours, as indicated in the **Unit of Measure Code** field on the line.
 
@@ -58,7 +58,7 @@ You can fill customer fields on the sales quote in two ways depending on whether
 13. To add a comment about the quote line that the customer can see on the printed sales quote, write a text in the **Description** field on an empty line.  
 14. Repeat steps 10 through 13 for every item that you want to offer to the customer.
 
-    The totals under the lines are automatically calculated as you create or modify lin.
+    The totals under the lines are automatically calculated as you create or modify lines.
 15. In the **Invoice Discount Amount** field, enter an amount that should be deducted from the value shown in the **Total Incl. Tax** field.
 
     **Note**: If you have set up invoice discounts for the customer, then the specified percentage value is automatically inserted in the **Invoice Discount %** field if the criteria are met, and the related amount is inserted in the **Inv. Discount Amount Excl. Tax** field. For more information, see [Record Sales Price, Discount, and Payment Agreements](sales-how-record-sales-price-discount-payment-agreements.md).
