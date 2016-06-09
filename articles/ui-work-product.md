@@ -1,18 +1,10 @@
 <properties
 	pageTitle="Work with Project “Madeira”| Project “Madeira”"
-        description="Welcome to Project "Madeira""
-        services="project-madeira"
-        documentationCenter=""
+        description="Welcome to Project "Madeira"" 
+        services="" 
+        documentationCenter="Madeira"
         authors="SusanneWindfeldPedersen"/>
-<tags
-    ms.service="project-madeira"
-    ms.topic="article"
-    ms.devlang="na"
-    ms.tgt_pltfrm="na"
-    ms.workload="na"
-    ms.date="05/12/2016"
-    ms.author="SusanneWindfeldPedersen" />
-
+    
 # Work with Project "Madeira"
 When performing business tasks, you interact with data in different ways, such as creating records and entering data, sorting and filtering data, writing notes, and outputting data to other applications.
 
@@ -29,6 +21,7 @@ The following table lists some of the general functionality with links to topics
 |Learn about how to sort data.|[Sorting](ui-sorting.md)|
 |Read about how to set up reports to print in a specific way.|[Specify Printer Selection for Reports](ui-specify-printer-selection-reports.md)|
 |Modify the colored indicator on cues.|[How to: Set Up a Colored Indicator on Cues](ui-how-setup-colored-indicator-cues.md)|
+|Change how you view lists of, for example, customers, vendors, or items.|[Displaying Lists in Different Views](across-display-lists-different-views.md)|
 
 ## See Also
 [Across Business Areas](ui-across-business-areas.md)
