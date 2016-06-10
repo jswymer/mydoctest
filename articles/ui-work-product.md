@@ -1,10 +1,18 @@
 <properties
 	pageTitle="Work with Project “Madeira”| Project “Madeira”"
-        description="Welcome to Project "Madeira"" 
-        services="" 
+        description="Welcome to Project "Madeira""
+        services=""
         documentationCenter="Madeira"
         authors="SusanneWindfeldPedersen"/>
-    
+	<tags
+		    ms.service="project-madeira"
+		    ms.topic="article"
+		    ms.devlang="na"
+		    ms.tgt_pltfrm="na"
+		    ms.workload="Madeira"
+		    ms.date="06/08/2016"
+		    ms.author="SusanneWindfeldPedersen" />
+
 # Work with Project "Madeira"
 When performing business tasks, you interact with data in different ways, such as creating records and entering data, sorting and filtering data, writing notes, and outputting data to other applications.
 
