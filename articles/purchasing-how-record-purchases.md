@@ -17,7 +17,7 @@
 # How to: Record Purchases
 You create a purchase invoice to record the cost of purchases and to track accounts payable. If you need to control an inventory, purchase invoices are also used to dynamically update inventory levels so that you can minimize your inventory costs and provide better customer service. The purchasing costs, including service expenses, and inventory values that result from posting purchase invoices contribute to profit figures and other financial KPIs on your Home page.
 
-When you receive the inventory items, or when the purchased service is completed, you post the purchase invoice to update inventory and financial records and to activate payment to the vendor according to the payment terms. For more information, see [Make Payments](payables-make-payments.md)
+When you receive the inventory items, or when the purchased service is completed, you post the purchase invoice to update inventory and financial records and to activate payment to the vendor according to the payment terms. For more information, see [Make Payments](payables-make-payments.md).
 
 **Caution**: Do not post a purchase invoice until you receive the products and know the final cost of the purchase, including any additional charges. Otherwise, your inventory value and profit figures may be skewed.
 
@@ -41,12 +41,12 @@ You can fill vendor fields on the purchase invoice in two ways depending on whet
 7. Proceed to fill the remaining fields on the vendor card. For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).  
 8. When you have completed the vendor card, choose the **OK** button to return to the **Purchase Invoice** window.
 
-    Several fields in the **Purchase Invoice** window are filled with information that you specified on the new vendor card
+    Several fields in the **Purchase Invoice** window are filled with information that you specified on the new vendor card.
 9. Fill the remaining fields in the **Purchase Invoice** window as necessary. Choose a field to read a short description of the field or link to more information.
 
     You are now ready to fill the purchase invoice lines with inventory items or services that you have purchased from the vendor.
 
-    **Note**: If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these line on the invoice by choosing the **Get Recurring Purchase Lines** action.
+    **Note**: If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Purchase Lines** action.
 10. On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.
 11. In the **Quantity** field, enter the number of items to be purchased.
 

@@ -15,7 +15,7 @@
     ms.author="jswymer" />
 
 # Managing Interactions With Contacts
-In Project "Madeira", interactions are all types of communications between your company and your contacts. For example, communications can be by letter, fax, e-mail, telephone, meetings, and so on.
+In Project "Madeira", interactions are all types of communications between your company and your contacts. For example, communications can be by letter, fax, email, telephone, meetings, and so on.
 
 The relationship management area enables you to record all the interactions you have with your contacts in order to keep track of the sales and marketing efforts you have directed at your contacts and to improve your future business interactions with them. Setting up your application to record interactions consists of these tasks:
 
@@ -23,7 +23,7 @@ The relationship management area enables you to record all the interactions you 
 * [Creating interactions on contacts or segments](#creating-interactions-on-contacts-or-segments)
 * [View and manage recorded interactions](#view-and-manage-recorded-interactions)
 
-## Set Up Interaction Templates
+## Set up Interaction Templates
 Before you can create and record interactions, you must set up interaction templates. When creating interactions, you must specify the interaction templates they are based on. An interaction template is a model that defines the basic characteristics of an interaction.
 You set up an interaction template in the **Interaction Templates** window.  
 
@@ -33,7 +33,7 @@ There are two ways of recording interactions:
 * You can manually create interactions that are linked to a single contact or to a segment. For more information, see [How to: Create Interactions on Contacts and Segments](marketing-how-create-interactions.md).  
 * You can automatically record interactions when you perform actions in the application, for example, when you print an invoice, or quote. For more information, see [Automatically Record Interactions with Contacts](marketing-auto-record-interactions.md).
 
-## View and Manage Recorded Interactions
+## View and manage recorded Interactions
 You can view all the recorded interactions that have not been deleted in the **Interaction Log Entries** window. You can open this window by:
 
 * Using the **Search for Page or Report** icon to search on **Interaction Log Entries**.

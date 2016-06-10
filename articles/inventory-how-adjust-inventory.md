@@ -17,7 +17,7 @@
 # How to: Adjust Inventory   
 After you have made a physical count of an item in your inventory area, you can use the **Adjust Inventory** function to record the actual inventory quantity.
 
-You can also use the function as a simple way to place purchased items on inventory if you do not use the **Purchase Invoice** window to record your purchases. For more information, [How to: Record Purchases](purchasing-how-record-purchases.md)
+You can also use the function as a simple way to place purchased items on inventory if you do not use the **Purchase Invoice** window to record your purchases. For more information, [How to: Record Purchases](purchasing-how-record-purchases.md).
 
 ## To adjust an item's quantity on inventory
 1. On the Home page, choose the **Items** action to open the list of existing items.
