@@ -22,9 +22,18 @@ On a regular basis, we will update Project "Madeira" with additional capabilitie
 ## June 2016 Update
 The second update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-june-update).  
   
+### Working with incoming documents in Outlook.
+This update adds actions to the vendor dashboard in the Outlook add-in so you can work directly with attachments to the associated email. You use the actions to send the email attachments directly to the **Incoming Documents** list, send the documents to the OCR service, and send an approval request for the incoming document. For more information, see [Manage Incoming Documents](across-income-documents.md).  
+  
+### Shipping agents and item attributes
+You can add attributes to your inventory items that make it really esy to find the right product that your customer wants. For more information, see [How to: Work with Item Attributes](inventory-how-work-item-attributes.md).  
+  
 ### New extensions made available
 With this update, you can choose between even more extensions in the **Extension Management** window.
 For more information, see [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md).  
+  
+### Manage your customer relationships using Microsoft Dynamics CRM from inside Project "Madeira"
+We've added a new assisted setup guide to the Business Manager home page that guides you through the setup process to connect to Dynamics CRM. Once that's done, you'll have a seamless coupling of Dynamics CRM records with Project "Madeira" records. For more information, see [Manage your customer relationships using Microsoft Dynamics CRM from inside Project “Madeira” ](marketing-integrate-dynamicscrm.md).  
   
 ## May 2016 Update
 The first update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-may-update).  
