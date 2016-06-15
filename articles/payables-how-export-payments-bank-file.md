@@ -1,6 +1,6 @@
 <properties
                 pageTitle="How to: Export Payments to a Bank File| Project “Madeira”"
-                description="How to: Export Payments to a Bank File"
+                description="Describes how to export payments to a bank file."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"
@@ -54,5 +54,5 @@ If you have deleted or posted the payment journal lines after exporting them, yo
 
 ## See Also
 [Payables](payables-manage-payables.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
 [Set Up Purchasing](purchasing-setup-purchasing.md)

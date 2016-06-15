@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents| Project “Madeira”"
-                description="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents"
+                pageTitle="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents | Project “Madeira”"
+                description="Describes how to reconcile customer payments manually from a list of unpaid sales documents."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"
@@ -11,9 +11,9 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="06/07/2016"
     ms.author="SorenGP" />
-
+    
 # How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents
 When your customers have made payments to your electronic bank account, you must apply each amount paid to the related sales document and then post the payment to update the customer, general ledger, and bank ledger entries.
 
@@ -25,8 +25,7 @@ Payments for different customers that have different payment dates must be poste
 
 ## To set up the payment registration journal
 Because you can post different payment types to different balancing accounts, you must select a balancing account in the **Payment Registration Setup** window before you start processing customer payments. If you always post to the same balancing account, you can set that account as the default and avoid this step every time that you open the **Payment Registration** window.
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration Setup**, and then choose the related link.
-  Alternatively, in the **Payment Registration** window, choose the **Setup** action.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration Setup**, and then choose the related link. Alternatively, in the **Payment Registration** window, choose the **Setup** action.
 2. Fill the fields in the **Payment Registration Setup** window. Choose a field to read a short description of the field or link to related information.  
 
 ## To reconcile payments individually
