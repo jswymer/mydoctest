@@ -25,8 +25,8 @@ The application does not force you to close periods, however, there are many per
 * Update and post Recurring Journals.
 <!--* Process Consolidations-->
 * Run account schedules as follows:
-  1. Open the **Account Schedule** page, and choose the **Print** action.
-  2. Fill in the **Account Schedule** request page and choose the **Print** action.
+  1. Open the **Account Schedule** window, and choose the **Print** action.
+  2. Fill in the **Account Schedule** request window and choose the **Print** action.
 
 ## Sales & Receivables
 * Post all sales orders, invoices, credit memos, and return orders.

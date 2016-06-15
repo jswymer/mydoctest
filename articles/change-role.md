@@ -4,6 +4,14 @@
 	services="project-madeira"
 	documentationCenter=""
 	authors="SusanneWindfeldPedersen"/>
+<tags
+	    ms.service="project-madeira"
+	    ms.topic="article"
+	    ms.devlang="na"
+	    ms.tgt_pltfrm="na"
+	    ms.workload="Madeira"
+	    ms.date="06/08/2016"
+	    ms.author="SusanneWindfeldPedersen" />
 
 # How to: Change the Role Center
 The Home page is your main point of entry into Project "Madeira". Here you can get an overview of the daily work tasks and their status. Tasks that you perform often are accessed through the tiles in the content area, the navigation pane on the left, and through actions in the ribbon.

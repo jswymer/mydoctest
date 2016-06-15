@@ -36,7 +36,7 @@ The inheritance of fields overwrites the default values you have set up. For exa
 <!--You can also setup a default salutation that the program automatically assigns to your contacts. You can use these salutations in your interaction template attachments (for example, Microsoft Word documents). When setting up a default salutation, you can enter a salutation text and a salutation format. For example, if the salutation text is Dear, and the salutation format is Salutation Text + Title + Name, the program will automatically enter Dear Mr. John Smith as a salutation for a contact called John Smith.-->
 
 ## Automatically record interactions
-Project "Madeira" can automatically record sales and purchase documents as interactions (for example, orders, invoices, receipts, and so on), as well as e-mails, phone calls and cover sheets.
+Project "Madeira" can automatically record sales and purchase documents as interactions (for example, orders, invoices, receipts, and so on), as well as e-mails, phone calls, and cover sheets.
 
 For more information, see [Automatically Record Interactions with Contacts](marketing-auto-record-interactions.md).
 

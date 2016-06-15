@@ -24,7 +24,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Choose how you want to handle payments of your vendors.|[Payment Methods](finance-payment-methods.md)|
 |Set up fiscal periods.|[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)|
 |Set up additional currencies if you have international trade.|[Set Up Currencies](finance-setup-currencies.md)|
-|Add dimensions for richer business intelligence|[Set Up Dimensions](finance-setup-dimensions.md)|
+|Add dimensions for richer business intelligence.|[Set Up Dimensions](finance-setup-dimensions.md)|
 |Add new accounts to the existing chart of accounts.|[Set Up the Chart of Accounts](finance-setup-chart-accounts.md)| 
 
 
