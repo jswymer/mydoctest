@@ -40,7 +40,7 @@ On the Home page, you have an overview of the business. To the left you see a na
 Use the arrows to collapse part of the page and make more room to show specific data. At the top of the Home page you will find all of the actions that can be applied to the current content. This too can be collapsed and you only need to click or tap within the collapsed area to view it again.
 
 ## Company Information
-Under **Company Settings** you can view and edit setup information about the current company, much of this was prefilled if you completed the **Set Up Company** assisted setup when signing up for Project "Madeira". If you want to change the company logo, contact information, bank settings, or Tax information, you can do it from this page.    
+Under **Company Settings** you can view and edit setup information about the current company, much of this was prefilled if you completed the **Set Up Company** assisted setup when signing up for Project "Madeira". If you want to change the company logo, contact information, bank settings, or tax information, you can do it from this window.    
 
 ## Creating Users
 If you need to add more users, this is done from Office 365, and you should therefore ask your administrator of Office 365 to do this. More information is available here [Add Users to Office 365 for business](https://support.office.com/en-us/article/Add-users-to-Office-365-for-business-435ccec3-09dd-4587-9ebd-2f3cad6bc2bc). Once users are created in Office 365, they can be imported using the **Users** card, where you choose the **Get Users from Azure** action.  
