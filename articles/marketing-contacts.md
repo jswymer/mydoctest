@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Create and Manage Contacts | Project “Madeira”"
-                description="Describes how to create and manage contacts in Project “Madeira”"
-                services="project-madeira"
+                pageTitle="Create and Manage Contacts | Project “Madeira”" 
+                description="Describes how to create and manage contacts in Project “Madeira”" 
+                services="project-madeira" 
                 documentationCenter=""
                 authors="jswymer"
 />
@@ -30,5 +30,5 @@ The following table describes a sequence of tasks, with links to the topics that
 |Create a contact card for each contact person who works for the companies that you interact with.|[Create Contact Persons](marketing-create-contact-persons.md)|
 
 ##See Also
-[Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
+[Manage Sales Opportunites](marketing-manage-sales-opportunities.md)  
 [Set Up Marketing and Contact Management](marketing-setup-marketing.md)  

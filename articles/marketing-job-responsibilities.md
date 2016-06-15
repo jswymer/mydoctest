@@ -34,7 +34,7 @@ You cannot assign job responsibilities to contact companies.
 
 Repeat these steps to assign as many job responsibilities as you want. You can also assign job responsibilities from the contact list by following the same procedure.
 
-The number of job responsibilities you have assigned to the contact is displayed in the **No. of Job Responsibilities** field in the **Segmentation** section in the **Contact** window.
+The number of job responsibilities you have assigned to the contact is displayed in the **No. of Job Responsibilities** field on the **Segmentation** section of the contact page.
 
 After you have assigned job responsibilities to your contacts, you can use this information to select contacts for your segments. For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).
 

@@ -73,9 +73,9 @@ If an opportunity follows a sales cycle, you can move it forward or back through
 1. In the **Opportunity List** window, choose the **Update** action. The **Update Opportunity** opens,
 2. Use the **Action Type** field to move the opportunity through the sales cycle stages:
   * **Next** moves the opportunity forward one stage.
-  * **Skip** moves the opportunity forward one or several stages in the sales cycle, which you specify in the **Presentation** field. You can only skip stages that have been set up to allow skipping.
+  * **Skip** moves the the opportunity forward one or several stages in the sales cycle, which you specify in the **Presentation** field. You can only skip stages that have been set up to allow skipping.
   * **Previous** moves the opportunity back one stage.
-  * **Jump** moves the opportunity back one or several stages in the sales cycle, which you specify in the **Presentation** field.
+  * **Jump** moves rhe the opportunity back one or several stages in the sales cycle, which you specify in the **Presentation** field.
   * **Update** enables you to change information (such as to modify your evaluation of their chances of success and estimated values) without moving to another stage.
 3. Fill in the other fields as needed, and then choose the **OK** button.
 

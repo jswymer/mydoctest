@@ -31,12 +31,12 @@ When the bank feed service is enabled, you can set a bank account up to automati
 **Note**: If you use the Set Up Company assisted setup, then some of the steps in the following procedures will be performed automatically when you get to the company bank account setup. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).
 
 ## To enable the bank feed service
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon,enter **Bank Accounts**, and then choose the related link.
 2. Open the bank account that you will use for the bank feed service.
 3. In the **Bank Account** window, in the **Bank Statement Import Format** field, select YODLEEBANKFEED.  
 
 The bank feed service will be enabled when you link a bank account to its related online bank account. See the next procedure.  
-
+  
 ## To create a new linked bank account
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
 2. Select the relevant bank account, and then choose the **Create New Linked Bank Account**. The **Bank Account Linking** window opens after a few moments.

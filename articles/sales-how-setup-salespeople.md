@@ -21,7 +21,7 @@ When yo have set up a salesperson in the **Salespeople** window, you can select 
 
 ## To set up a salesperson code
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.
-2. In the **Salespeople** window, choose the **New** action.
+2. In the **Salespeople** page, choose the **New** action.
 
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
