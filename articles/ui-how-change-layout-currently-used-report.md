@@ -1,6 +1,6 @@
 <properties
 	pageTitle="How to: Change Which Layout is Currently Used on a Report | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how you can decide how a report looks."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"

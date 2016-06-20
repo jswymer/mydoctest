@@ -1,6 +1,6 @@
 <properties
                 pageTitle="How to: Define Check Layouts| Project “Madeira”"
-                description="Welcome to Project "Madeira""
+                description="Learn about the check layouts that are available in Project “Madeira”."
                 services="project-madeira"
                 documentationCenter=""
                 authors="edupont04"

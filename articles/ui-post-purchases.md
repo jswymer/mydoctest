@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Posting Purchases | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how to post purchases."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"

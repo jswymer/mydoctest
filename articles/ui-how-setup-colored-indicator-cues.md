@@ -1,6 +1,6 @@
 <properties
 	pageTitle="How to: Set Up a Colored Indicator on Cues | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how to use colored indicators on Cues in your role center."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>

@@ -1,6 +1,6 @@
 <properties
                 pageTitle="How to: Register New Vendors| Project “Madeira”"
-                description="Welcome to Project "Madeira""
+                description="Learn how to add vendors to your Project “Madeira”."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"

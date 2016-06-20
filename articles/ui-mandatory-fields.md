@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Mandatory Fields | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn about required fields."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>

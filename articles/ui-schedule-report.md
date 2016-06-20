@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Schedule a Report to Run | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how you can schedule a report to run at a later time."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>

@@ -1,6 +1,6 @@
 <properties
 	pageTitle="How to: Run Batch Jobs | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how batch jobs work in project “Madeira”."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"

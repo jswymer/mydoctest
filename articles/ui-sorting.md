@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Sorting | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how soirting works."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>
