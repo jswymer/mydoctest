@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Work with General Journals | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how general journals work."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>

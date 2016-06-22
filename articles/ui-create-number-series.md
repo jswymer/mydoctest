@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Create Number Series | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how to create new number series."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"
