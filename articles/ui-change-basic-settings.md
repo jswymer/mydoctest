@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Changing Basic Settings | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how you can change some of the basic settings in Project “Madeira”."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"
