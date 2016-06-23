@@ -14,7 +14,7 @@
     ms.author="edupont04" />
 
 # Sales Tax and Tax Groups in the US
-When you first start using Project "Madeira", you can run an assisted setup guide to quickly and easily set up sales tax information for your company, customers, and vendors. In a matter of minutes, you are ready to create sales documents and purchase documents with sales tax calculated correctly. This is explained [in our blog post](https://madeira.microsoft.com/en-us/blog/sales-tax-setup-made-easy). 
+When you first start using Project "Madeira", you can run an assisted setup guide to quickly and easily set up sales tax information for your company, customers, and vendors. In a matter of minutes, you are ready to create sales documents and purchase documents with sales tax calculated correctly. This is explained [in our blog post](https://madeira.microsoft.com/blog/sales-tax-setup-made-easy). 
 If you move to the empty My Company, we recommend that you start by using each of the assisted setup guides, including the one for sales tax. If you prefer to set up sales tax yourself, this article explains what you have to take into consideration.  
 
 ## Tax Groups, Tax Areas, and Tax Jurisdictions
@@ -35,5 +35,5 @@ In the United States, when you sell to a customer at a location where you do not
 [Finance](finance.md)  
 [Set Up Finance](finance-setup-finance.md)  
 <!--[Sales Tax and Goods and Services Tax in Canada](ca-finance-tax.md)-->  
-[Sales Tax setup made easy](https://madeira.microsoft.com/en-us/blog/sales-tax-setup-made-easy)  
+[Sales Tax setup made easy](https://madeira.microsoft.com/blog/sales-tax-setup-made-easy)  
   
