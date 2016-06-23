@@ -1,7 +1,8 @@
 <properties
 	pageTitle="Work with General Journals | Project “Madeira”"
-        description="Describes how to work with general journals." 
-        services="project-madeira" 
+        description="Learn how general journals work."
+        services="project-madeira"
+        refs/remotes/Azure/master
         documentationCenter=""
         authors="edupont04"/>
 <tags
