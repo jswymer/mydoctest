@@ -1,6 +1,6 @@
 <properties
 	pageTitle="How to: Define Extended Text | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Describes extend text."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>

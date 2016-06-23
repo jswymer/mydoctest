@@ -1,6 +1,6 @@
 <properties
 	pageTitle="How to: View Test Reports Before Posting | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how to get a test report before you post anything."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>

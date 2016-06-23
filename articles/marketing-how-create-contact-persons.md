@@ -1,6 +1,6 @@
 <properties
                 pageTitle="Create Contact Persons | Project “Madeira”"
-                description="Describes how to create contact persons in roject “Madeira”"
+                description="Describes how to create contact persons in Project “Madeira”"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

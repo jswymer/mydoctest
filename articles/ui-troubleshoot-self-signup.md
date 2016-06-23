@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Troubleshooting Self-Service Sign-Up | Project “Madeira”"
-    description="Troubleshoot AAD issues when signing up."
+    description="Troubleshoot Azure AD issues when signing up."
 	services="project-madeira"
 	documentationCenter=""
 	authors="SusanneWindfeldPedersen"/>

@@ -1,6 +1,6 @@
 <properties
 	pageTitle="How to: Preview Posting Results | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Describes how you can get a preview of the impact of your changes before you post anything."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>
