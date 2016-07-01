@@ -19,7 +19,7 @@ Sign up for the preview, let us walk you through the basics of what you can do w
   
 On a regular basis, we will update Project "Madeira" with additional capabilities in the core application and with new [extensions](ui-extensions.md). 
   
-## June 2016 Update
+<!-- ## June 2016 Update
 The second update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-june-update).  
   
 ### Working with incoming documents in Outlook.
@@ -33,7 +33,7 @@ With this update, you can choose between even more extensions in the **Extension
 For more information, see [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md).  
   
 ### Manage your customer relationships using Microsoft Dynamics CRM from inside Project "Madeira"
-We've added a new assisted setup guide to the Business Manager home page that guides you through the setup process to connect to Dynamics CRM. Once that's done, you'll have a seamless coupling of Dynamics CRM records with Project "Madeira" records. For more information, see [Manage your customer relationships using Microsoft Dynamics CRM from inside Project “Madeira” ](marketing-integrate-dynamicscrm.md).  
+We've added a new assisted setup guide to the Business Manager home page that guides you through the setup process to connect to Dynamics CRM. Once that's done, you'll have a seamless coupling of Dynamics CRM records with Project "Madeira" records. For more information, see [Manage your customer relationships using Microsoft Dynamics CRM from inside Project “Madeira” ](marketing-integrate-dynamicscrm.md).  -->
   
 ## May 2016 Update
 The first update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-may-update).  
