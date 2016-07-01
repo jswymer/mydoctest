@@ -34,6 +34,6 @@ In the United States, when you sell to a customer at a location where you do not
 ## See Also
 [Finance](finance.md)  
 [Set Up Finance](finance-setup-finance.md)  
-<!--[Sales Tax and Goods and Services Tax in Canada](ca-finance-tax.md)-->  
 [Sales Tax setup made easy](https://madeira.microsoft.com/blog/sales-tax-setup-made-easy)  
+<!--[Sales Tax and Goods and Services Tax in Canada](ca-finance-tax.md)-->  
   
