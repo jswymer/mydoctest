@@ -1,6 +1,6 @@
 <properties
                 pageTitle="Manage Payables| Project “Madeira”"
-                description="Manage Payables|"
+                description="Manage Payables"
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"

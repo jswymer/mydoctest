@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Post Documents and Journals | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Provides an introduction to the different ways you can post."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>

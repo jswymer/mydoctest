@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Manage Report Layouts | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn about report layouts."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>
