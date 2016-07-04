@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="06/03/2016"
+    ms.date="07/04/2016"
     ms.author="edupont04" />
 
 # Using Project “Madeira” as your Business Inbox in Outlook
@@ -38,6 +38,9 @@ The Project “Madeira” Document Links add-in gives you quick access to docume
 For example, if you receive an email message that mentions the text *S-QUO100*, Project "Madeira" identifies that as a sales quote, and so you can open this document in Outlook. In Outlook, choose the **Document Links** button immediately above the body of the email message. In the Outlook Web App, choose the *S-QUO1001* text in the body of the email message.  
 
 In the Document Links add-in, you can modify and take actions with the document, just like you can in Project “Madeira”.
+
+## Create invoices from your meeting appointments
+Some businesses record all billable appointments in the Outlook calendar. With Project "Madeira", you can create the invoice for the customer right from the calendar item: Open the appointment, and then you can open the Project "Madeira" add-in, look up existing information or create an invoice or another sales document right there.  
 
 ## See Also
 [Welcome to Project "Madeira"](madeira-get-started.md)  
