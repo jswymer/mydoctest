@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Entering Criteria in Filters | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how filters work in Project “Madeira”."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"

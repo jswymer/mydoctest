@@ -1,6 +1,6 @@
 <properties
 	pageTitle="How to: Use Allocation Keys in General Journals | Project “Madeira”"
-        description="Welcome to Project "Madeira"" 
+        description="Learn how you can use allocation keys in journals." 
         services="project-madeira" 
         documentationCenter=""
         authors="edupont04"

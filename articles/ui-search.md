@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Using Search for Page or Report | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="learn how to use Search in Project “Madeira”."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"

@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Posting Sales | Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Learn how to post sales."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"

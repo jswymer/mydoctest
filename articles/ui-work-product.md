@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Work with Project “Madeira”| Project “Madeira”"
-        description="Welcome to Project "Madeira""
+        description="Welcome to Project “Madeira”"
         services=""
         documentationCenter="Madeira"
         authors="SusanneWindfeldPedersen"/>
