@@ -24,7 +24,8 @@ Each tax area is a grouping of sales tax jurisdictions based on a particular geo
   
 If you set up new tax areas and tax jurisdictions, you must make sure that you fill in the fields correctly. In the United States, states, counties, cities, and localities can charge sales tax. Companies collect and remit sales tax to these government authorities for products sold to end users. Sales tax can also be charged to existing sales tax. For example, tax can be calculated on a sales invoice amount that already includes the tax from other jurisdictions.  
 
-<!--In Canada, tax amounts must be detailed in documents for each tax jurisdiction. Up to four jurisdictions can be displayed in a document, and jurisdictions that have the same print order are combined when they are printed. -->
+<!--In Canada, tax amounts must be detailed in documents for each tax jurisdiction. Up to four jurisdictions can be displayed in a document, and jurisdictions that have the same print order are combined when they are printed. [Sales Tax and Goods and Services Tax in Canada](ca-finance-tax.md)-->  
+
   
 ## Tax Details
 The **Tax Details** window shows different combinations of sales tax jurisdictions and sales tax groups to establish sales tax rates. For each tax jurisdiction, we recommend that you set up one tax group for normal sales tax, another tax group for items or services that are not taxed, and an additional tax group for every type of item or service that is handled with a different sales tax rate in that jurisdiction.  
@@ -35,5 +36,4 @@ In the United States, when you sell to a customer at a location where you do not
 [Finance](finance.md)  
 [Set Up Finance](finance-setup-finance.md)  
 [Sales Tax setup made easy](https://madeira.microsoft.com/blog/sales-tax-setup-made-easy)  
-<!--[Sales Tax and Goods and Services Tax in Canada](ca-finance-tax.md)-->  
   
