@@ -26,7 +26,7 @@ The second update of Project "Madeira" adds new capabilities as [announced on th
 This update adds actions to the vendor dashboard in the Outlook add-in so you can work directly with attachments to the associated email. You use the actions to send the email attachments directly to the **Incoming Documents** list, send the documents to the OCR service, and send an approval request for the incoming document. For more information, see [Manage Incoming Documents](across-income-documents.md).
 
 ### Create invoices in your Outlook calendar
-The Outlook add-in now extends to the Outlook calendar. From a calendar appointment, you can open the Project "Madeira" add-in and get an overview for the customer associated with the appointment. Then, you can create and send an invoice for the services provided in the meeting - all of this happening right there in the Outlook calendar. For more information, see [Using Project “Madeira” as your Business Inbox in Outlook](madeira-news.md).  
+The Outlook add-in now extends to the Outlook calendar. From a calendar appointment, you can open the Project "Madeira" add-in and get an overview for the customer associated with the appointment. Then, you can create and send an invoice for the services provided in the meeting - all of this happening right there in the Outlook calendar. For more information, see [Using Project “Madeira” as your Business Inbox in Outlook](madeira-outlook.md).  
   
 ### Shipping agents and item attributes
 You can add attributes to your inventory items that make it really easy to find the right product that your customer wants. For more information, see [How to: Work with Item Attributes](inventory-how-work-item-attributes.md).  
