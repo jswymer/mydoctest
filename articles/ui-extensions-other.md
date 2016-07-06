@@ -10,11 +10,11 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="07/04/2016"
+    ms.date="07/06/2016"
     ms.author="edupont04" />
 
 # Project “Madeira” Extensions by Other Providers
-In Project “Madeira”, the **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by other companies. We refer to the websites that these companies provide for more information about the extensions that are not published by Microsoft. However, this article gives you a brief overview of the extensions by other companies that are available for Project “Madeira”.  
+At [AppSource.microsoft.com](https://appsource.microsoft.com/), you can get extensions for Project “Madeira”. Some extensions are provided by Microsoft, and other extensions are provided by other companies. We refer to the websites that these companies provide for more information about the extensions that are not published by Microsoft. However, this article gives you a brief overview of the extensions by other companies that are available for Project “Madeira”.  
 
 - **Sana Commerce for Project “Madeira”**
 

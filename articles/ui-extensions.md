@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="06/03/2016"
+    ms.date="07/06/2016"
     ms.author="edupont04" />
     
 # Customizing Project “Madeira” Using Extensions
@@ -23,13 +23,19 @@ But if another extension is made available that offers integration with another 
 You manage the extensions in the **Extension Management** window. You can access this window from Home. Alternatively, choose the **Search for Page or Report** icon in the top right corner, enter **Extension**, and then choose the related link.   
 
 ## Installing an Extension
-In the **Extension Management** window, you can see the extensions that have been made available to you, and you can see if they are installed or not. If you choose an extension, you can read about what the extension does, and you can access Help for the extension to learn more.
-If you uninstall an extension, and you then change your mind, you can install it again. When you uninstall an extension that you have been using, the data is preserved so that if you install the extension again, your data is still available.  
-
+You can get new extensions from the marketplace at [AppSource.microsoft.com](https://appsource.microsoft.com/). Here, you can see all available extensions for Project "Madeira", and you can get apps, extensions, and content packs for other Microsoft products. Set the relevant filters, take a look at the information for each extension, and get an extension for your Project "Madeira".  
+**Note**: Sign in to [AppSource.microsoft.com](https://appsource.microsoft.com/) using the email account that you use for Project "Madeira". Use the same email account for other services and products for a smooth experience.  
+  
+You can also get to the marketplace from inside Project "Madeira". In the **Extension Management** window, you can see the extensions that are currently installed, and you can open  the **Extension Marketplace** page that shows the Project "Madeira" extensions that are currently available in AppSource. If you choose the *More apps* link, you are taken to [AppSource.microsoft.com](https://appsource.microsoft.com/).  
+  
+If you choose an extension, you can read about what the extension does, and you can access Help for the extension to learn more. When you choose to get an extension, you must agree to the terms of use. If you get the extension from the AppSource website, you will be signed in to Project "Madeira" to complete the installation.  
+  
 When you install an extension, you might have to set it up, such as specifying an account for use with the **PayPal Payments Standard for Project "Madeira"** extension. 
 Other extensions simply add fields to an existing page, or they add a new page, for example.   
+
+If you uninstall an extension, and you then change your mind, you can install it again. When you uninstall an extension that you have been using, the data is preserved so that if you install the extension again, your data is still available.  
   
-The **Extension Management** window lists all available extensions. Some extensions are provided by Microsoft, and other extensions are provided by [other companies](ui-extensions-other.md). All extensions are tested before they are made available to you, but we recommend that you access the links that are provided with each extension to learn more about the extension before you choose to install it.  
+Some extensions are provided by Microsoft, and other extensions are provided by [other companies](ui-extensions-other.md). All extensions are tested before they are made available to you, but we recommend that you access the links that are provided with each extension to learn more about the extension before you choose to install it.  
 
 Microsoft provides the following extensions:  
 - [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
