@@ -28,6 +28,9 @@ This update adds actions to the vendor dashboard in the Outlook add-in so you ca
 ### Create invoices in your Outlook calendar
 The Outlook add-in now extends to the Outlook calendar. From a calendar appointment, you can open the Project "Madeira" add-in and get an overview for the customer associated with the appointment. Then, you can create and send an invoice for the services provided in the meeting - all of this happening right there in the Outlook calendar. For more information, see [Using Project “Madeira” as your Business Inbox in Outlook](madeira-outlook.md).  
   
+### AppSource marketplace for extensions
+Project "Madeira" extensions are now available in the AppSource marketplace at [AppSource.microsoft.com](https://appsource.microsoft.com/). You will be able to search and find extensions in the marketplace. You will be able to view information, including marketing material, screenshots, videos and links to additional details. For more information, see [Customizing Project “Madeira” Using Extensions](ui-extensions.md).  
+  
 ### Shipping agents and item attributes
 You can add attributes to your inventory items that make it really easy to find the right product that your customer wants. For more information, see [How to: Work with Item Attributes](inventory-how-work-item-attributes.md).  
   
