@@ -13,7 +13,7 @@
     ms.date="07/07/2016"
     ms.author="edupont04" />
 
-# Sales Tax and Tax Groups in the US
+# Sales Tax and Tax Groups in the US and Canada
 When you first start using Project "Madeira", you can run an assisted setup guide to quickly and easily set up sales tax information for your company, customers, and vendors. In a matter of minutes, you are ready to create sales documents and purchase documents with sales tax calculated correctly. This is explained [in our blog post](https://madeira.microsoft.com/blog/sales-tax-setup-made-easy). 
 If you move to the empty My Company, we recommend that you start by using each of the assisted setup guides, including the one for sales tax. If you prefer to set up sales tax yourself, this article explains what you have to take into consideration.  
 
