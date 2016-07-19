@@ -1,6 +1,6 @@
 <properties
                 pageTitle="How to: Work with Item Attributes| Project “Madeira”"
-                description="How to: Work with Item Attributes"
+                description="Describes how to set up item attributes and assign them to items and item categories."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"
@@ -11,11 +11,13 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="07/18/2016"
     ms.author="SorenGP" />
 
 # How to: Work with Item Attributes
 When a customer inquiries about an item, either in correspondence or through a web shop, the customer may ask or search according to characteristics, such as size and color. To provide this customer service, you can assign item attribute values of different types to your items, which can then be used when searching for items.
+
+You can also assign item attributes to item categories, which are then inherited to the items that use the item categories in question. For more information, see [How to: Categorize Item](inventory-how-categorize-items.md). 
 
 ## To create an item attribute
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Item Attributes**, and then choose the related link.
@@ -28,15 +30,25 @@ When a customer inquiries about an item, either in correspondence or through a w
 1. In the **Item Attributes** window, select the item attribute that you want to assign values to, and then choose the **Item Attribute Values** action.
 2. In the **Item Attribute Values** window, fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
-
-**Note**: You can also assign item attribute values from an item attribute card. For more information, see the note in the ""To create an item attribute"" section.
+**Note**: You can also assign item attribute values from an item attribute card. For more information, see the note in the "To create an item attribute" section.
  
 ## To assign item attributes to an item
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.
 2. In the **Items** window, select the item that you want to assign item attributes to, and then choose the **Attributes** action.
-3. In the **Item Attribute Values** window, choose the AssistEdit button in the **Attribute** field, and then select an existing item attribute.
-4. In the **Value** field, choose the AssistEdit button and select an existing item attribute value. 
-5. Repeat step 3 and 4 for all item attributes that you want to assign to the item.
+3. In the **Item Attribute Values** window, choose the **New** action.
+4. Choose the AssistEdit button in the **Attribute** field and select an existing item attribute. Alternatively, choose the **New** action to first create a new item attribute as explained in the "To create an item attribute" section.
+5. In the **Value** field, choose the AssistEdit button and select an item attribute value. 
+6. Repeat steps 4 and 5 for all item attributes that you want to assign to the item.
+
+## To assign item attributes to an item category
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Item Categories**, and then choose the related link.
+2. In the **Item Categories** window, select the item category that you want to assign item attributes to, and then choose the **Edit** action.
+3. In the **Item Category Card** window, on the **Attributes** FastTab, choose the **New** action.
+4. Choose the AssistEdit button in the **Attribute** field and select an existing item attribute. Alternatively, choose the **New** action to first create a new item attribute as explained in the "To create an item attribute" section.
+5. In the **Default Value** field, choose the AssistEdit button and select an item attribute value. 
+6. Repeat steps 4 and 5 for all item attributes that you want to assign to the item category.
+
+**Note**: Item attributes for parent item categories will be inherited to child item categories. This is indicated by the **Inherited From** field on the **Attributes** FastTab. For more information, see [How to: Categorize Item](inventory-how-categorize-items.md).
 
 ## To filter by item attributes
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.
@@ -54,7 +66,8 @@ When a customer inquiries about an item, either in correspondence or through a w
 
 The items in the **Items** window are filtered by the specified item attribute values.
  
-## See Also  
+## See Also
+[How to: Categorize Item](inventory-how-categorize-items.md)    
 [How to: Register New Products](inventory-how-register-new-products.md)  
 [Manage Inventory](inventory-manage-inventory.md)  
 [Work With Project "Madeira"](ui-work-product.md)
