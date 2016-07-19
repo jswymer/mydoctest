@@ -20,7 +20,11 @@ When you have signed up for the Project "Madeira" preview, you have access to a 
 
 In the preview, you can see visual guides that explain core functionality. These guides let you try out daily tasks such as making a sales invoice and viewing a report. When you want to explore Project "Madeira" on your own, you can always go back to the Getting Started tour by launching it from the Home page.   
 
-The Home page is also where you will find the **Assisted Setup & Tasks** action. Here you see a list of assisted setup that can help you getting started. Once you have migrated data such as vendors, customers, and items from your existing financial system using the **Migrate Business Data** assisted setup you are ready to begin. But depending on your needs, consider if the other assisted setup can help you.
+## Trying things out in your own company
+You can easily change from the demonstration company to work in your own company. Go to the **My Settings** menu in the top right corner, and change the company to **My Company**. Sign out of Project "Madeira" and then sign in again to have the change take effect. An assisted setup will now automatically guide you through setting up some of the basic information in your company. When that's done, explore the Home page and find the **Assisted Setup & Tasks** action as described in the next section.
+ 
+## The Home page
+The Home page is where you will find the **Assisted Setup & Tasks** action. Here you see a list of assisted setup that can help you getting started. Once you have migrated data such as vendors, customers, and items from your existing financial system using the **Migrate Business Data** assisted setup you are ready to begin. But depending on your needs, consider if the other assisted setup can help you.
 
 In the **Assisted Setup** window, you will find the following:
 

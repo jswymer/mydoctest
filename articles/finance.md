@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="07/07/2016"
     ms.author="edupont04" />
 #Finance
 Project "Madeira" includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 
@@ -32,6 +32,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Use account schedules to get detailed insights into your financial data.|[Account Schedules](finance-account-schedule.md)|
 |Open a fiscal year.|[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)|  
 |Prepare to close a fiscal year or period.|[Close Years and Periods](year-close-years-periods.md)|
+|Canada: Set up and use GIFI codes for financial reporting. | [How to: Work With GIFI Codes in Canada](ca-work-gifi-codes.md)|
 
 
 

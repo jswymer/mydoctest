@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Sales Tax and Tax Groups in the US | Project “Madeira”"
+    pageTitle="Sales Tax and Tax Groups in the US and Canada | Project “Madeira”"
     description="Learn about how sales tax is set up, and how tax groups, tax areas, tax jurisdictions, and tax details work." 
 	services="project-madeira" 
 	documentationCenter=""
@@ -10,11 +10,11 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="06/15/2016"
+    ms.date="07/07/2016"
     ms.author="edupont04" />
 
-# Sales Tax and Tax Groups in the US
-When you first start using Project "Madeira", you can run an assisted setup guide to quickly and easily set up sales tax information for your company, customers, and vendors. In a matter of minutes, you are ready to create sales documents and purchase documents with sales tax calculated correctly. This is explained [in our blog post](https://madeira.microsoft.com/en-us/blog/sales-tax-setup-made-easy). 
+# Sales Tax and Tax Groups in the US and Canada
+When you first start using Project "Madeira", you can run an assisted setup guide to quickly and easily set up sales tax information for your company, customers, and vendors. In a matter of minutes, you are ready to create sales documents and purchase documents with sales tax calculated correctly. This is explained [in our blog post](https://madeira.microsoft.com/blog/sales-tax-setup-made-easy). 
 If you move to the empty My Company, we recommend that you start by using each of the assisted setup guides, including the one for sales tax. If you prefer to set up sales tax yourself, this article explains what you have to take into consideration.  
 
 ## Tax Groups, Tax Areas, and Tax Jurisdictions
@@ -22,9 +22,10 @@ In Project "Madeira", a tax group represents a group of inventory items or resou
   
 Each tax area is a grouping of sales tax jurisdictions based on a particular geographic location. For example, the Miami, Florida, tax area includes three sales tax jurisdictions: city (Miami), county (Dade), and state (Florida). Project "Madeira" includes a limited set of tax areas with a default configuration, but you can change them and add new tax areas.  
   
-If you set up new tax areas and tax jurisdictions, you must make sure that you fill in the fields correctly. In the United States, states, counties, cities, and localities can charge sales tax. <!--In Canada, the federal government and provinces can charge sales tax.--> Companies collect and remit sales tax to these government authorities for products sold to end users. Sales tax can also be charged to existing sales tax. For example, tax can be calculated on a sales invoice amount that already includes the tax from other jurisdictions.  
+If you set up new tax areas and tax jurisdictions, you must make sure that you fill in the fields correctly. In the United States, states, counties, cities, and localities can charge sales tax. In Canada, the federal government and provinces can charge sales tax. Companies collect and remit sales tax to these government authorities for products sold to end users. Sales tax can also be charged to existing sales tax. For example, tax can be calculated on a sales invoice amount that already includes the tax from other jurisdictions.  
 
-<!--In Canada, tax amounts must be detailed in documents for each tax jurisdiction. Up to four jurisdictions can be displayed in a document, and jurisdictions that have the same print order are combined when they are printed. -->
+In Canada, tax amounts must be detailed in documents for each tax jurisdiction. Up to four jurisdictions can be displayed in a document, and jurisdictions that have the same print order are combined when they are printed.  
+
   
 ## Tax Details
 The **Tax Details** window shows different combinations of sales tax jurisdictions and sales tax groups to establish sales tax rates. For each tax jurisdiction, we recommend that you set up one tax group for normal sales tax, another tax group for items or services that are not taxed, and an additional tax group for every type of item or service that is handled with a different sales tax rate in that jurisdiction.  
@@ -33,7 +34,7 @@ In the United States, when you sell to a customer at a location where you do not
   
 ## See Also
 [Finance](finance.md)  
-[Set Up Finance](finance-setup-finance.md)  
-<!--[Sales Tax and Goods and Services Tax in Canada](ca-finance-tax.md)-->  
-[Sales Tax setup made easy](https://madeira.microsoft.com/en-us/blog/sales-tax-setup-made-easy)  
+[Set Up Finance](finance-setup-finance.md) 
+[Sales Tax and Goods and Services Tax in Canada](ca-finance-tax.md)  
+[Sales Tax setup made easy](https://madeira.microsoft.com/blog/sales-tax-setup-made-easy)  
   

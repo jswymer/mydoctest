@@ -11,10 +11,10 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="06/24/2016"
     ms.author="edupont04" />
                 
-#Dimensions
+# Dimensions
 Dimensions are data that you add to entries to categorize them for analysis. For example, you can have dimensions that indicate which project or department an entry originates from. 
 Then you can use dimensions instead of setting up separate general ledger accounts for each department and project. This allows you to have rich analysis information in your data without having to use a complicated chart of accounts. 
 You can define an unlimited number of dimensions with an unlimited number of dimension values.  
@@ -23,7 +23,7 @@ For example, you set up a dimension called *Department*, and you use this dimens
 The more dimensions you set up and use, the more detailed reports you can base your business decisions on. For example, a single sales entry can include multiple dimension information about which account the item sale has been posted to, where the item was sold, who sold it, and what kind of customer made the purchase.  
 
 ## Using dimensions
-In a document such as a sales order, you can add dimension information for both an individual document line and the document itself. For example, in the **Sales Order** window, you can enter dimension values for the first two shortcut dimensions directly on the document, and you can add further dimension information if you choose the **Dimensions** button.  
+In a document such as a sales order, you can add dimension information for both an individual document line and the document itself. For example, in the **Sales Order** window, you can enter dimension values for the first two shortcut dimensions on the individual sales lines, and you can add further dimension information if you choose the **Dimensions** button.  
 In you work in a journal instead, you can also add dimension information to an entry in the same way, if you have set up shortcut dimensions as fields directly on journal lines.  
 You can set up default dimensions for accounts or account types, so that dimensions and dimension values are filled in automatically.  
 

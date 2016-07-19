@@ -30,9 +30,8 @@ Each of these tasks opens the **Opportunity List** window.
 ## Close opportunities
 You can close opportunities when the negotiations are over. When closing an opportunity, you can specify whether it was won or lost, and the reasons for closing it. To specify a reason, you must set up closed opportunity codes.
 
-1. In the **Opportunity List** window, select the opportunity, and the choose the **Close** action.
-
-  The **Close Opportunity** window opens.
+1. In the **Opportunity List** window, select the opportunity, and the choose the **Close** action. The **Close Opportunity** window opens.
+  
 2. Fill in the relevant fields, and then choose the **OK** button.
 
   The **Close Opportunity Code** and **Date Closed** fields are required fields and must be filled in before you can choose the **OK** button.
@@ -49,7 +48,7 @@ You can create sales quotes for contacts that are not recorded as customers.
 You can make sales orders from the sales quotes that you have created for your opportunities. Before you can create sales orders for your contacts, you must create the contact as a customer. For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
 
 1. In the **Opportunity List** window, find the opportunity that you have created a sales quote for.
-2. Choose the Assign Sales Quote actions. The **Sales Quote** window opens to show the sales quote that you have assigned to the opportunity.
+2. Choose the **Assign Sales Quote** action. The **Sales Quote** window opens to show the sales quote that you have assigned to the opportunity.
 3. Fill in the additional fields, and then choose the **Make Order** action.
 
 When handling sales opportunities, you may need to create a quote for the contact that the opportunity is linked to.
