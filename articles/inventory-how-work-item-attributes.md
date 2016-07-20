@@ -15,9 +15,9 @@
     ms.author="SorenGP" />
 
 # How to: Work with Item Attributes
-When a customer inquiries about an item, either in correspondence or through a web shop, the customer may ask or search according to characteristics, such as size and color. To provide this customer service, you can assign item attribute values of different types to your items, which can then be used when searching for items.
+When customers inquire about an item, either in correspondence or in a web shop, they may ask or search according to characteristics, such as size and color. To provide this customer service, you can assign item attribute values of different types to your items, which can then be used when searching for items.
 
-You can also assign item attributes to item categories, which are then inherited to the items that use the item categories in question. For more information, see [How to: Categorize Item](inventory-how-categorize-items.md). 
+You can also assign item attributes to item categories, which then also apply to the items that use the item categories in question. For more information, see [How to: Categorize Item](inventory-how-categorize-items.md). 
 
 ## To create an item attribute
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Item Attributes**, and then choose the related link.
