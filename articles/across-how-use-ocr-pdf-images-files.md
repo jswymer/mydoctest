@@ -42,6 +42,25 @@ Because no incoming document record exists for the file, a new record will be cr
 
 **Note**: If you work on a tablet or phone, you can send the file to the OCR service as soon as you have taken a photo of the document, or you can create an incoming document directly. For more information, see the "To create incoming document records by taking a photo" section in [How to: Create Incoming Document Records](across-how-create-income-document-records.md).
 
+## To receive the resulting electronic document from the OCR service.
+The electronic document that is created by the OCR service from the PDF or image file is automatically received into the **Incoming Documents** window by the job queue entry that is set up when you enable the OCR service.
+
+If you are not using a job queue, or you want to receive a finished OCR document sooner than per the job queue schedule, you can choose the **Receive from OCR Service** button. This will get any documents that are completed by the OCR service.
+
+**Note**: If the OCR service is set up to require manual verification of processed documents, then the **OCR Status** field will contain **Awaiting Verification**. In that case, perform the following steps to log in to the OCR service website to manually verify an OCR document.
+
+1. In the **OCR Status** field, choose the **Awaiting Verification** hyperlink. Alternatively, choose the **Awaiting Verification** tile on the Home page.
+2. On the OCR service website, log in using the credentials of your OCR service account. These are the credentials you also used when setting up the service. For more information, see the "To set up an OCR service" section in [How to: Set Up Incoming Documents](across-how-setup-income-documents.md).
+
+    If you access the website from the **OCR Status** field, the document in question is displayed immediately after your sign in. If you access the website by choosing the tile on the Home page, on the first OCR service page that opens, you must choose the **Start** button on the **Verify** tab or double-click the document that you want to verify. 
+    
+    Information for the OCR document is displayed, showing both the source content of the PDF or image file and the resulting OCR field values.
+3. Review the various field values and manually edit or enter values in fields that the OCR service has tagged as uncertain.
+4. Choose the **OK** button. The OCR process is completed and the resulting electronic document is sent to the **Incoming Documents** window in Project "Madeira",  according to the job queue schedule. 
+
+    If you access the website by choosing the tile on the Home page, then any other OCR document to be verified is automatically displayed on the website. 
+5. Repeat step 4 for any other OCR document to be verified.
+
 ## To train the OCR service to avoid errors
 Because OCR is based on optical recognition, it is likely that the OCR service will interpret characters in your PDF or image files wrongly when it first processes documents from a certain vendor, for example. It may not interpret the company logo as the vendor’s name or it may misinterpret the total amount on an expense receipt because of its layout. To avoid such errors going forward, you can correct data received by the OCR service and then send the feedback to the service.
 
