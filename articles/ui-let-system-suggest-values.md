@@ -18,7 +18,7 @@ Project "Madeira" can help you complete tasks quicker and more correctly by pref
 
 Functionality that enters field values for you is typically offered for tasks where you enter large volumes of transactional data and want to avoid errors and save time. This topic contains a selection of such functionality. More sections will be added in future updates of Project "Madeira".
 
-## **Suggest Balancing Amount** field in the **General Journal** window
+## **Suggest Balancing Amount** check box in the **General Journal Batches** window
 When, for example, you are entering general journal lines for multiple expenses that must all be posted to the same bank account, then each time you enter a new journal line for an expense, you can have the **Amount** field on the bank account line automatically updated to the amount that balances the expenses. For more information about working with general journals, see [Work With General Journals](ui-work-general-journals.md).
 
 ### To have the **Amount** field on balancing general journal lines filled automatically
