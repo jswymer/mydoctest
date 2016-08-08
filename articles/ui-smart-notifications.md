@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="08/01/2016"
+    ms.date="08/08/2016"
     ms.author="edupont04" />
 
 # Smart Notifications
@@ -19,7 +19,7 @@ Project "Madeira" can help you work smarter by notifying you when you are about 
 
 If you choose to see details for a notification, you can take action to resolve the issue, such as contacting the customer, buying more inventory, and so on. It's your choice what to do, and Project "Madeira" gives you advice and recommendations.  
 
-The subtle notifications help untrained users complete unfamiliar tasks and do not reduce productivity for the more trained user.
-
+The subtle notifications help untrained users complete unfamiliar tasks and do not reduce productivity for the more trained user.  
+  
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)

@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="08/01/2016"
+    ms.date="08/08/2016"
     ms.author="edupont04" />
 
 # What's New in Project "Madeira"
@@ -26,13 +26,14 @@ The latest update of Project "Madeira" adds new capabilities as [announced on th
 With this update, you'll notice such notifications display when you create a sales invoice for a customer that has an overdue balance, or when the amount in the sales document exceeds the credit limit specified for the customer, for example. For more information, see [Smart Notifications](ui-smart-notifications.md).  
 
 ### Introducing the new Sales and Inventory Forecast extension
-In this update, we introduce the new Sales and Inventory Forecast extension that gives you insights about potential sales and a clear overview of expected stock-outs. The extension uses Azure Machine Learning capabilities to predict future sales based on your sales history to help you avoid inventory shortage. For more information, see [Sales and Inventory Forecast](ui-extensions-sales-forecast.md).  
+In this update, we introduce the new Sales and Inventory Forecast extension that gives you insights about potential sales and a clear overview of expected stock-outs. The extension uses [Cortana Intelligence](https://www.microsoft.com/en-us/cloud-platform/what-is-cortana-intelligence-suite) to predict future sales based on your sales history to help you avoid inventory shortage. For more information, see [Sales and Inventory Forecast](ui-extensions-sales-forecast.md).  
 
-###  Package Tracking No. and Shipping Agent Code on sales invoices
-Posted sales invoices now show the package tracking number and the shipping agent code by default.  
-
-### Cross reference item numbers
-You can set up cross reference information on items for customers and vendors and then use the  reference information when your work with sales and purchase transactions. Also, you can view the cross reference information on posted transactions and Word reports.  
+###  Smarter sales and purchase documents
+We've made several small but important improvements to sales and purchase documents:
+- You can cancel posted credit memos
+- Sales invoices include Package Tracking No. and Shipping Agent Code
+- You can cross reference items
+- You can substitute items
 
 ## July 2016 Update
 The second update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-july-update).  
