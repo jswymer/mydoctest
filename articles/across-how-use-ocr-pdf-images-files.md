@@ -21,7 +21,7 @@ As an alternative to sending the file from the **Incoming Documents** window, yo
 
 After some seconds, you receive the file back from the OCR service as an electronic invoice that can be converted to a purchase invoice for the vendor. This is described in the third procedure.
 
-Because OCR is based on optical recognition, it is likely that the OCR service will interpret characters in your PDF or image files wrongly when it first processes a certain vendor’s documents, for example. It may not interpret the company logo as the vendor’s name or it may misinterpret the total amount on a receipt because of its layout. To avoid these errors going forward, you can correct the errors in a separate version of the **Incoming Document** window. Then you send the corrections back to the OCR service to train it to interpret the specific characters correctly next time it processes a PDF or image document for the same vendor. For more information, see the "To train the OCR service to avoid errors# section.
+Because OCR is based on optical recognition, it is likely that the OCR service will interpret characters in your PDF or image files wrongly when it first processes a certain vendor’s documents, for example. It may not interpret the company logo as the vendor’s name or it may misinterpret the total amount on a receipt because of its layout. To avoid these errors going forward, you can correct the errors in a separate version of the **Incoming Document** window. Then you send the corrections back to the OCR service to train it to interpret the specific characters correctly next time it processes a PDF or image document for the same vendor. For more information, see the "To train the OCR service to avoid errors" section.
 
 The traffic of files to and from the OCR service is processed by a dedicated job queue entry, which are created automatically when you enable the related service connection. For more information, see [How to: Set Up an OCR Service](across-how-setup-income-documents.md).
 
@@ -41,6 +41,52 @@ From your email application, you can send an email to the OCR service provider w
 Because no incoming document record exists for the file, a new record will be created automatically in the **Incoming Documents** window when you receive the resulting electronic document from the OCR service. For more information, see [How to: Create Incoming Document Records](across-how-create-income-document-records.md).
 
 **Note**: If you work on a tablet or phone, you can send the file to the OCR service as soon as you have taken a photo of the document, or you can create an incoming document directly. For more information, see the "To create incoming document records by taking a photo" section in [How to: Create Incoming Document Records](across-how-create-income-document-records.md).
+
+## To receive the resulting electronic document from the OCR service.
+The electronic document that is created by the OCR service from the PDF or image file is automatically received into the **Incoming Documents** window by the job queue entry that is set up when you enable the OCR service.
+
+If you are not using a job queue, or you want to receive a finished OCR document sooner than per the job queue schedule, you can choose the **Receive from OCR Service** button. This will get any documents that are completed by the OCR service.
+
+**Note**: If the OCR service is set up to require manual verification of processed documents, then the **OCR Status** field will contain **Awaiting Verification**. In that case, perform the following steps to log in to the OCR service website to manually verify an OCR document.
+
+1. In the **OCR Status** field, choose the **Awaiting Verification** hyperlink. Alternatively, choose the **Awaiting Verification** tile on the Home page.
+2. On the OCR service website, log in using the credentials of your OCR service account. These are the credentials you also used when setting up the service. For more information, see the "To set up an OCR service" section in [How to: Set Up Incoming Documents](across-how-setup-income-documents.md).
+
+    If you access the website from the **OCR Status** field, the document in question is displayed immediately after your sign in. If you access the website by choosing the tile on the Home page, on the first OCR service page that opens, you must choose the **Start** button on the **Verify** tab or double-click the document that you want to verify. 
+    
+    Information for the OCR document is displayed, showing both the source content of the PDF or image file and the resulting OCR field values.
+3. Review the various field values and manually edit or enter values in fields that the OCR service has tagged as uncertain.
+4. Choose the **OK** button. The OCR process is completed and the resulting electronic document is sent to the **Incoming Documents** window in Project "Madeira",  according to the job queue schedule. 
+
+    If you access the website by choosing the tile on the Home page, then any other OCR document to be verified is automatically displayed on the website. 
+5. Repeat step 4 for any other OCR document to be verified.
+
+Now you can proceed to create document records for the received electronic documents in Project "Madeira", manually or automatically. For more information, see the "To create a document record in Project "Madeira" from a received OCR document" section. You can also connect the new incoming document record to existing posted or non-posted document so that the source file is easy to access from Project "Madeira". For more information, see [Process Incoming Documents](across-process-income-documents.md).
+
+## To create a purchase invoice from an electronic document received from the OCR service
+The following procedure describes how to create a purchase invoice record from a vendor invoice received as an electronic document from the OCR service. The procedure is the same when you create, for example, a general journal line from an expense receipt.
+
+**Note**: The **Description** and **No.** fields on the created document lines will only be filled if you have first mapped text found on the OCR document to the two fields in Project "Madeira". You can do this either as item cross-references, for document lines of type Item, or as text-to-account mappings, for document lines of type G/L Account, For more information, see the tooltip for the **Cross References** action on item cards and related procedure [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+        
+For incoming documents, you use the **Map Text to Account** action to define that a certain invoice text on the OCR document is always mapped to a certain debit or credit account in the general ledger. Going forward, the **Description** field on document or journal lines created from an OCR document for that vendor or customer will be filled with the text in question and the (G/L account) **No.** field with the G/L account in question. Instead of mapping to a G/L account, you can also map to a bank account. This is practical, for example, for electronic documents for expenses that are already paid where you want to create a general journal line that is ready to post to a bank account.
+
+1. Select the incoming document line for the electronic vendor document received from the OCR service.
+2. To map text on the document to the vendor's account, a debit account, choose the **Map Text to Account** action, and then fill the **Text-to-Account Mapping** window with information that will apply to the vendor going forward. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+3. To map the item numbers on the document to your descriptions of the vendor's items, open the card of each item, and then choose the **Cross References** action to set up cross-references between your item descriptions and those of the vendor. 
+4. In the **Incoming Documents** window, choose the **Create Manually** action.
+
+A purchase invoice will be created Project "Madeira" based on the information in the electronic vendor document that you received from the OCR service.
+
+Any validation errors, typically related to wrong or missing master data in Project "Madeira", will be shown on the **Errors and Warnings** FastTab. For more information, see the "To handle errors when receiving electronic documents" section.
+
+## To handle errors when receiving electronic documents
+1. In the **Incoming Documents** window, select the line for an electronic document received from the OCR service with errors. This is indicated by the Error value in the **OCR Status** field.
+2. Choose the **Edit** action to open the **Incoming Document** window.
+3. On the **Errors and Warnings** FastTab, select the message, and then choose the **Open Related Record** action.
+4. The window that contains the wrong or missing data, such as a vendor card with a missing field value, opens.
+5. Correct the error or errors as described in each error message.
+6. Proceed to process the incoming electronic document by choosing the **Create Manually** action again.
+7. Repeat steps 5 and 6 for any remaining errors until the electronic document can be received successfully.
 
 ## To train the OCR service to avoid errors
 Because OCR is based on optical recognition, it is likely that the OCR service will interpret characters in your PDF or image files wrongly when it first processes documents from a certain vendor, for example. It may not interpret the company logo as the vendor’s name or it may misinterpret the total amount on an expense receipt because of its layout. To avoid such errors going forward, you can correct data received by the OCR service and then send the feedback to the service.
