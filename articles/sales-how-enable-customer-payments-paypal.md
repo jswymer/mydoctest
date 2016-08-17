@@ -37,7 +37,7 @@ The PayPal Payments Standard service is installed as an extension to Project "Ma
 
 6. Choose the **OK** button.
 
-## To select PayPal Payments Standard on a customer card
+## To select PayPal Payments Standard on a sales invoice
 1. On the Home page, choose **Sales Invoices**.
 2. Open the sales invoice that you want to enable PayPal payments for.
 3. In the **Payment Service** field, choose PayPal Payments Standard.
