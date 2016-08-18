@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="08/18/2016"
+    ms.date="05/12/2016"
     ms.author="SorenGP" />
 
 # Manage Inventory
