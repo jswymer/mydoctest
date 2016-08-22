@@ -20,9 +20,9 @@ You can offer certain items to your customers for their convenience, which you d
 - From a non-stock item card, create a new item card based on a template.
 - From a sales order line with an empty **Item** field, select a nonstock item. When you post the sale, an item card is automatically created for the nonstock item.
 
-**Note**: You cannot select a nonstock item from the **Sales Invoice** window. You can select a nonstock item for the **Sales Quote** window, but the nonstock item will not be converted to a normal item in the process.
+**Note**: You cannot select a nonstock item from the **Sales Invoice** window. You can select a nonstock item from the **Sales Quote** window, but the nonstock item will not be converted to a normal item when you use the **Make Order** function.
 
-A nonstock item typically has the item number of the vendor who supplies it. To enable conversion of a nonstock item card to a normal item card, you must first set up how this number format is converted to your own item number format.   
+A nonstock item typically has the item number of the vendor who supplies it. To enable conversion of a nonstock item card to a normal item card, you must first set up how vendor item numbering is converted to your own item numbering.   
 
 ## To create a nonstock item
 Nonstock item cards have much less information than normal item cards because you only use them to offer on quotes and in other ways. For that reason, they must be converted to normal item cards before you can post sales transactions for them.
@@ -31,25 +31,28 @@ Nonstock item cards have much less information than normal item cards because yo
 2. Choose the **New** action.
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
-## To set up how nonstock item names are converted  
-To enable conversion of a nonstock item card to a normal item card, you must first specify in the **Nonstock Item Setup** window how this number format is converted to your own item number format.
+## To set up how nonstock item numbers are converted to your own numbering  
+To enable conversion of a nonstock item card to a normal item card, you must first specify set up how the vendor item numbering is converted to your own item number format.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Nonstock Item Setup**, and then choose the related link.
-2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
+2. Fill in the fields as necessary.
 
 ## To convert a nonstock item to a normal item
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Nonstock Items**, and then choose the related link.
 2. Open the card for a nonstock item that you want to convert to a normal item.
 3. In the **Nonstock Item Card** window, choose the **Create Item** action.
+4. In the **Select a template for a new item** window, fill the fields to define what type of item card to create. For more information, see [How to: Register New Products](inventory-how-register-new-products.md). 
 
 ## To sell a nonstock item, and convert it to a normal item
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Orders**, and then choose the related link.
 2. Choose the **New** action. Fill the fields on the **General** FastTab as for any sales order. 
 3. On a new sales line, leave the **Item** field empty, choose **Line**, **Functions**, and then choose **Nonstock Items**.
 4. In the **Nonstock Items** window, select the nonstock item that you want to sell, and then choose the **OK** button.
-4. When the sales order is complete, choose the **Post** action. 
+5. When the sales order is complete, choose the **Post** action. 
 
-A new item card is created. The **Vendor Item No.** field is filled according to the setup you made in step 2 in the "To set up how nonstock item names are converte" section.
+The **Select a template for a new item** window opens, so that you can define what type of item card to create from the nonstock item card. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).
+
+**Note**: A Item cross reference record is automatically created for the vendor of the item between the vendor's item number and your new item number.
  
 ## See Also
 [How to: Register New Products](inventory-how-register-new-products.md)  
