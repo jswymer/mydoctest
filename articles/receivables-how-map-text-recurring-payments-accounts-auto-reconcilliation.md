@@ -33,8 +33,8 @@ On a payment reconciliation journal line where the payment has been set to posti
 3. Choose the **Map Text to Account** action. The **Text-to-Account Mapping** window opens.
 4. In the **Mapping Text** field, enter any text that occurs on payments that you want to post to specified accounts without applying to an open entry. You can enter up to 50 characters.
 
-    **Note**: If no other payments or incoming documents exist with the mapping text in question, then only a part of the text on the payment or incoming documents needs to exist as a mapping text for the mapping to occur.
-5. In the **Vendor No.** field, enter the vendor that incoming documents containing the mapping text will be created for, or thet payments will be posted to. For more information, see [How to: Use OCR to Turn PDF and Image Files into Electronic Documents](across-how-use-ocr-pdf-images-files.md).      
+    **Note**: If no other payments or incoming documents exist with the mapping text in question, then the text-to-account mapping will occur even when only a part of the text on the payment or incoming document exists as a mapping text.
+5. In the **Vendor No.** field, enter the vendor that incoming documents containing the mapping text will be created for, or that payments will be posted to. For more information, see [How to: Use OCR to Turn PDF and Image Files into Electronic Documents](across-how-use-ocr-pdf-images-files.md).      
 6. In the **Debit Acc. No.** field, enter the account that payments containing the mapping text will be posted to if they are incoming payments. For incoming payments, the sign of the value in the **Statement Amount** field is positive.
 7. In the **Credit Acc. No.** field, enter the account that payments containing the mapping text will be posted to if they are outgoing payments. For outgoing payments, the sign of the value in the **Statement Amount** field is negative.
 8. In the **Bal. Source Type** field, specify if the payment will be posted to a general ledger account or to a customer or vendor account.
