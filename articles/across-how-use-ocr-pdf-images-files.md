@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="08/19/2016"
     ms.author="SorenGP" />
 
 # How to: Use OCR to Turn PDF and Image Files into Electronic Documents
@@ -66,14 +66,16 @@ Now you can proceed to create document records for the received electronic docum
 ## To create a purchase invoice from an electronic document received from the OCR service
 The following procedure describes how to create a purchase invoice record from a vendor invoice received as an electronic document from the OCR service. The procedure is the same when you create, for example, a general journal line from an expense receipt.
 
-**Note**: The **Description** and **No.** fields on the created document lines will only be filled if you have first mapped text found on the OCR document to the two fields in Project "Madeira". You can do this either as item cross-references, for document lines of type Item, or as text-to-account mappings, for document lines of type G/L Account, For more information, see the tooltip for the **Cross References** action on item cards and related procedure [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+**Note**: The **Description** and **No.** fields on the created document lines will only be filled if you have first mapped text found on the OCR document to the two fields in Project "Madeira". You can do this either as item cross-references, for document lines of type Item, or as text-to-account mappings, for document or journal lines of type G/L Account. For more information, see the tooltip for the **Cross References** action on item cards and the related procedure, [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
         
-For incoming documents, you use the **Map Text to Account** action to define that a certain invoice text on the OCR document is always mapped to a certain debit or credit account in the general ledger. Going forward, the **Description** field on document or journal lines created from an OCR document for that vendor or customer will be filled with the text in question and the (G/L account) **No.** field with the G/L account in question. Instead of mapping to a G/L account, you can also map to a bank account. This is practical, for example, for electronic documents for expenses that are already paid where you want to create a general journal line that is ready to post to a bank account.
+For incoming documents, you typically use the **Map Text to Account** action to define that a certain text on a vendor invoice received from the OCR service is mapped to a certain vendor account. Going forward, any part of the incoming document description that exists as a mapping text means that the **No.** field on resulting document or journal lins of type G/L Account are filled with the vendor in question. 
+
+In additio to mapping to a vendor or other G/L account, you can also map to a bank account. This is practical, for example, for electronic documents for expenses that are already paid where you want to create a general journal line that is ready to post to a bank account.
 
 1. Select the incoming document line for the electronic vendor document received from the OCR service.
 2. To map text on the document to the vendor's account, a debit account, choose the **Map Text to Account** action, and then fill the **Text-to-Account Mapping** window with information that will apply to the vendor going forward. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 3. To map the item numbers on the document to your descriptions of the vendor's items, open the card of each item, and then choose the **Cross References** action to set up cross-references between your item descriptions and those of the vendor. 
-4. In the **Incoming Documents** window, choose the **Create Manually** action.
+4. In the **Incoming Documents** window, choose the **Create Document** action.
 
 A purchase invoice will be created Project "Madeira" based on the information in the electronic vendor document that you received from the OCR service.
 
