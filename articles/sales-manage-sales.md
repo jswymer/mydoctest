@@ -1,6 +1,6 @@
 <properties
                 pageTitle="Manage Sales| Project “Madeira”"
-                description="Manage Sales"
+                description="Describes how to manage sales activities."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"
@@ -11,11 +11,11 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="08/30/2016"
     ms.author="SorenGP" />
 
 # Manage Sales
-You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms. You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. In all other aspects, sales orders work the same way as sales invoices.
+You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms. You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use sales orders. In all other aspects, sales orders work the same way as sales invoices.
 
 Good sales and marketing practices are all about how to make the best decisions at the right time. Marketing functionality in Project "Madeira" provides precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction. For more information, see [Relationship Management](marketing-relationship-management.md).
 
@@ -37,7 +37,8 @@ The following table describes a sequence of tasks, with links to the topics that
 |---|----|
 |Create a sales quote where you offer products on negotiable terms before converting the quote to a sales invoice.|[How to: Make Offers](sales-how-make-offers.md)|
 |Create a sales invoice to record your agreement with a customer to sell products on certain delivery and payment terms.|[How to: Invoice Sales](sales-how-invoice-sales.md)|
-|Process a sales order that involves inventory handling.|[How to: Sell Products](sales-how-sell-products.md)
+|Process a sales order that involves partial shipping or drop shipment.|[How to: Sell Products](sales-how-sell-products.md)|
+|Link a sales order to a purchase order to sell a drop-shipment item that will be delivered directly from your vendor to your customer.|[How to: Make Drop Shipments](sales-how-drop-shipment.md)|
 |Perform an action on an unpaid posted sales invoice to automatically create a credit memo and either cancel the sales invoice or recreate it so you can make corrections.|[How to: Correct or Cancel Unpaid Sales Invoices](sales-how-correct-cancel-sales-invoice.md)|
 |Create a sales credit memo to revert a specific posted sales invoice to reflect which products the customer returns and which payment amount you will refund.|[How to: Process Sales Returns or Cancellations](sales-how-process-sales-returns-cancellations.md)|
 |Create a customer card for each customer that you sell to.|[How to: Register New Customers](sales-how-register-new-customers.md)|

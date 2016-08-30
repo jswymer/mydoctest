@@ -1,6 +1,6 @@
 <properties
                 pageTitle="How to: Record Purchases| Project “Madeira”"
-                description="How to: Record Purchases"
+                description="Describes how to purchase items or services by creating and posting purchase invoices or orders."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"
@@ -11,13 +11,15 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="08/22/2016"
     ms.author="SorenGP" />
 
 # How to: Record Purchases
-You create a purchase invoice to record the cost of purchases and to track accounts payable. If you need to control an inventory, purchase invoices are also used to dynamically update inventory levels so that you can minimize your inventory costs and provide better customer service. The purchasing costs, including service expenses, and inventory values that result from posting purchase invoices contribute to profit figures and other financial KPIs on your Home page.
+You create a purchase invoice or purchase order to record the cost of purchases and to track accounts payable. If you need to control an inventory, purchase invoices and purchase orders are also used to dynamically update inventory levels so that you can minimize your inventory costs and provide better customer service. The purchasing costs, including service expenses, and inventory values that result from posting purchase invoices or orders contribute to profit figures and other financial KPIs on your Home page.
 
-When you receive the inventory items, or when the purchased service is completed, you post the purchase invoice to update inventory and financial records and to activate payment to the vendor according to the payment terms. For more information, see [Make Payments](payables-make-payments.md).
+**Note**: You must use purchase orders if your purchasing process requires that you record partial receipts of an order quantity, for example, because the full quantity was not available at the vendor. If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use purchase orders. For more information, see [How to: Make Drop Shipments](sales-how-drop-shipment.md). In all other aspects, purchase orders work the same way as purchase invoices. The following procedure is based on a purchase invoice. The steps are similar for a purchase order. 
+
+When you receive the inventory items, or when the purchased service is completed, you post the purchase invoice or order to update inventory and financial records and to activate payment to the vendor according to the payment terms. For more information, see [Make Payments](payables-make-payments.md).
 
 **Caution**: Do not post a purchase invoice until you receive the products and know the final cost of the purchase, including any additional charges. Otherwise, your inventory value and profit figures may be skewed.
 
@@ -25,7 +27,7 @@ You can easily correct or cancel a posted purchase invoice before you pay the ve
 
 Products can be both inventory items and services. For more information, see [How to: Register New Products](inventory-how-register-new-products.md). The purchase invoice process is the same for both product types.
 
-**Note**: In Project "Madeira", a product is referred to with the term “item”.
+
 
 You can fill vendor fields on the purchase invoice in two ways depending on whether the vendor is already registered.
 
@@ -67,4 +69,5 @@ The purchase is now reflected in inventory and financial records, and the vendor
 [Set Up Purchasing](purchasing-setup-purchasing.md)  
 [How to: Purchase Products for a Sale](purchasing-how-purchase-products-sale.md)  
 [How to: Register New Vendors](purchasing-how-register-new-vendors.md)  
+[How to: Prepare Drop Shipments](sales-how-drop-shipment.md)  
 [Work with Project "Madeira"](ui-work-product.md)
