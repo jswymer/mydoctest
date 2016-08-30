@@ -1,6 +1,6 @@
 <properties
                 pageTitle="How to: Sell Products| Project “Madeira”"
-                description="How to: Sell Products"
+                description="Describes how to use sales orders."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"
@@ -11,13 +11,13 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="08/29/2016"
     ms.author="SorenGP" />
 
 # How to: Sell Products
 You create a sales order or sales invoice to record your agreement with a customer to sell certain products on certain delivery and payment terms.
 
-You use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. In all other aspects, sales orders work the same way as sales invoices For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md).
+You use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use sales orders. For more information, see [How to: Make Drop Shipments](sales-how-drop-shipment.md). In all other aspects, sales orders work the same way as sales invoices.
 
 You can negotiate with the customer by first creating a sales quote, which you can convert to a sales order when you agree on the sale. For more information, see [How to: Make Offers](sales-how-make-offers.md).
 
