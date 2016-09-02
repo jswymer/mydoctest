@@ -20,9 +20,6 @@ When you have signed up for the Project "Madeira" preview, you have access to a 
 
 In the preview, you can see visual guides that explain core functionality. These guides let you try out daily tasks such as making a sales invoice and viewing a report. When you want to explore Project "Madeira" on your own, you can always go back to the Getting Started tour by launching it from the Home page.   
 
-## Trying things out in your own company
-You can easily change from the demonstration company to work in your own company. Go to the **My Settings** menu in the top right corner, and change the company to **My Company**. Sign out of Project "Madeira" and then sign in again to have the change take effect. An assisted setup will now automatically guide you through setting up some of the basic information in your company. When that's done, explore the Home page and find the **Assisted Setup & Tasks** action as described in the next section.
-
 ## The Home page
 The Home page is where you will find the **Assisted Setup & Tasks** action. Here you see a list of assisted setup that can help you getting started. Once you have migrated data such as vendors, customers, and items from your existing financial system using the **Migrate Business Data** assisted setup you are ready to begin. But depending on your needs, consider if the other assisted setup can help you.
 
@@ -42,15 +39,21 @@ In the **Assisted Setup** window, you will find the following:
 
 When you have run an assisted setup, it is marked as **Completed**. To run the assisted setup, you choose the three dots also called the context menu, and then you select **Start Setup**.  
 
-Depending on the experience that you have specified in your company settings, some or all of the assisted setups will appear. 
+Depending on the experience that you have specified in your company settings, some or all of the assisted setups will appear.
 
 <!-- Project "Madeira" is related to the Dynamics NAV business management solution. As a result, some of the functionality that you can access in Project "Madeira" is limited in range, and occasionally you will be referred to Help for Dynamics NAV for more in-depth assistance. For more information, see <a href="http://go.microsoft.com/FwLink/?LinkId=31636">Microsoft Dynamics NAV</a> in the MSDN Library. -->   
 
+## Get to know Project "Madeira"
+In Project "Madeira", somethings will be familiar to you, and other things might be unfamiliar. To help you get to know Project "Madeira", we have a list of nice-to-know tricks, such as [how to find things](ui-search.md), how to [set filters](ui-enter-criteria-filters.md), or [how to sort data in lists](ui-sorting.md). For more information, see [Work with Project "Madeira"](ui-work-product.md).  
+
+## Trying things out in your own company
+You can easily change from the demonstration company to work in your own company. Go to the **My Settings** menu in the top right corner, and change the company to **My Company**. Sign out of Project "Madeira" and then sign in again to have the change take effect. An assisted setup will now automatically guide you through setting up some of the basic information in your company. When that's done, explore the Home page and find the **Assisted Setup & Tasks** action as described in the next section.  
+
 ## See Also
+[Work With Project "Madeira"](ui-work-product.md)  
 [Setup](setup.md)  
 [Finance](finance.md)  
 [Customizing Project "Madeira" Using Extensions](ui-extensions.md)  
-[Work With Project "Madeira"](ui-work-product.md)  
 [Using Project “Madeira” as your Business Inbox in Outlook](madeira-outlook.md)  
 [Get Project "Madeira" on my Mobile Device](install-mobile-app.md)  
 [Changing the Role Center](change-role.md)  
