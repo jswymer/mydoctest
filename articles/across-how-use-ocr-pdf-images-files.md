@@ -70,7 +70,7 @@ The following procedure describes how to create a purchase invoice record from a
         
 For incoming documents, you typically use the **Map Text to Account** action to define that a certain text on a vendor invoice received from the OCR service is mapped to a certain vendor account. Going forward, any part of the incoming document description that exists as a mapping text means that the **No.** field on resulting document or journal lins of type G/L Account are filled with the vendor in question. 
 
-In additio to mapping to a vendor or other G/L account, you can also map to a bank account. This is practical, for example, for electronic documents for expenses that are already paid where you want to create a general journal line that is ready to post to a bank account.
+In addition to mapping to a vendor or other G/L account, you can also map to a bank account. This is practical, for example, for electronic documents for expenses that are already paid where you want to create a general journal line that is ready to post to a bank account.
 
 1. Select the incoming document line for the electronic vendor document received from the OCR service.
 2. To map text on the document to the vendor's account, a debit account, choose the **Map Text to Account** action, and then fill the **Text-to-Account Mapping** window with information that will apply to the vendor going forward. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
