@@ -32,9 +32,9 @@ The following procedure describes how to set the **Sales - Invoice** report up t
 2. In the **Report Selection - Sales** window, in the **Usage** field, select **Invoice**.
 3. On a new line, in the **Report ID** field, select, for example, standard report 1306.
 4. Select the **Use for Email Body** check box.
-5. Choose the **Email Body Layout Code** field, and then select a layout.
+5. Choose the **Email Body Layout Code** field, and then select a layout from the drop-down list.
 
-    Report layouts define both the style and the content of the email body, including the standard text that precedes the core document information in the email body. You can see all available report layout if you choose the **Select from full list** button.
+    Report layouts define both the style and the content of the email body, including the standard text that precedes the core document information in the email body. You can see all available report layouts if you choose the **Select from full list** button in the drop-down list.
 6. To view or edit the layout that the email body is based on, select the layout in the **Custom Report Layouts** window, and then choose the **Edit Layout** action.
 7. If you want to offer customers to pay for sales electronically, you can set up the related payment service, such as PayPal, and then have the PayPal information and hyperlink inserted in the email body as well. For more information, see [How to: Enable Customer Payments Through PayPal](sales-how-enable-customer-payments-paypal.md).
 8. Choose the **OK** button.
