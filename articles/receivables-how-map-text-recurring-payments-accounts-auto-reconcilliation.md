@@ -11,11 +11,13 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="08/19/2016"
     ms.author="SorenGP" />
 
 # How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation
 In the **Text-to-Account Mapping** window, which you open from the **Payment Reconciliation Journal** window, you can set up mappings between text on payments and specific debit, credit, and balancing accounts so that such payments are posted to the specified accounts when you post the payment reconciliation journal.
+
+**Note**: The topic also applies to when you use the **Map Text to Account** function from an incoming document record to assist in converting electronic documents received from external services to documents in Project "Madeira". For more information, see [How to: Use OCR to Turn PDF and Image Files into Electronic Documents](across-how-use-ocr-pdf-images-files.md).   
 
 Similar functionality exists to reconcile excess amounts on payment reconciliation journal lines on an ad-hoc basis. For more information, see [How to: Reconcile Payments That Cannot be Applied Automatically](receivables-how-reconcile-payments-cannot-apply-auto.md).
 
@@ -30,11 +32,14 @@ On a payment reconciliation journal line where the payment has been set to posti
 2. Open a payment reconciliation journal. For more information, see [How to: Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).
 3. Choose the **Map Text to Account** action. The **Text-to-Account Mapping** window opens.
 4. In the **Mapping Text** field, enter any text that occurs on payments that you want to post to specified accounts without applying to an open entry. You can enter up to 50 characters.
-5. In the **Debit Acc. No.** field, enter the account that payments containing the mapping text will be posted to if they are incoming payments. For incoming payments, the sign of the value in the **Statement Amount** field is positive.
-6. In the **Credit Acc. No.** field, enter the account that payments containing the mapping text will be posted to if they are outgoing payments. For outgoing payments, the sign of the value in the **Statement Amount** field is negative.
-7. In the **Bal. Source Type** field, specify if the payment will be posted to a general ledger account or to a customer or vendor account.
-8. In the **Bal. Source No.** field, specify the account that the payment will be posted to, depending on your selection in the **Bal. Source Type** field.
-9. Repeat steps 4 through 8 for all text on payments that you want to map to accounts for direct posting without application.
+
+    **Note**: If no other payments or incoming documents exist with the mapping text in question, then the text-to-account mapping will occur even when only a part of the text on the payment or incoming document exists as a mapping text.
+5. In the **Vendor No.** field, enter the vendor that incoming documents containing the mapping text will be created for, or that payments will be posted to. For more information, see [How to: Use OCR to Turn PDF and Image Files into Electronic Documents](across-how-use-ocr-pdf-images-files.md).      
+6. In the **Debit Acc. No.** field, enter the account that payments containing the mapping text will be posted to if they are incoming payments. For incoming payments, the sign of the value in the **Statement Amount** field is positive.
+7. In the **Credit Acc. No.** field, enter the account that payments containing the mapping text will be posted to if they are outgoing payments. For outgoing payments, the sign of the value in the **Statement Amount** field is negative.
+8. In the **Bal. Source Type** field, specify if the payment will be posted to a general ledger account or to a customer or vendor account.
+9. In the **Bal. Source No.** field, specify the account that the payment will be posted to, depending on your selection in the **Bal. Source Type** field.
+10. Repeat steps 4 through 8 for all text on payments that you want to map to accounts for direct posting without application.
 
 Next time you import a bank statement file or choose the **Apply Automatically** action in the **Payment Reconciliation Journal** window, journal lines for the payments that contain the specified mapping text will contain the mapped accounts in the **Account Type** and **Account No.** fields. The **Match Confidence** field will contain **High - Text-to-Account Mapping**. This is on the condition that the automatic application function can only provide a match confidence of **Low** or **Medium**.
 
