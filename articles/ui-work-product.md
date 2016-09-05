@@ -10,7 +10,7 @@
 		    ms.devlang="na"
 		    ms.tgt_pltfrm="na"
 		    ms.workload="Madeira"
-		    ms.date="06/08/2016"
+		    ms.date="09/02/2016"
 		    ms.author="SusanneWindfeldPedersen" />
 
 # Work with Project "Madeira"
@@ -27,7 +27,6 @@ The following table lists some of the general functionality with links to topics
 |See which fields must be filled in.|[Mandatory Fields](ui-mandatory-fields.md)|
 |Use Search to look for a specific page or report.|[Using Search for Page or Report](ui-search.md)|
 |Learn about how to sort data.|[Sorting](ui-sorting.md)|
-|Read about how to set up reports to print in a specific way.|[Specify Printer Selection for Reports](ui-specify-printer-selection-reports.md)|
 |Modify the colored indicator on cues.|[How to: Set Up a Colored Indicator on Cues](ui-how-setup-colored-indicator-cues.md)|
 |Change how you view lists of, for example, customers, vendors, or items.|[Displaying Lists in Different Views](across-display-lists-different-views.md)|
 
