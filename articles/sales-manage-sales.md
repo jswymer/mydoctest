@@ -15,7 +15,9 @@
     ms.author="SorenGP" />
 
 # Manage Sales
-You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms. You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use sales orders. In all other aspects, sales orders work the same way as sales invoices.
+You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms. 
+
+You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use sales orders. In all other aspects, sales orders work the same way as sales invoices.
 
 Good sales and marketing practices are all about how to make the best decisions at the right time. Marketing functionality in Project "Madeira" provides precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction. For more information, see [Relationship Management](marketing-relationship-management.md).
 
