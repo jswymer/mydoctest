@@ -46,13 +46,13 @@ You can fill customer fields on the sales order in two ways depending on whether
 5. In the **Select a template for a new customer** window, choose a template to base the new customer card on, and then choose the **OK** button.
 
     A new customer card opens, prefilled with the information on the selected customer template. The **Name** field is prefilled with the new customer’s name that you entered on the sales order.
-6. Proceed to fill the remaining fields on the customer card. For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).  
+6. Proceed to fill in the remaining fields on the customer card. For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).  
 7. When you have completed the customer card, choose the **OK** button to return to the **Sales Order** window.
 
     Several fields on the sales order are now filled with information that you specified on the new customer card.
-8. Fill the remaining fields in the **Sales Order** window as necessary. Choose a field to read a short description of the field or link to more information.
+8. Fill in the remaining fields in the **Sales Order** window as necessary. Choose a field to read a short description of the field or link to more information.
 
-    You are now ready to fill the sales order lines with inventory items or services that you want to sell to the customer.
+    You are now ready to fill in the sales order lines with inventory items or services that you want to sell to the customer.
 
     If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the order by choosing the **Get Recurring Sales Lines** action.
 9. On the **Lines** FastTab, in the **Item** field, enter the number of an inventory item or service.  
