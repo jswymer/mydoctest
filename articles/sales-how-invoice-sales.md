@@ -43,13 +43,13 @@ You can fill customer fields on the sales invoice in two ways depending on wheth
 5. In the dialog box about registering the new customer, choose the **Yes** button.
 6. In the **Select a template for a new customer** window, choose a template to base the new customer card on, and then choose the **OK** button.
 7. A new customer card opens, prefilled with the information on the selected customer template. The **Name** field is prefilled with the new customer’s name that you entered on the sales invoice.
-8. Proceed to fill the remaining fields on the customer card. For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).  
+8. Proceed to fill in the remaining fields on the customer card. For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).  
 9. When you have completed the customer card, choose the **OK** button to return to the **Sales Invoice** window.
 
     Several fields on the sales invoice are now filled with information that you specified on the new customer card.
-10. Fill the remaining fields in the **Sales Invoice** window as necessary. Choose a field to read a short description of the field or link to more information.
+10. Fill in the remaining fields in the **Sales Invoice** window as necessary. Choose a field to read a short description of the field or link to more information.
 
-    You are now ready to fill the sales invoice lines with inventory items or services that you want to sell to the customer.
+    You are now ready to fill in the sales invoice lines with inventory items or services that you want to sell to the customer.
 
     If you have set up recurring sales lines for the customer, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Sales Lines** action.
 11. On the **Lines** FastTab, in the **Item** field, enter the number of an inventory item or service.  

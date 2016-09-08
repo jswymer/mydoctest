@@ -73,7 +73,7 @@ For incoming documents, you typically use the **Map Text to Account** action to 
 In addition to mapping to a vendor or other G/L account, you can also map to a bank account. This is practical, for example, for electronic documents for expenses that are already paid where you want to create a general journal line that is ready to post to a bank account.
 
 1. Select the incoming document line for the electronic vendor document received from the OCR service.
-2. To map text on the document to the vendor's account, a debit account, choose the **Map Text to Account** action, and then fill the **Text-to-Account Mapping** window with information that will apply to the vendor going forward. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+2. To map text on the document to the vendor's account, a debit account, choose the **Map Text to Account** action, and then fill in the **Text-to-Account Mapping** window with information that will apply to the vendor going forward. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 3. To map the item numbers on the document to your descriptions of the vendor's items, open the card of each item, and then choose the **Cross References** action to set up cross-references between your item descriptions and those of the vendor. 
 4. In the **Incoming Documents** window, choose the **Create Document** action.
 

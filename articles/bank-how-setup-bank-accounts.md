@@ -19,7 +19,7 @@ You use bank accounts in the Project "Madeira" to keep track of your banking tra
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
 2. In the **Bank Accounts** window, choose the **New** action.
-3. Fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
+3. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
 **Note**: Fields on the **Transfer** FastTab are related to import/export of bank feeds and files. For more information, see [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md) and [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).
 

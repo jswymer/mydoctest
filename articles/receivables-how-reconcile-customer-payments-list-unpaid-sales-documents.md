@@ -27,7 +27,7 @@ Payments for different customers that have different payment dates must be poste
 Because you can post different payment types to different balancing accounts, you must select a balancing account in the **Payment Registration Setup** window before you start processing customer payments. If you always post to the same balancing account, you can set that account as the default and avoid this step every time that you open the **Payment Registration** window.
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration Setup**, and then choose the related link.
   Alternatively, in the **Payment Registration** window, choose the **Setup** action.
-2. Fill the fields in the **Payment Registration Setup** window. Choose a field to read a short description of the field or link to related information.  
+2. Fill in the fields in the **Payment Registration Setup** window. Choose a field to read a short description of the field or link to related information.  
 
 ## To reconcile payments individually
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
@@ -162,7 +162,7 @@ Proceed to record an undocumented payment.
 2. Choose the **General Journal** action.
 
     The **General Journal** window opens with one line prefilled with the balancing account of the journal batch that is set up in the **Payment Registration Setup** window.
-3. Fill the remaining fields on the general journal line, such as the amount and the customer number or other information from the bank statement. For more information, see [How to: Work With General Journals](ui-work-general-journals.md).
+3. Fill in the remaining fields on the general journal line, such as the amount and the customer number or other information from the bank statement. For more information, see [How to: Work With General Journals](ui-work-general-journals.md).
 
 You can either post the journal line to update the total on the balancing account. Alternatively, you can leave the journal line unposted, and perhaps append it with a note that the payment needs more analysis.
 
