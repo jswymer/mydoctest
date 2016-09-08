@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="Madeira"
-    ms.date="06/08/2016"
+    ms.date="09/08/2016"
     ms.author="SusanneWindfeldPedersen" />
     
 # Displaying Lists in Different Views
