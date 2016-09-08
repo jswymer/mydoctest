@@ -10,20 +10,21 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/02/2016"
+    ms.date="09/08/2016"
     ms.author="edupont04" />
 
 # Build, showcase, and promote your Project "Madeira" extensions
-Build specialized and targeted extensions for Project “Madeira” customers by using Microsoft Dynamics NAV development tools. Share and promote your extensions on the [Microsoft AppSource](https://appsource.microsoft.com/) marketplace, the premier destination to market and distribute solutions for Project “Madeira” (now known as Microsoft Dynamics 365 for Financials), We look forward to hearing from you!  
+Build specialized and targeted extensions for Project “Madeira” customers by using Microsoft Dynamics NAV development tools. Share and promote your extensions on the [Microsoft AppSource](https://appsource.microsoft.com/) marketplace, the premier destination to market and distribute solutions for Project “Madeira” (soon to be known as Microsoft Dynamics 365 for Financials), We look forward to hearing from you!  
 
 ## Get onboard
 - Try the Project "Madeira" Preview [here:](https://madeira.microsoft.com)  
-- Complete walkthrough and wizards, try the service for yourself  
-- Give us your feedback: [https://ideas.projectmadeira.com](https://ideas.projectmadeira.com)  
+- Complete walkthrough and wizards, get familiar with the service  
+- Give us your [feedback](https://ideas.projectmadeira.com)  
 
 ## Get activated
-- Contact us and join the Dynamics 365 Partner Ascent program: D365ascent@ microsoft.com  
+- Let us know if you're interested in becoming a Dynamics 365 for Financials partner by contacting us at [D365FinPartner@ microsoft.com](mailto:D365FinPartner@microsoft.com)  
 - We will guide you on the steps to become a Dynamics developer  
+- View upcoming deep dive training material  
 
 ## Get ready to deploy
 - Begin building your first Project “Madeira” apps  
