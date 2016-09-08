@@ -31,7 +31,7 @@ For information about how to set up a personal general journal batch, for exampl
 ## **Automatically Fill Date Received** field in the **Payment Registration** window
 The **Payment Registration** window shows outstanding incoming payments as lines that represent sales documents where an amount is due for payment. For more information about applying customer payments, see [How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md).
 
-You main actions in the window are to fill the **Payment Made** check box and the **Date Received** field. You can set Project "Madeira" up to automatically enter work date in the **Date Received** field when you select the **Payment Made** check box. 
+You main actions in the window are to fill in the **Payment Made** check box and the **Date Received** field. You can set Project "Madeira" up to automatically enter work date in the **Date Received** field when you select the **Payment Made** check box. 
 
 ### To have the **Date Received** field in the **Payment Registration** window filled automatically
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration Setup**, and then choose the related link.

@@ -39,7 +39,7 @@ For each journal line in the **Payment Reconciliation Journal** window, you can 
 3. In the **Payment Bank Account List** window, select the bank account that you want to reconcile payments for, and then choose the **OK** button.
 The **Payment Reconciliation Journal** window opens prepared for the selected bank account.
 4. Choose the **Import Bank Transactions** action.
-If the bank account for the selected journal is not set up for import of bank transactions, then a dialog box will open to help you fill the relevant fields.
+If the bank account for the selected journal is not set up for import of bank transactions, then a dialog box will open to help you fill in the relevant fields.
 5. In the **Select a file to import** window, select the file that contains the bank transactions for payments that you want to reconcile, and then choose the **Open** button.  
 6. If the Bank Statement service is enabled, in the **Bank Statement Filter** window that opens automatically, specify the date interval for the bank statements to be imported.
 

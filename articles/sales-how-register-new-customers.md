@@ -42,7 +42,7 @@ If you want to use this customer card as a template when you create new customer
 
 ## To save the customer card as a template
 1. In the **Customer Card** window, choose the **Save as Template** action. The **Customer Template** window opens showing the customer card as a template.
-2. Fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
+2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 3. To reuse dimensions in templates, choose the **Dimensions** action. The **Dimension Templates** window opens showing any dimension codes that are set up for the customer.
 4. Edit or enter dimension codes that will apply to new customer cards created by using the template.  
 5. When you have completed the new customer template, choose the **OK** button.
