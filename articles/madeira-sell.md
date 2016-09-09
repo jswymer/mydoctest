@@ -14,29 +14,27 @@
     ms.author="edupont04" />
 
 # Become a Reseller of Project "Madeira"
-Become a [Microsoft Cloud Solution Provider](https://partner.microsoft.com/en-ca/cloud-solution-provider) (CSP) and reseller of Project “Madeira”, soon to be known as Microsoft Dynamics 365 for Financials. Here are some simple steps to get ready for the 2016 Q4 launch of Dynamics 365 for Financials. We look forward to hearing from you!  
+Become a reseller of Project “Madeira” by following a few simple steps. We look forward to hearing from you!  
 
 ## Get onboard
-- Try the Project "Madeira" Preview [here:](https://madeira.microsoft.com)  
+- Try the Project "Madeira" Preview at [https://madeira.microsoft.com](https://madeira.microsoft.com)  
 - Complete walkthrough and wizards, get familiar with the service  
-- Give us your [feedback](https://ideas.projectmadeira.com)  
+- Give us your feedback at [https://ideas.projectmadeira.com](https://ideas.projectmadeira.com)  
 
 ## Get activated
-- Let us know if you're interested in becoming a Dynamics 365 for Financials partner by contacting us at [D365FinPartner@ microsoft.com](mailto:D365FinPartner@microsoft.com)  
-- Become a [Microsoft Cloud Solution Provider]((https://partner.microsoft.com/en-ca/cloud-solution-provider)) (CSP)  
-- View Dynamics 365 reseller videos and deep dives (coming soon!)  
-- Guide 3 potential customers through the Project “Madeira” experience  
+- Let us know if you're interested in becoming a Project "Madeira" partner by contacting us at [SMBVARinfo@microsoft.com](mailto:SMBVARinfo@microsoft.com)  
+- Become a Microsoft Cloud Solution Provider (CSP)  
+- Guide 3 prospects through the Project “Madeira” experience  
 
 ## Get ready to deploy
-- Set up customers in Project “Madeira” and Office 365  
-- Migrate customer data to Project “Madeira” (there are apps in the [AppSource marketplace](https://appsource.microsoft.com/en-us/?product=project-madeira) to help with that)  
-- Help the customers test Project “Madeira” in their trial environment and resolve any issues  
-- Deploy customers via CSP  
-- Help support customers  
+- Set up your prospects in Project “Madeira” and Office 365  
+- Migrate their data to Project “Madeira” (there are apps in the [AppSource marketplace](https://appsource.microsoft.com/en-us/?product=project-madeira) to help with that)  
+- Help your prospects try out Project “Madeira” and resolve any issues  
 
 ## Get started now!
-The Project “Madeira” preview should have everything you need to proceed with the Get onboard and Get activated steps (except new video and training content that is coming soon). We will share deployment guidance as soon as possible in 2016 Q4. In the meantime, we look forward to hearing from you at [D365FinPartner@ microsoft.com](mailto:D365FinPartner@microsoft.com).  
+The Project “Madeira” preview should have everything you need to proceed with the Get onboard and Get activated steps. Stay tuned for updates in the coming months. In the meantime, we look forward to hearing from you at [SMBVARinfo@microsoft.com](mailto:SMBVARinfo@microsoft.com).  
 
 ## See Also  
 [Welcome to Project "Madeira"](madeira-get-started.md)  
 [Import Data from Other Finance Systems](upload-data.md)  
+[https://appsource.microsoft.com](https://appsource.microsoft.com/en-us/?product=project-madeira)  

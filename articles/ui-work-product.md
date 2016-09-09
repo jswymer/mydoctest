@@ -29,6 +29,8 @@ The following table lists some of the general functionality with links to topics
 |Learn about how to sort data.|[Sorting](ui-sorting.md)|
 |Modify the colored indicator on cues.|[How to: Set Up a Colored Indicator on Cues](ui-how-setup-colored-indicator-cues.md)|
 |Change how you view lists of, for example, customers, vendors, or items.|[Displaying Lists in Different Views](across-display-lists-different-views.md)|
+|Track changes that are made to data.|[Log Changes in Project "Madeira"](across-log-changes.md)|
+
 
 ## See Also
 [Across Business Areas](ui-across-business-areas.md)

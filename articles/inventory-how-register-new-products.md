@@ -43,7 +43,7 @@ If you want to use this item card as a template when you create new item cards, 
 
 ## To save the item card as a template
 1. In the **Item Card** window, choose the **Save as Template** action. The **Item Template** window opens showing the item card as a template.
-2. Fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
+2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 3. To reuse dimensions in templates, choose the **Dimensions** action. The **Dimension Templates** window opens showing any dimension codes that are set up for the item.
 4. Edit or enter dimension codes that will apply to new item cards created by using the template.
 5. When you have completed the new item template, choose the **OK** button.
