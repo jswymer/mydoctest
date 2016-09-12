@@ -101,4 +101,6 @@ Every hour, the **Payment Reconciliation Journal** window will now be filled wit
 
 ## See Also  
 [Set Up Banking](bank-setup-banking.md)  
-[Manage Bank Accounts](bank-manage-bank-accounts.md)
+[Manage Bank Accounts](bank-manage-bank-accounts.md)  
+[Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md)  
+[Customizing Project "Madeira" Using Extensions ](ui-extensions.md)
