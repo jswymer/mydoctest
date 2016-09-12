@@ -19,6 +19,24 @@ Sign up for the preview, let us walk you through the basics of what you can do w
 
 On a regular basis, we will update Project "Madeira" with additional capabilities in the core application and with new [extensions](ui-extensions.md).
 
+## September 2016 Update
+The latest update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-september-update).
+
+### More flexibility in your sales processes
+This update adds more flexibility in what you sell:
+- You can now set up nonstock items - items that you offer to customers but do not maintain inventory for. For more information, see [How to: Work with Nonstock Items](inventory-how-work-nonstock-items.md).
+- You can now mark an item for drop shipment on a sales order and immediately create a purchase order for the item. This way, you can sell an item to a customer, purchase it from the vendor, and have it shipped directly from your vendor to your customer. For more information, see [How to: Purchase Products for a Sale](purchasing-how-purchase-products-sale.md).
+- Smoother synchronization of price lists, assembly items, and bill-of-material items with Microsoft Dynamics CRM. For more information, see [Manage your customer relationships using Microsoft Dynamics CRM from inside Project "Madeira"](marketing-integrate-dynamicscrm.md).
+
+### Categorize items in your inventory
+With this update, you can create a hierarchy of item categories and assign item attributes to each item category. For more information, see [How to: Categorize Items](inventory-how-categorize-items.md).
+
+### Send purchase orders to vendors
+Now you can enter purchase orders within Project "Madeira". For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md).
+
+### Better quality incoming documents
+You can now easily correct errors in the scanned documents before you receive the resulting document - this way, you'll train the service to avoid the errors going forward. For more information, see [How to: Use OCR to Turn PDF and Image Files into Electronic Document](across-how-use-ocr-pdf-images-files.md).
+
 ## August 2016 Update
 The latest update of Project "Madeira" adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-august-update).
 
