@@ -23,7 +23,7 @@ After some seconds, you receive the file back from the OCR service as an electro
 
 Because OCR is based on optical recognition, it is likely that the OCR service will interpret characters in your PDF or image files wrongly when it first processes a certain vendor’s documents, for example. It may not interpret the company logo as the vendor’s name or it may misinterpret the total amount on a receipt because of its layout. To avoid these errors going forward, you can correct the errors in a separate version of the **Incoming Document** window. Then you send the corrections back to the OCR service to train it to interpret the specific characters correctly next time it processes a PDF or image document for the same vendor. For more information, see the "To train the OCR service to avoid errors" section.
 
-The traffic of files to and from the OCR service is processed by a dedicated job queue entry, which are created automatically when you enable the related service connection. For more information, see [How to: Set Up an OCR Service](across-how-setup-income-documents.md).
+The traffic of files to and from the OCR service is processed by a dedicated job queue entry, which are created automatically when you enable the related service connection. For more information, see [How to: Set Up Incoming Documents](across-how-setup-income-documents.md).
 
 ## To send a PDF or image file to the OCR service from the **Incoming Documents** window
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Incoming Documents**, and then choose the related link.
@@ -73,7 +73,7 @@ For incoming documents, you typically use the **Map Text to Account** action to 
 In addition to mapping to a vendor or other G/L account, you can also map to a bank account. This is practical, for example, for electronic documents for expenses that are already paid where you want to create a general journal line that is ready to post to a bank account.
 
 1. Select the incoming document line for the electronic vendor document received from the OCR service.
-2. To map text on the document to the vendor's account, a debit account, choose the **Map Text to Account** action, and then fill the **Text-to-Account Mapping** window with information that will apply to the vendor going forward. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+2. To map text on the document to the vendor's account, a debit account, choose the **Map Text to Account** action, and then fill in the **Text-to-Account Mapping** window with information that will apply to the vendor going forward. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 3. To map the item numbers on the document to your descriptions of the vendor's items, open the card of each item, and then choose the **Cross References** action to set up cross-references between your item descriptions and those of the vendor. 
 4. In the **Incoming Documents** window, choose the **Create Document** action.
 

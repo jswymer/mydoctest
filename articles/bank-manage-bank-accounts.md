@@ -15,7 +15,7 @@
     ms.author="SorenGP" />
 
 # Manage Bank Accounts
-At regular intervals, you must reconcile your bank ledger entries in Project "Madeira" with the related bank transactions in bank accounts at your bank, and then post the balance to your bank account. You can perform this task either as part of processing the payments represented on a bank statement in the **Payment Reconciliation Journal**. Alternatively, you can perform the task separately from payment processing, in the **Bank Acc. Reconciliation** window, which supports check ledger entries. In both cases, you fill the windows by importing the bank statement into Project "Madeira".
+At regular intervals, you must reconcile your bank ledger entries in Project "Madeira" with the related bank transactions in bank accounts at your bank, and then post the balance to your bank account. You can perform this task either as part of processing the payments represented on a bank statement in the **Payment Reconciliation Journal**. Alternatively, you can perform the task separately from payment processing, in the **Bank Acc. Reconciliation** window, which supports check ledger entries. In both cases, you fill in the windows by importing the bank statement into Project "Madeira".
 
 Sometimes, you need to transfer amounts between bank account in Project "Madeira" to reflect transfers at your bank. You perform this task in the **General Journal** window, in different ways depending on the currency of the funds.
 

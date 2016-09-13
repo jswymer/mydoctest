@@ -23,7 +23,7 @@ Your printer must be correctly set up with the check forms, and you must define 
 
 ## To issue checks
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Journals**, and then choose the related link.
-2. Fill the journal with relevant payments, for example by using the Suggest Vendor Payments function. For more information, see [How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md).
+2. Fill in the journal with relevant payments, for example by using the Suggest Vendor Payments function. For more information, see [How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md).
 3. In the **Bank Payment Type** field on journal lines for payment that you want to make with checks, select one of the following options:
 
  - **Computer Check**: Select this option if you want to print a check for the amount on the payment journal line. You must print the checks before you can post the journal lines. You can only select **Computer Check** if the **Bal. Account Type** or the **Account Type** is **Bank Account**.
@@ -32,7 +32,7 @@ Your printer must be correctly set up with the check forms, and you must define 
 
     **Note**: You must print computer checks before you post the related journal lines.
 4. In case of computer checks, choose **Print Check**.
-5. In the **Check** window, fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
+5. In the **Check** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 6. Choose the **Print** button.
 
 **Note**: If you want to print checks in more than one currency from different bank accounts, you must run the **Print Check** batch job separately for each currency and specify the appropriate bank account.

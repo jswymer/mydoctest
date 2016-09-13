@@ -40,7 +40,7 @@ When approvers have been set up in the **Incoming Document Approvers** window, o
 
 ## To set up an OCR service
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **OCR Service Setup**, and then choose the related link.
-2. Fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
+2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
 
 ## To encrypt your login information

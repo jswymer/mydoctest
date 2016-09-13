@@ -40,13 +40,13 @@ You can fill vendor fields on the purchase invoice in two ways depending on whet
 4. In the dialog box about registering the new vendor, choose the **Yes** button.
 5. In the **Select a template for a new vendor** window, choose a template to base the new vendor card on, and then choose the **OK** button.
 6. A new vendor card opens, prefilled with the information on the selected vendor template. The **Name** field is prefilled with the new vendor’s name that you entered on the purchase invoice.
-7. Proceed to fill the remaining fields on the vendor card. For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).  
+7. Proceed to fill in the remaining fields on the vendor card. For more information, see [How to: Register New Vendors](purchasing-how-register-new-vendors.md).  
 8. When you have completed the vendor card, choose the **OK** button to return to the **Purchase Invoice** window.
 
     Several fields in the **Purchase Invoice** window are filled with information that you specified on the new vendor card.
-9. Fill the remaining fields in the **Purchase Invoice** window as necessary. Choose a field to read a short description of the field or link to more information.
+9. Fill in the remaining fields in the **Purchase Invoice** window as necessary. Choose a field to read a short description of the field or link to more information.
 
-    You are now ready to fill the purchase invoice lines with inventory items or services that you have purchased from the vendor.
+    You are now ready to fill in the purchase invoice lines with inventory items or services that you have purchased from the vendor.
 
     **Note**: If you have set up recurring purchase lines for the vendor, such as a monthly replenishment order, then you can insert these lines on the invoice by choosing the **Get Recurring Purchase Lines** action.
 10. On the **Lines** FastTab, in the **Item No.** field, enter the number of an inventory item or service.

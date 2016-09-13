@@ -10,32 +10,20 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/02/2016"
+    ms.date="09/12/2016"
     ms.author="edupont04" />
 
 # Become a Reseller of Project "Madeira"
-Become a Microsoft Cloud Solution Provider (CSP) and reseller of Project “Madeira”, now known as Microsoft Dynamics 365 for Financials.  Here are some simple steps to get ready for the 2016 Q4 launch of Dynamics 365 for Financials.  We look forward to hearing from you!  
+Do you specialize in Cloud solutions, Office 365, SharePoint, industry solutions, analytics, ERP, CRM, accounting software, and/or business process optimization software/services? Expand your business opportunity with Project “Madeira”.  
 
-## Get onboard
-- Try the Project "Madeira" Preview [here:](https://madeira.microsoft.com)  
-- Complete walkthrough and wizards, try the service for yourself  
-- Give us your feedback: [https://ideas.projectmadeira.com](https://ideas.projectmadeira.com)  
+Project “Madeira” can help you differentiate and deepen customer relationships by providing the capability to deliver an end-to-end business management solution that’s connecting people and processes like never before, embedded within familiar Microsoft Office tools that small and medium businesses use every day.  
 
-## Get activated
-- Contact us and join the Dynamics 365 Partner Ascent program: D365ascent@ microsoft.com  
-- Become a Microsoft Cloud Solution Provider (CSP)  
-- Complete Dynamics 365 reseller deep dives
-- Guide 3 potential customers through the Project “Madeira” experience  
-
-## Get ready to deploy
-- Set up customers in Project “Madeira”
-- Migrate customer data
-- Test trial, user training
-- Deploy customer via CSP
-- Active support
-
-## Dynamics 365 Partner Ascent
-Dynamics 365 Partner Ascent is a program to help new partners get detailed training on Dynamics 365 for Financials. Topics will include CSP, solution selling and technical readiness.
+## Get started
+- Sign up for the Project "Madeira" Preview at [https://madeira.microsoft.com](https://madeira.microsoft.com)  
+- Send feedback at [https://ideas.projectmadeira.com](https://ideas.projectmadeira.com)  
+- If you're interested in learning more about becoming a Project "Madeira" reseller, contact us at [dyn-smb@microsoft.com](mailto:dyn-smb@microsoft.com)  
 
 ## See Also  
 [Welcome to Project "Madeira"](madeira-get-started.md)  
+[Import Data from Other Finance Systems](upload-data.md)  
+[https://appsource.microsoft.com](https://appsource.microsoft.com/en-us/?product=project-madeira)  

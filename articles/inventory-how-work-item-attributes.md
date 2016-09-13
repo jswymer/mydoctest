@@ -22,14 +22,14 @@ You can also assign item attributes to item categories, which then apply to the 
 ## To create item attributes
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Item Attributes**, and then choose the related link.
 2. In the **Item Attributes** window, choose the **New** action.
-3. In the **Item Attribute** window, fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
+3. In the **Item Attribute** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
 **Note**: If you select **Option** in the **Type** field, then you can choose the **Item Attribute Values** action to create values for the item attribute. For more information, see the "To create values for item attributes of type Option" section.  
 
 ## To create values for item attributes of type Option
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Item Attributes**, and then choose the related link. 
 2. In the **Item Attributes** window, select an item attribute of type Option that you want to create values for, and then choose the **Item Attribute Values** action.
-3. In the **Item Attribute Values** window, fill the fields as necessary. Choose a field to read a short description of the field or link to more information.
+3. In the **Item Attribute Values** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
  
 ## To assign item attributes to items
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.
@@ -61,7 +61,7 @@ You can also assign item attributes to item categories, which then apply to the 
 6. In the **Specify Filter Value** window, in the **Condition** field, choose the drop-down arrow and select a condition.
 7. In the **Value** field, enter an attribute value to filter items by.
 
-    **Example**: To filter on items where the material description begins with "blue", fill the fields as follows: **Attribute** field: Material Description, **Condition** field: Begins With, **Value** field: blue.
+    **Example**: To filter on items where the material description begins with "blue", fill in the fields as follows: **Attribute** field: Material Description, **Condition** field: Begins With, **Value** field: blue.
 8. Choose the **OK** button.   
 
 The items in the **Items** window are filtered by the specified item attribute values.

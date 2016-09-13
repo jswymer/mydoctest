@@ -15,7 +15,7 @@
     ms.author="SorenGP" />
 
 # How to: Reconcile Bank Accounts Separately
-To reconcile bank accounts in Project "Madeira" with statements received from the bank, you must fill the lines in the **Bank Acc. Reconciliation** window.
+To reconcile bank accounts in Project "Madeira" with statements received from the bank, you must fill in the lines in the **Bank Acc. Reconciliation** window.
 
 **Note**: You can also reconcile bank accounts in the **Payment Reconciliation Journal** window. Any open bank account ledger entries related to the applied customer or vendor ledger entries will be closed when you choose the **Post Payments and Reconcile Bank Account** action. This means that the bank account is automatically reconciled for payments that you post with the journal. For more information, see [How to: Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).
 
@@ -25,10 +25,10 @@ The lines in the **Bank Acc. Reconciliation** window are divided into two panes.
 
 The activity of finding and applying entries to be reconciled is referred to as *matching*. You can choose to perform matching automatically by using the **Match Automatically** function. Alternatively, you can manually select lines in both panes to link each bank statement line to one or more related bank account ledger entries, and then use the **Match Manually** function. The **Applied** checkbox is selected on lines where entries match.
 
-You can fill the **Bank Statement Lines** pane in the **Bank Acc. Reconciliation** window in the following ways:
+You can fill in the **Bank Statement Lines** pane in the **Bank Acc. Reconciliation** window in the following ways:
 
-* Automatically, by using the **Import Bank Statement** function to fill the lines according to actual bank statements based on a file provided by the bank.
-* Manually, by using the **Suggest Lines** function to fill the lines with ledger entries for invoices that have outstanding payments.
+* Automatically, by using the **Import Bank Statement** function to fill in the lines according to actual bank statements based on a file provided by the bank.
+* Manually, by using the **Suggest Lines** function to fill in the lines with ledger entries for invoices that have outstanding payments.
 
 When the value in the **Total Balance** field in the **Bank Statement Lines** pane equals the value in the **Balance To Reconcile** field in the **Bank Account Ledger Entries** pane, you can choose the **Post** action to reconcile the applied bank account ledger entries. Any non-applied bank account ledger entries will remain in the window, indicating that payments processed for the bank account are not reflected in the latest bank statement, or that some payments were received on checks.
 
