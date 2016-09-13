@@ -1,6 +1,6 @@
 <properties
 	pageTitle="Specify Printer Selection for Reports | Project “Madeira”"
-        description="Specify printer selection for reports."
+        description="Specifying printers for reports."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"/>
@@ -10,10 +10,17 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="09/06/2016"
     ms.author="SusanneWindfeldPedersen" />
 
+
 # Specify Printer Selection for Reports
+This page is empty because you cannot yet set up specific printers for specific reports. We are working on solving this. 
+
+In the meantime, when you want to print a report you have to download the report as a PDF document first by choosing the **Send to** button. Then you select the type of file to download the report as, and here you should pick **PDF Document**. Now, you can either open the PDF document right-away and print it, or save it and print it later.
+
+<!--
+
 You can set up reports so that they must be printed on a specific printer. The following are some uses of printer selection:
 
 - You can print reports on special company letterhead.
@@ -31,6 +38,9 @@ The following table describes the combination of values to specify when you set 
 |Set the default printer for all reports|Specify a value in the **Printer Name** field and leave the **User ID** and **Report ID** fields blank.|
 |Print a specific report to the user’s default printer|Specify a value in the **Report ID** field and leave the **Printer Name** and **User ID** fields blank.|
 |Print a specific report to a specific printer for a specific user|Specify values in all three fields.|
+-->
 
 ## See Also
-[Work with Project "Madeira"](ui-work-product.md)
+[Work with Project "Madeira"](ui-work-product.md)  
+[How to: Run Batch Jobs](ui-how-run-batch-jobs.md)  
+[How to: Send Documents by Email](ui-how-send-documents-email.md)  
