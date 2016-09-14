@@ -55,4 +55,7 @@ To always post fuel expenses incurred at Shell gas stations to the general ledge
 
 ## See Also
 [Manage Receivables](receivables-manage-receivables.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)  
+[Customizing Project “Madeira” Using Extensions](ui-extensions.md)
+

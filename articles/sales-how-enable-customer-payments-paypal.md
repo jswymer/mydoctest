@@ -46,4 +46,5 @@ The PayPal Payments Standard service is installed as an extension to Project "Ma
 
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Customizing Project “Madeira” Using Extensions](ui-extensions.md)
