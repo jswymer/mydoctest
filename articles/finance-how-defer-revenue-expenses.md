@@ -24,7 +24,7 @@ To distribute revenues or expenses on the involved accounting periods, you set u
 3. Fill in the fields as necessary to create a G/L account for deferred revenues. For more information, see [The General Ledger and the Chart of Accounts](finance-general-ledger.md).
 3. Repeat steps 2 and 3 to create a new G/L account for deferred expenses.
 
-For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as Unearned Income for deferred revenues and Unpaid Expenses for deferred expenses. 
+For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as "Unearned Income" for deferred revenues and "Unpaid Expenses" for deferred expenses. 
 
 ## To set up a deferral template
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.
@@ -57,6 +57,7 @@ Example: The posting date is 02/06/2016. If you enter “Expenses deferred for %
 2. Create a sales invoice for an item that has a deferral template assigned. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md).
 
     Notice that as soon as you enter the item (or resource or G/L account) on the invoice line, the **Deferral Code** field is filled with the code of the assigned deferral template.
+    
 3. Choose the **Deferral Schedule** action.
 4. In the **Deferral Schedule** window, change settings on the header or values on the lines, for example to defer the amount to an additional accounting period.
 5. Choose the **Calculate Schedule** action.
