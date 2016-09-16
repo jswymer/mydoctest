@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/11/2016"
+    ms.date="09/16/2016"
     ms.author="SorenGP" />
     
 # How to: Import Payroll Transactions 
