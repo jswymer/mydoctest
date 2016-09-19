@@ -10,13 +10,15 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/15/2016"
+    ms.date="09/19/2016"
     ms.author="edupont04" />
 
 # Become a Reseller of Project "Madeira"
-Do you specialize in Cloud solutions, Office 365, SharePoint, industry solutions, analytics, ERP, CRM, accounting software, and/or business process optimization software/services? Expand your business opportunity with Project “Madeira”.  
+Expand your business opportunity with Project "Madeira"!  
 
-Project “Madeira” can help you differentiate and deepen customer relationships by providing the capability to deliver an end-to-end business management solution that’s connecting people and processes like never before, embedded within familiar Microsoft Office tools that small and medium businesses use every day.  
+If you specialize in Cloud solutions, Office 365, SharePoint, industry solutions, analytics, ERP, CRM, accounting software, and/or business process optimization software/services, Project "Madeira" is a new opportunity.   
+
+Project "Madeira" can help you differentiate and deepen customer relationships by giving you the capability to deliver an end-to-end business management solution that’s connecting people and processes like never before, embedded within familiar Microsoft Office tools that small and medium businesses use every day.  
 
 ## Get started
 Sign up for the Project "Madeira" Preview at [https://madeira.microsoft.com](https://madeira.microsoft.com).  
