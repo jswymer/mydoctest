@@ -31,7 +31,6 @@ The following table describes a sequence of tasks, with links to the topics that
 |Add dimensions for richer business intelligence.|[Dimensions](finance-dimensions.md)|
 |Use account schedules to get detailed insights into your financial data.|[Account Schedules](finance-account-schedule.md)|
 |Recognize revenues and expenses in other periods than when the transactions were posted.|[How to: Defer Revenues and Expenses](finance-how-defer-revenue-expenses.md)|
-|Import salary transactions from your payroll provider into the general ledger.|[How to: Import Payroll Transactions](finance-how-import-payroll-transactions.md)|
 |Open a fiscal year.|[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)|  
 |Prepare to close a fiscal year or period.|[Close Years and Periods](year-close-years-periods.md)|
 |Canada: Set up and use GIFI codes for financial reporting. | [How to: Work With GIFI Codes in Canada](ca-work-gifi-codes.md)|
