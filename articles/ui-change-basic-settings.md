@@ -11,25 +11,25 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="09/19/2016"
     ms.author="SusanneWindfeldPedersen" />
 
 # Changing Basic Settings
 In the **My Settings** window, you can see and change basic settings for Project "Madeira".  
 
 ## Role Center
-The Role Center represents the Home page, a starting page that is designed for the needs of the role. On the Home page, you have an overview of the business. To the left you see a navigation bar that gives you easy access to customers, vendors, items, and so on. 
+The Role Center represents the Home page, a starting page that is designed for the needs of the role. On the Home page, you have an overview of the business. To the left you see a navigation bar that gives you easy access to customers, vendors, items, and so on.
 
-In the center you find the Activities tiles. Activities show current data and can be clicked or tapped for easy access to the selected document. The Key Performance Indicators can be set up to display a selected chart for a visual representation of, for example, cash flow or income and expenses. 
+In the center you find the Activities tiles. Activities show current data and can be clicked or tapped for easy access to the selected document. The Key Performance Indicators can be set up to display a selected chart for a visual representation of, for example, cash flow or income and expenses.
 
-You can also build up a list of Favorite Customers on the Home page for accounts that you do business with often or need to pay special attention to. Use the arrows to collapse part of the page and make more room to show specific data. At the top of the Home page you will find all of the actions that can be applied to the current content. This too can be collapsed and you only need to click or tap within the collapsed area to view it again. 
+You can also build up a list of Favorite Customers on the Home page for accounts that you do business with often or need to pay special attention to. Use the arrows to collapse part of the page and make more room to show specific data. At the top of the Home page you will find all of the actions that can be applied to the current content. This too can be collapsed and you only need to click or tap within the collapsed area to view it again.
 
 The default Role Center is **Business Manager**, but you can select another Role Center that fits your needs better. For more information, see [How to: Change the Role Center](change-role.md).
 
 ## Company
 A company functions as a container for data in Project "Madeira". There can be multiple companies in a database, but only one can be selected at a time.
 
-The CRONUS US company is the default company. It contains demonstration data only.   
+The default company is called CRONUS and contains demonstration data only.   
 
 ## Work date
 The default work date is usually today's date. You may have to temporarily change the work date to be able to perform tasks, such as completing transactions for a date that is not the current date.
@@ -42,8 +42,9 @@ The default work date is usually today's date. You may have to temporarily chang
 Here you can change the region, language, and time zone. The regional settings determine the format of data such as dates, times, numbers, currency, and so on. The time zone specifies the time zone that is applied to date and time data that you view or enter in Project "Madeira". You need to sign out and sign in again for the change to take effect.
 
 ## Confirmation dialogs
-Use the options in this section if you want to specify some additional checks for posting documents. These options are checked as standard, but you can clear the check boxes to avoid getting specific warnings or messages. 
+Use the options in this section if you want to specify some additional checks for posting documents. These options are checked as standard, but you can clear the check boxes to avoid getting specific warnings or messages.
 
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)  
-[How to: Change the Role Center](change-role.md)
+[How to: Change the Role Center](change-role.md)  
+[Customizing Your Project "Maderia" Experience](ui-experiences.md)  

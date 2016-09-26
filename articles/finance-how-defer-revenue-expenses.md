@@ -24,7 +24,7 @@ To distribute revenues or expenses on the involved accounting periods, you set u
 3. Fill in the fields as necessary to create a G/L account for deferred revenues. For more information, see [The General Ledger and the Chart of Accounts](finance-general-ledger.md).
 3. Repeat steps 2 and 3 to create a new G/L account for deferred expenses.
 
-For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as Unearned Income for deferred revenues and Unpaid Expenses for deferred expenses. 
+For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as "Unearned Income" for deferred revenues and "Unpaid Expenses" for deferred expenses. 
 
 ## To set up a deferral template
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.
@@ -53,6 +53,7 @@ Example: The posting date is 02/06/2016. If you enter “Expenses deferred for %
 
 ## To change a deferral schedule from a sales invoice
 **Note**: The steps in this procedure are the same as when you change a deferral schedule, for expenses, from a purchase invoice.
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Invoices**, and then choose the related link.
 2. Create a sales invoice for an item that has a deferral template assigned. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md).
 
@@ -64,6 +65,7 @@ Example: The posting date is 02/06/2016. If you enter “Expenses deferred for %
 
 ## To preview how deferred revenues or expenses will be posted to the general ledger
 **Note**: The steps in this procedure are the same as when you preview how expense deferrals are posted.
+
 1. In the **Sales Invoice** window, choose the **Preview Posting** action.
 2. In the **Posting Preview** window, choose the **G/L Entry** action, and then choose the **Show Related Entries** action.
 
@@ -71,6 +73,7 @@ G/L entries to be posted to the specified deferral account, for example, Unearne
 
 ## To review posted deferrals in the Sales Deferral Summary report
 **Note**: The steps in this procedure are the same as when you review the Purchasing Deferral Summary report.
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Deferral Summary**, and then choose the related link.
 2. In the **Sales Deferral Summary** window, in the **Balance as of** field, enter the date up to which you want to see deferred revenues.
 3. Choose the **Preview** button.
