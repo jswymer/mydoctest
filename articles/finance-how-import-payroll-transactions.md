@@ -1,14 +1,17 @@
 <properties
-	pageTitle="How to: Import Payroll Transactions| Dynamics NAV"
-    description="Describes how to import salary payments and related transactions from you payroll provider into the general ledger."
-    authors="SorenGP"/>
+    pageTitle="How to: Import Payroll Transactions| Project “Madeira”"
+    description="Describes how to import salary payments and related transactions from you payroll provider into the general ledger." 
+	services="project-madeira" 
+	documentationCenter=""
+	authors="SorenGP"
+/>
 <tags
-    ms-prod: "dynamics-nav-2017"
+    ms.service="project-madeira"
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/22/2016"
+    ms.date="09/27/2016"
     ms.author="SorenGP" />
 
 # How to: Import Payroll Transactions
