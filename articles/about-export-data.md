@@ -25,31 +25,31 @@ Each list includes a number of columns, and the export to Excel will include any
 If you decide to cancel your subscription for Financials, you can export your data to Excel and take it with you to your next finance system.  
 
 You can export all pages, of course, but that might be more than you really need. So consider exporting the following essential pages, and remember to add all columns as described earlier:
-- Chart of Accounts
-- Customers
-- Vendors
-- Banks
-- Items
+- Chart of Accounts  
+- Customers  
+- Vendors  
+- Banks  
+- Items  
 
 If you want all your financial transactions as well, this is a large amount of data, so the export will often take more than a few minutes of time. The financial transactions are shown in the *General Ledger Entries* page.  
 
 We recommend that you also consider exporting data from the following pages:
-- Customer Ledger Entries
-- Vendor Ledger Entries
-- Bank Account Ledger Entries
-- Item Ledger Entries
-- General Posting Setup
-- Customer Posting Groups
-- Vendor Posting Groups
-- Item Posting Groups
-- Bank Posting Group
-- G/L Budgets
-- G/L Budget Entries
-- Sales Quotes
-- Sales Invoices
-- Purchase Invoices
-- Contacts
-- Salespeople
+- Customer Ledger Entries  
+- Vendor Ledger Entries  
+- Bank Account Ledger Entries  
+- Item Ledger Entries  
+- General Posting Setup  
+- Customer Posting Groups  
+- Vendor Posting Groups  
+- Item Posting Groups  
+- Bank Posting Group  
+- G/L Budgets  
+- G/L Budget Entries  
+- Sales Quotes  
+- Sales Invoices  
+- Purchase Invoices  
+- Contacts  
+- Salespeople  
 
 **Note**: If you have set up more than one company in Financials, you must export the relevant data from each company.
 
