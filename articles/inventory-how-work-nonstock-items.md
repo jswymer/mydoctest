@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="08/19/2016"
+    ms.date="09/29/2016"
     ms.author="SorenGP" />
 
 # How to: Work with Nonstock Items
@@ -32,7 +32,7 @@ Nonstock item cards have much less information than normal item cards because yo
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
 ## To set up how nonstock item numbers are converted to your own numbering  
-To enable conversion of a nonstock item card to a normal item card, you must first specify set up how the vendor item numbering is converted to your own item number format.
+To enable conversion of a nonstock item card to a normal item card, you must first set up how the vendor's item numbering is converted to your own item number format.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Nonstock Item Setup**, and then choose the related link.
 2. Fill in the fields as necessary.
