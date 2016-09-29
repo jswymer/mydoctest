@@ -15,7 +15,7 @@
     ms.author="SorenGP" />
 
 # How to: Set Up the Envestnet Yodlee Bank Feeds Service
-You can import electronic bank statements from your bank to quickly fill the **Payment Reconciliation Journal** window so you can apply payments and reconcile the bank account. For more information, see [Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).
+You can import electronic bank statements from your bank to quickly fill in the **Payment Reconciliation Journal** window so you can apply payments and reconcile the bank account. For more information, see [Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md).
 
 The Envestnet Yodlee Bank Feeds service is installed as an extension to Project "Madeira" and is ready to be enabled. For more information, see [Customizing Project "Madeira" Using Extensions ](ui-extensions.md).
 
@@ -101,4 +101,6 @@ Every hour, the **Payment Reconciliation Journal** window will now be filled wit
 
 ## See Also  
 [Set Up Banking](bank-setup-banking.md)  
-[Manage Bank Accounts](bank-manage-bank-accounts.md)
+[Manage Bank Accounts](bank-manage-bank-accounts.md)  
+[Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md)  
+[Customizing Project "Madeira" Using Extensions ](ui-extensions.md)
