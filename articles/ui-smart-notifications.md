@@ -19,7 +19,13 @@ Project "Madeira" can help you work smarter by notifying you when you are about 
 
 If you choose to see details for a notification, you can take action to resolve the issue, such as contacting the customer, buying more inventory, and so on. It's your choice what to do, and Project "Madeira" gives you advice and recommendations.  
 
-The subtle notifications help untrained users complete unfamiliar tasks and do not reduce productivity for the more trained user.  
+Notifications help untrained users complete unfamiliar tasks and do not reduce productivity for the more trained user.
+
+## Turn on or turn off a notification, and control when they are sent
+By default, all notifications are turned on, but you can decide whether to receive a particular notification. Additionally, some notifications let you specify the conditions under which it is sent to you.
+1. In the **Search for Page or Report**, search for **my notifications**, and then choose the related link.
+2. To receive a notification, select or clear the **Enabled** check box.
+2. To specify conditions that trigger a notification, choose **View filter details**, and then fill in the fields as necessary.  
   
 ## See Also
 [Work with Project "Madeira"](ui-work-product.md)
