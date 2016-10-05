@@ -18,7 +18,7 @@ Project "Madeira" can help you complete tasks quicker and more correctly by pref
 
 Functionality that enters field values for you is typically offered for tasks where you enter large volumes of transactional data and want to avoid errors and save time. This topic contains a selection of such functionality. More sections will be added in future updates of Project "Madeira".
 
-## **Suggest Balancing Amount** check box in the **General Journal Batches** window
+## The **Suggest Balancing Amount** check box in the **General Journal Batches** window
 When, for example, you are entering general journal lines for multiple expenses that must all be posted to the same bank account, then each time you enter a new journal line for an expense, you can have the **Amount** field on the bank account line automatically updated to the amount that balances the expenses. For more information about working with general journals, see [Work With General Journals](ui-work-general-journals.md).
 
 ### To have the **Amount** field on balancing general journal lines filled automatically
@@ -28,7 +28,7 @@ When, for example, you are entering general journal lines for multiple expenses 
 
 For information about how to set up a personal general journal batch, for example, for expense handling, see [Work with General Journals](ui-work-general-journals.md). 
 
-## **Automatically Fill Date Received** field in the **Payment Registration** window
+## The **Automatically Fill Date Received** field in the **Payment Registration** window
 The **Payment Registration** window shows outstanding incoming payments as lines that represent sales documents where an amount is due for payment. For more information about applying customer payments, see [How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md).
 
 You main actions in the window are to fill in the **Payment Made** check box and the **Date Received** field. You can set Project "Madeira" up to automatically enter work date in the **Date Received** field when you select the **Payment Made** check box. 

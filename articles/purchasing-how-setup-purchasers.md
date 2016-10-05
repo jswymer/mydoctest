@@ -1,4 +1,4 @@
-<properties
+            <properties
                 pageTitle="How to: Set Up Purchasers| Project “Madeira”"
                 description="How to: Set Up Purchasers"
                 services="project-madeira"
@@ -11,14 +11,14 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="09/22/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Purchasers
 If several purchasers work at your company, you can set them up in a window and assign them each a code. You can then use the codes to prepare statistics and to filter information in printed reports.
 
 ## To set up purchasers
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Purchasers**, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople/Purchasers**, and then choose the related link.
 2. In the **Salespeople/Purchasers** window, choose **New** and fill in the fields.
 3. In the **Salesperson/Purchaser Card** window, fill in the fields.
 
