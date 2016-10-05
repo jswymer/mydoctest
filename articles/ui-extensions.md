@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="07/15/2016"
+    ms.date="09/28/2016"
     ms.author="edupont04" />
 
 # Customizing Project “Madeira” Using Extensions
@@ -20,13 +20,15 @@ When you first launch Project "Madeira", some extensions are already installed f
 For example, Microsoft provides an extension that provides integration with PayPal Payments Standard. This extension is installed by default.
 But if another extension is made available that offers integration with another payment service, you can install the new extension and then choose which of the two services to use.  
 
-You manage the extensions in the **Extension Management** window. You can access this window from Home. Alternatively, choose the **Search for Page or Report** icon in the top right corner, enter **Extension**, and then choose the related link.   
+You manage the extensions in the **Extension Management** window. You can access this window from Home. Alternatively, choose the **Search for Page or Report** icon in the top right corner, enter **Extension**, and then choose the related link.  
+
+**Note**: If you think you should have access to an extension but you cannot find its functionality, check the **Extension Management** window - if the extension is not listed there, you can install it as described in the following section.  
 
 ## Installing an Extension
 You can get new extensions from the marketplace at [AppSource.microsoft.com](https://appsource.microsoft.com/). Here, you can see all available extensions for Project "Madeira", and you can get apps, extensions, and content packs for other Microsoft products. Set the relevant filters, take a look at the information for each extension, and get an extension for your Project "Madeira".  
 **Note**: Sign in to [AppSource.microsoft.com](https://appsource.microsoft.com/) using the email account that you use for Project "Madeira". Use the same email account for other services and products for a smooth experience.  
 
-You can also get to the marketplace from inside Project "Madeira". In the **Extension Management** window, you can see the extensions that are currently installed, and you can open  the **Extension Marketplace** page that shows the Project "Madeira" extensions that are currently available in AppSource. If you choose the *More apps* link, you are taken to [AppSource.microsoft.com](https://appsource.microsoft.com/).  
+You can also get to the marketplace from inside Project "Madeira". In the **Extension Management** window, you can see the extensions that are currently installed, and you can open the **Extension Marketplace** page that shows the Project "Madeira" extensions that are currently available in AppSource. If you choose the *More apps* link, you are taken to [AppSource.microsoft.com](https://appsource.microsoft.com/).  
 
 If you choose an extension, you can read about what the extension does, and you can access Help for the extension to learn more. When you choose to get an extension, you must agree to the terms of use. If you get the extension from the AppSource website, you will be signed in to Project "Madeira" to complete the installation.  
 
@@ -38,6 +40,8 @@ If you uninstall an extension, and you then change your mind, you can install it
 Some extensions are provided by Microsoft, and other extensions are provided by [other companies](ui-extensions-other.md). All extensions are tested before they are made available to you, but we recommend that you access the links that are provided with each extension to learn more about the extension before you choose to install it.  
 
 Microsoft provides the following extensions:  
+- [Ceridian]  
+- [Dynamics GP Data Migration]  
 - [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
 - [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 - [QuickBooks Data Migration](ui-extensions-quickbooks-data-migration.md)  

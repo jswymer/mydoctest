@@ -21,8 +21,7 @@ Access your Project "Madeira" data from your mobile device. You can navigate thr
 [![Windows Store](./media/install-mobile-app/windowsstore.png)](http://go.microsoft.com/fwlink/?LinkId=734848)
 [![App Store](./media/install-mobile-app/appstore.png)](http://go.microsoft.com/fwlink/?LinkId=734847) [![Google Play](./media/install-mobile-app/googleplay.png)](http://go.microsoft.com/fwlink/?LinkId=734849)  
 2. Launch the app from your mobile device.
-3. Enter your activation code that you received during sign-up for Project “Madeira” and follow the instructions on the screen.
-4. Enter your user name and password that you created during sign-up for Project “Madeira” and follow the instructions on the screen.
+3. Enter your user name and password that you created during sign-up for Project “Madeira” and follow the instructions on the screen.
 
 You should now have access to Project “Madeira” and be able to view and edit data.
 
