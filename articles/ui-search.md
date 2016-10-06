@@ -17,7 +17,8 @@
 # Using Search for Page or Report
 You can find any page, report, or view by choosing the **Search for Page or Report** icon in the top right corner of the address bar:
 
-![Search for Page or Report](media/search-page-or-report.png "Search for Page or Report")
+<!-- ![Search for Page or Report](media/search-page-or-report.png "Search for Page or Report")
+-->
 
 When you start typing characters, a drop-down list shows page names containing the character(s) you type. The drop-down list changes as you type more characters, and you can select the correct page from the list when it is displayed. The second column in the drop-down list shows the navigation paths to the found pages.
 
