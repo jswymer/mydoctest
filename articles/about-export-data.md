@@ -55,6 +55,6 @@ We recommend that you also consider exporting data from the following pages:
 
 ## See Also
 [Canceling your Subscription for Dynamics 365 for Financials](madeira-cancel.md)  
-[Import Data from Other Finance Systems](upload-data.md)  
+[Migrate Business Data from Other Finance Systems](upload-data.md)  
 [Finance](finance.md)  
 [Across Business Areas](ui-across-business-areas.md)  

@@ -25,7 +25,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Set up banking.|[Set Up Banking](bank-setup-banking.md)|
 |Set up sales processes.|[Set Up Sales](sales-setup-sales.md)|
 |Set up purchase processes.|[Set Up Purchasing](purchasing-setup-purchasing.md)|
-|Transfer your business data to Project "Madeira".| [Import Data from Other Finance Systems](upload-data.md)|
+|Transfer your business data to Project "Madeira".| [Migrate Business Data from Other Finance Systems](upload-data.md)|
 |Install extensions.|[Customizing Project "Madeira" Using Extensions](ui-extensions.md)|
 |Track changes that are made to data.|[Log Changes in Project "Madeira"](across-log-changes.md)|
 

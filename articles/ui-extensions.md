@@ -51,6 +51,6 @@ Microsoft provides the following extensions:
 ## See Also  
 [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)  
 [How to: Enable Customer Payment Through PayPal](sales-how-enable-customer-payments-paypal.md)  
-[Import Data from Other Finance Systems](upload-data.md)  
+[Migrate Business Data from Other Finance Systems](upload-data.md)  
 [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md)  
 [Welcome to Project "Madeira"](madeira-get-started.md)  
