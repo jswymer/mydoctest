@@ -41,7 +41,7 @@ Some extensions are provided by Microsoft, and other extensions are provided by 
 
 Microsoft provides the following extensions:  
 - [Ceridian]  
-- [Dynamics GP Data Migration]  
+- [Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md)  
 - [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
 - [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 - [QuickBooks Data Migration](ui-extensions-quickbooks-data-migration.md)  

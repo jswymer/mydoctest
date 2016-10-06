@@ -19,10 +19,10 @@ For more information, see [Migrate Business Data from Other Finance Systems](upl
 
 ## Exporting Data from Dynamics GP
 You must have exported some or all of your existing customers, vendors, inventory items, and accounts to a comma-separated file, .csv. In Dynamics GP, the File menu includes a utility to export data. For the purposes of Project "Madeira", you can export the following types of data:
-- Account
-- Customer
-- Item
-- Vendor
+- Account  
+- Customer  
+- Item  
+- Vendor  
 
 The Dynamics GP Data Migration extension includes a default mapping of data so that you can use your existing data to test your new Project "Madeira" company. The default mapping will be sufficient in the vast majority of cases, but you can change the mapping in the assisted setup guide.  
 
