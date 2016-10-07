@@ -41,7 +41,7 @@ Some extensions are provided by Microsoft, and other extensions are provided by 
 
 Microsoft provides the following extensions:  
 - [Ceridian]  
-- [Dynamics GP Data Migration]  
+- [Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md)  
 - [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
 - [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 - [QuickBooks Data Migration](ui-extensions-quickbooks-data-migration.md)  
@@ -51,6 +51,6 @@ Microsoft provides the following extensions:
 ## See Also  
 [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)  
 [How to: Enable Customer Payment Through PayPal](sales-how-enable-customer-payments-paypal.md)  
-[Import Data from Other Finance Systems](upload-data.md)  
+[Migrate Business Data from Other Finance Systems](upload-data.md)  
 [Project “Madeira” Extensions by Other Providers](ui-extensions-other.md)  
 [Welcome to Project "Madeira"](madeira-get-started.md)  
