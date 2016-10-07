@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/0672016"
+    ms.date="10/07/2016"
     ms.author="edupont04" />
 
 # The Dynamics GP Data Migration Extension for Project "Madeira"
