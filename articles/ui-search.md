@@ -15,7 +15,7 @@
     ms.author="SusanneWindfeldPedersen" />
 
 # Using Search for Page or Report
-You can find any page, report, or view by choosing the **Search for Page or Report** icon in the top right corner of the address bar. The button looks like this:
+You can find any page, report, or view by choosing the **Search for Page or Report** icon in the top right corner of the address bar. Look for this icon:
 
 ![Search for Page or Report](media/ui-search/searchpageorreport.png "Search for Page or Report")
 
