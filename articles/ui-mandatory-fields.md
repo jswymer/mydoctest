@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Mandatory Fields | Project “Madeira”"
+	pageTitle="Mandatory Fields | Financials"
         description="Learn about required fields."
         services="project-madeira"
         documentationCenter=""
@@ -14,7 +14,7 @@
     ms.author="SusanneWindfeldPedersen" />
 
 # Mandatory Fields
-When you enter data on pages in Project "Madeira", certain fields are marked with a red asterisk. The red asterisk means that the field must be filled to complete a certain process that uses the field, such as posting a transaction that uses the value in the field.
+When you enter data on pages in Financials, certain fields are marked with a red asterisk. The red asterisk means that the field must be filled to complete a certain process that uses the field, such as posting a transaction that uses the value in the field.
 
 Even though the field contains a red asterisk, you are not forced to fill in the field before you continue to other fields or close the page. The red asterisk only serves as a reminder that you will be blocked from completing a certain process.
 
@@ -24,4 +24,4 @@ In the **Customer Card** window, the red asterisk appears in the **Name** field,
 In the **Item Card** window, the red asterisk appears in the **Description** field to indicate that you cannot enter the item on a document line, such as a sales order, unless this field is filled.
 
 ## See Also
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

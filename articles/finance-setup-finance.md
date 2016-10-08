@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Set Up Core Financial Processes| Project “Madeira”" 
+                pageTitle="Set Up Core Financial Processes| Financials" 
                 description="Set Up Core Financial Processes" 
                 services="project-madeira" 
                 documentationCenter=""
@@ -14,7 +14,7 @@
     ms.author="edupont04" />
                 
 #Set Up Core Financial Processes
-Project "Madeira" includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 
+Financials includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 
 From Home, you can access an assisted setup guide that helps you set up sales tax depending on your location, for example. Other aspects of finance management you must set up yourself, depending on whether you want to use dimensions, for example.  
  
 The following table describes a sequence of tasks, with links to the topics that describe them.

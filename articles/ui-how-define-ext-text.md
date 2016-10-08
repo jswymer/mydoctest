@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Define Extended Text | Project “Madeira”"
+	pageTitle="How to: Define Extended Text | Financials"
         description="Describes extend text."
         services="project-madeira"
         documentationCenter=""
@@ -28,4 +28,4 @@ You can extend a standard text by adding extra lines, and you can set up conditi
 8. Choose the **OK** button.
 
 ## See Also
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

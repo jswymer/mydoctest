@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Dimensions| Project “Madeira”"
+                pageTitle="Dimensions| Financials"
                 description="Using dimensions to analyse data." 
                 services="project-madeira" 
                 documentationCenter=""

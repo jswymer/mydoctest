@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Close Years and Periods| Project “Madeira”"
+	pageTitle="Close Years and Periods| Financials"
 	description="Explains how to close a fiscal year and periods."
 	services="project-madeira"
 	documentationCenter=""

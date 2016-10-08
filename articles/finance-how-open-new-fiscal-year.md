@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Open a New Fiscal Year| Project “Madeira”" 
+	pageTitle="How to: Open a New Fiscal Year| Financials" 
     description="Describes how to open fiscal periods." 
     services="project-madeira" 
     documentationCenter=""

@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Add Contacts to Segments | Project “Madeira”"
-                description="Describes how to add contacts to segments in Project “Madeira”"
+                pageTitle="Add Contacts to Segments | Financials"
+                description="Describes how to add contacts to segments in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

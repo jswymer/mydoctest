@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Enable Application of Ledger Entries in Different Currencies| Project “Madeira”"
+                pageTitle="How to: Enable Application of Ledger Entries in Different Currencies| Financials"
                 description="Learn how you can apply ledger entries in different currencies."
                 services="project-madeira"
                 documentationCenter=""

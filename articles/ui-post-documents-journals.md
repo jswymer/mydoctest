@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Post Documents and Journals | Project “Madeira”"
+	pageTitle="Post Documents and Journals | Financials"
         description="Provides an introduction to the different ways you can post."
         services="project-madeira"
         documentationCenter=""
@@ -16,7 +16,7 @@
 # Post Documents and Journals
 Posting represents the accounting action of recording business transactions in the various company ledgers.
 
-Practically every document and journal in Project "Madeira" offers a **Posting** group from which you can choose between different posting actions, such as **Post**, **Preview Posting**, **Post and Send**, **Post and Email**.
+Practically every document and journal in Financials offers a **Posting** group from which you can choose between different posting actions, such as **Post**, **Preview Posting**, **Post and Send**, **Post and Email**.
 
 The following table describes related tasks, with links to the topics that describe them.
 

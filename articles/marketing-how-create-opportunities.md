@@ -1,5 +1,5 @@
-<properties pageTitle="How to: Create Sales Opportunities | Project “Madeira”"
-    description="Describes how to create sales opportunities on contacts in Project “Madeira”"
+<properties pageTitle="How to: Create Sales Opportunities | Financials"
+    description="Describes how to create sales opportunities on contacts in Financials"
     services="project-madeira"
     documentationCenter=""
     authors="jswymer"
@@ -40,4 +40,4 @@ Before you can create opportunities, you must set up opportunity sales cycles. F
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  
 [Create and Manage Contacts](marketing-contacts.md)  
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

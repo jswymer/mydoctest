@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Allocate Costs and Income | Project “Madeira”"
+	pageTitle="Allocate Costs and Income | Financials"
 	description="Explains how to allocate costs and income."
 	services="project-madeira"
 	documentationCenter=""

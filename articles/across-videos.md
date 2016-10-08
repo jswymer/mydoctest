@@ -1,7 +1,7 @@
 <properties
-                pageTitle="How Do I? | Project “Madeira”" 
-                description="Provides access to getting-started videos that illustrate how to do common tasks." 
-                services="project-madeira" 
+                pageTitle="How Do I? | Financials"
+                description="Provides access to getting-started videos that illustrate how to do common tasks."
+                services="project-madeira"
                 documentationCenter=""
                 authors="edupont04"
 />
@@ -16,6 +16,6 @@
 
 # How Do I?
 On this page, we will provide access to getting-started videos that illustrate how to do common tasks. The page will be updated over time.  
-  
+
 ## See Also
-[Welcome to Project "Madeira" ](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials ](madeira-get-started.md)

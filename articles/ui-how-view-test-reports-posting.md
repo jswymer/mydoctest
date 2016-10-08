@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: View Test Reports Before Posting | Project “Madeira”"
+	pageTitle="How to: View Test Reports Before Posting | Financials"
         description="Learn how to get a test report before you post anything."
         services="project-madeira"
         documentationCenter=""

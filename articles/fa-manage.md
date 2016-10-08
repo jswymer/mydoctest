@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Fixed Assets| Project “Madeira”"
+                pageTitle="Manage Fixed Assets| Financials"
                 description="Describes how to manage fixed assets."
                 services="project-madeira"
                 documentationCenter=""

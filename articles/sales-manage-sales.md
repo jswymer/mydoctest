@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Sales| Project “Madeira”"
+                pageTitle="Manage Sales| Financials"
                 description="Describes how to manage sales activities."
                 services="project-madeira"
                 documentationCenter=""
@@ -19,7 +19,7 @@ You create a sales invoice or sales order to record your agreement with a custom
 
 You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use sales orders. In all other aspects, sales orders work the same way as sales invoices.
 
-Good sales and marketing practices are all about how to make the best decisions at the right time. Marketing functionality in Project "Madeira" provides precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction. For more information, see [Relationship Management](marketing-relationship-management.md).
+Good sales and marketing practices are all about how to make the best decisions at the right time. Marketing functionality in Financials provides precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction. For more information, see [Relationship Management](marketing-relationship-management.md).
 
 You can negotiate with the customer by first creating a sales quote, which you can convert to a sales invoice when you agree on the sale. After the customer has confirmed the agreement, for example after a quote process, you can send an order confirmation to record your obligation to deliver the products as agreed.
 
@@ -49,5 +49,5 @@ The following table describes a sequence of tasks, with links to the topics that
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Receivables](receivables-manage-receivables.md)  
 [Manage Payables](payables-manage-payables.MD)      
-[Work With Project "Madeira"](ui-work-product.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Across Business Areas](ui-across-business-areas.md)

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Receivables| Project “Madeira”"
+                pageTitle="Manage Receivables| Financials"
                 description="Manage Receivables"
                 services="project-madeira"
                 documentationCenter=""
@@ -17,7 +17,7 @@
 # Manage Receivables#
 A central task in managing receivables is to apply incoming payments to their related customer or vendor ledger entries and thereby close the related sales invoices or purchase credit memos as paid. When all payments are applied, you can reconcile the bank account.  
 
-You can perform this task in the **Payment Reconciliation Journal** window by importing a bank statement file or feed to quickly register the payments in Project "Madeira". An automatic application function applies the payments to their related open customer or vendor ledger entries based on data matches between payment text and entry information. You can review and change automatic applications before you post the journal. You can choose to close any open bank account ledger entries related to the applied ledger entries when you post the journal. This means that the bank account is automatically reconciled when all payments are applied.
+You can perform this task in the **Payment Reconciliation Journal** window by importing a bank statement file or feed to quickly register the payments in Financials. An automatic application function applies the payments to their related open customer or vendor ledger entries based on data matches between payment text and entry information. You can review and change automatic applications before you post the journal. You can choose to close any open bank account ledger entries related to the applied ledger entries when you post the journal. This means that the bank account is automatically reconciled when all payments are applied.
 
 **Note**: You can reconcile bank accounts as a separate task in the **Bank Acc. Reconciliation** window, which also supports check ledger entries. For more information, see [How to: Reconcile Bank Accounts Separately](bank-how-reconcile-bank-accounts-separately.md).
 
@@ -39,5 +39,5 @@ The following table describes a sequence of tasks, with links to the topics that
 ## See Also
 [Manage Sales](sales-manage-sales.md)  
 [Manage Payables](payables-manage-payables.md)  
-[Work With Project "Madeira"](ui-work-product.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Across Business Areas](ui-across-business-areas.md)

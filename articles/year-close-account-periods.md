@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Close Accounting Periods | Project “Madeira”"
+	pageTitle="How to: Close Accounting Periods | Financials"
 	description="Explains how to close accounting periods."
 	services="project-madeira"
 	documentationCenter=""

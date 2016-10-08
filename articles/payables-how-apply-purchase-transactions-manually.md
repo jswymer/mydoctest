@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Apply Vendor Payments Manually| Project “Madeira”"
+                pageTitle="How to: Apply Vendor Payments Manually| Financials"
                 description="How to: Apply Vendor Payments Manually"
                 services="project-madeira"
                 documentationCenter=""

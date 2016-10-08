@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Create Contact Companies | Project “Madeira”"
-                description="Describes how to create contact companies in Project “Madeira”"
+                pageTitle="Create Contact Companies | Financials"
+                description="Describes how to create contact companies in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Job Responsibilities for Contacts | Project “Madeira”"
-                description="Describes job responsibilities for contacts in Project “Madeira”"
+                pageTitle="Job Responsibilities for Contacts | Financials"
+                description="Describes job responsibilities for contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

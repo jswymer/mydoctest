@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Set Up the Chart of Accounts| Project “Madeira”"
+                pageTitle="Set Up the Chart of Accounts| Financials"
                 description="Describes how you can change the chart of accounts." 
                 services="project-madeira" 
                 documentationCenter=""
@@ -15,7 +15,7 @@
     ms.author="edupont04" />
                 
 # Set Up or Change the Chart of Accounts
-The chart of accounts shows the ledger accounts that store your financial data. Project "Madeira" includes a standard chart of accounts that is ready to support your business. 
+The chart of accounts shows the ledger accounts that store your financial data. Financials includes a standard chart of accounts that is ready to support your business. 
 However, you can change the default accounts, and you can add new accounts.  
 
 ## Adding or Changing Accounts
@@ -26,7 +26,7 @@ From the chart of accounts, you can open each G/L account and add or change sett
 - The **Allow G/L Acc. Deletion Before** field must be set in the **General Ledger Setup** window, and the account must not have ledger entries on or after that date.  
 - If the **Check G/L Account Usage** field in the **General Ledger Setup** window is selected, then the account must not be used in any posting groups or posting setup.  
 
-Project "Madeira" will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.  
+Financials will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.  
 
 ##See Also
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Use OCR to Turn PDF and Image Files into Electronic Documents| Project “Madeira”"
+                pageTitle="How to: Use OCR to Turn PDF and Image Files into Electronic Documents| Financials"
                 description="Describes how to use OCR to turn PDF and image files into electronic documents"
                 services="project-madeira"
                 documentationCenter=""
@@ -15,7 +15,7 @@
     ms.author="SorenGP" />
 
 # How to: Use OCR to Turn PDF and Image Files into Electronic Documents
-From PDF or image files that you receive from your trading partners, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can be converted to document records in Project "Madeira". For example, when you receive an invoice in PDF format from your vendor, you can send it to the OCR service from the **Incoming Documents** window. This is described in the first procedure.
+From PDF or image files that you receive from your trading partners, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can be converted to document records in Financials. For example, when you receive an invoice in PDF format from your vendor, you can send it to the OCR service from the **Incoming Documents** window. This is described in the first procedure.
 
 As an alternative to sending the file from the **Incoming Documents** window, you can send the file to the OCR service by email. Then, when you receive the electronic document back, a related incoming document record is created automatically. This is described in the second procedure.
 
@@ -56,17 +56,17 @@ If you are not using a job queue, or you want to receive a finished OCR document
     
     Information for the OCR document is displayed, showing both the source content of the PDF or image file and the resulting OCR field values.
 3. Review the various field values and manually edit or enter values in fields that the OCR service has tagged as uncertain.
-4. Choose the **OK** button. The OCR process is completed and the resulting electronic document is sent to the **Incoming Documents** window in Project "Madeira",  according to the job queue schedule. 
+4. Choose the **OK** button. The OCR process is completed and the resulting electronic document is sent to the **Incoming Documents** window in Financials,  according to the job queue schedule. 
 
     If you access the website by choosing the tile on the Home page, then any other OCR document to be verified is automatically displayed on the website. 
 5. Repeat step 4 for any other OCR document to be verified.
 
-Now you can proceed to create document records for the received electronic documents in Project "Madeira", manually or automatically. For more information, see the "To create a document record in Project "Madeira" from a received OCR document" section. You can also connect the new incoming document record to existing posted or non-posted document so that the source file is easy to access from Project "Madeira". For more information, see [Process Incoming Documents](across-process-income-documents.md).
+Now you can proceed to create document records for the received electronic documents in Financials, manually or automatically. For more information, see the "To create a document record in Financials from a received OCR document" section. You can also connect the new incoming document record to existing posted or non-posted document so that the source file is easy to access from Financials. For more information, see [Process Incoming Documents](across-process-income-documents.md).
 
 ## To create a purchase invoice from an electronic document received from the OCR service
 The following procedure describes how to create a purchase invoice record from a vendor invoice received as an electronic document from the OCR service. The procedure is the same when you create, for example, a general journal line from an expense receipt.
 
-**Note**: The **Description** and **No.** fields on the created document lines will only be filled if you have first mapped text found on the OCR document to the two fields in Project "Madeira". You can do this either as item cross-references, for document lines of type Item, or as text-to-account mappings, for document or journal lines of type G/L Account. For more information, see the tooltip for the **Cross References** action on item cards and the related procedure, [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+**Note**: The **Description** and **No.** fields on the created document lines will only be filled if you have first mapped text found on the OCR document to the two fields in Financials. You can do this either as item cross-references, for document lines of type Item, or as text-to-account mappings, for document or journal lines of type G/L Account. For more information, see the tooltip for the **Cross References** action on item cards and the related procedure, [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
         
 For incoming documents, you typically use the **Map Text to Account** action to define that a certain text on a vendor invoice received from the OCR service is mapped to a certain vendor account. Going forward, any part of the incoming document description that exists as a mapping text means that the **No.** field on resulting document or journal lines of type G/L Account are filled with the vendor in question. 
 
@@ -77,9 +77,9 @@ In addition to mapping to a vendor account or G/L accounts, you can also map to 
 3. To map the item numbers on the document to your descriptions of the vendor's items, open the card of each item, and then choose the **Cross References** action to set up cross-references between your item descriptions and those of the vendor. 
 4. In the **Incoming Documents** window, choose the **Create Document** action.
 
-A purchase invoice will be created in Project "Madeira" based on the information in the electronic vendor document that you received from the OCR service.
+A purchase invoice will be created in Financials based on the information in the electronic vendor document that you received from the OCR service.
 
-Any validation errors, typically related to wrong or missing master data in Project "Madeira", will be shown on the **Errors and Warnings** FastTab. For more information, see the "To handle errors when receiving electronic documents" section.
+Any validation errors, typically related to wrong or missing master data in Financials, will be shown on the **Errors and Warnings** FastTab. For more information, see the "To handle errors when receiving electronic documents" section.
 
 ## To handle errors when receiving electronic documents
 1. In the **Incoming Documents** window, select the line for an electronic document received from the OCR service with errors. This is indicated by the Error value in the **OCR Status** field.
@@ -109,4 +109,4 @@ The fields on the **Financial Information** FastTab in the **Incoming Document**
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
-[Work With Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

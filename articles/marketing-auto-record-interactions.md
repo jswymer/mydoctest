@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Automatically Record Interactions with Contacts | Project “Madeira”"
-                description="Describes how to automatically record interactions with contacts in Project “Madeira”"
+                pageTitle="Automatically Record Interactions with Contacts | Financials"
+                description="Describes how to automatically record interactions with contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Suggest Vendor Payments| Project “Madeira”"
+                pageTitle="How to: Suggest Vendor Payments| Financials"
                 description="How to: Suggest Vendor Payments"
                 services="project-madeira"
                 documentationCenter=""
