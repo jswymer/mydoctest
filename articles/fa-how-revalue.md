@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Revalue Fixed Assets| Project “Madeira”"
+                pageTitle="How to: Revalue Fixed Assets| Financials"
                 description="Describes how to appreciate and write down a fixed asset."
                 services="project-madeira"
                 documentationCenter=""

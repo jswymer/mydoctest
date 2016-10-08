@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Interactions | Project “Madeira”"
-                description="Describes using interactions with contacts in Project “Madeira”"
+                pageTitle="Interactions | Financials"
+                description="Describes using interactions with contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"
@@ -15,7 +15,7 @@
     ms.author="jswymer" />
 
 # Managing Interactions With Contacts
-In Project "Madeira", interactions are all types of communications between your company and your contacts. For example, communications can be by letter, fax, email, telephone, meetings, and so on.
+In Financials, interactions are all types of communications between your company and your contacts. For example, communications can be by letter, fax, email, telephone, meetings, and so on.
 
 The relationship management area enables you to record all the interactions you have with your contacts in order to keep track of the sales and marketing efforts you have directed at your contacts and to improve your future business interactions with them. Setting up your application to record interactions consists of these tasks:
 

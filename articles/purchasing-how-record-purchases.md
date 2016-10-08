@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Record Purchases| Project “Madeira”"
+                pageTitle="How to: Record Purchases| Financials"
                 description="Describes how to purchase items or services by creating and posting purchase invoices or orders."
                 services="project-madeira"
                 documentationCenter=""
@@ -70,4 +70,4 @@ The purchase is now reflected in inventory and financial records, and the vendor
 [How to: Purchase Products for a Sale](purchasing-how-purchase-products-sale.md)  
 [How to: Register New Vendors](purchasing-how-register-new-vendors.md)  
 [How to: Prepare Drop Shipments](sales-how-drop-shipment.md)  
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Manage Many Incoming Document Records| Project “Madeira”"
+                pageTitle="How to: Manage Many Incoming Document Records| Financials"
                 description="How to: Create Incoming Document Records"
                 services="project-madeira"
                 documentationCenter=""
@@ -47,4 +47,4 @@ All incoming document records are displayed, including those where the **Process
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
-[Work With Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

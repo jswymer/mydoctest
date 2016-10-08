@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Create Contact Persons | Project “Madeira”" 
-                description="Describes how to create contact persons in Project “Madeira”" 
+                pageTitle="Create Contact Persons | Financials" 
+                description="Describes how to create contact persons in Financials" 
                 services="project-madeira" 
                 documentationCenter=""
                 authors="jswymer"

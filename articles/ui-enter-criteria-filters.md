@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Entering Criteria in Filters | Project “Madeira”"
-        description="Learn how filters work in Project “Madeira”."
+	pageTitle="Entering Criteria in Filters | Financials"
+        description="Learn how filters work in Financials."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"
@@ -67,4 +67,4 @@ You can add filters to all pages by using the Quick Filter. The Quick Filter is 
 **Note**: You cannot use a wildcard when filtering on enumeration fields, such as the **Status** field on sales orders. To enter a filter for this type of field, you can enter the numeric value as a filtering parameter. For example, in the **Status** field on a sales order that has the values **Open**, **Released**, **Pending Approval**, and **Pending Prepayment**, use the values **0**, **1**, **2**, and **3** to filter for these options.  
 
 ## See Also
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

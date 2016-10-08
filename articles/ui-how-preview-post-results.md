@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Preview Posting Results | Project “Madeira”"
+	pageTitle="How to: Preview Posting Results | Financials"
         description="Describes how you can get a preview of the impact of your changes before you post anything."
         services="project-madeira"
         documentationCenter=""

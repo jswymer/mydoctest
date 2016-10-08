@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Set Up Fixed Asset Insurance| Project “Madeira”"
+                pageTitle="How to: Set Up Fixed Asset Insurance| Financials"
                 description="Describes how to set the system up for insurance of fixed assets."
                 services="project-madeira"
                 documentationCenter=""

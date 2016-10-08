@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Depreciate or Amortize Fixed Assets| Project “Madeira”"
+                pageTitle="How to: Depreciate or Amortize Fixed Assets| Financials"
                 description="Describes how to depreciate or amortize a fixed asset."
                 services="project-madeira"
                 documentationCenter=""

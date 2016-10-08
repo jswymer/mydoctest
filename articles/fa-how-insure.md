@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Insure Fixed Assets| Project “Madeira”"
+                pageTitle="How to: Insure Fixed Assets| Financials"
                 description="Describes how to insure a fixed asset."
                 services="project-madeira"
                 documentationCenter=""

@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Create Number Series | Project “Madeira”"
+	pageTitle="Create Number Series | Financials"
         description="Learn how to create new number series."
         services="project-madeira"
         documentationCenter=""
@@ -42,4 +42,4 @@ If you have set up more than one number series code for the same kind of basic i
 Now when you set up something that requires a number, you can use the relationships you created to select among the related number series.
 
 ## See Also
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

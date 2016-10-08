@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Make Drop Shipments| Project “Madeira”"
+                pageTitle="How to: Make Drop Shipments| Financials"
                 description="Describes how to create a sales order linked to a purchase order to enable shipment directly from the vendor to the customer."
                 services="project-madeira"
                 documentationCenter=""
@@ -56,4 +56,4 @@ When the vendor has shipped the items, you can post the sales order as shipped. 
 [How to: Record Purchases](purchasing-how-record-purchases.md)  
 [Manage Sales](sales-manage-sales.md)  
 [Manage Inventory](inventory-manage-inventory.md)      
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

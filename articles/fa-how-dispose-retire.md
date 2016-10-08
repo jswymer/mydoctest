@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Dispose of or Retire Fixed Assets| Project “Madeira”"
+                pageTitle="How to: Dispose of or Retire Fixed Assets| Financials"
                 description="Describes how to sell or retire a fixed asset."
                 services="project-madeira"
                 documentationCenter=""

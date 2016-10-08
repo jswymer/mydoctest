@@ -1,5 +1,5 @@
 <properties
-                pageTitle="The General Ledger and the Chart of Accounts| Project “Madeira”"
+                pageTitle="The General Ledger and the Chart of Accounts| Financials"
                 description="Describes the general ledger, the chart of accounts, and the account categories."
                 services="project-madeira"
                 documentationCenter=""
@@ -14,7 +14,7 @@
     ms.author="edupont04" />
 
 # The General Ledger and the Chart of Accounts
-The general ledger stores your financial data, and the chart of accounts shows the accounts that all general ledger entries are posted to. Project "Madeira" includes a standard chart of accounts that is ready to support your business.
+The general ledger stores your financial data, and the chart of accounts shows the accounts that all general ledger entries are posted to. Financials includes a standard chart of accounts that is ready to support your business.
 
 ## General Ledger Setup and General Posting Setup
 At the core of your business processes is the general ledger and the configuration of how data is posted to the general ledger.
@@ -24,7 +24,7 @@ Similarly, in the **General Posting Setup** window, you specify how you want to 
 ## The Chart of Accounts
 The chart of accounts shows all accounts. From here, you can open various reports that show your general ledger entries and balances, and you can close the income statement. For each account, you can open the G/L account card and add or change settings. You can also see a list of posting groups that post to that account.  
 
-Project "Madeira" will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.  
+Financials will prevent you from deleting a general ledger account that stores data that is needed in the chart of accounts.  
 
 ## Account Categories
 With account categories, you can map general ledger accounts to categories as a personalization of the structure of your financial statements.  

@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Set Up Banking| Project “Madeira”"
-                description="Welcome to Project “Madeira”"
+                pageTitle="Set Up Banking| Financials"
+                description="Set up banking in Dynamics 365 for Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"

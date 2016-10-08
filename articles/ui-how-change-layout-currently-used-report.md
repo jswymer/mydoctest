@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Change Which Layout is Currently Used on a Report | Project “Madeira”"
+	pageTitle="How to: Change Which Layout is Currently Used on a Report | Financials"
         description="Learn how you can decide how a report looks."
         services="project-madeira"
         documentationCenter=""

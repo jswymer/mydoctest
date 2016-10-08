@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Relationship Management | Project “Madeira”" 
-                description="Describes relationship management in Project “Madeira”" 
+                pageTitle="Relationship Management | Financials" 
+                description="Describes relationship management in Financials" 
                 services="project-madeira" 
                 documentationCenter=""
                 authors="jswymer"
@@ -15,9 +15,9 @@
     ms.author="jswymer" />
 
 # Relationship Management
-The relationship management features of Project "Madeira" help you manage and support your sales efforts. With these features, you have access to complete and accurate information so you can focus your interactions on preferred customer/contact segments.
+The relationship management features of Financials help you manage and support your sales efforts. With these features, you have access to complete and accurate information so you can focus your interactions on preferred customer/contact segments.
 
-Good sales and marketing practices are all about how to make the best decisions at the right time. Project "Madeira" provides a precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction.
+Good sales and marketing practices are all about how to make the best decisions at the right time. Financials provides a precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction.
 
 To get started, see the following topics:
 

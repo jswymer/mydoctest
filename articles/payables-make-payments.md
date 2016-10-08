@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Make Payments| Project “Madeira”"
+                pageTitle="Make Payments| Financials"
                 description="Make Payments"
                 services="project-madeira"
                 documentationCenter=""

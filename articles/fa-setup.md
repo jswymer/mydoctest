@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Set Up Fixed Assets| Project “Madeira”"
+                pageTitle="Set Up Fixed Assets| Financials"
                 description="Describes how to set up the Fixed Assets functionality."
                 services="project-madeira"
                 documentationCenter=""

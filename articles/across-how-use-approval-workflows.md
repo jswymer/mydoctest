@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Use Approval Workflows| Project “Madeira”"
+                pageTitle="How to: Use Approval Workflows| Financials"
                 description="How to: Use Approval Workflows"
                 services="project-madeira"
                 documentationCenter=""
@@ -17,7 +17,7 @@
 # How to: Use Approval Workflows
 When a record, such as a purchase document or a customer card, needs to be approved by someone in your organization, you send an approval request as part of a workflow. Based on how the workflow is set up, the appropriate approver is then notified that the record requires their approval.
 
-Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup. For more information, see [Welcome to Project "Madeira"](madeira-get-started.md).
+Core approval workflows for purchases documents, sales documents, payment journals, customer cards, and item cards are ready to start as assisted setup. For more information, see [Welcome to Financials](madeira-get-started.md).
 
 ## To request approval of a record
 The following task is performed by an approval user.
@@ -88,4 +88,4 @@ The Send Overdue Approval Notifications function checks for all open approval re
 [Manage Sales](sales-manage-sales.md)    
 [Incoming Documents](across-income-documents.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
-[Work With Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

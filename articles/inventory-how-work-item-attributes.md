@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Work with Item Attributes| Project “Madeira”"
+                pageTitle="How to: Work with Item Attributes| Financials"
                 description="Describes how to set up item attributes and assign them to items and item categories."
                 services="project-madeira"
                 documentationCenter=""
@@ -70,4 +70,4 @@ The items in the **Items** window are filtered by the specified item attribute v
 [How to: Categorize Item](inventory-how-categorize-items.md)    
 [How to: Register New Products](inventory-how-register-new-products.md)  
 [Manage Inventory](inventory-manage-inventory.md)  
-[Work With Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)
