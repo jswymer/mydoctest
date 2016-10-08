@@ -1,9 +1,9 @@
 <properties
-	pageTitle="Canceling Dynamics 365 for Financials | Financials
+	pageTitle="Canceling Dynamics 365 for Financials | Financials"
         description="Describes how to cancel your Dynamics 365 for Financials experience."
-				services="project-madeira"
-				documentationCenter=""
-				authors="edupont04"
+        services="project-madeira"
+        documentationCenter=""
+        authors="edupont04"
 />
 <tags
     ms.service="project-madeira"
