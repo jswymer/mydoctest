@@ -1,5 +1,5 @@
 <properties
-    pageTitle="Finance| Project “Madeira”"
+    pageTitle="Finance| Financials"
     description="Learn about key financial concepts and processes " 
 	services="project-madeira" 
 	documentationCenter=""
@@ -14,7 +14,7 @@
     ms.date="09/22/2016"
     ms.author="edupont04" />
 #Finance
-Project "Madeira" includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 
+Financials includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 
 Also, if you chose not to apply the standard configuration, you must add your own configuration. For more information, see [Setup](setup.md).  
 The default configuration includes a chart of accounts and standard posting groups that make the process of assigning default general ledger posting accounts to customers, vendors, and items more efficient.  
 

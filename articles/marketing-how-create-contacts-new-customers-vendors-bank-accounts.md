@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Create a Customer, Vendor, or Bank Account From a Contact | Project “Madeira”"
-                description="Describes hoe to create a customer, vendor, or bank account from a contact in Project “Madeira”"
+                pageTitle="Create a Customer, Vendor, or Bank Account From a Contact | Financials"
+                description="Describes hoe to create a customer, vendor, or bank account from a contact in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Enable Customer Payments Through PayPal| Project “Madeira”"
+                pageTitle="How to: Enable Customer Payments Through PayPal| Financials"
                 description="How to: Enable Customer Payments Through PayPal"
                 services="project-madeira"
                 documentationCenter=""
@@ -24,7 +24,7 @@ To enable customer payments through PayPal, you must do the following:
 1. Set up PayPal Payments Standard as a payment service in the **Payments Services** window.
 2. Select PayPal Payments Standard in the **Payment Service** field on the sales document in question.
 
-The PayPal Payments Standard service is installed as an extension to Project "Madeira" and ready to enabled. For more information, see [Customizing Project "Madeira" Using Extensions ](ui-extensions.md).
+The PayPal Payments Standard service is installed as an extension to Financials and ready to enabled. For more information, see [Customizing Dynamics 365 for Financials Using Extensions ](ui-extensions.md).
 
 ## To enable the PayPal Payments Standard service
 1. In the top right corner, choose the **Search for Page or Report** icon, **Payment Services**, and then choose the related link.  
@@ -47,4 +47,4 @@ The PayPal Payments Standard service is installed as an extension to Project "Ma
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Customizing Project “Madeira” Using Extensions](ui-extensions.md)
+[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)

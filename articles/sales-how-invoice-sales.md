@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Invoice Sales| Project “Madeira”"
+                pageTitle="How to: Invoice Sales| Financials"
                 description="Describes how to use sales invoices."
                 services="project-madeira"
                 documentationCenter=""
@@ -30,7 +30,7 @@ You can easily correct or cancel a posted sales invoice before it is paid. This 
 
 Products can be both inventory items and services. For more information, see [How to: Register New Products](inventory-how-register-new-products.md). The sales invoice process is the same for both product types.
 
-**Note**: In Project "Madeira", a product is referred to with the term “item”.
+**Note**: In Financials, a product is referred to with the term “item”.
 
 You can fill customer fields on the sales invoice in two ways depending on whether the customer is already registered.
 
@@ -81,4 +81,4 @@ The related item and customer ledger entries are now created in your system, and
 [Set Up Sales](sales-setup-sales.md)  
 [Inventory](inventory-manage-inventory.md)    
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

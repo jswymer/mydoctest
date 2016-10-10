@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Define Check Layouts| Project “Madeira”"
-                description="Learn about the check layouts that are available in Project “Madeira”."
+                pageTitle="How to: Define Check Layouts| Financials"
+                description="Learn about the check layouts that are available in Financials."
                 services="project-madeira"
                 documentationCenter=""
                 authors="edupont04"
@@ -37,5 +37,5 @@ When you have set up check layouts, you can print checks from the **Payment Jour
 [Manage Payables](payables-manage-payables.md)  
 [Manage Bank Accounts](bank-manage-bank-accounts.md)   
 [Completing Period-End Processes](year-how-complete-period-end-processes.md)  
-[Work With Project "Madeira"](ui-work-product.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Across Business Areas](ui-across-business-areas.md)

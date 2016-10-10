@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Payment Methods| Project “Madeira”" 
+                pageTitle="Payment Methods| Financials" 
                 description="Describes what payment methods are and how they are used." 
                 services="project-madeira" 
                 documentationCenter=""

@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Register New Vendors| Project “Madeira”"
-                description="Learn how to add vendors to your Project “Madeira”."
+                pageTitle="How to: Register New Vendors| Financials"
+                description="Learn how to add vendors to your Financials."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"
@@ -47,4 +47,4 @@ The vendor template is added to the list of vendor templates, so that you can us
 ## See Also
 [Manage Purchasing](purchasing-manage-purchasing.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)   
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Mailing Groups for Contacts| Project “Madeira”"
-                description="Describes mailing groups for contacts in Project “Madeira”"
+                pageTitle="Mailing Groups for Contacts| Financials"
+                description="Describes mailing groups for contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Create a Custom Report Layout | Project “Madeira”"
+	pageTitle="How to: Create a Custom Report Layout | Financials"
         description="Learn how you can design how reports look."
         services="project-madeira"
         documentationCenter=""

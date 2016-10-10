@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Prepare for Setting Up Contacts | Project “Madeira”" 
-                description="Describes how to prepare for setting up contacts in Project “Madeira”" 
+                pageTitle="Prepare for Setting Up Contacts | Financials" 
+                description="Describes how to prepare for setting up contacts in Financials" 
                 services="project-madeira" 
                 documentationCenter=""
                 authors="jswymer"

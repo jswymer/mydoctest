@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Register New Customers| Project “Madeira”"
+                pageTitle="How to: Register New Customers| Financials"
                 description="How to: Register New Customers"
                 services="project-madeira"
                 documentationCenter=""
@@ -52,4 +52,4 @@ The customer template is added to the list of customer templates, so that you ca
 ## See Also  
 [Manage Sales](sales-manage-sales.md)    
 [Set Up Sales](sales-setup-sales.md)    
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

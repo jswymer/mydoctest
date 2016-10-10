@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Send Documents by Email| Project “Madeira”"
+                pageTitle="How to: Send Documents by Email| Financials"
                 description="How to: Send Documents by Email"
                 services="project-madeira"
                 documentationCenter=""
@@ -17,7 +17,7 @@
 # How to: Send Documents by Email
 To communicate the contents of business documents quickly to your business partners, such as the payment information on sales documents to customers, you can use the Report Layout feature to define document-specific content that gets inserted in email bodies automatically.
 
-To enable emails from within Project "Madeira", start the **Set Up Email** assisted setup on the Home page.
+To enable emails from within Financials, start the **Set Up Email** assisted setup on the Home page.
 
 You can email practically all document types as attachments to email messages directly from the window that shows the document. In addition to the attachment, you can set up document-specific email bodies with core information from the document preceded by standard text that greets the mail recipient and introduces the document in question. To offer your customers to pay for sales electronically using a payment service, such as PayPal, you can also have the PayPal information and hyperlink inserted in the email body.
 
@@ -61,5 +61,5 @@ The following procedure describes how to send a posted sales invoice as an email
 **Note**: If you do not need to specify email settings each time you email a document, you can select the **Yes (Use Default Settings)** option in the Email field in the **Send Document To** window. In that case, the **Send Email** window will not open. See Step 4. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
 
 ## See Also  
-[Work with Project "Madeira"](ui-work-product.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  
 [How to: Invoice Sales](sales-how-invoice-sales.md)

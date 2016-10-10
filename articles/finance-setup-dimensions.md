@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Set Up Dimensions| Project “Madeira”"
+                pageTitle="Set Up Dimensions| Financials"
                 description="Describes how to set up dimensions."
                 services="project-madeira"
                 documentationCenter=""

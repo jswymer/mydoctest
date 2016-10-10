@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Use Allocation Keys in General Journals | Project “Madeira”"
+	pageTitle="How to: Use Allocation Keys in General Journals | Financials"
         description="Learn how you can use allocation keys in journals." 
         services="project-madeira" 
         documentationCenter=""

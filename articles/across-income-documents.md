@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Incoming Documents| Project “Madeira”"
+                pageTitle="Manage Incoming Documents| Financials"
                 description="Manage Incoming Documents"
                 services="project-madeira"
                 documentationCenter=""
@@ -15,21 +15,21 @@
     ms.author="SorenGP" />
 
 # Manage Incoming Documents
-Some business transactions are not recorded in Project 'Madeira' from the outset. Instead, an external business document comes into your company as an e-mail attachment or a paper copy that you scan to file. This is typical of purchases, where such incoming document files represent payment receipts for expenses or small purchases.
+Some business transactions are not recorded in Financials from the outset. Instead, an external business document comes into your company as an e-mail attachment or a paper copy that you scan to file. This is typical of purchases, where such incoming document files represent payment receipts for expenses or small purchases.
 
-From PDF or image files representing incoming documents, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can then be converted to document records inside Project 'Madeira'.
+From PDF or image files representing incoming documents, you can have an external OCR service (Optical Character Recognition) generate electronic documents that can then be converted to document records inside Financials.
 
 In the **Incoming Documents** window, you can use different functions to review expense receipts, manage OCR tasks, and convert incoming document files, manually or automatically, to the relevant documents or journal lines. The external files can be attached at any process stage, including to posted documents and to the resulting vendor, customer, and general ledger entries.
 
 The incoming document process can consist of the following main activities:
 
-* Record the external documents inside Project 'Madeira' by creating lines in the **Incoming Documents** window in either of the following ways:
+* Record the external documents inside Financials by creating lines in the **Incoming Documents** window in either of the following ways:
     * Manually, by using simple functions, either from a PC or from a mobile device, in one of the following ways:
         * Use the **Create from File** button, and then fill relevant fields in the **Incoming Document** window. The file is automatically attached.  
         * Use the **New** button, and then fill relevant fields in the **Incoming Document** window and manually attach the related file.
         * From a tablet or phone, use the **Create from Camera** button to create a new incoming document record, and then send the image to the OCR service, for example.
     * Automatically, by receiving the document from the OCR service as an electronic document after you have e-mailed the related PDF or image file to the OCR service. The **Financial Information** FastTab is automatically filled in the **Incoming Document** window.
-* Use the OCR service to have PDF or image files turned into electronic documents that can be converted to document records in Project 'Madeira'.
+* Use the OCR service to have PDF or image files turned into electronic documents that can be converted to document records in Financials.
 * Create new documents or general journal lines for incoming document records by entering the information as you read it from incoming document files.
 * Attach incoming document files to purchase and sales documents of any status, including to the vendor, customer, and general ledger entries that result from posting.
 * View incoming document records and their attachments from any purchase and sales document or entry, or find all general ledger entries without incoming document records from the **Chart of Accounts** window.
@@ -42,4 +42,4 @@ The incoming document process can consist of the following main activities:
 
 ## See Also  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
-[Work With Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

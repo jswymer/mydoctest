@@ -1,5 +1,5 @@
-<properties pageTitle="Managing Sales Opportunities | Project “Madeira”"
-description="Describes managing sales opportunities in Project “Madeira”"
+<properties pageTitle="Managing Sales Opportunities | Financials"
+description="Describes managing sales opportunities in Financials"
     services="project-madeira"
     documentationCenter=""
     authors="jswymer"
@@ -29,4 +29,4 @@ The following table describes a sequence of tasks, with links to the topics that
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  
 [Create and Manage Contacts](marketing-contacts.md)  
-[Working with Project "Madeira"](ui-work-product.md)
+[Working with Financials](ui-work-product.md)

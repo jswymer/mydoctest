@@ -1,5 +1,5 @@
-<properties pageTitle="How to: Set Up Opportunity Sales Cycles and Cycle Stages | Project “Madeira”"
-    description="Describes how to set up opportunity sales cycles and stages in Project “Madeira”"
+<properties pageTitle="How to: Set Up Opportunity Sales Cycles and Cycle Stages | Financials"
+    description="Describes how to set up opportunity sales cycles and stages in Financials"
     services="project-madeira"
     documentationCenter=""
     authors="jswymer"
@@ -36,4 +36,4 @@ After you add the opportunities stage cycle, you can start to add sales opportun
 ##See Also  
 [Processing Sales Opportunities](marketing-processing-sales-opportunities.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Working with Project "Madeira"](ui-work-product.md)
+[Working with Financials](ui-work-product.md)

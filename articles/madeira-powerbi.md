@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Using the Project “Madeira” Content Pack for Power BI | Project “Madeira”"
-    description="Using the Project “Madeira” content pack for Power BI"
+	pageTitle="Using the Dynamics 365 for Financials Content Pack for Power BI | Financials"
+    description="Using the Dynamics 365 for Financials content pack for Power BI"
 	services="project-madeira"
 	documentationCenter=""
 	authors="edupont04"/>
@@ -13,46 +13,46 @@
     ms.date="06/03/2016"
     ms.author="edupont04" />
 
-# Using the Project "Madeira" Content Pack for Power BI
-Getting insights into your Project "Madeira" data is easy with Power BI and the Project "Madeira" content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
+# Using the Dynamics 365 for Financials Content Pack for Power BI
+Getting insights into your Financials data is easy with Power BI and the Financials content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
 
-The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for the Project "Madeira" preview.  
+The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for Dynamics 365 for Financials.  
 
 - Choose any visual on the dashboard to bring up one of seven underlying reports.  
 - Filter the report or add fields that you want to monitor.  
 - Pin this customized view to the dashboard to continue tracking.  
 The dashboard and underlying reports refresh daily. You can control the refresh schedule and modify the frequency on the dataset.  
 
-## Accessing Project "Madeira" in Power BI
-To see your Project "Madeira" data in Power BI, you must have the following:  
+## Accessing Financials in Power BI
+To see your Financials data in Power BI, you must have the following:  
 
-- Access to Project "Madeira". For more information, see [Project "Madeira"](http://go.microsoft.com/fwlink/?LinkID=759714).  
+- Access to Financials. For more information, see [Financials](http://go.microsoft.com/fwlink/?LinkID=759714).  
 - Access to Power BI. For more information, see [Power BI](https://powerbi.microsoft.com).
 
-On the Power BI site, you can find additional information about [adding the Project "Madeira" content pack to Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
+On the Power BI site, you can find additional information about [adding the Financials content pack to Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
 
-To access the Project "Madeira" content pack in Power BI, on the connection page, you must specify the following information:
+To access the Financials content pack in Power BI, on the connection page, you must specify the following information:
 
 | Field       | Description              |
 |-------------|--------------------------|
 |**OData Feed URL**|The OData URL so Power BI can access data from your company, such as https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US').|
 |**Authentication method**|Choose **Basic**.|
-|**User name**|The email account that you used to sign up for Project "Madeira", such as *me@mybusiness.com*.|
-|**Password**|This is the web service access key for your user account in Project "Madeira".|
+|**User name**|The email account that you used to sign up for Financials, such as *me@mybusiness.com*.|
+|**Password**|This is the web service access key for your user account in Financials.|
 
-This means that you must get two pieces of information from Project "Madeira": The OData URL and the web service access key for your user account.  
+This means that you must get two pieces of information from Financials: The OData URL and the web service access key for your user account.  
 **Getting the URL**  
-When you add Project "Madeira" to Power BI, you must specify a URL so Power BI can access data from your company. On the connection page, the URL is referred to as the **OData Feed URL**, and it must have the following format:
+When you add Financials to Power BI, you must specify a URL so Power BI can access data from your company. On the connection page, the URL is referred to as the **OData Feed URL**, and it must have the following format:
 
          https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
-In this example, *mybusiness* is the name of your Project "Madeira" service, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name.   
-To get the URL, in Project "Madeira", search for and open the **Web Services** window. This window lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.  
+In this example, *mybusiness* is the name of your Financials service, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name.   
+To get the URL, in Financials, search for and open the **Web Services** window. This window lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.  
 **Getting the web service access key**  
-In order to use data from Project "Madeira", in Power BI, in the **Connect to Project "Madeira"** window, you must specify your user name, which is your email account, and a password. The password is the web service access key that is set up for your user account in Project "Madeira".  
-To get a web service access key, in Project “Madeira”, search for the **Users** window, and then open the card for your user account. On the **Web Service Access** FastTab, copy the contents of the **Web Service Access Key** field. If the field is blank, in the ribbon, choose **Change Web Service Access Key**, choose the **Key Never Expires** field, and then choose the OK button. You can then copy the key.  
+In order to use data from Financials, in Power BI, in the **Connect to Financials** window, you must specify your user name, which is your email account, and a password. The password is the web service access key that is set up for your user account in Financials.  
+To get a web service access key, in Financials, search for the **Users** window, and then open the card for your user account. On the **Web Service Access** FastTab, copy the contents of the **Web Service Access Key** field. If the field is blank, in the ribbon, choose **Change Web Service Access Key**, choose the **Key Never Expires** field, and then choose the OK button. You can then copy the key.  
 
-## Getting Data from Project "Madeira"
-The Project "Madeira" dashboard shows the most typical reports that you will want to use to track your business. The data is extracted from your Project "Madeira" company using web services to read live data. In Project "Madeira", the **Web Services** window lists the web services that have been set up for you, including the following that are consumed by the content pack in Power BI:  
+## Getting Data from Financials
+The Financials dashboard shows the most typical reports that you will want to use to track your business. The data is extracted from your Financials company using web services to read live data. In Financials, the **Web Services** window lists the web services that have been set up for you, including the following that are consumed by the content pack in Power BI:  
 
 - ItemSalesAndProfit  
 - ItemSalesByCustomer  
@@ -63,13 +63,13 @@ The Project "Madeira" dashboard shows the most typical reports that you will wan
 - TopCustomerOverview  
 
 **Note**: If you change the name of any of these web services, the data will not show up in Power BI.  
-If you want to add use other data in Power BI, you must find the tables in Project "Madeira", expose them as web services, and then add them to the content pack. This is an advanced scenario, and we recommend that you start with the data that is already available in Power BI.  
+If you want to add use other data in Power BI, you must find the tables in Financials, expose them as web services, and then add them to the content pack. This is an advanced scenario, and we recommend that you start with the data that is already available in Power BI.  
 
 ## Troubleshooting
 The Power BI dashboard relies on the published web services that are listed above, and it will show data from the demonstration company or your own company if you import data from your current finance solution. However, if something goes wrong, this section provides a workaround for the most typical issues.  
 
 **"Parameter validation failed, please make sure all parameters are valid"**  
-If you see this error after you enter your Project “Madeira” URL, make sure the following requirements are satisfied:  
+If you see this error after you enter your Financials URL, make sure the following requirements are satisfied:  
 
 - The URL follows exactly this pattern:
 
@@ -80,12 +80,12 @@ If you see this error after you enter your Project “Madeira” URL, make sure 
 
 
 **"Login failed"**  
-If you get a "login failed" error when you log in to the dashboard, using your Project “Madeira” credentials, then this can be caused by one of the following issues:
+If you get a "login failed" error when you log in to the dashboard, using your Financials credentials, then this can be caused by one of the following issues:
 
-* The account you are using does not have permissions to read the Project “Madeira” data from your account.
+* The account you are using does not have permissions to read the Financials data from your account.
 
-    Verify your user account in Project "Madeira", and make sure that you have used the right web service access key as the password, and then try again.  
-* The Project "Madeira"  instance that you are trying to connect to does not have a valid SSL certificate. In this case you'll see a more detailed error message ("unable to establish trusted SSL relationship").
+    Verify your user account in Financials, and make sure that you have used the right web service access key as the password, and then try again.  
+* The Financials  instance that you are trying to connect to does not have a valid SSL certificate. In this case you'll see a more detailed error message ("unable to establish trusted SSL relationship").
 
     **Note**: Self-signed certificates are not supported.  
 
@@ -105,5 +105,5 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 
 
 ## See Also
-[Welcome to Project "Madeira"](madeira-get-started.md)  
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
 [Migrate Business Data from Other Finance Systems](upload-data.md)  

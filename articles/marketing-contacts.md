@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Create and Manage Contacts | Project “Madeira”"
-                description="Describes how to create and manage contacts in Project “Madeira”"
+                pageTitle="Create and Manage Contacts | Financials"
+                description="Describes how to create and manage contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"
