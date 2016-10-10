@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Synchronizing Contacts With Customers, Vendors, and Bank Accounts | Project “Madeira”"
-                description="Describes synchronizing contacts with customers, vendors, and bank accounts in Project “Madeira”"
+                pageTitle="Synchronizing Contacts With Customers, Vendors, and Bank Accounts | Financials"
+                description="Describes synchronizing contacts with customers, vendors, and bank accounts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="edupont04"

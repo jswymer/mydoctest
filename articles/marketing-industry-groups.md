@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Industry Groups | Project “Madeira”"
-                description="Describes using industry groups with contacts in Project “Madeira”"
+                pageTitle="Industry Groups | Financials"
+                description="Describes using industry groups with contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

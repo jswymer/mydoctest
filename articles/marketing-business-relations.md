@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Business Relations for Contacts | Project “Madeira”"
-                description="Describes business relations for contacts in Project “Madeira”"
+                pageTitle="Business Relations for Contacts | Financials"
+                description="Describes business relations for contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

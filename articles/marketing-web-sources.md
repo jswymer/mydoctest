@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Web Sources for Contacts | Project “Madeira”"
-                description="Describes how to use web sources for contacts in Project “Madeira”"
+                pageTitle="Web Sources for Contacts | Financials"
+                description="Describes how to use web sources for contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="edupont04"

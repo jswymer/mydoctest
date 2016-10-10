@@ -1,5 +1,5 @@
-<properties pageTitle="Processing Sales Opportunities | Project “Madeira”"
-    description="Describes the process for sales opportunities in Project “Madeira”"
+<properties pageTitle="Processing Sales Opportunities | Financials"
+    description="Describes the process for sales opportunities in Financials"
     services="project-madeira"
     documentationCenter=""
     authors="jswymer"
@@ -81,4 +81,4 @@ If an opportunity follows a sales cycle, you can move it forward or back through
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  
 [Create and Manage Contacts](marketing-contacts.md)  
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

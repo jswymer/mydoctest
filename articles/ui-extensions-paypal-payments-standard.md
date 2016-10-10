@@ -1,5 +1,5 @@
 <properties
-	pageTitle="PayPal Payments Standard| Project “Madeira”"
+	pageTitle="PayPal Payments Standard| Financials"
         description="Provides information about the PayPal Payments Standard extension"
         services="project-madeira"
         documentationCenter=""
@@ -14,7 +14,7 @@
     ms.date="05/12/2016"
     ms.author="SorenGP" />
 
-# The PayPal Payments Standard Extension to Project "Madeira"
+# The PayPal Payments Standard Extension to Dynamics 365 for Financials
 Customers continuously require higher customer service, both in terms of product quality but also in terms of delivery and payment options. The PayPal Payments Standard service helps you increase your customer service.
 
 As an alternative to collecting payments through bank transfer or credit cards, you can offer your customers to pay you through their PayPal account. When you send a sales invoice or sales order by email, there is a PayPal link in the email body and in the attached PDF document. When the customer chooses the link, the service page for their PayPal account appears showing the payment details for the sale. The customer can then pay the invoice as any other PayPal payment.
@@ -32,6 +32,6 @@ The PayPal Payments Standard service provides the following benefits:
 For more information, see [How to: Enable Customer Payment Through PayPal](sales-how-enable-customer-payments-paypal.md).
 
 ## See Also  
-[Customizing Project "Madeira" Using Extensions](ui-extensions.md)  
+[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
 [Set Up Sales](sales-setup-sales.md)  
-[Work with Project "Madeira"](ui-work-product.md)
+[Work with Dynamics 365 for Financials](ui-work-product.md)

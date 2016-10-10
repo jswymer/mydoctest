@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Set Up Alternative Addresses for Contacts | Project “Madeira”"
-                description="Describes how to set up alternative addresses for contacts in Project “Madeira”"
+                pageTitle="How to: Set Up Alternative Addresses for Contacts | Financials"
+                description="Describes how to set up alternative addresses for contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

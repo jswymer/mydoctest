@@ -1,7 +1,7 @@
 # madeira-content-pr
 
-This repository is has some basic content that follows the requirements of the Documentation Publishing Service (DPS) that is used for managing the madeira.microsoft.com documentation library. 
-You can find a sample article within the /articles directory of this repository and a sample include in the /include directory. 
+This repository is has some basic content that follows the requirements of the Documentation Publishing Service (DPS) that is used for managing the madeira.microsoft.com documentation library.
+You can find a sample article within the /articles directory of this repository and a sample include in the /include directory.
 
 For more information about DPS please contact the [ACOM Web Team](mailto:winaz_webteam@microsoft.com).
 
@@ -47,11 +47,11 @@ Best Practices
 ### Properties and tags
 All topics must start with the following set of properties and tags filled with the relevant information.
 
-For Project “Madeira”:
+For Dynamics 365 for Financials:
 
 ```
 <properties
-            pageTitle="What's New in Project “Madeira”| Project “Madeira”"
+            pageTitle="What's New in Dynamics 365 for Financials| Financials"
                     description="What's New"
             services="project-madeira"
             documentationCenter=""
@@ -66,26 +66,9 @@ For Project “Madeira”:
     ms.author="MyGitHubAccount" />
 ```
 
-For Dynamics NAV 2017:
+For Dynamics NAV 2017, see the relevant repo.
 
-```
-<properties
-           pageTitle="My topic for Dynamics NAV| Dynamics NAV"
-           description="My topic talks about stuff"
-           services=" "
-           documentationCenter=""
-           authors="MyGitHubAccount"/>
-<tags
-    ms.prod="dynamics-nav-2017"
-    ms.topic="article"
-    ms.devlang="na"
-    ms.tgt_pltfrm="na"
-    ms.workload="na"
-    ms.date="06/01/2016"
-    ms.author="MyGitHubAccount" />
-```
-
-The pageTitle property must use curly quotes for Project “Madeira”. The authors property can include several names of GitHub accounts, but the ms.author tag can only specify one author. Remember to specify your own GitHub account.
+The pageTitle and description properties must use the full name, Dynamics 365 for Financials. The authors property can include several names of GitHub accounts, but the ms.author tag can only specify one author. Remember to specify your own GitHub account.
 - The ms.date tag must be updated according to this schedule:  
 - Topic created
     - Set ms.date to the date when the topic will be published the first time (typically the 12th of the subsequent month)  
@@ -242,7 +225,7 @@ The TOC structure of the TOC file is as follows:
 ```
 
 ### Standard Phrases
-All fields in Project "Madeira" have tooltips. Therefore, do not document fields in Help. To refer readers to the tooltips, use this standard phrase where relevant:    
+All fields in Financials have tooltips. Therefore, do not document fields in Help. To refer readers to the tooltips, use this standard phrase where relevant:    
 "Choose a field to read a short description of the field or link to more information."
 
 ### File naming
@@ -270,8 +253,8 @@ All fields in Project "Madeira" have tooltips. Therefore, do not document fields
 |Understanding Session Timeouts|admin-understand-session-timeouts.md|
 |Manage Data Encryption|admin-manage-data-encryption.md|
 |||
-|Get Project “Madeira” on My Device|mobile-get-madeira-apps.md|
-|Get My Project “Madeira” Outlook Add-In|office-get-madeira-outlook-addin.md|
+|Get Dynamics 365 for Financials on My Device|mobile-get-madeira-apps.md|
+|Get My Dynamics 365 for Financials Outlook Add-In|office-get-madeira-outlook-addin.md|
 |||
 |How to: Work With GIFI Codes in Canada|ca-finance-work-GiFI-codes.md|
 
@@ -289,4 +272,3 @@ To give readers the impression that the content library is truly country-specifi
 - Do not create TOC entries for country-specific content. TOC entries will make the content library appear less country-specific.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-

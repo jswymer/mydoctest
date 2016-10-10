@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Set Up Bank Accounts| Project “Madeira”"
+                pageTitle="How to: Set Up Bank Accounts| Financials"
                 description="How to: Set Up Bank Accounts"
                 services="project-madeira"
                 documentationCenter=""
@@ -15,7 +15,7 @@
     ms.author="SorenGP" />
 
 # How to: Set Up Bank Accounts
-You use bank accounts in the Project "Madeira" to keep track of your banking transactions. Accounts can be denominated in your local currency or in a foreign currency. After you have set up bank accounts, you can also use the check printing option.
+You use bank accounts in the Financials to keep track of your banking transactions. Accounts can be denominated in your local currency or in a foreign currency. After you have set up bank accounts, you can also use the check printing option.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
 2. In the **Bank Accounts** window, choose the **New** action.

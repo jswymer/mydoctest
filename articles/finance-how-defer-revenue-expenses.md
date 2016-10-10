@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Defer Revenues and Expenses| Project “Madeira”" 
+	pageTitle="How to: Defer Revenues and Expenses| Financials" 
     description="Describes how to recognize revenues and expenses in periods other than the period in which the transaction is posted by automatically deferring revenues and expenses over a specified schedule." 
     services="project-madeira" 
     documentationCenter=""

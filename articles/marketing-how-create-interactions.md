@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Create Interactions on Contacts and Segments | Project “Madeira”"
-                description="Describes how to create interactions on contacts and segments in  Project “Madeira”"
+                pageTitle="How to: Create Interactions on Contacts and Segments | Financials"
+                description="Describes how to create interactions on contacts and segments in  Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

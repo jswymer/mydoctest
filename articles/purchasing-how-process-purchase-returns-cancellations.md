@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Process Purchase Returns or Cancellations| Project “Madeira”"
+                pageTitle="How to: Process Purchase Returns or Cancellations| Financials"
                 description="How to: Process Purchase Returns or Cancellations"
                 services="project-madeira"
                 documentationCenter=""

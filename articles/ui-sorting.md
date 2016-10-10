@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Sorting | Project “Madeira”"
+	pageTitle="Sorting | Financials"
         description="Learn how sorting works."
         services="project-madeira"
         documentationCenter=""
@@ -21,5 +21,5 @@ Choose a column heading and use the small arrow to sort ascending or descending.
 **Note**: Sorting is not supported images, BLOB fields, FlowFilters, and fields that do not belong to a table.
 
 ## See Also
-[Work with Project "Madeira"](ui-work-product.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Entering Criteria in Filters](ui-enter-criteria-filters.md)

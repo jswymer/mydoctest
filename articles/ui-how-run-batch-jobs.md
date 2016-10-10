@@ -1,6 +1,6 @@
 <properties
-	pageTitle="How to: Run Batch Jobs | Project “Madeira”"
-        description="Learn how batch jobs work in project “Madeira”."
+	pageTitle="How to: Run Batch Jobs | Financials"
+        description="Learn how batch jobs work in Dynamics 365 for Financials."
         services="project-madeira"
         documentationCenter=""
         authors="SusanneWindfeldPedersen"

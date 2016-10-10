@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Reconcile Bank Accounts Separately| Project “Madeira”"
+                pageTitle="How to: Reconcile Bank Accounts Separately| Financials"
                 description="How to: Reconcile Bank Accounts Separately"
                 services="project-madeira"
                 documentationCenter=""
@@ -15,7 +15,7 @@
     ms.author="SorenGP" />
 
 # How to: Reconcile Bank Accounts Separately
-To reconcile bank accounts in Project "Madeira" with statements received from the bank, you must fill in the lines in the **Bank Acc. Reconciliation** window.
+To reconcile bank accounts in Financials with statements received from the bank, you must fill in the lines in the **Bank Acc. Reconciliation** window.
 
 **Note**: You can also reconcile bank accounts in the **Payment Reconciliation Journal** window. Any open bank account ledger entries related to the applied customer or vendor ledger entries will be closed when you choose the **Post Payments and Reconcile Bank Account** action. This means that the bank account is automatically reconciled for payments that you post with the journal. For more information, see [How to: Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).
 
@@ -69,7 +69,7 @@ All bank statement lines and bank account ledger entries that can be matched cha
 5. To remove a match, select the bank statement line, and then choose the **Remove Match** action.
 
 ## To create missing ledger entries to match bank transactions with
-Sometimes a bank statement contain amounts for interest or fees charged. Such bank transactions cannot be matched because no related ledger entries exist in Project "Madeira". You must then post a journal line for each transaction to create a related ledger entry that it can be matched with.
+Sometimes a bank statement contain amounts for interest or fees charged. Such bank transactions cannot be matched because no related ledger entries exist in Financials. You must then post a journal line for each transaction to create a related ledger entry that it can be matched with.
 
 1. In the **Bank Acc. Reconciliation** window, choose the **Transfer to General Journal** action.  
 2. In the **Trans. Bank Rec. to Gen. Jnl.** window, specify which general journal to use, and then choose the **OK** button.

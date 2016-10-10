@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Create Segments | Project “Madeira”"
-                description="Describes how to create segments for contacts in Project “Madeira”"
+                pageTitle="How to: Create Segments | Financials"
+                description="Describes how to create segments for contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

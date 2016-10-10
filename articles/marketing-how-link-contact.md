@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Linking Contacts With Customers, Vendors, and Bank Accounts | Project “Madeira”" 
-                description="Describes how to link contacts with customers, vendors, and bank accounts in Project “Madeira”" 
+                pageTitle="Linking Contacts With Customers, Vendors, and Bank Accounts | Financials" 
+                description="Describes how to link contacts with customers, vendors, and bank accounts in Financials" 
                 services="project-madeira" 
                 documentationCenter=""
                 authors="jswymer"

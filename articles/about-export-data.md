@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Exporting your Data to Excel from Dynamics 365 for Financials | Project “Madeira”"
+	pageTitle="Exporting your Data to Excel from Dynamics 365 for Financials | Financials"
     description="Learn about exporting your data from Dynamics 365 for Financials to Excel."
 	services="project-madeira"
 	documentationCenter=""

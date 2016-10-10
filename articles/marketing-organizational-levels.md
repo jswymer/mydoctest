@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Organizational Levels for Contacts | Project “Madeira”" 
-                description="Describes organizational levels for contacts in Project “Madeira”" 
+                pageTitle="Organizational Levels for Contacts | Financials" 
+                description="Describes organizational levels for contacts in Financials" 
                 services="project-madeira" 
                 documentationCenter=""
                 authors="jswymer"

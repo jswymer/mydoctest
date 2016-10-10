@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents| Project “Madeira”"
+                pageTitle="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents| Financials"
                 description="How to: Reconcile Customer Payments Manually From a List of Unpaid Sales Documents"
                 services="project-madeira"
                 documentationCenter=""
@@ -65,7 +65,7 @@ Payment entries are posted to general ledger, bank, and customer accounts. Each 
 
 If a payment in the bank is not represented by line in the **Payment Registration** window, it may be because the related document has not yet been posted. In that case, you can use a search function to quickly find the document and post it to process the payment. For more information, see the How to: Find Unpaid Documents During Manual Customer Payment Reconciliation section.
 
-If a payment in the bank is not represented by any document in Project "Madeira", then you can open a prefilled general journal from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been resolved. For more information, see the "To record or post a payment without a related document" section.
+If a payment in the bank is not represented by any document in Financials, then you can open a prefilled general journal from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been resolved. For more information, see the "To record or post a payment without a related document" section.
 
 ## To Customer Payments with Discounts Manually
 If you have agreed on a payment discount with your customer, then the payment amounts can be lower than the invoice amounts if payment occurs before the agreed discount date.
@@ -152,10 +152,10 @@ The Search function searches among documents that are not fully invoiced based o
 
 If one or more documents match the criteria, then the **Document Search Result** window opens to display lines that represent those documents. Each line contains a document number, description, and amount so that you can easily find a specific document, for example based on information on your bank statement.
 
-If a payment in the bank is not represented by any document in Project "Madeira", then you can open a prefilled general journal from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been resolved.
+If a payment in the bank is not represented by any document in Financials, then you can open a prefilled general journal from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been resolved.
 
 ##To record or post a payment without a related document
-If a payment in the bank is not represented by any document Project "Madeira", then you can open a prefilled general journal line from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been clarified.
+If a payment in the bank is not represented by any document Financials, then you can open a prefilled general journal line from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been clarified.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 Proceed to record an undocumented payment.  

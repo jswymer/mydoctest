@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Manage Budgets for Fixed Assets| Project “Madeira”"
+                pageTitle="How to: Manage Budgets for Fixed Assets| Financials"
                 description="Describes how to budget for fixed assets."
                 services="project-madeira"
                 documentationCenter=""

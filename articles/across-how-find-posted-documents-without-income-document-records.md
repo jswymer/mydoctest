@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Find Posted Documents without Incoming Document Records| Project “Madeira”"
+                pageTitle="How to: Find Posted Documents without Incoming Document Records| Financials"
                 description="How to: Find Posted Documents without Incoming Document Records"
                 services="project-madeira"
                 documentationCenter=""
@@ -36,4 +36,4 @@ If a relevant incoming document record does not exist in the **Incoming Document
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
-[Work With Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

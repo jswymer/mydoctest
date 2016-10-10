@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Export Payments to a Bank File| Project “Madeira”"
+                pageTitle="How to: Export Payments to a Bank File| Financials"
                 description="How to: Export Payments to a Bank File"
                 services="project-madeira"
                 documentationCenter=""
@@ -17,7 +17,7 @@
 # How to: Export Payments to a Bank File
 When you are ready to make payments to your vendors using the **Payment Journal** window, you can export a file with the payment information on the journal lines. You can then upload the file to your electronic bank to process the related money transfers.
 
-In the generic version of Project "Madeira", a global provider of services to convert bank data to any file format that your bank requires is set up and connected.
+In the generic version of Financials, a global provider of services to convert bank data to any file format that your bank requires is set up and connected.
 
 **Note**: Before you can export from a payment journal, you must enable export on the related journal batch. In addition, your bank account and the vendor’s bank account must be set up for electronic payment. For more information, see [How to: Set Up the Bank Data Conversion Service](bank-how-setup-bank-data-conversion-service.md).
 

@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Manage Segments | Project “Madeira”"
-                description="Describes segments for contacts in Project “Madeira”"
+                pageTitle="Manage Segments | Financials"
+                description="Describes segments for contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"

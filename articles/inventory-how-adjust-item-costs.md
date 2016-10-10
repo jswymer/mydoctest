@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Adjust Item Costs| Project “Madeira”"
+                pageTitle="How to: Adjust Item Costs| Financials"
                 description="How to: Adjust Item Costs"
                 services="project-madeira"
                 documentationCenter=""

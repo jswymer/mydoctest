@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Collect Outstanding Balances| Project “Madeira”"
+                pageTitle="How to: Collect Outstanding Balances| Financials"
                 description="How to: Collect Outstanding Balances"
                 services="project-madeira"
                 documentationCenter=""

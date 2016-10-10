@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Set Up Salespeople| Project “Madeira”"
+                pageTitle="How to: Set Up Salespeople| Financials"
                 description="How to: Set Up Salespeople"
                 services="project-madeira"
                 documentationCenter=""
