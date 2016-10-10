@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Close Books| Project “Madeira”"
+	pageTitle="Close Books| Financials"
 	description="Explains the processes involved in closing the books for a fiscal year or period."
 	services="project-madeira"
 	documentationCenter=""

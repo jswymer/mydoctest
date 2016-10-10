@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Correct or Cancel Unpaid Purchase Invoices| Project “Madeira”"
+                pageTitle="How to: Correct or Cancel Unpaid Purchase Invoices| Financials"
                 description="How to: Correct or Cancel Unpaid Purchase Invoices"
                 services="project-madeira"     
                 documentationCenter=""

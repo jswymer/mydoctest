@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Correct or Cancel Unpaid Sales Invoices| Project “Madeira”"
+                pageTitle="How to: Correct or Cancel Unpaid Sales Invoices| Financials"
                 description="How to: Correct or Cancel Unpaid Sales Invoices"
                 services="project-madeira"
                 documentationCenter=""
@@ -53,4 +53,4 @@ When you correct or cancel a posted sales invoice, the corrective sales credit m
 [Manage Sales](sales-manage-sales.md)  
 [Set Up Sales](sales-setup-sales.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

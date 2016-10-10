@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Post Year-End Closing Entry | Project “Madeira”"
+	pageTitle="How to: Post Year-End Closing Entry | Financials"
 	description="Explains how to post year-end closing entry."
 	services="project-madeira"
 	documentationCenter=""

@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Posting Purchases | Project “Madeira”"
+	pageTitle="Posting Purchases | Financials"
         description="Learn how to post purchases."
         services="project-madeira"
         documentationCenter=""

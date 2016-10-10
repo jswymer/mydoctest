@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Purchase Products for a Sale| Project “Madeira”"
+                pageTitle="How to: Purchase Products for a Sale| Financials"
                 description="How to: Purchase Products for a Sale"
                 services="project-madeira"
                 documentationCenter=""

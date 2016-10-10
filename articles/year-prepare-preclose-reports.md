@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Prepare Pre-Closing Reports| Project “Madeira”"
+	pageTitle="Prepare Pre-Closing Reports| Financials"
 	description="Provides an overview of the reports that may be useful when closing the year."
 	services="project-madeira"
 	documentationCenter=""

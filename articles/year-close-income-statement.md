@@ -1,5 +1,5 @@
 <properties
-	pageTitle="How to: Close Income Statement | Project “Madeira”"
+	pageTitle="How to: Close Income Statement | Financials"
 	description="Explains how to close an income statement."
 	services="project-madeira"
 	documentationCenter=""

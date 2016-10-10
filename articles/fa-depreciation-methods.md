@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Depreciation Methods| Project “Madeira”"
+                pageTitle="Depreciation Methods| Financials"
                 description="Describes the seven methods that you can use to depreciate fixed assets"
                 services="project-madeira"
                 documentationCenter=""

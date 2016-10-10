@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Make Offers| Project “Madeira”"
+                pageTitle="How to: Make Offers| Financials"
                 description="How to: Make Offers"
                 services="project-madeira"
                 documentationCenter=""
@@ -21,7 +21,7 @@ While you negotiate with the customer, you can change and resend the sales quote
 
 Products can be both inventory items and services. For more information, see [How to: Register New Products](inventory-how-register-new-products.md). The sales quote process is the same for both product types.
 
-**Note**: In Project "Madeira", a product is referred to with the term “item”.
+**Note**: In Financials, a product is referred to with the term “item”.
 
 You can fill customer fields on the sales quote in two ways depending on whether the customer is already registered.
 
@@ -73,4 +73,4 @@ The sales quote is removed from the database. A sales invoice or a sales order i
 [Manage Sales](sales-manage-sales.md)  
 [Set Up Sales](sales-setup-sales.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

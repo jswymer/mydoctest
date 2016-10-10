@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Close Periods | Project “Madeira”"
+	pageTitle="Close Periods | Financials"
 	description="Explains the processes to complete to close a period."
 	services="project-madeira"
 	documentationCenter=""

@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Sales and Inventory Forecast | Project “Madeira”"
+	pageTitle="Sales and Inventory Forecast | Financials"
         description="Provides information about the Sales and Inventory Forecast extension."
         services="project-madeira"
         documentationCenter=""
@@ -13,11 +13,11 @@
     ms.date="07/15/2016"
     ms.author="edupont04" />
 
-# Sales and Inventory Forecast for Project "Madeira"
+# Sales and Inventory Forecast for Dynamics 365 for Financials
 Inventory management is a trade-off between customer service and managing your cost. On one hand, a low inventory requires less working capital, but, on the other hand, stock-outs potentially lead to missed sales. The Sales and Inventory Forecast extension predicts potential sales using historical data and gives a clear overview of expected stock-outs. Based on the forecast, the extension helps create replenishment requests to your vendors and saves you time.  
 
 ## Setting up forecasting
-In Project "Madeira", the connection to [Cortana Intelligence](https://www.microsoft.com/en-us/cloud-platform/what-is-cortana-intelligence-suite) is already set up for you. But you can configure the forecast to use a different type of period to report by, such as changing from forecasting by month to forecasting by quarter. You can also choose the number of periods to calculate the forecast by, depending on how granular you want the forecast to be. We suggest that you forecast by month and with a 12 month horizon for the forecast.  
+In Financials, the connection to [Cortana Intelligence](https://www.microsoft.com/en-us/cloud-platform/what-is-cortana-intelligence-suite) is already set up for you. But you can configure the forecast to use a different type of period to report by, such as changing from forecasting by month to forecasting by quarter. You can also choose the number of periods to calculate the forecast by, depending on how granular you want the forecast to be. We suggest that you forecast by month and with a 12 month horizon for the forecast.  
 
 ## Using the forecasts
 The extension uses Cortana Intelligence to predict future sales based on your sales history to help you avoid inventory shortage. For example, when you choose an item in the **Items** window, the chart in the **Item Forecast** pane shows the estimated sales of this item in the coming period. This way you can see if you are likely to run out of stock of the item soon.  
@@ -27,4 +27,4 @@ You can also use the extension to suggest when to stock up on inventory. For exa
 ## See Also
 [Manage Sales](sales-manage-sales.md)  
 [Manage Inventory](inventory-manage-inventory.md)  
-[Customizing Project “Madeira” Using Extensions](ui-extensions.md)  
+[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  

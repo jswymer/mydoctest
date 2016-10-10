@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Adjust Item Costs| Project “Madeira”"
+                pageTitle="How to: Adjust Item Costs| Financials"
                 description="How to: Adjust Item Costs"
                 services="project-madeira"
                 documentationCenter=""
@@ -24,9 +24,9 @@ The cost adjustment function processes only value entries that have not yet been
 
 **Note**: After item costs have been adjusted, the inventory cost must be posted to the general ledger, either automatically or manually. For more information, see [How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md).
 
-You can adjust item costs in two ways:
- - Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.
- - Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.  
+You can adjust item costs in two ways:  
+- Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.  
+- Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed. 
 
 ## To adjust item costs automatically
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.

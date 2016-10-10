@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Schedule a Report to Run | Project “Madeira”"
+	pageTitle="Schedule a Report to Run | Financials"
         description="Learn how you can schedule a report to run at a later time."
         services="project-madeira"
         documentationCenter=""

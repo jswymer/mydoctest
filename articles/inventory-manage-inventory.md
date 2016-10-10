@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Manage Inventory| Project “Madeira”"
+                pageTitle="Manage Inventory| Financials"
                 description="Describes how to manage physical items."
                 services="project-madeira"
                 documentationCenter=""
@@ -21,7 +21,7 @@ Inventory increases and decreases are naturally also recorded when you post purc
 
 To increase your overview of items and to help you find them, you can categorize items and give them attributes to search and sort by.   
 
-**Note**: In Project "Madeira", a product is referred to using the term “item”.
+**Note**: In Financials, a product is referred to using the term “item”.
 
 |To |See |
 |---|----|
@@ -36,5 +36,5 @@ To increase your overview of items and to help you find them, you can categorize
 ## See Also  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Work With Project "Madeira"](ui-work-product.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Across Business Areas](ui-across-business-areas.md)

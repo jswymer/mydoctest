@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Set Up Incoming Documents| Project “Madeira”"
+                pageTitle="How to: Set Up Incoming Documents| Financials"
                 description="How to: Set Up Incoming Documents"
                 services="project-madeira"
                 documentationCenter=""
@@ -19,7 +19,7 @@ If you create general journal lines from incoming document records, you must spe
 
 If you do not want users to create invoices or general journal lines from incoming document records unless the documents are first approved, you must set up approvers in the **Incoming Document Approvers** window.
 
-To turn PDF and image files into electronic documents that you can convert to, for example, purchase invoices inside Project 'Madeira', you must first set up the OCR feature and enable the service.
+To turn PDF and image files into electronic documents that you can convert to, for example, purchase invoices inside Financials, you must first set up the OCR feature and enable the service.
 
 When the Incoming Documents feature is set up, you can use different functions to review expense receipts, manage OCR tasks, and convert incoming document files, manually or automatically, to the relevant documents or journal lines. The external files can be attached at any process stage, including to posted documents and to the resulting vendor, customer, and general ledger entries. For more information, see [How to: Process Incoming Documents](across-process-income-documents.md).
 
@@ -31,7 +31,7 @@ When the Incoming Documents feature is set up, you can use different functions t
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Incoming Document Setup**, and then choose the related link.  
 2. In the **Incoming Documents Setup** window, choose the **Approvers** action.
 
-    The **Incoming Document Approvers** window shows all users that are set up in your Project 'Madeira*.  
+    The **Incoming Document Approvers** window shows all users that are set up in your Financials.  
 3. Select one or more users that can approve an incoming document before a related document or journal line can be created.
 
 When approvers have been set up in the **Incoming Document Approvers** window, only those users can approve an incoming document if the **Require Approval To Create** check box in the **Incoming Documents Setup** window is selected.
@@ -53,4 +53,4 @@ It is recommended that you protect the logon information that you enter in the *
 [Process Incoming Documents](across-process-income-documents.md)  
 [Incoming Documents](across-income-documents.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
-[Work With Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

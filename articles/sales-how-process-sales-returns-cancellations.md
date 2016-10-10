@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Process Sales Returns or Cancellations| Project “Madeira”"
+                pageTitle="How to: Process Sales Returns or Cancellations| Financials"
                 description="How to: Process Sales Returns or Cancellations"
                 services="project-madeira"
                 documentationCenter=""
@@ -62,4 +62,4 @@ The posted sales documents that you applied the credit memo to are now reversed,
 [Manage Sales](sales-manage-sales.md)  
 [Set Up Sales](sales-setup-sales.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
-[Work with Project "Madeira"](ui-work-product.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)

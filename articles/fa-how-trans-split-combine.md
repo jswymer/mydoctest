@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Transfer, Split, or Combine Fixed Assets| Project “Madeira”"
+                pageTitle="How to: Transfer, Split, or Combine Fixed Assets| Financials"
                 description="Describes how to reclassify a fixed asset to transfer, split, or combine it with other fixed assets."
                 services="project-madeira"
                 documentationCenter=""

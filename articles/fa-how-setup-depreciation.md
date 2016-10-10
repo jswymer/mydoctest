@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Set Up Fixed Asset Depreciation| Project “Madeira”"
+                pageTitle="How to: Set Up Fixed Asset Depreciation| Financials"
                 description="Describes how to set the system up for depreciation of fixed assets."
                 services="project-madeira"
                 documentationCenter=""
