@@ -106,4 +106,4 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 
 ## See Also
 [Welcome to Project "Madeira"](madeira-get-started.md)  
-[Import Data from Other Finance Systems](upload-data.md)  
+[Migrate Business Data from Other Finance Systems](upload-data.md)  

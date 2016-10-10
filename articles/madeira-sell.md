@@ -27,5 +27,5 @@ If you're interested in learning more about becoming a Project "Madeira" reselle
 
 ## See Also  
 [Welcome to Project "Madeira"](madeira-get-started.md)  
-[Import Data from Other Finance Systems](upload-data.md)  
+[Migrate Business Data from Other Finance Systems](upload-data.md)  
 [https://appsource.microsoft.com](https://appsource.microsoft.com/en-us/?product=project-madeira)  
