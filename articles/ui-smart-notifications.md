@@ -19,13 +19,14 @@ Financials can help you work smarter by notifying you when you are about to invo
 
 If you choose to see details for a notification, you can take action to resolve the issue, such as contacting the customer, buying more inventory, and so on. It's your choice what to do, and Financials gives you advice and recommendations.  
 
-The subtle notifications help untrained users complete unfamiliar tasks and do not reduce productivity for the more trained user.  
+Notifications can help untrained users complete unfamiliar tasks, and do not reduce productivity for the more trained user.  
 
-## T1urn on or turn off a notification, and control when they are sent
-By default, all notifications are turned on, but you can decide whether to receive a particular notification. Additionally, some notifications let you specify the conditions under which it is sent to you. 
-1. In the Search for Page or Report, search for my notifications, and then choose the related link. 
-2. To receive a notification, select or clear the Enabled check box. 
-3. To specify conditions that trigger a notification, choose View filter details, and then fill in the fields as necessary. 
+## Turn on or turn off notifications, and control when they are sent  
+By default, all notifications are turned on, but you can turn on or turn off some or all of them.  
+Additionally, some notifications let you specify the conditions under which they are sent. For example, if you want to be notified when inventory is running low, but only for items you buy from a certain vendor.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **my notifications**, and then choose the related link. 
+2. To turn on or turn off a notification, select or clear the **Enabled** check box. 
+3. To specify conditions that trigger a notification, choose **View filter details**, and then fill in the fields. 
   
-## See Also
+## See Also  
 [Work With Dynamics 365 for Financials](ui-work-product.md)
