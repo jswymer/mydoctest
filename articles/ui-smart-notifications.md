@@ -26,9 +26,9 @@ When you first start with Financials all notifications are turned on, but you ca
 Additionally, some notifications let you specify the conditions under which they are sent. For example, if you want to be notified when inventory is running low, but only for items you buy from a certain vendor.  
 Turning notifications on or off, and specifying conditions, applies only to you.  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **My Notifications**, and then choose the related link.  
-2. To turn on or turn off a notification, select or clear the **Enabled** check box.  
-3. To specify conditions that trigger a notification, choose **View filter details**, and then fill in the fields.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **My Notifications**, and then choose the related link.
+2. To turn on or turn off a notification, select or clear the **Enabled** check box.
+3. To specify conditions that trigger a notification, choose **View filter details**, and then fill in the fields.
 
 ## See Also  
 [Work With Dynamics 365 for Financials](ui-work-product.md)
