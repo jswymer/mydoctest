@@ -20,13 +20,13 @@ Before you access Financials, we recommend that you verify that your computer or
 **Chrome for Windows and Firefox for Windows:** Financials is designed to work with the current version of these desktop browsers.  
 **Safari:** Financials is designed to work with the current version of Safari on OSX.  
 **Microsoft Edge:** Financials is designed to work with the current version of Microsoft Edge.  
-**Internet Explorer:** Financials is designed to work with Internet Explorer 11 and Internet Explorer 10. We recommend that you upgrade to the latest version of Internet Explorer supported for your version of Windows.  
+**Internet Explorer:** Financials is designed to work with Internet Explorer 11 (build 11.0.9600.17239) for Windows 10 and for Windows 8.1 (32-bit and 64-bit versions). We recommend that you upgrade to the latest version of Internet Explorer supported for your version of Windows.  
 
 
 ## Mobile devices
-**Windows:** Financials for Windows can be installed on devices with at least 1GB of RAM and Windows 8.1 or Windows Phone 8.1, or later.  
-**iOS:** Financials for iPad and iPhone requires iOS 8.4 or later.  
-**Android:** Financials for Android tablet and Android phone can be installed on devices with at least 1GB of RAM and Android 4.4.3 or higher.  
+**Windows:** Financials for Windows can be installed on devices with at least 1GB of RAM and Windows 10 Phone, Home, Pro, Enterprise, or Education (32-bit and 64-bit editions).  
+**iOS:** Financials for iPad and iPhone requires iOS 9.0 or later.  
+**Android:** Financials for Android tablet and Android phone can be installed on devices with at least 1GB of RAM and Android 5.0 or higher.  
 **Device size:** Financials is supported on smartphones with a minimum screen size of 4” and tablets with a minimum screen size of 7”.  
 
 
