@@ -3,7 +3,7 @@
     description="Learn about key supply chain concepts and processes" 
 	services="project-madeira" 
 	documentationCenter=""
-	authors="edupont04"
+	authors="SorenGP"
 />
 <tags
     ms.service="project-madeira"
@@ -14,7 +14,7 @@
     ms.date="10/12/2016"
     ms.author="SorenGP" />
 #Supply Chain
-Financials supports a few supply chain processes, although limited to the needs of wholesale and distribution companies without managed warehouse handling.
+Financials supports common supply chain processes, although limited to the needs of wholesale and distribution companies without managed warehouse handling.
 
 In addition to sales invoice documents, you can manage your order fulfillment with sales orders allowing you to ship parts of an order quantity, for example, because the full quantity is not available at once. You can have items drop shipped directly from a vendor to a customer by linking the sales order to the related purchase order.
 
@@ -28,9 +28,9 @@ The following table describes a sequence of tasks, with links to the topics that
 
 | To                                                                  | See                      |
 |---------------------------------------------------------------------|--------------------------|
-|Register new customers, make sales offers, sell products on orders or invoices, and manage sales returns.|[Sales](sales-manage-sales.md)|
+|Register new customers, make sales offers, sell products on orders or invoices, for example as drop shipments, and manage sales returns.|[Sales](sales-manage-sales.md)|
 |Register new vendors, purchase products on orders or invoices, for example initiated from a sales invoice, and manage purchase returns.|[Purchasing](purchasing-manage-purchasing.md)|
-|Register new physical or service products as items, adjust inventory quantities, and manage the inventory value by posting adjusted costs to the general ledger.|[Inventory](inventory-manage-inventory.md)|
+|Register new physical or service products, adjust inventory quantities, and manage the inventory value by posting adjusted costs to the general ledger.|[Inventory](inventory-manage-inventory.md)|
 
 ##See Also
 [Set Up Sales](sales-setup-sales.md)  
