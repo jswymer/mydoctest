@@ -1,7 +1,7 @@
 <properties
     pageTitle="Finance| Financials"
-    description="Learn about key financial concepts and processes " 
-	services="project-madeira" 
+    description="Learn about key financial concepts and processes "
+	services="project-madeira"
 	documentationCenter=""
 	authors="edupont04"
 />
@@ -14,7 +14,7 @@
     ms.date="09/22/2016"
     ms.author="edupont04" />
 #Finance
-Financials includes a standard configuration of most financial processes, but you can change the configuration to suit your business. 
+Financials includes a standard configuration of most financial processes, but you can change the configuration to suit your business.
 Also, if you chose not to apply the standard configuration, you must add your own configuration. For more information, see [Setup](setup.md).  
 The default configuration includes a chart of accounts and standard posting groups that make the process of assigning default general ledger posting accounts to customers, vendors, and items more efficient.  
 
@@ -43,5 +43,6 @@ The following table describes a sequence of tasks, with links to the topics that
 [Sales](sales-manage-sales.md)  
 [Purchasing](purchasing-manage-purchasing.md)  
 [Close Fiscal Periods](year-close-years-periods.md)  
+[Manage Projects](projects-manage-projects.md)    
 [Import from Other Finance Systems](upload-data.md)  
 [Work with General Journals](ui-work-general-journals.md)  

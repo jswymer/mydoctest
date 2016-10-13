@@ -18,8 +18,8 @@
 ***
 
 ## See Also
-[Jobs](jobs-manage-jobs.md)  
-[Finance](finance.md)
-[Purchasing](purchasing-manage-purchasing.md)         
-[Sales](sales-manage-sales.md)      
+[Manage Projects](projects-manage-projects.md)  
+[Finance](finance.md)  
+[Manage Purchasing](purchasing-manage-purchasing.md)         
+[Manage Sales](sales-manage-sales.md)     
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
