@@ -49,6 +49,7 @@ The following table describes a sequence of tasks, with links to the topics that
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Receivables](receivables-manage-receivables.md)  
 [Manage Payables](payables-manage-payables.MD)  
+[Manage projects](projects-manage-projects.md)    
 [Supply Chain](supply-chain.md)      
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Across Business Areas](ui-across-business-areas.md)

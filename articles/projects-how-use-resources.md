@@ -1,6 +1,6 @@
 <properties
-                pageTitle="How to: Manage Job Budgets| Financials"
-                description="Describes how to budget for jobs."
+                pageTitle="How to: Use Resources in Projects| Financials"
+                description="Describes how to use time sheets to manage projects."
                 services="project-madeira"
                 documentationCenter=""
                 authors="SorenGP"
@@ -14,12 +14,12 @@
     ms.date="10/11/2016"
     ms.author="SorenGP" />
 
-# How to: Manage Job Budgets
+# How to: Use Resources in Projects
 ***
 
 ## See Also
-[Jobs](jobs-manage-jobs.md)  
-[Finance](finance.md)
-[Purchasing](purchasing-manage-purchasing.md)         
-[Sales](sales-manage-sales.md)      
+[Manage Projects](projects-manage-projects.md)  
+[Finance](finance.md)  
+[Manage Purchasing](purchasing-manage-purchasing.md)         
+[Manage Sales](sales-manage-sales.md)     
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
