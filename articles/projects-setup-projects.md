@@ -17,7 +17,7 @@
 # Set Up Project Management
 Before you can use Financials to manage projects, you must set up resources, time sheets, and jobs.
 
-Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets. For more information, see [Manage projects](projects-manage-projects.md).  
+Then you can create jobs and schedule resources for projects as well as manage budgets and track machine and employee hours with time sheets. For more information, see [Manage Projects](projects-manage-projects.md).  
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
