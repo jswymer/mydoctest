@@ -17,7 +17,7 @@
 # How to: Manage Project Supplies
 Managing project supplies of items, services, and expenses is an integral and critical aspect of the execution of all jobs. You can use inventory on hand or make job-specific purchases using purchase orders or purchase invoices. For example, a service job on a computer requires a new disk. You create a purchase invoice to buy a new disk and record the job it will be used on.
 
-If the purchase process does not require that the physical transaction be recorded separately, then a purchase may be processed in a purchase invoice only or in a the job G/L journal.
+If the purchase process does not require that the physical transaction be recorded separately, then a purchase may be processed in a purchase invoice only or in the **Job G/L Journal** window.
 
 ## To ..
 

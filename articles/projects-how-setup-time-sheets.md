@@ -15,7 +15,14 @@
     ms.author="SorenGP" />
 
 # How to: Set Up Time Sheets
-***
+Time sheets in Microsoft Dynamics NAV handle time registration in weekly increments of seven days. You use them to track the time used on job, service orders, and assembly orders. In addition, you can use them to record simple resource time registration and employee absences. Before you can use time sheets, you must specify how you want them to be set up and configured.
+
+After you have set up how your organization will use time sheets, the next step is to specify approves time sheets. Depending on the needs of your organization, you have options about how you set up a time sheet approver. You can designate: 
+
+- One or more users as the time sheet administrator for all time sheets.
+- A time sheet approver for each resource. 
+
+# To 
 
 ## See Also
 [Set Up Project Management](projects-setup-projects.md)  

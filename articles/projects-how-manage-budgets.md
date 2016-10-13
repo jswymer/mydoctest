@@ -15,7 +15,9 @@
     ms.author="SorenGP" />
 
 # How to: Manage Job Budgets
-***
+You can set up a budget for each job. The budget is used to plan the resources that you allocate to a job. The budget can be either general with few entries or it can contain more entries that are divided into activity levels. Using a budget, you can compare the scheduled amounts with the actual usage as recorded in the job journal. By recording actual usage in comparison to a budget and observing the differences, you can improve the quality of future jobs by reducing the risk of underestimating costs.
+
+## To 
 
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
