@@ -35,6 +35,7 @@ To increase your overview of items and to help you find them, you can categorize
 
 ## See Also  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
-[Manage Sales](sales-manage-sales.md)  
+[Manage Sales](sales-manage-sales.md)    
+[Supply Chain](supply-chain.md)  
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Across Business Areas](ui-across-business-areas.md)
