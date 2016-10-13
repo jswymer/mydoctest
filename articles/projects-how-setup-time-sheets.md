@@ -19,7 +19,7 @@
 
 ## See Also
 [Set Up Project Management](projects-setup-projects.md)  
-[Manage Time Sheets and Jobs  for Projects](projects-manage-projects.md)  
+[Manage Projects](projects-manage-projects.md)  
 [Finance](finance.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)      

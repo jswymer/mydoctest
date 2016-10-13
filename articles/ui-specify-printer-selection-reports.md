@@ -42,5 +42,5 @@ The following table describes the combination of values to specify when you set 
 
 ## See Also
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
-[How to: Run Batch Jobs](ui-how-run-batch-projects.md)  
+[How to: Run Batch Jobs](ui-how-run-batch-jobs.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
