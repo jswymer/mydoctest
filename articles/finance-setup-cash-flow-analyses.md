@@ -33,7 +33,7 @@ The **Cash Cycle** and **Income & Expense** charts are ready to go, based on the
 |**I_INCEXP** | Income & Expense|
 |**I_MINTRIAL** | As an income statement if you don't use the chart of accounts|
 
-    **Note** It's a good idea to keep the calculations that are provided in the account schedule.
+**Note** It's a good idea to keep the calculations that are provided in the account schedule.
 
 Enter accounts in the **Totaling** field for **Total Revenue**, **Total Receivables**, **Total Payables**, and **Total Inventory**. To map to a range of accounts, or more than one specific account, enter the account numbers separated by ".." or by a vertical bar, respectively. For example, **1111..4444** or **2222|3333|5555**.
 
@@ -61,7 +61,7 @@ To use the assisted setup guide:
 
 To use a manual process:  
 1. Search for **Cash Flow Setup**, and then choose the related link.  
-2. Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.  
+2. Expand the **Cortana Intelligence** FastTab, and then fill in the fields.  
 
 To turn on Cortana Intelligence for a cash flow forecast:  
 1. Search for **Cash Flow Forecasts**, and then choose the related link.  
@@ -80,6 +80,6 @@ You can also create your own predictive web service based on a public model name
 7. Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.  
 
 ## See Also  
-[Analyze cash flow in your company](finance-setup-cash-flow-analyses.md)  
+[Analyze cash flow in your company](finance-analyze-cash-flow.md)  
 [Set up core financial processes](finance-setup-finance.md)  
 [Work With Dynamics 365 for Financials](ui-work-product.md)
