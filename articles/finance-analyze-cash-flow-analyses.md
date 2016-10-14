@@ -34,7 +34,7 @@ On the Accountant Role Center, under **Finance Performance**, the **Cash Cycle**
 
 Although it's separate, the **Cash Flow Forecast** chart is similar. You view details, filter results, and change what's displayed in the same ways. If you change a setting, you can refresh the forecast by choosing **Cash Flow Forecast**, and then **Recalculate Forecast**.
 
-To take a look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column. The first row in the table displays the variance. The other rows are arranged by source document. For example, you can see how the forecast:  
+To take a look at the data behind the forecast, including the variance, choose the **Cortana Intelligence** column segment. For example, you can see how the forecast:  
 - Handles confirmed sales and purchases   
 - Subtracts payables and adds receivables  
 - Skips duplicate sales orders and purchase orders  
