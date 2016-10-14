@@ -15,7 +15,7 @@
     ms.author="SorenGP" />
 
 # Manage Sales
-You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms. 
+You create a sales invoice or sales order to record your agreement with a customer to sell certain products on certain delivery and payment terms.
 
 You must use sales orders if your sales process requires that you can ship parts of an order quantity, for example, because the full quantity is not available at once. If you sell items by delivering directly from your vendor to your customer, as a drop shipment, then you must also use sales orders. In all other aspects, sales orders work the same way as sales invoices.
 
@@ -48,6 +48,8 @@ The following table describes a sequence of tasks, with links to the topics that
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Receivables](receivables-manage-receivables.md)  
-[Manage Payables](payables-manage-payables.MD)      
+[Manage Payables](payables-manage-payables.MD)  
+[Manage Projects](projects-manage-projects.md)    
+[Supply Chain](supply-chain.md)      
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Across Business Areas](ui-across-business-areas.md)
