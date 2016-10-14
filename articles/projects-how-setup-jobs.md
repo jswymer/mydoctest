@@ -38,7 +38,8 @@ When the **Apply Usage Link** check box is selected, and the job planning line t
 **Note**: You can make a different setting of the **Apply Usage Link** check box on the individual job cards. In that case, the setting for that kjob overrides the general default described above. 
 
 ## To set up prices for resources  
-You can set up specific prices for resources for a job. You use the **Job Resource Prices** window to do this.    
+You can set up specific prices for resources for a job. You use the **Job Resource Prices** window to do this.
+    
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
 2. Select the relevant job, and then choose the **Resource** action.
 3. In the **Job Resource Prices** window, fill in the fields as necessary. 
@@ -50,7 +51,8 @@ The value in the **Unit Price** field for the resource will be used on the job p
 **NOTE**: This price will always override any prices set up in the existing **Resource Price/Resource Group Prices** window.
 
 ## To set up prices for items  
-You can set up specific prices for items for a job. You use the **Job Item Prices** window to do this.    
+You can set up specific prices for items for a job. You use the **Job Item Prices** window to do this.
+    
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
 2. Select the relevant job, and then choose the **Item** action.
 3. In the **Job Item Prices** window, fill in the fields as necesssary. 
@@ -80,7 +82,7 @@ One aspect of planning jobs is deciding which posting accounts to use for job co
 2. Choose the **New** action, and then fill in the account fields as described in the following table.  
 
 |Account field|Description|
-|-|-|
+|-------------|-----------|
 |**Code**|A code for the posting group. You can enter up to 10 characters, including spaces.|  
 |**WIP Costs Account**|The WIP account for the calculated cost of the job WIP, which is a balance sheet capital asset account.|
 |**WIP Accrued Costs Account**|An account for the Cost Value or Cost of Sales method of WIP calculation, which is a balance sheet accrued expense liability account. This will be posted to when the WIP adjustment requires that usage costs posted to the income statement be increased.|  
