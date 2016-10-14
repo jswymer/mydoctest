@@ -11,12 +11,12 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/13/2016"
     ms.author="edupont04" />
 
 
 # Frequently Asked Questions
-This section contains answers to frequently asked questions about signing up for and using Financials.  
+This section contains answers to frequently asked questions about signing up for and using Dynamics 365 for Financials.  
 
 ## What email address can I use with Financials?
 Financials requires that you use a work, or school, email address to sign up. Financials does not support email addresses provided by consumer email services or telecommunication providers. This includes outlook.com, hotmail.com, gmail.com, and others.  
@@ -32,7 +32,11 @@ Financials is fully integrated with Office 365 so that you can navigate freely b
 ## Can I cancel my subscription?
 Yes, but depending on how you signed up to Financials, your data can be deleted or preserved. For more information, see [Canceling Dynamics 365 for Financials](madeira-cancel.md).  
 
+## Our administrator has moved me to another plan to give me another role, but I still see the same Home page in Financials?
+This is a bit complicated, but it looks like your administrator didn't change your Role Center and assign user groups that match the new license. Essentially, your access to Financials is determined by the type of plan (license) that you have - this sets permissions and your default Home page. You can change your Role Center manually in My Settings, but if you are moved to another plan, such as moving you from the Business plan to the Team Members plan, you might see the old Home because your permissions were not changed.  
+
 ## See Also
 [Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
 [Using Dynamics 365 for Financials as your Business Inbox in Outlook](madeira-outlook.md)  
 [Using Dynamics 365 for Financials without Outlook](madeira-no-outlook.md)  
+[How to: Change the Role Center](change-role.md)  
