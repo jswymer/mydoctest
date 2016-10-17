@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/17  /2016"
+    ms.date="10/17/2016"
     ms.author="SorenGP" />
 
 # Manage Projects
