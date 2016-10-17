@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/11/2016"
+    ms.date="10/17/2016"
     ms.author="SorenGP" />
 
 # How to: Use Resources in Projects
@@ -22,6 +22,14 @@ You can also sell resources by using sales quotes, orders, invoices, and credit 
 You can post the usage of a resource in a resource journal or a job journal. Entries posted in a resource journal have no effect on the general ledger.
 
 ## To 
+
+## To adjust resource prices  
+If you want to change costs or prices for a large number of resources, you can use a batch job.  
+    
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Resource Costs/Prices**, and then choose the related link. 
+2. Fill in the fields on a line as necessary, and then choose the **OK** button. 
+  
+**Note**: This batch job does not create or adjust alternate costs or prices for resources. It only changes the contents of the field on the resource card for the **Adjust Field** field that you selected in the batch job. The adjustment will take effect immediately for resources, so check your adjustment factors before you run the batch job.
 
 ## See Also
 [Manage Projects](projects-manage-projects.md)  

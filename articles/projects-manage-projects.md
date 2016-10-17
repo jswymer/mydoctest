@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/14/2016"
+    ms.date="10/17  /2016"
     ms.author="SorenGP" />
 
 # Manage Projects
@@ -23,6 +23,7 @@ The following table describes a sequence of tasks, with links to the topics that
 
 |To |See |
 |---|----|
+|Create jobs, assign job tasks, and prepare job planning lines.|[How to: Create Jobs](projects-how-create-jobs.md)|
 |Allocate resources to jobs and manage resource prices.|[How to: Use Resources in Projects](projects-how-use-resources.md)|
 |Budget for resources to be used in jobs and compare actual item and resource usage to budgeted usage to improve the quality and cost efficiency of future projects.|[How to: Manage Job Budgets](projects-how-manage-budgets.md)|
 |Create a time sheet with integrated job task and planning lines and post time sheet lines to a job journal.|[How to: Use Time Sheets](projects-how-use-time-sheets.md)| 
