@@ -39,7 +39,7 @@ To take a look at the data behind the forecast, including the variance, choose t
 - Subtracts payables and adds receivables  
 - Skips duplicate sales orders and purchase orders  
 
-    **Note:** Cash flow forecasts can use Cortana Intelligence and Azure Machine Learning to include documents with a due date in the future. The result is a more comprehensive prediction than the **Cash Flow** chart, which is based solely on historical data. For more information, see [Setting up cash flow analyses](set-up-cash-flow-forecasts.md).
+**Note:** Cash flow forecasts can use Cortana Intelligence and Azure Machine Learning to include documents with a due date in the future. The result is a more comprehensive prediction than the **Cash Flow** chart, which is based solely on historical data. For more information, see [Setting up cash flow analyses](finance-setup-cash-flow-analyses.md).
 
 ## See Also  
 [Set up core financial processes](finance-setup-finance.md)  
