@@ -17,10 +17,12 @@
 # How to: Set Up Time Sheets
 Time sheets in Financials handle time registration in weekly increments of seven days. You use them to track the time used on job, service orders, and assembly orders. In addition, you can use them to record simple resource time registration and employee absences. Before you can use time sheets, you must specify how you want them to be set up and configured.
 
-After you have set up how your organization will use time sheets, the next step is to specify approves time sheets. Depending on the needs of your organization, you have options about how you set up a time sheet approver. You can designate: 
+After you have set up how your organization will use time sheets, you can specify if and how time sheets are approved. Depending on the needs of your organization, you can designate: 
 
-- One or more users as the time sheet administrator for all time sheets.
-- A time sheet approver for each resource. 
+- One or more users as the time sheet administrator and approver for all time sheets.
+- A time sheet approver for each resource.
+
+When you have set up time sheets, you can create time sheets for resources, assign them to job planning lines, and post time sheet lines. For more information, see [How to: Use Time Sheets](projects-how-use-time-sheets.md). 
 
 ## To set up general information for time sheets  
   
@@ -37,7 +39,7 @@ After you have set up how your organization will use time sheets, the next step 
 
 **Tip**: We recommend that you designate only one user to be the time sheet administrator for a company. In the next procedure, you set up a time sheet owner and approver. In this case, the time sheet approver is specified for each resource.  
   
-## To specify a time sheet owner and approver  
+## To specify a time sheets owner and approver  
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link. 
 2. Select the resource for which you want to set up the ability to use time sheets, and then select the **Use Time Sheet** check box.  
@@ -45,8 +47,6 @@ After you have set up how your organization will use time sheets, the next step 
 4. In the **Time Sheet Approver User ID** field, enter the ID of the approver of the time sheet. The approver can approve, reject, or reopen a time sheet.  
 
 **Note**: You cannot change the ID of the time sheet approver if there are time sheets that have not yet been processed and have the status of **Submitted** or **Open**. 
-
-
 
 ## See Also
 [Set Up Project Management](projects-setup-projects.md)  

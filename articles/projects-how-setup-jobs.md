@@ -19,7 +19,7 @@ In the **Jobs Setup** window, you must specify how you want to use certain job f
 
 On the relevant job cards, you must set up prices for job items, job resources, and job G/L accounts, and you must set up job posting groups.
 
-## To set up general default values
+## To set general information for jobs
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information. 
 
