@@ -19,11 +19,13 @@ In the **Jobs Setup** window, you must specify how you want to use certain job f
 
 On the relevant job cards, you must set up prices for job items, job resources, and job G/L accounts, and you must set up job posting groups.
 
-## To set up general default values
+## To set general information for jobs
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.
-2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information. The **Apply Usage Link** check box is rather complex and is therefore explained in the "To set up job usage tracking for all jobs" section. 
+2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information. 
 
-## To set up job usage tracking for all jobs
+**Note**: The **Apply Usage Link** check box is rather complex and is therefore explained in the "To set up job usage tracking" section. 
+
+## To set up job usage tracking
 When you are executing a job, you might want to know how your usage is tracking against your plan. To easily do this, you can create a link between your job planning lines and the actual usage. This lets you track your costs and to easily see at how much work remains to be done. By default, the job planning line type is **Schedule**, but using the line type **Both Schedule and Contract** has similar effects.
 
 If you select the **Apply Usage Link** check box, then you can review information on the job planning line. You can set the quantity of the resource, item, or general ledger account and then indicate what quantity you want to transfer to the job journal. The **Remaining Quantity** field on the job planning line will tell you what remains to be transferred and posted to the job journal. 
@@ -48,7 +50,7 @@ The optional information in the **Job Task No.**, **Work Type**, **Currency Code
 
 The value in the **Unit Price** field for the resource will be used on the job planning lines and job journals when this resource, a resource assigned to the resource group, or any resource is entered.  
   
-**NOTE**: This price will always override any prices set up in the existing **Resource Price/Resource Group Prices** window.
+**Note**: This price will always override any prices set up in the existing **Resource Price/Resource Group Prices** window.
 
 ## To set up prices for items  
 You can set up specific prices for items for a job. You use the **Job Item Prices** window to do this.
@@ -61,7 +63,7 @@ The optional information in the **Job Task No.**, **Currency Code**, and **Line 
   
 The value in the **Unit Price** field for the item will be used on the job planning lines and job journals when this item is entered.  
   
-**NOTE**: This price will always override the regular customer price (the “best price” mechanism) for items. If you want to use the regular customer price mechanisms, then you should not create any job item prices for the job.
+**Note**: This price will always override the regular customer price (the “best price” mechanism) for items. If you want to use the regular customer price mechanisms, then you should not create any job item prices for the job.
 
 ## To set up prices for job general ledger accounts  
 You can set up specific prices for general ledger expenses for a job. You use the **Job G/L Account Prices** window to do this.
@@ -76,7 +78,7 @@ The value in the **Unit Price** field for the general ledger job expense will be
 ## To set up job posting groups  
 One aspect of planning jobs is deciding which posting accounts to use for job costing. To be able to post jobs, you set up accounts for posting for each job posting group. A posting group represents a link between the job and how it should be treated in the general ledger. When you create a job, you specify a posting group, and by default, each task you create for the job is associated with that posting group. However, as you create tasks, you can override the default and select a posting group that is more appropriate.  
   
-**NOTE**: The necessary accounts in the chart of accounts must be set up before you set up posting groups. For more information, see [Set Up or Change the Chart of Accounts](finance-setup-chart-accounts.md).  
+**Note**: The necessary accounts in the chart of accounts must be set up before you set up posting groups. For more information, see [Set Up or Change the Chart of Accounts](finance-setup-chart-accounts.md).  
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Posting Groups**, and then choose the related link.  
 2. Choose the **New** action, and then fill in the account fields as described in the following table.  
@@ -100,6 +102,7 @@ One aspect of planning jobs is deciding which posting accounts to use for job co
 |**Recognized Sales Account**|The income account that contains the recognized income for the job. It is a CR income account ordinarily.|
 
 ## See Also
+[Set Up Project Management](projects-setup-projects.md)  
 [Manage Projects](projects-manage-projects.md)  
 [Finance](finance.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)         
