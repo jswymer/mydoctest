@@ -23,8 +23,8 @@ If you want some help to decide what to do with your cash, have a look at the ch
 
 This topic describes where the data in the charts comes from and, if necessary, what to do to start using the charts. 
 
-### The Cash Cycle and Income & Expense charts
-The **Cash Cycle** and **Income & Expense** charts are ready to go, based on the **Chart of Accounts** and account schedules. The accounts are where the data comes from, and account schedules calculate the relationship between sales and receivables. Some accounts and account schedules are provided. You can use them as-is, change them, and add new ones. If you add G/L accounts to your chart of accounts, for example, by importing them from QuickBooks, you'll need to map to the accounts on the **Account Schedules** page for the following account schedule names:  
+## The Cash Cycle and Income & Expense charts
+The **Cash Cycle** and **Income & Expense** charts are ready to go, based on the Chart of Accounts and account schedules. The accounts are where the data comes from, and account schedules calculate the relationship between sales and receivables. Some accounts and account schedules are provided. You can use them as-is, change them, and add new ones. If you add G/L accounts to your chart of accounts, for example, by importing them from QuickBooks, you'll need to map to the accounts on the **Account Schedules** page for the following account schedule names:  
 
 |Account Schedule Name | Where it's used|
 |--- | ----|
@@ -39,45 +39,42 @@ Enter accounts in the **Totaling** field for **Total Revenue**, **Total Receivab
 
 **Tip** Verify your mapping by choosing the **Overview** action.
 
-### Set up the Cash Flow chart
-To analyze your cash flow in the past, you need the following:  
-- A chart of cash flow accounts. Some accounts are provided to help you get going. You can add and remove accounts.  
-- One or more cash flow setups. These specify the accounts to use for general ledger, purchases, sales, services, and fixed assets.  
+## Set up the Cash Flow chart
+The Cash Flow chart is based on the following:
+- A chart of cash flow accounts. 
+- One or more cash flow setups. These specify the accounts to use for general ledger, purchases, sales, services, and fixed assets.
+To help you get going, some accounts and cash flow setups are provided. You can add, change, or remove them.
 
 To set these up, search for **cash flow accounts**, choose the link, and then fill in the fields. Choose a field to read a short description of the field or link to more information. Repeat these steps for **cash flow setup**.  
 
-### Set up cash flow forecasts
-The **Cash Flow Forecast** chart also uses cash flow setups, cash flow forecasts, and cash flow accounts. If these are set up, you can use an assisted setup guide for cash flow forecasts. The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to use Cortana Intelligence.  
+## Set up cash flow forecasts
+The **Cash Flow Forecast** chart uses cash flow accounts, cash flow setups, and cash flow forecasts. Some are provided, however, you can set up your own by using an assisted setup guide. The guide helps you specify things like how often to update the forecast, the accounts to base it on, information about when you pay taxes, and whether to turn on [Cortana Intelligence](https://www.microsoft.com/en-us/cloud-platform/what-is-cortana-intelligence-suite).
 
-The connection to [Cortana Intelligence](https://www.microsoft.com/en-us/cloud-platform/what-is-cortana-intelligence-suite) is already set up for you. You just need to turn it on. Alternatively, if you can use your own predictive web service. For more information, see [Create and use your own predictive web service for cash flow forecasts](#Create-and-use-your-own-predictive-web-service-for-cash-flow-forecasts).  
+Cash flow forecasts can use Cortana Intelligence to include documents with a due date in the future. The result is a more comprehensive prediction. The connection to Cortana Intelligence is already set up for you. You just need to turn it on. When you sign in to Dynamics 365 for Financials, a notification displays in a blue bar, and provides a link to the default cash flow setup. The notification displays only once. If you close it, but decide to turn on Cortana Intelligence, you can use the assisted setup guide, or a manual process.   
 
-If you're already using cash flow forecasts and just want to turn on Cortana Intelligence, you can also use a manual process. When you sign in, a notification displays in a blue bar at the top of the workspace. To set up Cortana Intelligence right away, choose **Yes, please**. The message displays only once. If you close it, use the manual process described below to set up Cortana Intelligence.  
-
-**Tip:** Consider the length of the periods that the service will use in its calculations. The more data you provide, the more accurate the predictions will be. Also, watch out for large variances in periods. They will also impact predictions. If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.  
+**Note:** Alternatively, you can use your own predictive web service. For more information, see [Create and use your own predictive web service for cash flow forecasts](#Create-and-use-your-own-predictive-web-service-for-cash-flow-forecasts).    
 
 To use the assisted setup guide:  
 1. In the Accountant Role Center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.  
-2. Fill in the fields as necessary in each step of the guide.  
+2. Fill in the fields in each step of the guide.  
+3. On the Home page, choose **Cash Flow Forecast** above the chart, and then **Recalculate Forecast**.  
 
 To use a manual process:  
-1. Search for **Cash Flow Setup**, and then choose the related link.  
-2. Expand the **Cortana Intelligence** FastTab, and then fill in the fields.  
+1. In the Accountant Role Center, search for **Cash Flow Setup**, and then choose the related link.  
+2. Expand the **Cortana Intelligence** FastTab, and then choose the **Cortana Intelligence Enabled** check box.  
+3. On the Home page, choose **Cash Flow Forecast** above the chart, and then **Recalculate Forecast**.
 
-To turn on Cortana Intelligence for a cash flow forecast:  
-1. Search for **Cash Flow Forecasts**, and then choose the related link.  
-2. Choose the **Cash Flow Worksheet** action.  
-3. On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.  
-4. Under **Source Types to Include**, choose the **Cortana Intelligence Forecast** check box.
+**Tip:** Consider the length of the periods that the service will use in its calculations. The more data you provide, the more accurate the predictions will be. Also, watch out for large variances in periods. They will also impact predictions. If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.  
 
-### Create and use your own predictive web service for cash flow forecasts 
+## Create and use your own predictive web service for cash flow forecasts 
 You can also create your own predictive web service based on a public model named _Forecasting model for Microsoft Dynamics 365 for Financials_. This predictive model is available online in the Cortana Intelligence Gallery. To use the model, follow these steps:  
 1. Open a browser and go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352).  
 2. Search for _Forecasting Model for Microsoft Dynamics 365 for Financials_, and then open the model in Azure Machine Learning Studio.  
 3. Use your Microsoft account to sign up for a workspace, and then copy the model.  
 4. Run the model, and publish it as a web service.  
-5. Make a note of the API URL and API key. You will add these credentials to a cash flow setup.  
+5. Make a note of the API URL and API key. You will use these credentials for a cash flow setup.  
 6. In Dynamics 365 for Financials, search for **Cash Flow Setup**, and then choose the related link.  
-7. Expand the **Cortana Intelligence** FastTab, and then fill in the fields as necessary.  
+7. Expand the **Cortana Intelligence** FastTab, and then fill in the fields.  
 
 ## See Also  
 [Analyze cash flow in your company](finance-analyze-cash-flow.md)  
