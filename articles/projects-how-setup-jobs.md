@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/11/2016"
+    ms.date="10/20/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Jobs
@@ -57,7 +57,7 @@ You can set up specific prices for items for a job. You use the **Job Item Price
     
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
 2. Select the relevant job, and then choose the **Item** action.
-3. In the **Job Item Prices** window, fill in the fields as necesssary. 
+3. In the **Job Item Prices** window, fill in the fields as necessary. 
   
 The optional information in the **Job Task No.**, **Currency Code**, and **Line Discount %** fields will be used in the job planning lines and job journals when this item is entered or added to the job.  
   
