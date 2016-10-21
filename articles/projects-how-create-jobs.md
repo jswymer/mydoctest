@@ -46,7 +46,7 @@ A key part of creating a job is to specify the various tasks involved in the job
 
 5. Repeat steps 3 and 4 for all the tasks that you need for the job. 
   
-## To create planning lines for jobs  
+## To create planning lines for a job  
 You can refine your new job tasks on job planning lines. A planning line can be used to capture any information that you want to track for a job. You can use planning lines to add information such as what resources are required or to capture what items are needed to perform the job. For example, if you have a task to obtain customer approval of a job, you can associate that task with planning lines for items such as meeting with the customer and creating a service contract.  
   
 Job planning line can be of the following type.  
