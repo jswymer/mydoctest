@@ -25,6 +25,7 @@ As they say, cash is king. The charts on the Accountant Role Center provide insi
 
 ## Dig into the numbers
 On the Accountant Role Center, under **Finance Performance**, the **Cash Cycle**, **Cash Flow**, and **Income & Expense** charts offer ways to analyze cash flow:  
+
 - See figures for a period by using the timeline slider.  
 - Filter the chart by choosing the source in the legend.  
 - Change the length of the period, or go to the previous or next period, by choosing options on the **Finance Performance** drop down.  
@@ -33,14 +34,14 @@ On the Accountant Role Center, under **Finance Performance**, the **Cash Cycle**
 Although it's separate, the **Cash Flow Forecast** chart is similar. You view details, filter results, and change what's displayed in the same ways. If you change a setting, you can refresh the forecast by choosing **Cash Flow Forecast**, and then **Recalculate Forecast**.
 
 If you want to examine the forecast, in addition to forecast entries, you can also look at the cash flow worksheet. For example, you can see how the forecast:  
-- Handles confirmed sales and purchases.
-- Subtracts payables and adds receivables.
-- Skips duplicate sales orders and purchase orders.
+- Handles confirmed sales and purchases.  
+- Subtracts payables and adds receivables.  
+- Skips duplicate sales orders and purchase orders.  
  
-To view a cash flow worksheet:
-1. Search for **Cash Flow Forecasts**, and then choose the related link.
-2. Choose a cash flow forecast, and then choose the **Cash Flow Worksheet** action.
-3. On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.
+To view a cash flow worksheet:  
+1. Search for **Cash Flow Forecasts**, and then choose the related link.  
+2. Choose a cash flow forecast, and then choose the **Cash Flow Worksheet** action.  
+3. On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.  
 
 ## See Also  
 [Set up core financial processes](finance-setup-finance.md)  
