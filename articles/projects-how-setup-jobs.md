@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/20/2016"
+    ms.date="10/21/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Jobs
@@ -39,7 +39,7 @@ When the **Apply Usage Link** check box is selected, and the job planning line t
 
 **Note**: You can make a different setting of the **Apply Usage Link** check box on the individual job cards. In that case, the setting for that kjob overrides the general default described above. 
 
-## To set up prices for resources  
+## To set up prices for job resources  
 You can set up specific prices for resources for a job. You use the **Job Resource Prices** window to do this.
     
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
@@ -52,7 +52,7 @@ The value in the **Unit Price** field for the resource will be used on the job p
   
 **Note**: This price will always override any prices set up in the existing **Resource Price/Resource Group Prices** window.
 
-## To set up prices for items  
+## To set up prices for job items  
 You can set up specific prices for items for a job. You use the **Job Item Prices** window to do this.
     
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
