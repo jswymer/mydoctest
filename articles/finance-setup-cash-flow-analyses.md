@@ -16,10 +16,11 @@
 
 # Setting up cash flow analyses
 If you want some help to decide what to do with your cash, have a look at the charts on the Accountant Role Center:  
-- **Cash Cycle**
-- **Income & Expense**
-- **Cash Flow**
-- **Cash Flow Forecasts**
+
+- **Cash Cycle**  
+- **Income & Expense**  
+- **Cash Flow**  
+- **Cash Flow Forecasts**  
 
 This topic describes where the data in the charts comes from and, if necessary, what to do to start using the charts. 
 
@@ -33,16 +34,18 @@ The **Cash Cycle** and **Income & Expense** charts are ready to go, based on the
 |**I_INCEXP** | Income & Expense|
 |**I_MINTRIAL** | As an income statement if you don't use the chart of accounts|
 
-**Note** It's a good idea to keep the calculations that are provided in the account schedule.
+**Note** It's a good idea to keep the calculations that are provided for the account schedule.
 
 Enter accounts in the **Totaling** field for **Total Revenue**, **Total Receivables**, **Total Payables**, and **Total Inventory**. To map to a range of accounts, or more than one specific account, enter the account numbers separated by ".." or by a vertical bar, respectively. For example, **1111..4444** or **2222|3333|5555**.
 
 **Tip** Verify your mapping by choosing the **Overview** action.
 
 ## Set up the Cash Flow chart
-The Cash Flow chart is based on the following:
+The Cash Flow chart is based on the following:  
+
 - A chart of cash flow accounts. 
-- One or more cash flow setups. These specify the accounts to use for general ledger, purchases, sales, services, and fixed assets.
+- One or more cash flow setups. These specify the accounts to use for general ledger, purchases, sales, services, and fixed assets.  
+
 To help you get going, some accounts and cash flow setups are provided. You can add, change, or remove them.
 
 To set these up, search for **cash flow accounts**, choose the link, and then fill in the fields. Choose a field to read a short description of the field or link to more information. Repeat these steps for **cash flow setup**.  
@@ -55,11 +58,13 @@ Cash flow forecasts can use Cortana Intelligence to include documents with a due
 **Note:** Alternatively, you can use your own predictive web service. For more information, see [Create and use your own predictive web service for cash flow forecasts](#Create-and-use-your-own-predictive-web-service-for-cash-flow-forecasts).    
 
 To use the assisted setup guide:  
+
 1. In the Accountant Role Center, under the **Cash Flow Forecast** chart, choose the **Open Assisted Setup** action.  
 2. Fill in the fields in each step of the guide.  
 3. On the Home page, choose **Cash Flow Forecast** above the chart, and then **Recalculate Forecast**.  
 
 To use a manual process:  
+
 1. In the Accountant Role Center, search for **Cash Flow Setup**, and then choose the related link.  
 2. Expand the **Cortana Intelligence** FastTab, and then choose the **Cortana Intelligence Enabled** check box.  
 3. On the Home page, choose **Cash Flow Forecast** above the chart, and then **Recalculate Forecast**.
@@ -68,6 +73,7 @@ To use a manual process:
 
 ## Create and use your own predictive web service for cash flow forecasts 
 You can also create your own predictive web service based on a public model named _Forecasting model for Microsoft Dynamics 365 for Financials_. This predictive model is available online in the Cortana Intelligence Gallery. To use the model, follow these steps:  
+
 1. Open a browser and go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352).  
 2. Search for _Forecasting Model for Microsoft Dynamics 365 for Financials_, and then open the model in Azure Machine Learning Studio.  
 3. Use your Microsoft account to sign up for a workspace, and then copy the model.  
