@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/17/2016"
+    ms.date="10/24/2016"
     ms.author="SorenGP" />
 
 # How to: Use Resources in Projects
@@ -45,7 +45,7 @@ If you want to change costs or prices for a large number of resources, you can u
 **Note**: This batch job does not create or adjust alternate costs or prices for resources. It only changes the contents of the field on the resource card for the **Adjust Field** field that you selected in the batch job. The adjustment will take effect immediately for resources, so check your adjustment factors before you run the batch job.
 
 ## To get resource price change suggestions based on existing alternate prices  
-If you have already set up alternate prices for a number of resources, you can use a batch job to set up alternate resource prices. 
+If you have already set up alternate resource price for some resources, you can use a batch job to set up multiple alternate resource prices. 
   
 1. In the **Search** box, enter **Suggest Res. Price Chg. (Price)**, and then choose the related link.  
 2. Fill in the fields as necessary. 
@@ -53,7 +53,7 @@ If you have already set up alternate prices for a number of resources, you can u
 4. When the batch job is finished, open the **Resource Price Changes** window to see the results of the batch job.
 
 ## To get resource price change suggestions based on standard prices  
-If you want to set up one or more sets of alternative prices based on the standard prices on the resource cards, you can use a batch job.  
+If you want to set up multiple alternate resource prices based on the standard prices on the resource cards, you can use a batch job.  
   
 1. In the **Search** box, enter **Suggest Res. Price Chg. (Res.)**, and then choose the related link. 
 2. Fill in the fields as necessary.  
