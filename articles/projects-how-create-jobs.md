@@ -15,16 +15,18 @@
     ms.author="SorenGP" />
 
 # How to: Create Jobs
-When you start a new project, a job card with integrated job planning lines must be created. Job planning has two layers:
+When you start a new project, you must create a job card with integrated job tasks and job planning lines, structured in twi layers.  
 
-The first layer consists of job task lines. It is necessary to set up at least one job task because all posting needs to refer to a job task. Having at least one job task in your project enables you to set up planning lines and to post consumption to the job.
+The first layer consists of job tasks. You must acreate at least one job task per job because all posting refers to a job task. Having at least one job task in your job enables you to set up job planning lines and to post consumption to the job.
 
-The second layer consists of planning lines, which specify the detailed use of resources, items and various general ledger expenses.
+The second layer consists of job planning lines, which specify the detailed use of resources, items and various general ledger expenses.
 
-All jobs that you create can be separated into task lines and planning lines. This enables you to divide the job into smaller tasks, and therefore use more specific details in budgeting, quotes and registration.
+The layer structure enables you to divide the job into smaller tasks, and therefore use more specific details in budgeting, quotes, and registration. In addition, it gives you insight into how a job is progressing. For example, you can track whether you are meeting designated milestones or if lyou are on target to meet budget expectations.
+
+**Note**: The **New Job** action on the **Project Manager** Role Center launches an assisted setup that guides you through the steps of creating a job with integrated tasks and planning lines. The following procedure describes how to perform the steps manually.
 
 ## To create a job card
-You create a job card and then create job task lines and job planning lines for it. Each step in job creation is designed to give you an overview of and insight into how a job is progressing. For example, you can track whether you are meeting designated milestones, or are on target for meeting budget expectations.  
+You create a job card and then create job task lines and job planning lines for it. 
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
 2. Choose the **New** action, and then fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
