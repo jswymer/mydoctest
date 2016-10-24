@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/21/2016"
+    ms.date="10/24/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Resources
@@ -55,7 +55,7 @@ In addition to the cost specified on the resource card, you can set up alternate
 
 **Note**. To set up resource costs that will apply to all resources and resource groups, open the **Resource Costs** window and fill in the fields. 
 
-## To set up alternative resource prices  
+## To set up alternate resource prices  
 In addition to price specified on the resource card, you can set up alternate prices for each resource. These alternate prices can be conditional. They can depend on whether the resource is used with a specific job or work type.
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.
