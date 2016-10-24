@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/21/2016"
+    ms.date="10/24/2016"
     ms.author="SorenGP" />
 
 # How to: Create Jobs
@@ -28,6 +28,7 @@ You create a job card and then create job task lines and job planning lines for 
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
 2. Choose the **New** action, and then fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
+3. To specify the job with information on other jobs, choose the **Copy Job** action, fill in the fields as necessary, and then choose the **OK** button.
 
 **NOTE**: If you are using time sheets with your job, you must also designate a person responsible. This person can approve time sheets for the employee tasks associated with the job. For more information, see [How to: Set Up Timesheets](projects-how-setup-time-sheets.md). 
   
@@ -44,12 +45,13 @@ A key part of creating a job is to specify the various tasks involved in the job
 |**Total**|Includes the group of tasks in WIP calculation for the task.|
 |**Excluded**|Excludes the task from WIP calculation. This option can be useful if you are still planning the task for a job and you have not posted any usage or invoices.|  
 
-5. Repeat steps 3 and 4 for all the tasks that you need for the job. 
+5. Repeat steps 3 and 4 for all the tasks that you need for the job.
+6. To specify the job tasks with information on other job tasks, choose the **Copy Job Tasks from** action, fill in the fields as necessary, and then choose the **OK** button. 
   
 ## To create planning lines for a job  
 You can refine your new job tasks on job planning lines. A planning line can be used to capture any information that you want to track for a job. You can use planning lines to add information such as what resources are required or to capture what items are needed to perform the job. For example, if you have a task to obtain customer approval of a job, you can associate that task with planning lines for items such as meeting with the customer and creating a service contract.  
   
-Job planning line can be of the following type.  
+A job planning line can have one of the following types.  
   
 |Type|Description|
 |----|-----------|
@@ -63,25 +65,7 @@ Job planning line can be of the following type.
 2. Select a job, and then choose the **Job Task Lines** action.  
 3. Select a job task for which the **Job Task Type** is **Posting**, and then choose the **Job Planning Lines** action.  
 4. In the **Job Planning Lines** window, on a new line, fill in the fields as necessary.
-5. Repeat step 4 for all planning lines that you need for the job task. 
-
-In [!INCLUDE[navnow](../Token/navnow_md.md)], you can create a template to use when you are creating a new job. You can reuse phases and estimates from previous jobs as the template for future projects. You can then create and customize a library of job templates as needed.  
-  
-## To copy a job
-You can create a new job by copying an existing job and saving the copy as a template.   
-
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Choose the **New** action, and then fill in the fields ass necessary.
-
-    **Note**: This is a normal job card, but to use it as a template, fill in generic information that makes it useful as a template going forward.
-    
-3. Set the **Blocked** field to **All** to make sure it cannot be used as a real job.  
-4. Choose the **Copy Job** actions.  
-5. In the **Copy Job** window, fill in the fields as necessary. The existing job that you are copying from is specified on the **Copy From** FastTab. You can choose to copy both job tasks and job planning lines from the selected the job and task lines that you want to copy from.  
-
-    If you set the **Source** field to **Job Planning Lines**, then estimates for the job are based on the planned values from the job that you are copying from. If you set the **Source** field to **Job Ledger Entry**, then estimates for the job are based on the actual values from the job you are copying from.  
-  
-6. Choose the **OK** button to copy the specified job.
+5. Repeat step 4 for all planning lines that you need for the job task.
   
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
