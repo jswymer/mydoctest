@@ -17,18 +17,14 @@
     ms.author="jswymer" />
 
 # How to: Specify Posting Periods
-When you specify posting periods, you limit the period in which posting is allowed.
-
+Use posting periods to specify when users can post to the general ledger.  
+  
 ## To specify posting periods
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **General Ledger Setup**, and then choose the related link.
-2. In the **General Ledger Setup** window, enter a date in the **Allow Posting From** field to specify the beginning of the period.
-3. Enter a date in the **Allow Posting To** field to specify the end of the period, .
-
-The dates that you define here apply to the company and to all users.
-
-**Note**: If you want to define different posting periods for different users, you can set them up for each user in the **User Setup** page. If you enter dates in the **User Setup** page, the dates entered in the **General Ledger Setup** window will not apply to these users. 
-
-
-## See Also
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **General Ledger Setup**, and then choose the related link.  
+2. In the **General Ledger Setup** window, define the period by entering dates in the **Allow Posting From** and **Allow Posting To** fields.  
+  
+**Note**: These posting periods apply to the company and to all users. To allow for exceptions, you can define different posting periods for specific users in the **User Setup** page. These posting periods overrule those specified in **General Ledger Setup**.  
+  
+## See Also  
 [Finance](finance.md)  
 [Completing Period-End Processes](year-how-complete-period-end-processes.md)

@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/22/2016"
+    ms.date="10/14/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Purchasers
@@ -19,8 +19,8 @@ If several purchasers work at your company, you can set them up in a window and 
 
 ## To set up purchasers
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople/Purchasers**, and then choose the related link.
-2. In the **Salespeople/Purchasers** window, choose **New** and fill in the fields.
-3. In the **Salesperson/Purchaser Card** window, fill in the fields.
+2. In the **Salespeople/Purchasers** window, choose **New**.
+3. In the **Salesperson/Purchaser Card** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
 ## To assign purchasers to vendors
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.

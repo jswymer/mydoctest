@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/11/2016"
+    ms.date="10/21/2016"
     ms.author="SorenGP" />
 
 # Set Up Project Management
@@ -25,7 +25,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |---|----|
 |Set up your resources and the related costs and prices, either for individual resources, resource groups, or for all available resources of the company.|[How to: Set Up Resources](projects-how-setup-resources.md)|
 |Enable resources to report time usage for an individual or a machine and enable a manager to review the usage and its allocation.|[How to: Set Up Time Sheets](projects-how-setup-time-sheets.md)
-|Create job cards and prepare job tasks. Set up prices for job items and resources and define job posting groups.|[How to: Set Up Jobs](projects-how-setup-jobs.md)|
+|Create job cards and prepare job tasks. Set up prices for job items and job resources and define job posting groups.|[How to: Set Up Jobs](projects-how-setup-jobs.md)|
 
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
