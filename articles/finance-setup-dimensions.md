@@ -3,7 +3,7 @@
                 description="Describes how to set up dimensions."
                 services="project-madeira"
                 documentationCenter=""
-                authors="edupont04"/>
+                authors="bholtorf"/>
 
 <tags
     ms.service="project-madeira"
@@ -11,26 +11,22 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/08/2016"
-    ms.author="edupont04" />
+    ms.date="10/24/2016"
+    ms.author="bholtorf" />
 
 #Set Up Dimensions
-You must define which dimensions and dimension values you want to use in your company. You should also define which dimensions you wish to use as global and shortcut dimensions. You should consider carefully which dimensions will be most effective as global and shortcut dimensions for your company.  
-You set up all of the different dimensions that you want to track in the **Dimensions** window. The Dimensions window contains one line for each dimension, such as *Project*, *Department*, *Area*, and *Salesperson*.  
+You can define the dimensions and dimension values you want to use to categorize journals and documents, such as sales orders and purchase orders. You set up dimensions in the **Dimensions** window, where you create one line for each dimension, such as *Project*, *Department*, *Area*, and *Salesperson*.
 
-For each dimension, you must also set up the dimension values, such as all of the departments in your company. Dimension values can be set up in a hierarchical structure similar to the chart of accounts, so that data can be broken down into various levels of granularity, and subsets of dimension values can be totaled.  
+You also set up values for dimension. For example, these might be departments in your company. Dimension values can be set up in a hierarchical structure similar to the chart of accounts, so that data can be broken down into various levels of granularity, and subsets of dimension values can be totaled. You can define as many dimensions and dimension values as you need in your company, and everyone in your company can use them.
 
-You can specify two global dimensions that will automatically be available everywhere, for example on reports and batch jobs. You can also specify six additional shortcut dimensions that will be available as a field on journal and document lines. The remaining dimensions can be used by accessing a separate window that displays dimensions for the line.  
+You can also set up some global and shortcut dimensions. Global dimensions are used as filters, for example, on reports and batch jobs. You can use only two global dimensions, so choose dimensions you will use often. Shortcut dimensions are available as a field on journal and document lines. You can create up to six of these.  
+  
+## Set Up Default Dimensions for Customers, Vendors, and Other Accounts  
+You can assign a default dimension for a specific account. The dimension will be copied to the journal or document when you enter the account number on a line, but uou can delete or change the code on the line if appropriate. You can also make a dimension required for posting an entry with a specific type of account.  
 
-You can define as many dimensions as you need in your company, and you can define an unlimited number of dimension values for each dimension. All dimensions defined by you can be used on entries in journals and documents, as well as in dimensions-related reports and batch jobs.
-
-## Set Up Default Dimensions for Customers, Vendors, and Other Accounts
-You can set up a default dimension for a specific individual account. This code is then copied to the journal or document when the account number field is filled in on the line. However, you may delete or change the code if appropriate. You can also make a dimension required, so that it is not possible to post an entry with a specific type of account unless the account has a dimension value assigned to it.  
-
-Furthermore, you can set up a default dimension for each type of account so that this code is copied to the journal or document when the account type is filled in on the line. However, you can always change the code on the document if relevant.  
-
-Finally, you can also make a dimension required, so that it is not possible to post an entry with a specific type of account unless the account has a dimension value assigned to it.
-
-## See Also
+## Specify How to Translate Dimensions
+If you sell internationally, and want to use dimensions in other languages, you can specify translations.    
+  
+## See Also  
 [Dimensions](finance-dimensions.md)  
 [Set Up Core Financial Processes](finance-setup-finance.md)
