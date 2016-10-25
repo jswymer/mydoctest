@@ -10,17 +10,31 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="08/08/2016"
+    ms.date="10/25/2016"
     ms.author="edupont04" />
 
 # What's New in Dynamics 365 for Financials
-We hope you already got started with Financials. This is still a preview only, but we have added capabilities that we hope you find interesting.  
-Sign up for the preview, let us walk you through the basics of what you can do with Financials, and then try things out on your own for a while. When you are ready, you can open a blank company and set things up for yourself. Optionally, you can import your own business data to the company.  
+Welcome to Financials! If you haven't already, then sign up for the preview, let us walk you through the basics of what you can do with Financials, and then try things out on your own for a while. When you are ready, you can open a blank company and set things up for yourself.  
 
 On a regular basis, we will update Financials with additional capabilities in the core application and with new [extensions](ui-extensions.md).
 
+## November 2016 Launch of Dynamics 365 for Financials
+As announced on the blog, we're now a service that you use in your business. But this update also adds new capabilities and a new extension.
+
+### Project management
+If you switch to the Suite experience, you can manage projects and work with resources, time sheets, and jobs. When you first log in as a Project Manager role, an assisted setup guide will help you set up how your projects are managed. You can work with the sample accounts, jobs, resources, and so on in the demonstration company to get familiar with the functionality. For more information, see [Manage Projects](projects-manage-projects.md).
+
+### New extension for migrating data from Dynamics GP
+If your business uses Dynamics GP today, you can use an assisted setup guide to migrate master records to Financials. You must have exported your existing customers, vendors, inventory items, and accounts using the export data functionality in Dynamics GP. The Dynamics GP Data Migration extension automatically maps the exported data so that you can quickly get  your existing data into your new company in Dynamics 365 for Financials. For more information, see [Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md).
+
+### Team members
+The **Team Member** Role Center is a new role center that is defined for the Dynamics 356 team member role so that these users can read and modify most data in the system. As a team member, you can also work with timesheets and approval tasks that they are assigned.
+
+### Synchronize your customers and services with Bookings in Office 365
+With this update, you can automatically synchronize your customer and service item records with the new **Bookings** app in Office 365. You'll create customers and services and book appointments in Bookings, and these then show up in Financials. Just like that, you'll have invoiced the customer following the service automatically - and you won't have entered the same information twice in the process. 
+
 ## September 2016 Update
-The latest update of Financials adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-september-update).
+This update of Financials added new capabilities as [announced on the blog](https://community.dynamics.com/business/b/financials/archive/2016/09/29/new-and-updated-capabilities-in-the-september-update-of-project-quot-madeira-quot).
 
 ### More flexibility in your sales processes
 This update adds more flexibility in what you sell:
@@ -37,7 +51,7 @@ Now you can enter purchase orders within Financials. For more information, see [
 You can now easily correct errors in the scanned documents before you receive the resulting document - this way, you'll train the service to avoid the errors going forward. For more information, see [How to: Use OCR to Turn PDF and Image Files into Electronic Document](across-how-use-ocr-pdf-images-files.md).
 
 ## August 2016 Update
-The latest update of Financials adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-august-update).
+This update of Financials added new capabilities as [announced on the blog](https://community.dynamics.com/business/b/financials/archive/2016/08/29/new-and-updated-capabilities-in-the-august-update-of-project-quot-madeira-quot).
 
 ### Smart notifications give you advice and recommendations
 With this update, you'll notice such notifications display when you create a sales invoice for a customer that has an overdue balance, or when the amount in the sales document exceeds the credit limit specified for the customer, for example. For more information, see [Smart Notifications](ui-smart-notifications.md).  
@@ -53,7 +67,7 @@ We've made several small but important improvements to sales and purchase docume
 - You can substitute items
 
 ## July 2016 Update
-The second update of Financials adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-july-update).  
+This update of Financials added new capabilities as [announced on the blog](https://community.dynamics.com/business/b/financials/archive/2016/07/05/new-and-updated-capabilities-in-the-july-update-of-project-quot-madeira-quot).  
 
 ### Working with incoming documents in Outlook
 This update adds actions to the vendor dashboard in the Outlook add-in so you can work directly with attachments to the associated email. You use the actions to send the email attachments directly to the **Incoming Documents** list, send the documents to the OCR service, and send an approval request for the incoming document. For more information, see [Manage Incoming Documents](across-income-documents.md).
@@ -75,7 +89,7 @@ For more information, see [Financials Extensions by Other Providers](ui-extensio
 We've added a new assisted setup guide to the Business Manager home page that guides you through the setup process to connect to Dynamics CRM. Once that's done, you'll have a seamless coupling of Dynamics CRM records with Financials records. For more information, see [Manage your customer relationships using Microsoft Dynamics CRM from inside Financials ](marketing-integrate-dynamicscrm.md).
 
 ## May 2016 Update
-The first update of Financials adds new capabilities as [announced on the blog](https://madeira.microsoft.com/blog/2016-may-update).  
+This update of Financials added new capabilities as [announced on the blog](https://community.dynamics.com/business/b/financials/archive/2016/06/01/new-and-updated-capabilities-in-the-first-update-of-project-quot-madeira-quot).  
 
 ### New extensions made available
 Check out the **Extension Management** window: The update adds new extensions, including Sana Commerce for Financials that provides B2B Commerce capabilities, and ChargeLogic Payments that provides payment and credit card processing capabilities. The extensions are not installed automatically for you, but the **Extension Management** window will help you install the extensions that you want to use. For more information, see [Financials Extensions by Other Providers](ui-extensions-other.md).  
