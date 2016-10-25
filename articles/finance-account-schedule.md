@@ -14,20 +14,16 @@
     ms.date="09/08/2016"
     ms.author="edupont04" />
 
-# Account Schedules
-With account schedules, you can get detailed insights into your financial data. You can set up various layouts to define the information that you want to extract from the chart of accounts
-The chart of accounts stores your financial data, but sometimes you want to get a view on your data that the chart of accounts cannot really show. So you use account schedules to analyze figures in general ledger accounts and to compare general ledger entries with general ledger budget entries.
-For example, you want to calculate subtotals for groups of accounts, and you want to include these subtotals in new totals, and so on.
-Financials includes sample account schedules that are used to generate the charts on your Home page. You can also create account schedules to calculate profit margins on such dimensions as departments or customer groups.  
-
-Setting up account schedules requires an understanding of the financial data in the chart of accounts.
-For example, you can view general ledger entries as percentages of budget entries.
-You can use one of the default layouts for your account schedule, or you can set up your own rows and columns so that you can decide exactly which figures you wish to compare and how.
-This means that you can create as many customized financial statements as you want. You use the **Account Schedule** window to set up account schedules.  
-
-## Account Categories and Account Schedules
-You can use account categories to change the layout of your financial statements. When you have set up your account categories in the **G/L Account Categories** window, and you choose the **Generate Account Schedules** action, the underlying account schedules for the core financial reports are updated. The next time you run one of these reports, such as the balance statement, new totals and subentries are added, based on your changes. For more information, see [The General Ledger and the Chart of Accounts](finance-general-ledger.md).    
-## See Also
+# Account Schedules  
+Use account schedules to get insight into the financial data stored in your chart of accounts. Account schedules analyze figures in G/L accounts, and compare general ledger entries with general ledger budget entries. The results display in charts on your Home page, such as the Cash Flow chart.  
+  
+Financials provides a few sample account schedules that you can use right away, or you can set up your own rows and columns to specify the figures to compare, and how. For example, you can create account schedules to calculate profit margins on dimensions like departments or customer groups. You can create as many customized financial statements as you want.  
+  
+Setting up account schedules requires an understanding of the financial data in the chart of accounts. For example, you can view general ledger entries as percentages of budget entries. You use the **Account Schedule** window to set up account schedules.  
+  
+## Account Categories and Account Schedules  
+You can use account categories to change the layout of your financial statements. After you set up your account categories in the **G/L Account Categories** window, and you choose the **Generate Account Schedules** action, the underlying account schedules for the core financial reports are updated. The next time you run one of these reports, such as the balance statement, new totals and subentries are added, based on your changes. For more information, see [The General Ledger and the Chart of Accounts](finance-general-ledger.md).  
+## See Also  
 [Finance](finance.md)  
 [Set Up Finance](finance-setup-finance.md)  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
