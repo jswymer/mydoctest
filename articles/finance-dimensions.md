@@ -3,7 +3,7 @@
                 description="Using dimensions to analyse data." 
                 services="project-madeira" 
                 documentationCenter=""
-                authors="edupont04"
+                authors="bholtorf"
 />
 <tags
     ms.service="project-madeira"
@@ -11,8 +11,8 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="06/24/2016"
-    ms.author="edupont04" />
+    ms.date="10/24/2016"
+    ms.author="bholtorf" />
                 
 # Dimensions
 To make it simpler to perform analyses on documents such as sales orders, you can use dimensions. Dimensions are attributes and values that categorize entries so you can track and analyze them. For example, dimensions can indicate the project or department an entry came from.  
@@ -32,7 +32,7 @@ You can create as many dimensions with as many values as you want.
 ## Using dimensions  
 In a document such as a sales order, you can add dimension information for both an individual document line and the document itself. For example, in the **Sales Order** window, you can enter dimension values for the first two shortcut dimensions on the individual sales lines, and you can add more dimension information if you choose the **Dimensions** button.  
   
-In you work in a journal instead, you can also add dimension information to an entry in the same way, if you have set up shortcut dimensions as fields directly on journal lines.  
+In you work in a journal instead, you can add dimension information to an entry in the same way, if you have set up shortcut dimensions as fields directly on journal lines.  
   
 You can set up default dimensions for accounts or account types, so that dimensions and dimension values are filled in automatically.  
   

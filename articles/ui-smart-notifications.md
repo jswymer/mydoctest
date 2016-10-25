@@ -3,7 +3,7 @@
         description="Smart notifications give you advice and recommendations."
         services="project-madeira"
         documentationCenter=""
-        authors="edupont04"
+        authors="bholtorf"
 />
 <tags
     ms.service="project-madeira"
@@ -11,8 +11,8 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="08/08/2016"
-    ms.author="edupont04" />
+    ms.date="10/24/2016"
+    ms.author="bholtorf" />
 
 # Smart Notifications
 Financials can help you work smarter by notifying you about certain events or changes in status, such as when you are about to invoice a customer who has an overdue balance, or the available inventory is lower than the quantity you are about to sell, for example. These notifications are shown as discreet tips in the context of the task you are doing, and you can choose to ignore the notification or to see details about the issue.  
