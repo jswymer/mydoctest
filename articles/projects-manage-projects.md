@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/17/2016"
+    ms.date="10/26/2016"
     ms.author="SorenGP" />
 
 # Manage Projects
@@ -27,7 +27,9 @@ The following table describes a sequence of tasks, with links to the topics that
 |Allocate resources to jobs and manage resource prices.|[How to: Use Resources in Projects](projects-how-use-resources.md)|
 |Budget for resources to be used in jobs and compare actual item and resource usage to budgeted usage to improve the quality and cost efficiency of future projects.|[How to: Manage Job Budgets](projects-how-manage-budgets.md)|
 |Create a time sheet with integrated job task and planning lines and post time sheet lines to a job journal.|[How to: Use Time Sheets](projects-how-use-time-sheets.md)| 
+|Review and record usage on various parts of your job, which is automatically updated as you modify and transfer information from job planning lines to job journals or job invoices for posting.|[How to: Record Usage for Jobs](projects-how-record-job-usage.md)|
 |Purchase supplies for a job, either on purchase orders or invoices, and record item and time usage.|[How to: Manage Project Supplies](projects-how-manage-project-supplies.md)|
+|Learn about WIP (Work in Process), a feature that ensures correct financial statements and enables you to estimate the financial value of jobs that are ongoing.|[Understanding WIP Methods](projects-understanding-wip.md)|
 |Post the consumption of materials, resources, and other expenses of job work in process (WIP) to monitor its financial value and to maintain correct financial statements even though you post job expenses before invoicing the job.|[How to: Monitor Job Progress and Performance](projects-how-monitor-progress-performance.md)|
 |Record job costs for resource usage, materials, and job-related purchases on an on-going basis and invoice the customer, either when the job is finished or according to an invoicing schedule.|[How to: Invoice Jobs](projects-how-invoice-jobs.md)| 
 
