@@ -14,7 +14,7 @@
     ms.date="10/26/2016"
     ms.author="SorenGP" />
 
-# Understanding WIp Methods
+# Understanding WIP Methods
 
 Financials supports the following five WIP methods.
 
