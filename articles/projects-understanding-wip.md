@@ -14,8 +14,10 @@
     ms.date="10/26/2016"
     ms.author="SorenGP" />
 
-The calculation formulas for each Work in Process \(WIP\) method are defined in the following table. These are system defined.  
-  
+# Understanding WIp Methods
+
+Financials supports the following five WIP methods.
+ 
 |WIP Method|Calculation Formula|Calculation Description|  
 |----------|-------------------|-----------------------|  
 |Cost Value|Recognized Revenue = Billable Invoiced Price <br /><br /> Estimated Total Costs = Billable Total Price x Budget Cost Ratio <br /><br /> WIP Costs = (Percentage of Completion - Invoiced %) x Estimated Total Costs <br /><br /> Percentage of Completion = Usage Total Costs / Budget Total Costs <br /><br /> Invoiced % = Billable Invoiced Price <br /><br /> Billable Total Price Recognized Costs = Usage Total Costs - WIP|Cost value calculations start by calculating the value of what has been provided by taking a proportion of the estimated total costs based on percentage of completion. Invoiced costs are subtracted by taking a proportion of the estimated total costs based on the invoiced percentage.<br /><br /> This calculation requires that the billable total price, budget total price, and budget total costs be correctly entered for the whole job.|  

@@ -15,11 +15,13 @@
     ms.author="SorenGP" />
 
 #How to: Record Usage for Jobs
-In the **Job Planning Lines** window, you can review and record usage on various parts of your job, which is automatically updated as you modify and transfer information between jobs and job journals or job invoices. This requires that you have set up a job so that the **Apply Usage Link** is turned on. For more information, see [How to: Set Up: Jobs](projects-how-setup-jobs.md).  
+In the **Job Planning Lines** window, you can review and record usage on various parts of your job, which is automatically updated as you modify and transfer information between jobs and job journals or job invoices. 
+
+**Note**. This requires that you have set up a job so that the **Apply Usage Link** is turned on. For more information, see [How to: Set Up: Jobs](projects-how-setup-jobs.md).  
 
 For example, for planning lines of type **Budget**, you can enter the quantity of a resource, and indicate what quantity to transfer to the job journal. If the type of the planning line is **Billable**, you can enter the quantity of the resource, and indicate what quantity to transfer to an invoice. By comparing the quantity that has been transferred to the journal or invoice with the remaining quantity, you can quickly review usage information.
 
-## To record usage for a job planning line of type **Budget** 
+## To record usage for a job planning line of type Budget 
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
 2. Select the relevant job, and then choose the **Job Planning Lines** action.
@@ -35,7 +37,7 @@ For example, for planning lines of type **Budget**, you can enter the quantity o
 9. In the **Job Planning Lines** window, review the recorded usage by observing the **Quantity**, **Remaining Quantity**, and **Qty. To Transfer to Journal** fields.  
 10. Repeat steps 3 through 8 to record additional usage.  
   
-## To record usage for a job planning line of type **Billable**  
+## To record usage for a job planning line of type Billable  
 In the next task, you also record usage, but for a job planning line of type **Billable**. Typically, in this case, you invoice your usage, but you can also transfer it to a journal. However, when you do that, a job planning line of type **Budget** is created to match the billable line. For more information, see the "To estimate the budgeted costs for a job" section.
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link. 
