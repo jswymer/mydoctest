@@ -15,13 +15,13 @@
     ms.author="SorenGP" />
 
 # How to: Create Jobs
-When you start a new project, you must create a job card with integrated job tasks and job planning lines, structured in twi layers.  
+When you start a new project, you must create a job card with integrated job tasks and job planning lines, structured in two layers.  
 
-The first layer consists of job tasks. You must acreate at least one job task per job because all posting refers to a job task. Having at least one job task in your job enables you to set up job planning lines and to post consumption to the job.
+The first layer consists of job tasks. You must create at least one job task per job because all posting refers to a job task. Having at least one job task in your job enables you to set up job planning lines and to post consumption to the job.
 
 The second layer consists of job planning lines, which specify the detailed use of resources, items and various general ledger expenses.
 
-The layer structure enables you to divide the job into smaller tasks, and therefore use more specific details in budgeting, quotes, and registration. In addition, it gives you insight into how a job is progressing. For example, you can track whether you are meeting designated milestones or if lyou are on target to meet budget expectations.
+The layer structure enables you to divide the job into smaller tasks, and therefore use more specific details in budgeting, quotes, and registration. In addition, it gives you insight into how a job is progressing. For example, you can track whether you are meeting designated milestones or if you are on target to meet budget expectations.
 
 **Note**: The **New Job** action on the **Project Manager** Role Center launches an assisted setup that guides you through the steps of creating a job with integrated tasks and planning lines. The following procedure describes how to perform the steps manually.
 
@@ -60,7 +60,7 @@ A job planning line can have one of the following types.
 |**Budget**|Provides estimated usage and costs for the job, typically in a time and materials type project. Planning lines of this type cannot be invoiced.|
 |**Billable**|Provides estimated invoicing to the customer, typically in a fixed price project.|
 |**Both Budget and Billable**|provides budgeted usage equal to what you want to invoice.|  
-  
+
 **Note**. As you enter information on job planning lines, cost information is automatically filled in. For example, the cost, price, and discount for resources and items are initially based on the information that is defined on the resource and item cards.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
