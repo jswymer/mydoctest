@@ -40,7 +40,7 @@ You can also post the usage of a resource in a resource journal. Entries posted 
 If you want to change costs or prices for a large number of resources, you can use a batch job.  
     
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Resource Costs/Prices**, and then choose the related link. 
-2. Fill in the fields on a line as necessary, and then choose the **OK** button. 
+2. Fill in the fields on a line as necessary, and then choose the **OK** button. Choose a field to read a short description of the field or link to more information.
   
 **Note**: This batch job does not create or adjust alternate costs or prices for resources. It only changes the contents of the field on the resource card for the **Adjust Field** field that you selected in the batch job. The adjustment will take effect immediately for resources, so check your adjustment factors before you run the batch job.
 
