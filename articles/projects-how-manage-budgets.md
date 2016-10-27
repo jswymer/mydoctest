@@ -27,8 +27,8 @@ When a customer wants to know the price of a job that will be invoiced based on 
 
 For the **Line Type** field, refer to the following information.  
   
-|Line Type field|Description|  
-|-|-|  
+|Line Type |Description |  
+|----------|------------|  
 |Both Budget and Billable|The cost and price amounts entered on the planning line are the budgeted costs for the particular planning line. The price amount will be invoiced.|  
 |Budget|The customer is not charged for usage. Usage is not transferred to an invoice, but will still be used in the calculation of WIP.|  
 |Billable|The customer is charged for usage. Usage is transferred to the invoice, based on the quantity specified in the Qty. to Transfer to Invoice field.|  
@@ -37,9 +37,7 @@ For the **Line Type** field, refer to the following information.
   
 **Note**: When you fill in the **Quantity** field, all total price and total cost information will be calculated and filled in for that planning line. You can edit them at any time.
   
-5. Close the **Job Planning Lines** window and return to the **Job Task Lines** window. 
-
-You can now see a summary of the total budgeted costs, budgeted price, billable cost and billable price for each task.
+In the **Job Task Lines** window, you can now see a summary of the total budgeted costs, budgeted price, billable cost and billable price for each task.
   
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
