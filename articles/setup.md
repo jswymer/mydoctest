@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/08/2016"
+    ms.date="10/27/2016"
     ms.author="edupont04" />
 
 # Set Up Your Dynamics 365 for Financials
@@ -25,6 +25,8 @@ The following table describes a sequence of tasks, with links to the topics that
 |Set up banking.|[Set Up Banking](bank-setup-banking.md)|
 |Set up sales processes.|[Set Up Sales](sales-setup-sales.md)|
 |Set up purchase processes.|[Set Up Purchasing](purchasing-setup-purchasing.md)|
+|Set up project management|[Set Up Project Management](projects-setup-projects.md)|
+|Set up fixed asset management|[Set Up Fixed Assets](fa-setup.md)|
 |Transfer your business data to Dynamics 365 for Financials.| [Migrate Business Data from Other Finance Systems](upload-data.md)|
 |Install extensions.|[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)|
 |Track changes that are made to data.|[Log Changes in Dynamics 365 for Financials](across-log-changes.md)|
