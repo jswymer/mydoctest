@@ -83,7 +83,7 @@ All job-related entries are recorded in job registers and are numbered sequentia
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Registers**, and then choose the related link.
 2. Select a relevant register, and then choose **Job Ledger** action.
 
-In the **Job Ledger Entries** window you can review entries associated with any job.  
+In the **Job Ledger Entries** window you can review the entries that are associated with any job.  
 
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
