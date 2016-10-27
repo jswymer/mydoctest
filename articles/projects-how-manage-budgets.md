@@ -29,8 +29,8 @@ When a customer wants to know the price of a job that will be invoiced based on 
 
 For the **Line Type** field, refer to the following information.  
   
-|  Line Type  |  Description  |  
-|-------------|---------------|  
+| Line Type | Description |  
+|-----------|-------------|  
 |Both Budget and Billable|The cost and price amounts entered on the planning line are the budgeted costs for the particular planning line. The price amount will be invoiced.|  
 |Budget|The customer is not charged for usage. Usage is not transferred to an invoice, but will still be used in the calculation of WIP.|  
 |Billable|The customer is charged for usage. Usage is transferred to the invoice, based on the quantity specified in the Qty. to Transfer to Invoice field.|  
