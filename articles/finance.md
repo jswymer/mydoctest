@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/22/2016"
+    ms.date="09/27/2016"
     ms.author="edupont04" />
 #Finance
 Financials includes a standard configuration of most financial processes, but you can change the configuration to suit your business.
@@ -34,6 +34,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Import salary transactions from your payroll provider into the general ledger.|[How to: Import Payroll Transactions](finance-how-import-payroll-transactions.md)|
 |Open a fiscal year.|[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)|  
 |Prepare to close a fiscal year or period.|[Close Years and Periods](year-close-years-periods.md)|
+|Organize your fixed assets, ensure correct periodic depreciation, and keep track of maintenance costs.|[Manage Fixed Assets](fa-manage.md)|
 |Canada: Set up and use GIFI codes for financial reporting. | [How to: Work With GIFI Codes in Canada](ca-work-gifi-codes.md)|
 
 
