@@ -15,11 +15,11 @@
     ms.author="SorenGP" />
 
 #How to: Record Usage for Jobs
-In the **Job Planning Lines** window, you can review and record usage on various parts of your job, which is automatically updated as you modify and transfer information between jobs and job journals or job invoices. 
+In the **Job Planning Lines** window, you can review and record usage on various parts of your job, which is automatically updated as you modify and transfer information between jobs and job journals or job invoices. This requires that you have set up a job so that the **Apply Usage Link** is turned on. For more information, see [How to: Set Up: Jobs](projects-how-setup-jobs.md).  
 
-**Note**. This requires that you have set up a job so that the **Apply Usage Link** is turned on. For more information, see [How to: Set Up: Jobs](projects-how-setup-jobs.md).  
+For example, for planning lines of type **Budget**, you can enter the quantity of a resource, and indicate what quantity to transfer to the job journal. If the type of the planning line is **Billable**, you can enter the quantity of the resource, and indicate what quantity to transfer to an invoice. By comparing the quantity that has been transferred to the journal or invoice with the remaining quantity, you can quickly review usage information. 
 
-For example, for planning lines of type **Budget**, you can enter the quantity of a resource, and indicate what quantity to transfer to the job journal. If the type of the planning line is **Billable**, you can enter the quantity of the resource, and indicate what quantity to transfer to an invoice. By comparing the quantity that has been transferred to the journal or invoice with the remaining quantity, you can quickly review usage information.
+The following procedures describe how to record actual (billable) or budgeted job prices and costs. For information about estimating budgeted values during planning, see [How to: Manage Job Budgets](projects-how-manage-budgets.md).
 
 ## To record usage for a job planning line of type Budget 
 

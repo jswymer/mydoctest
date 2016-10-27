@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Use Resources in Projects| Financials"
+                pageTitle="How to: Use Resources for Jobs| Financials"
                 description="Describes how to use time sheets to manage projects."
                 services="project-madeira"
                 documentationCenter=""
@@ -14,14 +14,14 @@
     ms.date="10/24/2016"
     ms.author="SorenGP" />
 
-# How to: Use Resources in Projects
+# How to: Use Resources for Jobs
 You sell resources on sales invoices and sales orders. Sales quotes and sales credit memos also support resources.
 
 You record the usage of resources in the job journal, including keep track of costs, prices, and the work types that are linked to jobs.
 
 You can also post the usage of a resource in a resource journal. Entries posted in a resource journal have no effect on the general ledger. 
   
-## To sell a resource used in a job  
+## To sell a resource used for a job  
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Orders**, and then choose the related link. 
 2. Create a new sales order for an existing customer. For more information, see [How to: Sell Products](sales-how-invoice-sales.md). Remember to enter a resource in the **No.** field, not an item. 
@@ -29,7 +29,7 @@ You can also post the usage of a resource in a resource journal. Entries posted 
 4. When the sales invoice is complete, choose the **Post** action.  
 
   
-## To record resource usage in a job 
+## To record resource usage for a job 
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.  
 2. In the **Work Type Code** field, on the first line, select a work type.  
