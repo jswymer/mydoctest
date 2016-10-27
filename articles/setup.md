@@ -21,7 +21,7 @@ The following table describes a sequence of tasks, with links to the topics that
 
 | To                                                                  | See                      |
 |---------------------------------------------------------------------|--------------------------|
-|Set up core financial processes.|[Finance](finance-setup-finance.md)|
+|Set up financial management.|[Set Up Core Financial Processes](finance-setup-finance.md)|
 |Set up banking.|[Set Up Banking](bank-setup-banking.md)|
 |Set up sales processes.|[Set Up Sales](sales-setup-sales.md)|
 |Set up purchase processes.|[Set Up Purchasing](purchasing-setup-purchasing.md)|
