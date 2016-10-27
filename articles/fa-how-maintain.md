@@ -66,6 +66,7 @@ In the **Maintenance - Analysis** report, you can select to see maintenance base
 
 ## To view maintenance ledger entries
 You can also study maintenance costs by viewing the maintenance ledger entries.  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.
 2. Select the fixed asset that you want to view ledger entries for, and then choose the **Depreciation Books** action.
 3. In the **FA Depreciation Books** window, select the relevant fixed asset depreciation book, and then choose the **Maintenance Ledger Entries** action.
