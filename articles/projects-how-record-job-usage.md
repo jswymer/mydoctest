@@ -75,7 +75,7 @@ When you are ready to post financial information for jobs, you must create job j
 3. On a new line, enter journal information that includes document number, job number, job task number, type, and quantity of the type being consumed.  
 4. When the job journal lines are complete, choose the **Post** action.  
 
-## To review the planning lines associated with a job ledger entry  
+## To review planning lines for a job ledger entry  
 After you have posted job journal lines, you can see the planning lines that are associated with the job journal entries that have been posted. 
 
 **Note**: This requires that the **Apply Usage Link** check box has been selected for the job, or is the default setting for all jobs in your organization. For more information, see [How to: Set Up Jobs](projects-how-setup-jobs.md).  

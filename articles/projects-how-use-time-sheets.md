@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/20/2016"
+    ms.date="10/27/2016"
     ms.author="SorenGP" />
 
 # How to: Use Time Sheets
@@ -141,7 +141,7 @@ If you approve time sheet lines for absence, the information is automatically re
 ## To archive time sheets  
 After you have posted time sheets, you can archive them for future reference. All time sheets lines must be posted before a time sheet can be archived.
 
-**Note**: When you archive a time sheet, it is removed from both the **Time Sheet** window and the **Manager Time Sheet** window.
+**Note**: When you archive a time sheet, it is removed from the lists in both the **Time Sheets** window and the **Manager Time Sheets** window.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Move Time Sheets to Archive**, and then choose the related link.  
 2. Fill in the fields as necessary, and then choose the **OK** button.  

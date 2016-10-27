@@ -25,8 +25,8 @@ The following table describes a sequence of tasks, with links to the topics that
 |---|----|
 |Create jobs, assign job tasks, and prepare job planning lines.|[How to: Create Jobs](projects-how-create-jobs.md)|
 |Allocate resources to jobs and manage resource prices.|[How to: Use Resources in Projects](projects-how-use-resources.md)|
+|Create a time sheet with integrated job task and planning lines and post time sheet lines to a job journal.|[How to: Use Time Sheets](projects-how-use-time-sheets.md)|
 |Budget for resources to be used in jobs and compare actual item and resource usage to budgeted usage to improve the quality and cost efficiency of future projects.|[How to: Manage Job Budgets](projects-how-manage-budgets.md)|
-|Create a time sheet with integrated job task and planning lines and post time sheet lines to a job journal.|[How to: Use Time Sheets](projects-how-use-time-sheets.md)| 
 |Review and record usage on various parts of your job, which is automatically updated as you modify and transfer information from job planning lines to job journals or job invoices for posting.|[How to: Record Usage for Jobs](projects-how-record-job-usage.md)|
 |Purchase supplies for a job, either on purchase orders or invoices, and record item and time usage.|[How to: Manage Project Supplies](projects-how-manage-project-supplies.md)|
 |Learn about WIP (Work in Process), a feature that ensures correct financial statements and enables you to estimate the financial value of jobs that are ongoing.|[Understanding WIP Methods](projects-understanding-wip.md)|
