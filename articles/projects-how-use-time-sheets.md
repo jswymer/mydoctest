@@ -1,5 +1,5 @@
 <properties
-                pageTitle="How to: Use Time Sheets| Financials"
+                pageTitle="How to: Use Time Sheets for Jobs| Financials"
                 description="Describes how to use time sheets to manage projects."
                 services="project-madeira"
                 documentationCenter=""
@@ -14,7 +14,7 @@
     ms.date="10/27/2016"
     ms.author="SorenGP" />
 
-# How to: Use Time Sheets
+# How to: Use Time Sheets for Jobs
 You use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks. You must have permissions to be able to create time sheets.
 
 You can copy and use your job planning lines in a time sheet. In that way, you must only enter the information in one place and the line information is always correct.
