@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/20/2016"
+    ms.date="10/27/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Time Sheets
@@ -31,15 +31,15 @@ When you have set up time sheets, you can create time sheets for resources, assi
 
 **Note**: The default weekday is Monday.  
 
-## To specify a time sheet administrator  
+## To assign a time sheet administrator  
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **User Setup**, and then choose the related link.  
 2.  Add a new user, if the user list does not include the person who you want to be the time sheet administrator. For more information, see the "Creating Users" section in [Get Ready for Business](ui-get-ready-business.md).  
 3. Select a user to be a time sheet administrator, and then select the **Time Sheet Admin.** check box.  
 
-**Tip**: We recommend that you designate only one user to be the time sheet administrator for a company. In the next procedure, you set up a time sheet owner and approver. In this case, the time sheet approver is specified for each resource.  
+**Tip**: It is recommended that you designate only one user to be the time sheet administrator for a company. In the following procedure, you set up a time sheet owner and approver where the time sheet approver is assigned for each resource.  
   
-## To specify a time sheets owner and approver  
+## To assign a time sheets owner and approver  
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link. 
 2. Select the resource for which you want to set up the ability to use time sheets, and then select the **Use Time Sheet** check box.  
