@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/28/2016"
     ms.author="edupont04" />
     
 # How to: Open a New Fiscal Year 

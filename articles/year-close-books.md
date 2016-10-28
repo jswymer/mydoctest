@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/28/2016"
     ms.author="jswymer" />
 
 # Close Books
@@ -24,7 +24,7 @@ The process for closing the book includes these main tasks:
 
 1. Closing the accounting period.
 
-    A fiscal year is defined as one or more open periods as defined in the **Accounting Periods** page. A typical fiscal year contains 12 periods of one month each, but you can also choose another method of defining a year.
+    A fiscal year is defined as one or more open periods as defined in the **Accounting Periods** window. A typical fiscal year contains 12 periods of one month each, but you can also choose another method of defining a year.
 
     For more information, see [How to: Close Accounting Periods](year-close-account-periods.md).
 
