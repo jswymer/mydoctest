@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/21/2016"
+    ms.date="10/28/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Jobs
@@ -23,7 +23,7 @@ On the individual job cards, you must set up prices for job items, job resources
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
-**Note**: The **Apply Usage Link** check box is rather complex and is therefore explained in the "To set up job usage tracking" section.
+**Note**: The **Apply Usage Link** check box is rather complex and is therefore explained in the following section.
 
 ## To set up job usage tracking
 When you are executing a job, you might want to know how your usage is tracking against your plan. To easily do this, you can create a link between your job planning lines and the actual usage. This lets you track your costs and to easily see at how much work remains to be done. By default, the job planning line type is **Budget**, but using the line type **Both Budget and Billable** has similar effects.
@@ -67,6 +67,7 @@ The value in the **Unit Price** field for the item will be used on the job plann
 
 ## To set up prices for job general ledger accounts  
 You can set up specific prices for general ledger expenses for a job. You use the **Job G/L Account Prices** window to do this.
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
 2. Select the relevant job, and then choose the **G/L Account** action.  
 3. In the **Job G/L Account Prices** window, fill in the fields as necessary.
@@ -98,8 +99,8 @@ One aspect of planning jobs is deciding which posting accounts to use for job co
 |**WIP Invoiced Sales Account**|The account for the invoiced sales value of the WIP that is not able to be recognized. It is a balance sheet Unearned Revenue account.|
 |**Job Sales Applied Account**|The balancing account to the WIP Invoiced Sales account, which is a contra income account.|
 |**Job Sales Adjustment Account**|The balancing account to the WIP Job Sales Account, which is an income account.|
-|**Recognized Costs Account**|The expense account that contains the recognized costs for the job. It is a DR expense account ordinarily.|
-|**Recognized Sales Account**|The income account that contains the recognized income for the job. It is a CR income account ordinarily.|
+|**Recognized Costs Account**|The expense account that contains the recognized costs for the job. It is a debit expense account ordinarily.|
+|**Recognized Sales Account**|The income account that contains the recognized income for the job. It is a credit income account ordinarily.|
 
 ## See Also
 [Set Up Project Management](projects-setup-projects.md)  

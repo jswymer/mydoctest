@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/25/2016"
+    ms.date="10/28/2016"
     ms.author="SorenGP" />
 
 # How to: Manage Job Budgets
@@ -19,7 +19,7 @@ You can set up a budget for each job. The budget is used to plan the resources t
 
 The following procedure describes how to estimate budgeted costs during planning. For information about recording budgeted versus actual job prices and costs, see [How to: Record Usage for Jobs](projects-how-record-job-usage.md).  
 
-## To estimate the budgeted costs for a job  
+## <a name="JobBudgetCosts"></a> To estimate the budgeted costs for a job  
 When a customer wants to know the price of a job that will be invoiced based on usage, you must have to determine the budgeted costs for the job. You use the **Job Task Lines** window to do this.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  

@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/26/2016"
+    ms.date="10/28/2016"
     ms.author="SorenGP" />
 
 # How to: Manage Job Supplies
@@ -27,7 +27,7 @@ The following procedure shows how to use a purchase invoice to purchase products
 3. In the **Job No.** and **Job Task No.** fields, select the information of the job that you want to purchase items or services for.  
 
     The value that you select in the **Job Line Type** field defines whether a planning line is created when you post the usage of the item. If the field contains **Billable**, then job planning lines that are ready to be invoiced to the customer are created. For more information, see [How to: Invoice Jobs](projects-how-invoice-jobs.md).
- 
+
 4. Choose the **Post** action.
 
 ## To view the value of purchases for a job  
@@ -35,9 +35,9 @@ The following procedure shows how to use a purchase invoice to purchase products
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
 2. Open a relevant job card.
 
-On the **Tasks** FastTab, the **Outstanding Orders** field shows the total outstanding amount, in local currency, of inventory items and services on purchase documents for the job task line.  
+    On the **Tasks** FastTab, the **Outstanding Orders** field shows the total outstanding amount, in local currency, of inventory items and services on purchase documents for the job task line.  
 
-The **Amt. Rec. Not Invoiced** field shows the value of items delivered on purchase documents, but not yet invoiced.  
+    The **Amt. Rec. Not Invoiced** field shows the value of items delivered on purchase documents, but not yet invoiced.  
 
 3. Choose either of the fields to open the **Purchase Lines** window where you can review information about the related purchase document lines, including which items or services have been received.
 
