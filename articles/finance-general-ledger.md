@@ -46,12 +46,13 @@ You create a category group by indenting other subcategories under a line in the
   
 You can specify whether the accounts in each subcategory must be included in specific types of reports. The account categories help define the layout of your financial statements.  
   
-For example, the default balance statement has a single entry for cash under current assets. If you want the balance statement to have subentries for petty cash and your checking account, you can:  
-1. Add two new subcategories.  
-2. Specify the additional report definition **Cash Accounts** for each of them.  
+For example, the default balance statement has a subcategory for Cash under Current Assets. If you want the balance statement consider petty cash and checking, you can:  
+
+1. Add two new subcategories. One for petty cash, and one for your checking account.  
+2. Specify the additional report definition **Cash Accounts** for these subcategories.  
 3. Indent them under the **Cash** subcategory.  
   
-Then, the next time you generate account schedules, your next balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.  
+Then, the next time you generate account schedules your balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.  
   
 ##See Also  
 [Finance](finance.md)  
