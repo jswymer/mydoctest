@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/28/2016"
     ms.author="jswymer" />
 
 # Automatically Record Interactions with Contacts
@@ -23,7 +23,8 @@ You can set up the application to automatically record interactions for sales, p
 * Send e-mails to your contacts.
 * Call your contacts, if you have a TAPI-compliant telephone and the correct installation.
 
-To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window. To open the **Interaction Template Setup** window, in the top right corner, choose the **Search for Page or Report** icon, enter **Interaction Template Setup**, and then choose the related link.
+To set up the automatic recording of these interactions, you specify interaction templates for these documents and actions by using the **Interaction Template Setup** window.  
+To open the **Interaction Template Setup** window, in the top right corner, choose the **Search for Page or Report** icon, enter **Interaction Template Setup**, and then choose the related link.
 
 ## See Also
 [Recording Interactions With Contacts](marketing-interactions.md)  

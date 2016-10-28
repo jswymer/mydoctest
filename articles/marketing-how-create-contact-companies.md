@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/28/2016"
     ms.author="jswymer" />
 
 # Create Contact Companies
@@ -27,7 +27,8 @@ Before creating a contact, you may want to check the settings in the **Marketing
 2. Choose the **New** action.
 3. In the **No. field**, enter a number for the contact.
 
-  Alternatively, if you have set up a number series for contacts in the **Marketing Setup** window, you can press the Enter key to select the next available contact number.
+  Alternatively, if you have set up a number series for contacts in the **Marketing Setup** window, you can press the Enter key to select the next available contact number.  
+
 4. Set **Type** to **Company**.
 5. Fill in the other fields as required.
 
