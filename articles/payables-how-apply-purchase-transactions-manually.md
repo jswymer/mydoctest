@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/28/2016"
     ms.author="SorenGP" />
 
 # How to: Apply Vendor Payments Manually
@@ -36,33 +36,31 @@ You can also apply vendor payments, and customer payments, after the payments ap
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Journal**, and then choose the related link.
 2. In the **Payment Journal** window, on the first journal line, enter the relevant information about the payment entry.
 3. To apply a single vendor ledger entry:
-4. In the **Applies-to Doc. No.** field, choose the field to open the **Apply Vendor Entries** window.
-5. In the **Apply Vendor Entries** window, select the entry to apply the payment to.
-6. On the line in the **Amount to Apply** field, enter the amount to apply to the entry.
-7. Or, to apply multiple vendor ledger entries:
-8. Choose the **Apply Entries** action.
-9. In the **Apply Vendor Entries** window, select the lines with the entries to apply the payment to.
-10. Choose the **Set Applies-to ID** action.  
-11. On each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.
+    1. In the **Applies-to Doc. No.** field, choose the field to open the **Apply Vendor Entries** window.
+    2. In the **Apply Vendor Entries** window, select the entry to apply the payment to.
+    3. On the line in the **Amount to Apply** field, enter the amount to apply to the entry.
+4. Or, to apply multiple vendor ledger entries:
+    1. Choose the **Apply Entries** action.
+    2. In the **Apply Vendor Entries** window, select the lines with the entries to apply the payment to.
+    3. Choose the **Set Applies-to ID** action.  
+    4. On each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.
 
     If you do not enter an amount, then the maximum amount is automatically applied. At the bottom of the **Apply Vendor Entries** window, you can see the amount in the Applied Amount field, and you can see whether the application balances.
-12. Choose the **OK** button.
-13. Choose the **Post** action to post the payment journal.
+5. Choose the **OK** button.
+6. Choose the **Post** action to post the payment journal.
 
 ## To apply a credit memo to a single or multiple vendor ledger entries
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Purchase Credit Memo**, and then choose the related link.
 2. Open the credit memo that you want to apply.
 3. Enter the relevant information in the header.
-4. To apply a single vendor ledger entry:
-5. On the **Application** FastTab, in the **Applies-to Doc. No.** field, select the entry to apply the credit to.
-6. On the line in the **Amount to Apply** field, enter the amount to apply to the entry.
-7. Or, to apply multiple vendor ledger entries:
-8. Choose the **Apply Entries** action.
-9. Select the lines with the entries to apply the credit memo to.
-10. Choose the **Set Applies-to ID** action.  
-11. On each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.
+4. To apply a single vendor ledger entry, on the **Application** FastTab, in the **Applies-to Doc. No.** field, select the entry to apply the credit to, and then, in the **Amount to Apply** field, enter the amount to apply to the entry.
+5. Or, to apply multiple vendor ledger entries:
+    1. Choose the **Apply Entries** action.
+    2. Select the lines with the entries to apply the credit memo to.
+    3. Choose the **Set Applies-to ID** action.  
+    4. On each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.
 
-    If you do not enter an amount, then the maximum amount is automatically applied. At the bottom of the **Apply Vendor Entries** window, you can see the amount in the **Applied Amount** field, and you can see whether the application balances.
+        If you do not enter an amount, then the maximum amount is automatically applied. At the bottom of the **Apply Vendor Entries** window, you can see the amount in the **Applied Amount** field, and you can see whether the application balances.
 12. Choose the **OK** button.  
 The **Purchase Credit Memo** window shows the entry that you have selected in the **Applies-to Doc. Type** field and the **Applies-to Doc. No.** field. The window also shows the amount of the credit memo to be posted, adjusted for any payment discounts.
 13. Choose the **Post** button to post the purchase credit memo.
@@ -75,20 +73,20 @@ The **Purchase Credit Memo** window shows the entry that you have selected in th
 4. In the **Apply Vendor Entries** window, you can see the open entries for the vendor.
 5. Select the line with the entry that will be applied.
 6. Choose the **Set Applies-to ID** action.
-7. The **Applies-to ID** field displays three asterisks if you work in a single-user system or your user ID if you work in a multiuser system.  
+
+    The **Applies-to ID** field displays three asterisks if you work in a single-user system or your user ID if you work in a multiuser system.  
 8. For each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.
 
     If you do not enter an amount, then the maximum amount is automatically applied. You can see the amount in the **Applied Amount** field at the bottom of the **Apply Vendor Entries** window.
 9. Choose the **Post Application** action.  
-The **Post Application** window opens with the document number of the applying entry and the posting date of the entry with the most recent posting date.
+
+    The **Post Application** window opens with the document number of the applying entry and the posting date of the entry with the most recent posting date.
 10. Choose the **OK** button to post the application.
 
 ## To apply vendor ledger entries in different currencies to one another
 If you buy from a vendor in one currency and make payment in another currency, you can still apply the invoice to the payment.
 
-If you apply an entry (Entry 1) in one currency to an entry (Entry 2) in a different currency, the posting date on Entry 1 is used to find the relevant exchange rate to convert amounts on Entry 2. The relevant exchange rate is found in the **Currency Exchange Rates** window.
-
-Applying vendor ledger entries in different currencies must be enabled. For more information, see [How to: Enable Application of Ledger Entries in Different Currencies](finance-how-enable-application-ledger-entries-different-currencies.md)
+If you apply an entry (Entry 1) in one currency to an entry (Entry 2) in a different currency, the posting date on Entry 1 is used to find the relevant exchange rate to convert amounts on Entry 2. The relevant exchange rate is found in the **Currency Exchange Rates** window. In that case, you must enable application of vendor ledger entries in different currencies. For more information, see [How to: Enable Application of Ledger Entries in Different Currencies](finance-how-enable-application-ledger-entries-different-currencies.md)
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Journal**, and choose the related link.
 2. Open the journal you want, and fill in the first empty journal line using a currency code.
