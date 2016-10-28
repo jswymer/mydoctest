@@ -15,7 +15,7 @@
 
 # Set Up Your Dynamics 365 for Financials
 Dynamics 365 for Financials includes a standard configuration of most business processes, but you can change the configuration to suit your business' needs.
-From your Home page, you can access assisted setup guides that help you configure certain scenarios. For more information, see [Welcome to Financials](madeira-get-started.md).  
+From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to Financials. For more information, see [Welcome to Financials](madeira-get-started.md).  
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
@@ -25,8 +25,8 @@ The following table describes a sequence of tasks, with links to the topics that
 |Set up banking.|[Set Up Banking](bank-setup-banking.md)|
 |Set up sales processes.|[Set Up Sales](sales-setup-sales.md)|
 |Set up purchase processes.|[Set Up Purchasing](purchasing-setup-purchasing.md)|
-|Set up project management|[Set Up Project Management](projects-setup-projects.md)|
-|Set up fixed asset management|[Set Up Fixed Assets](fa-setup.md)|
+|Set up project management.|[Set Up Project Management](projects-setup-projects.md)|
+|Set up fixed asset management.|[Set Up Fixed Assets](fa-setup.md)|
 |Transfer your business data to Dynamics 365 for Financials.| [Migrate Business Data from Other Finance Systems](upload-data.md)|
 |Install extensions.|[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)|
 |Track changes that are made to data.|[Log Changes in Dynamics 365 for Financials](across-log-changes.md)|
