@@ -59,14 +59,13 @@ In the next task, you also record usage, but for a job planning line of type **B
 When you are ready to post financial information for jobs, you must create job journal lines that you can post. 
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
-2. Select a relevant open job, and then choose the **Job Task Lines** action.  
-3. In the **Job Task Lines** window, select a relevant line, and then choose the **Job Planning Lines** action.
-4. In the **Job Planning Lines** window, on a relevant job planning line, in the **Qty. to Transfer to Journal** field, enter the quantity that you want to transfer to a job journal.  
-5. Choose the **Create Job Journal Lines** action.
-6. In the **Job Transfer Job Planning Line** window, fill in the fields as necessary.  
-7.  Choose the **OK** button. Job journal lines are created. 
-8. To verify the transfer, open the relevant job journal batch and check the entries.  
-9. When the job journal lines are complete, choose the **Post** action.  
+2. Select a relevant open job, and then choose the **Job Planning Lines** action.  
+3. In the **Job Planning Lines** window, on a relevant job planning line, in the **Qty. to Transfer to Journal** field, enter the quantity that you want to transfer to a job journal.  
+4. Choose the **Create Job Journal Lines** action.
+5. In the **Job Transfer Job Planning Line** window, fill in the fields as necessary.  
+6.  Choose the **OK** button. Job journal lines are created. 
+7. To verify the transfer, open the relevant job journal batch and check the entries.  
+8. When the job journal lines are complete, choose the **Post** action.  
 
 ## To create job journal lines manually  
   

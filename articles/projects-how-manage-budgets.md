@@ -23,8 +23,8 @@ The following procedure describes how to estimate budgeted costs during planning
 When a customer wants to know the price of a job that will be invoiced based on usage, you must have to determine the budgeted costs for the job. You use the **Job Task Lines** window to do this.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
-2. Select the relevant job, and then choose the **Job Task Lines** action.  
-3. Select a job task of type **Posting**, and then choose the **Job Planning Lines** action.
+2. Open a relevant job.
+3. Select a task line of type Posting, and then choose the **Job Planning Lines** action.
 4. On a new line, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.   
 
 For the **Line Type** field, refer to the following information.  
@@ -39,7 +39,7 @@ For the **Line Type** field, refer to the following information.
 
 **Note**: When you fill in the **Quantity** field, all total price and total cost information will be calculated and filled in for that planning line. You can edit them at any time.
 
-In the **Job Task Lines** window, you can now see a summary of the total budgeted costs, budgeted price, billable cost and billable price for each task.
+In the **Job Card** window, you can now see a summary of the total budgeted costs, budgeted price, billable cost and billable price for each task.
 
 For information about recording budgeted versus actual job prices and costs, see [How to: Record Usage for Jobs](projects-how-record-job-usage.md).
 
