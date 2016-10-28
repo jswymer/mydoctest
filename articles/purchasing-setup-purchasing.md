@@ -27,7 +27,7 @@ Finance-related purchase setup, such as payment methods and currencies, are cove
 
 |To |See |
 |---|----|
-|Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.|[Record Purchase Price, Discount, and Payment Agreements](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
+|Enter the different discounts and alternative prices that vendors grant you depending on item, quantities, and/or date.|[How to: Record Purchase Price, Discount, and Payment Agreements](purchasing-how-record-purchase-price-discount-payment-agreements.md)|
 |Prioritize vendors.|[How to: Prioritize Vendors](purchasing-how-prioritize-vendors.md)|
 |Set up purchasers.|[How to: Set Up Purchasers](purchasing-how-setup-purchasers.md)|
 

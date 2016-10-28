@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/15/2016"
+    ms.date="10/25/2016"
     ms.author="edupont04" />
 
 # Extend Dynamics 365 for Financials
@@ -19,9 +19,9 @@ Do you specialize in developing intellectual property (IP) that extends or enhan
 Creating an app for Financials and publishing it in the [Microsoft AppSource](https://appsource.microsoft.com/) marketplace can increase your discoverability and drive consumption of your services. Whether you want to create a Financials data integration or change how customers interact with Financials, we can help!
 
 ## Get started
-Become familiar with Financials by signing up for the  free preview  at [https://madeira.microsoft.com](https://madeira.microsoft.com).  
+Become familiar with Financials by signing up for the free preview at [https://www.microsoft.com/dynamics/financials](https://www.microsoft.com/en-us/dynamics/financials).  
 
-If you’re interested in learning more about extending Financials, share your app idea with us at [https://appsource.microsoft.com/en-us/partners#getStarted](https://appsource.microsoft.com/en-us/partners#getStarted) and we will contact you with additional information to get started.  
+If you’re interested in learning more about extending Financials, share your app idea with us at [https://appsource.microsoft.com/en-us/partners](https://appsource.microsoft.com/en-us/partners) and we will contact you with additional information to get started.  
 
 ## See Also  
 [Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
