@@ -24,11 +24,11 @@ Depreciation is used to allocate the cost of fixed assets, such as machinery and
   
 Financials can calculate daily depreciation, which allows you to calculate depreciation for any period. You can therefore analyze current operating results on, for example, a monthly, quarterly, or annual basis. The calculation uses a standard year of 360 days and a standard month of 30 days. For more information, see [Depreciation Methods](fa-depreciation-methods.md).  
   
-If a fixed asset is used by several departments, periodic depreciation can be automatically allocated to these departments according to a user-defined allocation table.  
+If several departments use a fixed asset, periodic depreciation can be automatically allocated to these departments according to a user-defined allocation table.  
   
-You can cancel incorrect depreciation entries by using the **Cancel FA Ledger Entries** batch job. Afterward, you can post the correct amount of depreciation by running the **Calculate Depreciation** batch job again. The errors you correct are posted as fixed asset error ledger entries.  
+You can cancel incorrect depreciation entries by using the **Cancel FA Ledger Entries** batch job. Afterward, you can post the correct amount by running the **Calculate Depreciation** batch job again. The errors you correct are posted as fixed asset error ledger entries.  
   
-Indexation is used to adjust values for general price-level changes. The **Index Fixed Assets** batch job can be used to recalculate the depreciation amounts.  
+Indexation is used to adjust values for general price-level changes. You can use the **Index Fixed Assets** batch job to recalculate the depreciation amounts.  
   
 ## To calculate a depreciation automatically
 Once a month, or whenever you choose, you can run the **Calculate Depreciation** batch job. The batch job ignores fixed assets that:  
@@ -71,7 +71,7 @@ If a fixed asset is used by several departments, periodic depreciation can be au
 When you fill in journal lines to post to a depreciation book, you can duplicate the lines in a separate journal so you can post to a different depreciation book. For more information, see the "To post entries to different depreciation books" section.
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.  
-2. Open the relevant depreciation book, and then select the **Part of Duplication List** check box.  
+2. Open the depreciation book, and then select the **Part of Duplication List** check box.  
   
 **Important:** If you have selected the **Use Duplication List** field, do not use number series on the journal. The reason is that the number series for the fixed asset G/L journal does not the number series for the fixed asset journal.  
   
