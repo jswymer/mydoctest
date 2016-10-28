@@ -32,7 +32,7 @@ If you select the **Apply Usage Link** check box, then you can review informatio
 
 When the **Apply Usage Link** check box is selected, and the job planning line type is **Billable**, the Financial creates a job planning line of type **Budget** after you post the journal line.
 
-**Note**: If the **Apply Usage Link** check box on the job card is selected, and the **Line Type** field on the job journal line is blank, then new job planning lines of line type **Budget** are created when you post job journal lines. If the **Apply Usage Link** check box on the job card is not selected, and the **Line Type** field on the job journal line is blank, then no job planning lines are created when you post job journal lines. For more information, see **Understanding Usage and Job Line Type**.
+**Note**: If the **Apply Usage Link** check box on the job card is selected, and the **Line Type** field on the job journal line is blank, then new job planning lines of line type **Budget** are created when you post job journal lines. If the **Apply Usage Link** check box on the job card is not selected, and the **Line Type** field on the job journal line is blank, then no job planning lines are created when you post job journal lines. For more information, see [How to: Record Usage for Jobs](projects-how-record-job-usage.md).
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.
 2. Select or deselect the **Apply Usage Link** check box.
