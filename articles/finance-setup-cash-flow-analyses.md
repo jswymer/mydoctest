@@ -1,5 +1,5 @@
 <properties
-                pageTitle="Setting up cash flow analyses| Project “Madeira”"
+                pageTitle="Setting up cash flow analyses| Financials"
                 description="Describes how to set up the Cash Cycle, Income & Expense, Cash Flow, and Cash Flow Forecast charts to analyze past and future movement of cash in and out of your company."
                 services="project-madeira"
                 documentationCenter=""
@@ -14,7 +14,7 @@
     ms.date="10/10/2016"
     ms.author="bholtorf" />
 
-# Setting up cash flow analyses
+# Setting Up Cash Flow Analyses
 If you want some help to decide what to do with your cash, have a look at the charts on the Accountant Role Center:  
 
 - **Cash Cycle**  
@@ -72,10 +72,10 @@ To use a manual process:
 **Tip:** Consider the length of the periods that the service will use in its calculations. The more data you provide, the more accurate the predictions will be. Also, watch out for large variances in periods. They will also impact predictions. If Cortana Intelligence does not find enough data, or the data varies a lot, the service will not make a prediction.  
 
 ## Create and use your own predictive web service for cash flow forecasts 
-You can also create your own predictive web service based on a public model named _Forecasting model for Microsoft Dynamics 365 for Financials_. This predictive model is available online in the Cortana Intelligence Gallery. To use the model, follow these steps:  
+You can also create your own predictive web service based on a public model named **Forecasting model for Microsoft Dynamics 365 for Financials**. This predictive model is available online in the Cortana Intelligence Gallery. To use the model, follow these steps:  
 
 1. Open a browser and go to the [Cortana Intelligence Gallery](https://go.microsoft.com/fwlink/?linkid=828352).  
-2. Search for _Forecasting Model for Microsoft Dynamics 365 for Financials_, and then open the model in Azure Machine Learning Studio.  
+2. Search for **Forecasting Model for Microsoft Dynamics 365 for Financials**, and then open the model in Azure Machine Learning Studio.  
 3. Use your Microsoft account to sign up for a workspace, and then copy the model.  
 4. Run the model, and publish it as a web service.  
 5. Make a note of the API URL and API key. You will use these credentials for a cash flow setup.  
