@@ -34,7 +34,7 @@ For both types of deferral, select **Balance Sheet** in the **Type** field, and 
     - **Straight-Line**: The periodic deferral amounts are calculated according to the number of periods, distributed according to period length.
     - **Equal Per Period**: The periodic deferral amounts are calculated according to the number of periods, distributed evenly on periods.
     - **Days Per Period**: The periodic deferral amounts are calculated according to the number of days in the period.
-    - **User-Defined**: The periodic deferral amounts are not calculated. You must manually fill the Amount field for each period in the Deferral Schedule window. For more information, see the “To change a deferral schedule from a sales invoice” section.
+    - **User-Defined**: The periodic deferral amounts are not calculated. You must manually fill the **Amount** field for each period in the Deferral Schedule window. For more information, see the “To change a deferral schedule from a sales invoice” section.
 
 5. In the **Period Desc.** field, specify a description that will be shown on entries for the deferral posting. You can enter the following placeholder codes for typical values, which will be inserted automatically when the period description is displayed.
     - %1 = The day number of the period posting date

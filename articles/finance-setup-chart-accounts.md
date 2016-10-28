@@ -33,4 +33,4 @@ Financials will prevent you from deleting a general ledger account that stores d
 [Manage Bank Accounts](bank-manage-bank-accounts.md)  
 [Dimensions](finance-dimensions.md)  
 [Import from Other Finance Systems](upload-data.md)  
-[How to: Work With GIFI Codes in Canada](ca-work-GiFI-codes)  
+[How to: Work With GIFI Codes in Canada](ca-work-gifi-codes.md)  

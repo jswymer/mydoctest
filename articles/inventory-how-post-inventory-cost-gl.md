@@ -29,7 +29,7 @@ You can post inventory costs to the general ledger in two ways:
 
 For each inventory transaction that you post, the appropriate values are posted to the inventory account, adjustment account, and COGS account in the general ledger.
 
-Even if you use automatic cost posting, it is still necessary to periodically run the Adjust Cost - Item Entries batch job to ensure that the costs of goods are forwarded to the appropriate outbound transactions, such as sales or transfers. This is especially important in situations where you sell goods before invoicing the purchase of those goods.
+Even if you use automatic cost posting, it is still necessary to periodically run the **Adjust Cost - Item Entries** batch job to ensure that the costs of goods are forwarded to the appropriate outbound transactions, such as sales or transfers. This is especially important in situations where you sell goods before invoicing the purchase of those goods.
 
 If an error occurs in the dimension setup while posting the inventory cost to the general ledger, the posting will end with an error.
 
@@ -41,7 +41,7 @@ If an error occurs in the dimension setup while posting the inventory cost to th
 
 To see a list of errors before running the posting batch job, you can run the **Post Invt. Cost to G/L - Test** report. The test report lists all the errors encountered during a test posting. You can then fix the errors, and run the inventory cost posting batch job without skipping any entries.
 
-If you would like to simply get an overview of what values could be posted to the general ledger without actually performing the posting, you can run the Post Inventory Cost to G/L batch job without actually posting the values to the general ledger. You do this by clearing the check mark from the Post field on the request page. This way, when you run the batch job, the report is produced showing the values that are ready to be posted to the general ledger, but they are not posted.
+If you would like to simply get an overview of what values could be posted to the general ledger without actually performing the posting, you can run the **Post Inventory Cost to G/L** batch job without actually posting the values to the general ledger. You do this by clearing the check mark from the **Post** field on the request page. This way, when you run the batch job, the report is produced showing the values that are ready to be posted to the general ledger, but they are not posted.
 
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)    
