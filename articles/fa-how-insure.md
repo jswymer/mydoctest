@@ -37,20 +37,20 @@ When you receive information about changes in the coverage amount, you must ente
 3. Alternatively, select the insurance policy that you want to change, and then choose the **Edit** action.
 
 ## To assign a fixed asset to an insurance policy by posting from the insurance journal
-You assign a fixed asset to an insurance policy by posting to the insurance coverage ledger.
-
-The following procedure explains how to create an insurance journal line manually. If the **Automatic Insurance Posting** check box is selected in the **FA Setup** window, then insurance journal lines are automatically created when you post acquisition costs. In that case, all you have to do is to post the journal.
-
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journals**, and then choose the related link.
-2. Open the relevant journal, and fill in the journal lines as necessary.
-3. To assign multiple fixed assets to one insurance policy, create journal lines with the same value in the **Insurance No.** field and different values in the **FA No.** field.
-4. Choose the **Post** action.
-
+You assign a fixed asset to an insurance policy by posting to the insurance coverage ledger.  
+  
+The following procedure explains how to create an insurance journal line manually. If the **Automatic Insurance Posting** check box is selected in the **FA Setup** window, then insurance journal lines are automatically created when you post acquisition costs. In that case, all you have to do is to post the journal.  
+  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Insurance Journals**, and then choose the related link.  
+2. Open the relevant journal, and fill in the journal lines as necessary.  
+3. To assign multiple fixed assets to one insurance policy, create journal lines with the same value in the **Insurance No.** field and different values in the **FA No.** field.  
+4. Choose the **Post** action.  
+  
 **Note:** The entries from an insurance journal are only posted to the insurance coverage ledger.  
-
+  
 ## To update the insurance value of a fixed asset
-You can use the **Index Insurance** batch job to update the value of the fixed assets that are covered.
-
+You can use the **Index Insurance** batch job to update the value of the fixed assets that are covered.  
+  
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Index Insurance**, and then choose the related link.
 2. Fill in the fields as necessary.
 
@@ -64,10 +64,10 @@ You can use the **Index Insurance** batch job to update the value of the fixed a
 5. Open the relevant insurance journal, review the created values, and then post them to the insurance coverage ledger.  
   
 ## To monitor insurance coverage
-Dynamics NAV provides dedicated reports and statistics windows for use in analyzing insurance policies and whether your fixed assets are over- or under-insured.  
+Financials provides dedicated reports and statistics windows for use in analyzing insurance policies and whether your fixed assets are over- or under-insured.  
   
 ### Overview of Insurance Policies  
-To get an overview of your insurance policies, you can preview or print the **Insurance - List** report, which shows all the policies and the most important fields from the insurance cards.  
+To get an overview of your insurance policies, preview or print the **Insurance - List** report. The report shows all the policies and the most important fields from the insurance cards.  
   
 ### Insurance Coverage
 To see which insurance policies cover each asset and by which amount, you can preview or print the **Insurance - Tot. Value Insured** report.  
@@ -112,4 +112,3 @@ The fixed asset will be detached from the incorrect insurance policy, on the sec
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics NAV](madeira-get-started.md)
