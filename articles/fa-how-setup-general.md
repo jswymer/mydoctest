@@ -104,7 +104,7 @@ If you are using the fixed assets in Financials for the first time, you must set
 5. In the **Search** box, enter **Depreciation Books**, and then choose the related link.  
 6. Select the relevant depreciation book. On the **Home** tab, in the **Manage** group, choose **Edit** to open the **Depreciation Book Card** window.
 7. On the **Integration** FastTab, make sure all fields are blank by clearing all check marks. If you have more than one depreciation book, turn on general ledger integration for each one.  
-8. In the fixd asset journal, enter the following lines for each asset:  
+8. In the fixed asset journal, enter the following lines for each asset:  
   
     - A line with the acquisition cost.
     - A line with the accumulated depreciation to the end of the previous fiscal year.
