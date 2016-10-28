@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Relationship Management | Financials" 
-                description="Describes relationship management in Financials" 
-                services="project-madeira" 
+                pageTitle="Relationship Management | Financials"
+                description="Describes relationship management in Financials"
+                services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"
 />
@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/28/2016"
     ms.author="jswymer" />
 
 # Relationship Management
@@ -29,3 +29,4 @@ To get started, see the following topics:
 ##See Also
 [Manage Sales](sales-manage-sales.md)  
 [Set Up Marketing and Contact Management](marketing-setup-marketing.md)
+[Manage Your Customer Relationships using Dynamics CRM from inside Dynamics 365 for Financials](marketing-relationship-management.md)  

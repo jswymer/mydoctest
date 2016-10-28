@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Prepare for Setting Up Contacts | Financials" 
-                description="Describes how to prepare for setting up contacts in Financials" 
-                services="project-madeira" 
+                pageTitle="Prepare for Setting Up Contacts | Financials"
+                description="Describes how to prepare for setting up contacts in Financials"
+                services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"
 />
@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/28/2016"
     ms.author="jswymer" />
 
 #Prepare for Setting Up Contacts
@@ -30,7 +30,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Set up the mailing groups that you can use to identify groups of contacts that you want to receive the same information.|[Set Up Mailing Groups on Contact Companies](marketing-mailing-groups.md)|
 |Set up the job responsibilities of your contact persons.|[Set Up Job Responsibilities on Contacts](marketing-job-responsibilities.md)|
 |Set up the organizational levels that you want to use about your contact persons.|[Set Up Organizational Levels on Contacts](marketing-organizational-levels.md)|
-|Set up Web sources (search engines and Web sites) that you can use when you look up information about your contacts on the Internet.|[Set Up Web Sources on Contacts](marketing-web-sources.md)|
+|Set up web sources (search engines and web sites) that you can use when you look up information about your contacts on the Internet.|[Set Up Web Sources on Contacts](marketing-web-sources.md)|
 
 ##See Also
 [Manage Contacts](marketing-contacts.md)  
