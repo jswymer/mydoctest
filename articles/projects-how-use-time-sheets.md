@@ -30,7 +30,7 @@ You can use the **Create Time Sheets** batch job to set up time sheets for a spe
 2. In the **Time Sheet List** window, choose the **Create Time Sheets** action.
 3. Fill in the fields as necessary, and then choose the **OK** button. Choose a field to read a short description of the field or link to more information.
 
-**Note**: The **Use Time Sheet** and **Time Sheet Owner User ID** fields must be filled in on the card the resource of the time sheet.  
+**Note**: The **Use Time Sheet** and **Time Sheet Owner User ID** fields must be filled in on the card for the resource of the time sheet.  
 
 You can view the time sheets that you have created in the **Time Sheet list** window.
 
@@ -47,10 +47,10 @@ You can define the work type for all time sheet lines for jobs. In this way, you
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.   
 2. Open the relevant time sheet.
 3. Choose the **Description** field.  
-4. In the **Time Sheet Line Res. Detail ** window, choose the **Work Type Code** field, and select a work type from the list.  
+4. In the **Time Sheet Line Job Detail** window, choose the **Work Type Code** field, and select a work type from the list, such as **Miles**.  
 5. If no work types exist, chose the **New** action.
-6. In the **Work Types** window, fill the fields as necessary.
-7. Repeat step 4 to assign a work type to the time sheet.
+6. In the **Work Types** window, fill in the fields as necessary.
+7. Repeat step 4 to assign the new work type to the time sheet.
 
 ## To reuse time sheet lines in other time sheets  
 If your time sheet information remains the same from time period to time period, you can save time by copying the lines from the previous time period. Then, you just enter your time usage for the new period.
@@ -85,8 +85,6 @@ Time sheet registration is tracked in hours, the standard base unit of measure f
 A time sheet must be submitted for approval before it can be used. You can approve and reject individual lines on a time sheet or send them back to the submitter for additional action. A time sheet can be approved in two ways:
 - A time sheet administrator can approve any time sheet.
 - The person who is specified in the **Time Sheet Approver User ID** field on a resource card can approve that resource's time sheets. For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).
-
-In addition, the project manager on a job can approve time sheet lines in the **Manager Time Sheet by Job** window.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Manager Time Sheets**, and then choose the related link.
 2. Select a time sheet from the list.  
@@ -130,13 +128,6 @@ After you have approved time sheet entries for a job, you can post them to the r
 
 5. Choose the **Post** action.  
 6. To verify the posting, choose the **Ledger Entries** action. The **Job Ledger Entries** window opens showing the result of posting the resource journal.
-
-## To register absence information  
-If you approve time sheet lines for absence, the information is automatically registered in the **Absence Registration** window, where you can review i before posting it for the resource.
-
-1. Approve a time sheet line for an absence in the **Manager Time Sheet** window. For more information, see the "To approve or reject a time sheet" section.
-2. In the top right corner, choose the **Search for Page or Report** icon, enter **Absence Registration**, and then choose the related link.
-3. Review the registered absence.
 
 ## To archive time sheets  
 After you have posted time sheets, you can archive them for future reference. All time sheets lines must be posted before a time sheet can be archived.
