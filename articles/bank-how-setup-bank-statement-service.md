@@ -28,7 +28,7 @@ When you have enabled the bank feed service, you must link the involved bank acc
 
 When the bank feed service is enabled, you can set a bank account up to automatically import new bank statements into the **Payment Reconciliation Journal** window every two hour. Transactions for payments that have already been posted as applied and/or reconciled in the **Payment Reconciliation Journal** window will not be imported. For more information, see the “To enable automatic import of bank statements” section.
 
-**Note**: If you use the Set Up Company assisted setup, then some of the steps in the following procedures will be performed automatically when you get to the company bank account setup. For more information, see [Welcome to Financials](madeira-get-started.md).
+**Note**: If you use the Set Up Company assisted setup, then some of the steps in the following procedures will be performed automatically when you get to the company bank account setup. For more information, see [Welcome to Dynamics 365 for Financials](madeira-get-started.md).
 
 ## To enable the bank feed service
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
