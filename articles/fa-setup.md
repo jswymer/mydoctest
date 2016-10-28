@@ -39,4 +39,4 @@ The following table describes a sequence of tasks, with links to the topics that
 ## See Also
 [Manage Fixed Assets](fa-manage.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics NAV](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
