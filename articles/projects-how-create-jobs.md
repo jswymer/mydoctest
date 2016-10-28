@@ -35,23 +35,17 @@ You create a job card and then create job task lines and job planning lines for 
 **NOTE**: If you are using time sheets with your job, you must also designate a person responsible. This person can approve time sheets for the employee tasks associated with the job. For more information, see [How to: Set Up Timesheets](projects-how-setup-time-sheets.md).
 
 ## To create tasks for a job  
-A key part of creating a job is to specify the various tasks involved in the job. You do this by adding new lines in the **Job Task Lines** window, one task per line. Every job must have at least one task.
+A key part of creating a job is to specify the various tasks involved in the job. You do this by adding new lines on the **Tasks** FastTab in the **Job Card** window, one task per line. Every job must have at least one task.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Select a job, and then choose the **Job Task Lines** action.  
-3. In the **Job Task Lines** window, on a new line, fill in the fields as necessary.  
-4. In the **WIP-Total** field, specify if WIP (the value of work in process) should be calculated for the task and all previous tasks in the task group. Select one of the following options.
-
-|Option|Description|
-|------|-----------|
-|**Total**|Includes the group of tasks in WIP calculation for the task.|
-|**Excluded**|Excludes the task from WIP calculation. This option can be useful if you are still planning the task for a job and you have not posted any usage or invoices.|  
-
+2. Open the job card for a relevant job.
+3. On the **Tasks** FastTab, fill in the fields as necessary on a new line.
+4. To indent tasks and create a hierarchy, Choose the **Tasks** action, the then choose **Indent Job Tasks** action.
 5. Repeat steps 3 and 4 for all the tasks that you need for the job.
 6. To specify the job tasks with information on other job tasks, choose the **Copy Job Tasks from** action, fill in the fields as necessary, and then choose the **OK** button.
 
 ## To create planning lines for a job  
-You can refine your new job tasks on job planning lines. A planning line can be used to capture any information that you want to track for a job. You can use planning lines to add information such as what resources are required or to capture what items are needed to perform the job. For example, if you have a task to obtain customer approval of a job, you can associate that task with planning lines for items such as meeting with the customer and creating a service contract.  
+You can refine your new job tasks on job planning lines. A planning line can be used to capture any information that you want to track for a job. You can use planning lines to add information such as what resources are required or to capture what items are needed to perform the job. For example, if you have a task to obtain customer approval of a job, you can associate that task with planning lines for items such as meeting with the customer and assigning a resource.  
 
 A job planning line can have one of the following types.  
 
@@ -59,15 +53,15 @@ A job planning line can have one of the following types.
 |----|-----------|
 |**Budget**|Provides estimated usage and costs for the job, typically in a time and materials type project. Planning lines of this type cannot be invoiced.|
 |**Billable**|Provides estimated invoicing to the customer, typically in a fixed price project.|
-|**Both Budget and Billable**|provides budgeted usage equal to what you want to invoice.|  
+|**Both Budget and Billable**|Provides budgeted usage equal to what you want to invoice.|  
 
 **Note**. As you enter information on job planning lines, cost information is automatically filled in. For example, the cost, price, and discount for resources and items are initially based on the information that is defined on the resource and item cards.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Select a job, and then choose the **Job Task Lines** action.  
-3. Select a job task for which the **Job Task Type** is **Posting**, and then choose the **Job Planning Lines** action.  
+2. Open a relevant job card.
+3. Select a job task for which the **Job Task Type** field contains **Posting**, and then choose the **Job Planning Lines** action.  
 4. In the **Job Planning Lines** window, on a new line, fill in the fields as necessary.
-5. Repeat step 4 for all planning lines that you need for the job task.
+5. Repeat steps 3 and 4 for all planning lines that you need for the job task.
 
 ## See Also
 [Manage Projects](projects-manage-projects.md)  
