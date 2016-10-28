@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Set Up Your Dynamics 365 for Financials | Financials"
-    description="Set Up Your Dynamics 365 for Financials"
+	pageTitle="Set Up Dynamics 365 for Financials | Financials"
+    description="Set Up Dynamics 365 for Financials"
     services="project-madeira"
     documentationCenter=""
     authors="edupont04"/>
@@ -13,7 +13,7 @@
     ms.date="10/27/2016"
     ms.author="edupont04" />
 
-# Set Up Your Dynamics 365 for Financials
+# Set Up Dynamics 365 for Financials
 Dynamics 365 for Financials includes standard configurations for most business processes, but you can change the configuration to suit your business' needs.
 From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to Financials. For more information, see [Welcome to Financials](madeira-get-started.md).  
 
