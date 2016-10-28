@@ -36,4 +36,4 @@ After you add the opportunities stage cycle, you can start to add sales opportun
 ##See Also  
 [Processing Sales Opportunities](marketing-processing-sales-opportunities.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Working with Financials](ui-work-product.md)
+[Working with Dynamics 365 for Financials](ui-work-product.md)
