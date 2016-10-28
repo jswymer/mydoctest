@@ -22,10 +22,10 @@ For example, instead of setting up separate general ledger accounts for each dep
 Another example is to set up a dimension called *Department*, and use this dimension when you post sales documents. This will let you use business intelligence tools to see which department sold which items. 
 The more dimensions you use, the more detailed reports you can base your business decisions on. For example, a single sales entry can include multiple dimension information, such as:  
   
-- The account the item sale was posted to.  
-- Where the item was sold.  
-- Who sold it.  
-- The kind of customer who bought it.  
+- The account the item sale was posted to  
+- Where the item was sold
+- Who sold it
+- The kind of customer who bought it  
   
 You can create as many dimensions with as many values as you want.  
   
