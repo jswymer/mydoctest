@@ -55,7 +55,7 @@ A new item card prefilled with information from the nonstock item and a relevant
 
 You can then fill or edit fields on the new item card as necessary. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).
 
-**Note**: A Item cross reference record is automatically created for the vendor of the item between the vendor's item number and your new item number.
+**Note**: An Item cross reference record is automatically created for the vendor of the item between the vendor's item number and your new item number.
  
 ## See Also
 [How to: Register New Products](inventory-how-register-new-products.md)  

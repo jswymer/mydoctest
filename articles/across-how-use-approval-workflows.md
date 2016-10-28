@@ -43,7 +43,7 @@ If you want to make a minor change to a record after it has been approved, you c
 
 1. Open the window that displays the record, such as a purchase invoice, and then choose the **Reopen** action.
 
-    The **Document Status** field is changed to Open.
+    The **Document Status** field is changed to **Open**.
 3. Make the necessary changes on the record, such as the vendor’s address.
 4. Choose the **Release** action.
 
@@ -77,9 +77,9 @@ A notification to approve the request is sent to the substitute approver.
 ## To manage overdue approval requests
 The following task is performed by an approval user with approver rights.
 
-At regular intervals, you must remind approval workflow users of overdue approval requests that they must react on. You use the Send Overdue Approval Notifications function for this.
+At regular intervals, you must remind approval workflow users of overdue approval requests that they must react on. You use the **Send Overdue Approval Notifications** function for this.
 
-The Send Overdue Approval Notifications function checks for all open approval requests that are currently overdue. Each approver that has at least one overdue approval entry receives a notification with the list of all their overdue approval requests. The notification is also sent to their approver and all the requesters of the overdue approvals. This helps if the overdue approval entry must be delegated to a substitute.
+The **Send Overdue Approval Notifications** function checks for all open approval requests that are currently overdue. Each approver that has at least one overdue approval entry receives a notification with the list of all their overdue approval requests. The notification is also sent to their approver and all the requesters of the overdue approvals. This helps if the overdue approval entry must be delegated to a substitute.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Overdue Approval Requests**, and then choose the related link.
 2. In the **Overdue Approval Requests** window, choose the **Send Overdue Approval Notifications** action.
