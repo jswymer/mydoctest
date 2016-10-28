@@ -24,16 +24,18 @@ Each list includes a number of columns, and the export to Excel will include any
 ## Exporting Data to Other Finance Systems
 If you decide to cancel your subscription for Financials, you can export your data to Excel and take it with you to your next finance system.  
 
-You can export all pages, of course, but that might be more than you really need. So consider exporting the following essential pages, and remember to add all columns as described earlier:
+You can export all pages, of course, but that might be more than you really need. So consider exporting the following essential pages, and remember to add all columns as described earlier:  
+
 - Chart of Accounts  
 - Customers  
 - Vendors  
 - Banks  
 - Items  
 
-If you want all your financial transactions as well, this is a large amount of data, so the export will often take more than a few minutes of time. The financial transactions are shown in the *General Ledger Entries* page.  
+If you want all your financial transactions as well, this is a large amount of data, so the export will often take more than a few minutes of time. The financial transactions are shown in the **General Ledger Entries** page.  
 
-We recommend that you also consider exporting data from the following pages:
+We recommend that you also consider exporting data from the following pages:  
+
 - Customer Ledger Entries  
 - Vendor Ledger Entries  
 - Bank Account Ledger Entries  
