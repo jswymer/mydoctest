@@ -39,13 +39,13 @@ If you want to examine the forecast, in addition to forecast entries, you can al
 - Subtracts payables and adds receivables.  
 - Skips duplicate sales orders and purchase orders.  
   
-To view a cash flow worksheet:  
+### To view a cash flow worksheet  
   
 1. Search for **Cash Flow Forecasts**, and then choose the related link.  
 2. Choose a cash flow forecast, and then choose the **Cash Flow Worksheet** action.  
 3. On the **Cash Flow Worksheet** page, choose the **Suggest Worksheet Lines** action.  
   
 ## See Also  
-[Set up core financial processes](finance-setup-finance.md)  
+[Set Up Core Financial Processes](finance-setup-finance.md)  
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
-[Setting up cash flow analyses](finance-setup-cash-flow-analyses.md)
+[Setting Up Cash Flow Analyses](finance-setup-cash-flow-analyses.md)

@@ -28,7 +28,7 @@ You can also assign item attributes to item categories, which then apply to the 
 
 ## To create values for item attributes of type Option
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Item Attributes**, and then choose the related link. 
-2. In the **Item Attributes** window, select an item attribute of type Option that you want to create values for, and then choose the **Item Attribute Values** action.
+2. In the **Item Attributes** window, select an item attribute of type **Option** that you want to create values for, and then choose the **Item Attribute Values** action.
 3. In the **Item Attribute Values** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
  
 ## To assign item attributes to items
@@ -36,8 +36,8 @@ You can also assign item attributes to item categories, which then apply to the 
 2. In the **Items** window, select the item that you want to assign item attributes to, and then choose the **Attributes** action.
 3. In the **Item Attribute Values** window, choose the **New** action.
 4. Choose the AssistEdit button in the **Attribute** field and select an existing item attribute. Alternatively, choose the **New** action to first create a new item attribute as explained in the "To create item attributes" section.
-5. In the **Value** field, enter the item attribute value, such as "2010" for the Model Year attribute. 
-6. For item attributes of type Option, choose the AssistEdit button in the **Value** field and select an item attribute value. Alternatively, choose the **New** action to first create a new item attribute value as explained in the "To create values for item attributes of type Option" section.
+5. In the **Value** field, enter the item attribute value, such as "2010" for the **Model Year** attribute. 
+6. For item attributes of type **Option**, choose the AssistEdit button in the **Value** field and select an item attribute value. Alternatively, choose the **New** action to first create a new item attribute value as explained in the "To create values for item attributes of type Option" section.
 7. Repeat steps 4 through 6 for all item attributes that you want to assign to the item.
 
 ## To assign item attributes to item categories
