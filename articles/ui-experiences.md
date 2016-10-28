@@ -21,11 +21,10 @@ In the **Company Information** window, you can set the user experience for your 
 
 | Experience                    | Impact on user interface |
 |-------------------------------|--------------------------|
-|Basic |Show only core actions and fields for sales, purchasing, opportunity management, and financials.|
-|Suite |Show more actions and fields, including dimensions and currency exchange rates.|
+|Basic |Show only core actions and fields for core business areas, such as sales, purchasing, finance, and opportunity management.|
+|Suite |Show more actions and fields for core business areas and for other areas, such as project management, fixed asset management, and analysis by dimensions.|
 
 **Note**: This setting applies to all users in your company.
-
 
 ## See also
 [Changing Basic Settings](ui-change-basic-settings.md)  
