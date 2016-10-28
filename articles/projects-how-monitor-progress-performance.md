@@ -37,7 +37,7 @@ You can create a job WIP method that reflects the needs of your organization. Af
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job WIP Methods**, and then choose the related link.  
 2. Choose the **New** action, and then fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.  
 3. Choose the **OK** button.   
-4. To make this new method the default, 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.  
+4. To make this new method the default, in the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.  
 5. In the **Default WIP Method** field, choose the method from the list.
 
 ## To define a WIP method for a job  
@@ -45,12 +45,12 @@ When you create a new job, you must specify which job WIP method that applies. I
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
 2. Choose the **New** action. For more information, see [How to: Create Jobs](projects-how-create-jobs.md).  
-3. In the **Job Card** window, in the **WIP Method** field, select a WIP method from the list. If a default method has been defined, you cannot select another option.  
+3. In the **Job Card** window, in the **WIP Method** field, select a WIP method from the list. If a default method has been defined, you can select another option if needed.  
 
 ## To calculate WIP  
 You can determine the WIP amount that is to be posted to balance sheet accounts for the period end reporting. You use the **Job Calculate WIP** batch job to do this.  
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Calculate WIP**, and then choose the related link. Alternatively, enter **Job WIP Cockpit** first.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Calculate WIP**, and then choose the related link.  
 2. Choose the **Calculate WIP** action.
 3. In the **Job Calculate WIP** window, fill in the fields as necessary.
 4. Choose the **OK** button.  
@@ -60,7 +60,7 @@ You can determine the WIP amount that is to be posted to balance sheet accounts 
 ## To post WIP  
 When you have calculated WIP, you can post it to balance sheet accounts for the period end reporting. You use the **Job Post WIP to G/L** batch job to do this.
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Post WIP to G/L**, and then choose the related link. Alternatively, enter **Job WIP Cockpit** first.  
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Post WIP to G/L**, and then choose the related link.  
 2. In the **Job Post WIP to G/L** window, fill in the fields as necessary.  
 3. Choose the **OK** button.
 

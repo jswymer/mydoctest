@@ -28,14 +28,14 @@ From the **Jobs** window, you can invoice a customer by selecting the job, and t
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Create Sales Invoice**, and then choose the related link.  
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information. 
-3. Set filters if you want to delimit the jobs that the batch job will process. 
+3. Set filters if you want to limit the jobs that the batch job will process. 
 3. Choose the **OK** button to create the invoices.  
   
 ## To create multiple job sales invoices from job planning lines  
 You can create an invoice from a job planning lines, and indicate at that time the quantity of the item, resource, or general ledger account that you want to invoice.
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Select a relevant job, and then choose the **Job Task Lines** action.  
+2. Open a relevant job.
 3. Select a job task for which the **Job Task Type** field contains **Posting**, and then choose the **Job Planning Lines** action.  
 4. On a job planning line, in the **Qty. To Transfer to Invoice** field, enter the quantity of the item, resource, general ledger account type that you want to invoice.  
 5. Choose the **Create Sales Invoice** action.
@@ -45,8 +45,9 @@ You can create an invoice from a job planning lines, and indicate at that time t
     On the job planning line, in the **Qty. Transferred to Invoice** field, you can see the quantity. 
     
 8. In the **Job Planning Lines** window, choose the **Sales Invoices/Credit Memos** action. 
-9. In the **Job Invoices** window, select the invoice, and then choose the **Open Sales Invoice/Credit Memo** action. The **Sales Invoice** window opens, showing the quantity that you have transferred to the invoice.  
-10. If you want to make additional changes, set the status of the invoice to **Released**, make the changes, and then choose the **Post** action.
+
+    The **Sales Invoice** window opens, showing the quantity that you have transferred to the invoice.  
+9. Make any additional changes, and then choose the **Post** action.
 
 **Note**: The above procedure is similar for creating, reviewing, and posting a job-related sales credit memo.
 
@@ -54,15 +55,16 @@ You can create an invoice from a job planning lines, and indicate at that time t
 When you have completed all activities for a job, including usage posting and invoicing, you must update the job to have a **Status** of **Completed**. Then, you must reverse any WIP that has been posted to the general ledger. 
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
-2. Select a completed job, and then choose the Edit action. 
-3. In the **Status** field, select **Completed**.  
-4. Choose the **Calculate WIP** action.
-5. In the **Job Calculate WIP** window, fill in the fields as necessary.  
+2. Select an open job, and then choose the **Edit** action. 
+3. In the **Status** field, select **Completed**.
+4. Follow the assistance steps to calculate and post WIP. Alternatively, follows steps 5 and 6 to do so manually.  
+5. Choose the **Calculate WIP** action.
+6. In the **Job Calculate WIP** window, fill in the fields as necessary.  
   
      The job WIP entries created by running the batch job will have the **Job Complete** check box selected to show that they are completion entries.  
 
-5. Choose the **Job Post WIP to G/L** action.
-6. In the **Job Post WIP to G/L** window, fill in the fields as necessary.  
+7. Choose the **Job Post WIP to G/L** action.
+8. In the **Job Post WIP to G/L** window, fill in the fields as necessary.  
   
      The job WIP general ledger entries created by running the batch job will have the **Job Complete** check box selected to show they are completion entries.
 

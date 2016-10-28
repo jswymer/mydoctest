@@ -33,11 +33,11 @@ The following procedure shows how to use a purchase invoice to purchase products
 ## To view the value of purchases for a job  
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
-2. Select a relevant job, and then choose the **Job Task Lines** action.  
+2. Open a relevant job card.
 
-The **Outstanding Orders** column shows the total outstanding amount, in local currency, of inventory items and services on purchase documents for the job task line.  
+On the **Tasks** FastTab, the **Outstanding Orders** field shows the total outstanding amount, in local currency, of inventory items and services on purchase documents for the job task line.  
 
-The **Amt. Rec. Not Invoiced** column show the value of items delivered on purchase documents, but not yet invoiced.  
+The **Amt. Rec. Not Invoiced** field shows the value of items delivered on purchase documents, but not yet invoiced.  
 
 3. Choose either of the fields to open the **Purchase Lines** window where you can review information about the related purchase document lines, including which items or services have been received.
 
