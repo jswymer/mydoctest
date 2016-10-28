@@ -21,11 +21,13 @@
 
 ## To create a depreciation book  
 In a fixed asset depreciation book, you specify how fixed assets are depreciated. To accommodate various methods of depreciation, you can set up multiple depreciation books.  
-1.  In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.
+
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.
 2. In the **Depreciation Books List** window, choose the **New** action.
 3. In the **Depreciation Book Card** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
     **Note**: You can record fixed asset transactions in the **Fixed Asset G/L Journal** window or in the **Fixed Asset Journal** window, depending on whether the transactions are for financial reporting or for internal management. Follow the next step to define which type of journal is used for the different fixed asset activities by default.
+
 4. On the **Integration** FastTab, select the check box for each fixed asset activity whose transactions you want to post using the **Fixed Asset G/L Journal** window.
 5. Repeat steps 2 through 4 for each depreciation method or posting method that you want to assign to fixed assets as a depreciation book.
 
@@ -40,6 +42,7 @@ In a fixed asset depreciation book, you specify how fixed assets are depreciated
 
 ## To assign a depreciation book to multiple fixed assets with a batch job
 If you want to assign a depreciation book to several fixed assets, you can use the **Create FA Depreciation Books** batch job to have Dynamics NAV automatically create the necessary fixed assets depreciation books.  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.
 2. Select the fixed asset that you want to set up a assign a depreciation book to, and then choose the **Edit** action.
 3. In the **Depreciation Book Card** window, choose the **Create FA Depreciation Books** action.
@@ -52,6 +55,7 @@ If you want to assign a depreciation book to several fixed assets, you can use t
 
 ## To set up depreciation posting types  
 For each depreciation book, you must set up how you want Dynamics NAV to handle various posting types. For example, whether posting should be debit or credit and whether the posting type should be included in the depreciable basis.  
+
 1.  In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.  
 2. Select the depreciation book that you want to set up, and them choose the **FA Posting Type Setup** action.
 3. In the **FA Posting Type Setup** window, fill in the fields as necessary.
