@@ -71,7 +71,7 @@ When you are ready to post financial information for jobs, you must create job j
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.  
 2. In the **Batch Name** field, choose a relevant job journal batch.  
-3. On a new line, enter journal information that includes document number, job number, job task number, type, and quantity of the type being consumed.  
+3. On a new line, enter document number, job number, job task number, type, and the quantity of the type being consumed.  
 4. When the job journal lines are complete, choose the **Post** action.  
 
 ## To review planning lines for a job ledger entry  
