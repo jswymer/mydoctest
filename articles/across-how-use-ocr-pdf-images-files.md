@@ -33,7 +33,7 @@ The traffic of files to and from the OCR service is processed by a dedicated job
     The value in the **OCR Status** field changes to **Ready**. The attached PDF or image file is sent to the OCR service by the job queue according to the schedule, provided that no errors exist.
 5. Alternatively, in the **Incoming Documents** window, select one or more lines, and then choose the **Send to OCR Service** action.
 
-The value in the **OCR Status** field changes to Sent, provided that no errors exist.
+The value in the **OCR Status** field changes to **Sent**, provided that no errors exist.
 
 ## To send a PDF or image file to the OCR service by email
 From your email application, you can send an email to the OCR service provider with the PDF or image file attached. For information about the email address to send to, see the OCR service provider’s web site.
