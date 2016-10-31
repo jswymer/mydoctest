@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/31/2016"
+    ms.date="10/31/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up General Fixed Assets Information
