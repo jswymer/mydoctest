@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/28/2016"
+    ms.date="10/31/2016"
     ms.author="edupont04" />
 
 # Customizing Dynamics 365 for Financials Using Extensions
@@ -40,7 +40,6 @@ If you uninstall an extension, and you then change your mind, you can install it
 Some extensions are provided by Microsoft, and other extensions are provided by [other companies](ui-extensions-other.md). All extensions are tested before they are made available to you, but we recommend that you access the links that are provided with each extension to learn more about the extension before you choose to install it.  
 
 Microsoft provides the following extensions:  
-- [Ceridian]  
 - [Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md)  
 - [Envestnet Yodlee Bank Feeds](ui-extensions-yodlee-bank-feeds.md)  
 - [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
