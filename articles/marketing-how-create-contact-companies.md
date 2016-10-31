@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/28/2016"
+    ms.date="10/31/2016"
     ms.author="jswymer" />
 
 # Create Contact Companies
@@ -27,7 +27,7 @@ Before creating a contact, you may want to check the settings in the **Marketing
 2. Choose the **New** action.
 3. In the **No. field**, enter a number for the contact.
 
-  Alternatively, if you have set up a number series for contacts in the **Marketing Setup** window, you can press the Enter key to select the next available contact number.  
+    Alternatively, if you have set up a number series for contacts in the **Marketing Setup** window, you can press the Enter key to select the next available contact number.  
 
 4. Set **Type** to **Company**.
 5. Fill in the other fields as required.
@@ -44,8 +44,8 @@ If you have already set up a number of customers, vendors, and bank accounts, yo
 2. In the batch job window that opens, in the **Customer**, **Vendor**, or **Bank Account** section, set filters if you want to create contacts from specific customers, vendors, or bank accounts.
 3. Choose the **OK** button to start creating contacts.
 
-  The next contact numbers in the number series are assigned to the new contacts. The business relation for vendors that is specified in the **Marketing Setup** window is assigned to the newly created contacts.
-
+    The next contact numbers in the number series are assigned to the new contacts. The business relation for vendors that is specified in the **Marketing Setup** window is assigned to the newly created contacts.
+  
 **Tip**: You can also create a customer, vendor, or bank account from a contact. For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
 ##See Also
 [Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  

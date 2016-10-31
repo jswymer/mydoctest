@@ -15,7 +15,7 @@
     ms.author="SorenGP" />
 
 # How to: Prioritize Vendors
-Financials can suggest various payments to vendors, for example, payments that will be due soon or payments where a discount is available. for more information, see [How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md).
+Financials can suggest various payments to vendors, for example, payments that will be due soon or payments where a discount is available. For more information, see [How to: Suggest Vendor Payments](payables-how-suggest-vendor-payments.md).
 
 First, you must prioritize your vendors by assigning numbers to them.
 
