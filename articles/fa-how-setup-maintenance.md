@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/29/2016"
+    ms.date="10/28/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Fixed Asset Maintenance
@@ -36,10 +36,10 @@ To post maintenance costs, you must first enter an account number in the **FA Po
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **FA Posting Groups**, and then choose the related link.
 2. Fill in the **Maintenance Expense Account** field for each posting group.
 
-**Note**: To define that maintenance costs are allocated to departments or projects, set up an allocation keys. For more information, see [How to: Set Up General Fixed Assets Features](fa-how-setup-general.md).
+**Note:** To define that maintenance costs are allocated to departments or projects, set up an allocation keys. For more information, see [How to: Set Up General Fixed Assets Features](fa-how-setup-general.md).
 
 ## See Also
 [Set Up Fixed Assets](fa-setup.md)  
 [Manage Fixed Assets](fa-manage.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics NAV](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials NAV](madeira-get-started.md)
