@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/29/2016"
+    ms.date="10/31/2016"
     ms.author="SorenGP" />
 
 # How to: Acquire Fixed Assets
@@ -35,7 +35,7 @@ The following procedure describes how to create a fixed asset and then acquire i
 5. Choose the **Acquire** action in the notification.
 6. Follow the steps in the **Assisted Fixed Asset Acquisition** window to complete the automatic acquisition of the fixed asset.
 
-**Note**: You can also post acquisition cost as credits. In that case, remember that the value in the **Acquisition Cost Incl. VAT** field must be with a minus sign to indicate a credit.
+**Note:** You can also post acquisition cost as credits. In that case, remember that the value in the **Acquisition Cost Incl. VAT** field must be with a minus sign to indicate a credit.
 
 When you choose **Finish**, the **Book Value** field in the **Fixed Asset Card** window is filled, indicating that the fixed asset has been acquired at the specified acquisition cost.  
 
@@ -55,21 +55,21 @@ Both the main asset and all its components must be set up as individual fixed as
 ## To post a fixed asset acquisition manually with the fixed asset G/L journal
 The following procedure describes how to acquire a fixed asset manually by creating and posting lines in the **Fixed Asset G/L Journal** window. You can also acquire a fixed asset automatically by using the **Assisted Fixed Asset Acquisition** window. For more information, see step 5 in the "To create a fixed asset and acquire it automatically" section.
 
-**Note**: You can also post acquisition cost as credits. In that case, remember that the value in the **Amount** field must be with a minus sign to indicate a credit.
+**Note:** You can also post acquisition cost as credits. In that case, remember that the value in the **Amount** field must be with a minus sign to indicate a credit.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.
 2. In the **Fixed Asset G/L Journal** window, in the **FA Posting Type** field, select **Acquisition Cost**.
 3. Fill in the remaining fields as necessary.
 4. Choose the **Post** action.  
 
-**Tip**: If you fill in the **Insurance No.** field in the fixed asset G/L journal when you post an acquisition cost, then Dynamics NAV will also post the acquisition cost of the fixed asset to the insurance coverage ledger. For more information, see [How to: Insure Fixed Assets](fa-how-insure.md).
+**Tip:** If you fill in the **Insurance No.** field in the fixed asset G/L journal when you post an acquisition cost, then Dynamics NAV will also post the acquisition cost of the fixed asset to the insurance coverage ledger. For more information, see [How to: Insure Fixed Assets](fa-how-insure.md).
 
 ## To cancel an acquisition cost posting for one fixed asset
 If you make an error when posting an acquisition cost, you can remove the entry with the **Cancel FA Entries** batch job and then post the correct acquisition entry. The erroneous entries are transferred to the **FA Error Ledger Entries** window.
 
 For example, if you post an acquisition with the wrong date, you must correct it as soon as possible because the fixed asset posting date is used is many critical calculations.
 
-**Important**: You cannot use the **Reverse Transactions** function for fixed asset entries.
+**Important:** You cannot use the **Reverse Transactions** function for fixed asset entries.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Cancel FA Entries**, and then choose the related link.
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
@@ -86,10 +86,10 @@ You can post the salvage value together with the acquisition cost from a fixed a
 3. In the **Salvage Value** field on the journal line, enter the salvage value amount as a credit (with a minus sign).
 4. Choose the **Post** action.
 
-**Note**: The **Salvage Value** posting type is an option in the **Fixed Asset Journal** window only. It is not available in the **Fixed Asset G/L Journal** window because salvage value is never posted to the general ledger.
+**Note:** The **Salvage Value** posting type is an option in the **Fixed Asset Journal** window only. It is not available in the **Fixed Asset G/L Journal** window because salvage value is never posted to the general ledger.
 
 ## See Also
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics NAV](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
