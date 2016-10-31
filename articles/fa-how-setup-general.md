@@ -29,7 +29,7 @@ You use posting groups to define groups of fixed assets. Entries for these posti
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **FA Posting Groups**, and then choose the related link.  
 2. Choose the **New** action.
 3. In the **FA Posting Group Card** window, fill in the fields as necessary.
-
+  
     **Note**: To make sure that balancing accounts for different fixed assets postings are automatically inserted when you choose the **Insert FA Bal. Account** action on journal lines, follow the next step, based on appreciation posting.
 
 4. On the **Balancing Account** FastTab, in the **Appreciation Bal. Account** field, select the general ledger account to which you want to post balancing entries for appreciation.
