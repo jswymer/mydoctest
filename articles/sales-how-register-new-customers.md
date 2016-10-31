@@ -15,11 +15,9 @@
     ms.author="SorenGP" />
 
 # How to: Register New Customers
-Customers are the source of your income. Each customer who you sell to must be registered as a customer card.
+Customers are the source of your income. You must register each customer you sell to as a customer card. Customer cards hold the information that is required to sell products to the customer. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) and [How to: Register New Products](inventory-how-register-new-products.md).  
 
-Before you can register new customers, you must set up various sales codes that you can select from when you fill customer cards. For more information, see [Set Up Sales](sales-setup-sales.md).
-
-Customer cards hold the information that is required to sell products to the customer. For more information, see [How to: Invoice Sales](sales-how-invoice-sales.md) and [How to: Register New Products](inventory-how-register-new-products.md).
+Before you can register new customers, you must set up various sales codes that you can select from when you fill in customer cards. For more information, see [Set Up Sales](sales-setup-sales.md).
 
 **Note**: If customer templates exist for different customer types, then a window appears when you create a new customer card from where you can select an appropriate template. If only one customer template exists, then new customer cards always use that template.
 
