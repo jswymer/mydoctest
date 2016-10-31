@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="06/15/2016"
+    ms.date="10/31/2016"
     ms.author="edupont04" />
 
 # Sales Tax and Goods and Services Tax in Canada
