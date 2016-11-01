@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/28/2016"
+    ms.date="11/01/2016"
     ms.author="edupont04" />
 # Finance
 Financials includes a standard configuration of most financial processes, but you can change the configuration to suit your business.
@@ -24,7 +24,7 @@ The following table describes a sequence of tasks, with links to the topics that
 | To                                                                  | See                      |
 |---------------------------------------------------------------------|--------------------------|
 |Apply incoming payments, reconcile bank accounts during payment application, and collect outstanding balances. |[Manage Receivables](receivables-manage-receivables.md)|
-|Make payments, apply outgoing payments, and handle work with checks.|[Manage Payables](payables-manage-payables.md)|
+|Make payments, apply outgoing payments, and work with checks.|[Manage Payables](payables-manage-payables.md)|
 |Reconcile bank accounts and transfer funds between bank accounts.|[Manage Bank Accounts](bank-manage-bank-accounts.md)|
 |Understand the general ledger and the chart of accounts.|[The General Ledger and the Chart of Accounts](finance-general-ledger.md)|
 |Add dimensions for richer business intelligence.|[Dimensions](finance-dimensions.md)|
