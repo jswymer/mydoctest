@@ -34,7 +34,7 @@ When you have set up time sheets, you can create time sheets for resources, assi
 |---|---|
 |**Never**|The user in the **Time Sheet Approver User ID** field on the resource card approves the time sheet.|
 |**Always**|The user in the **Person Responsible** field on the job card approves the time sheet.|
-|**Machine Only**´|If the machine time sheet is linked with a job, then the user in the **Person Responsible** field on the job card approves the time sheet. If the machine time sheet is linked with a resource, then the user in the **Time Sheet Approver User ID** field on the resource card approves the time sheet. 
+|**Machine Only**|If the machine time sheet is linked with a job, then the user in the **Person Responsible** field on the job card approves the time sheet. If the machine time sheet is linked with a resource, then the user in the **Time Sheet Approver User ID** field on the resource card approves the time sheet. 
 
 ## To assign a time sheet administrator  
 
