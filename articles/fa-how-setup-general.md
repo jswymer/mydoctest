@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/29/2016"
+    ms.date="10/31/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up General Fixed Assets Information
@@ -29,7 +29,7 @@ You use posting groups to define groups of fixed assets. Entries for these posti
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **FA Posting Groups**, and then choose the related link.  
 2. Choose the **New** action.
 3. In the **FA Posting Group Card** window, fill in the fields as necessary.
-  
+
     **Note**: To make sure that balancing accounts for different fixed assets postings are automatically inserted when you choose the **Insert FA Bal. Account** action on journal lines, follow the next step, based on appreciation posting.
 
 4. On the **Balancing Account** FastTab, in the **Appreciation Bal. Account** field, select the general ledger account to which you want to post balancing entries for appreciation.
@@ -49,7 +49,7 @@ Allocation keys apply to fixed asset classes, not to individual assets.
 ## To set up fixed asset journal templates  
 A template is a predefined layout for a journal. The template contains information about trace codes, reports, and number series. For more information, see [Work with General Journals](ui-work-general-journals.md).
 
-Dynamics NAV automatically creates a fixed asset journal template the first time that you open the **Fixed Asset Journal** window, but you can set up additional journal templates.  
+Financials automatically creates a fixed asset journal template the first time that you open the **Fixed Asset Journal** window, but you can set up additional journal templates.  
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **FA Journal Templates**, and then choose the related link.  
 2. Fill in the fields as necessary.
@@ -62,7 +62,7 @@ You can set up multiple journal batches, which are individual journals for each 
 3. In the **FA Journal Batches** window, fill in the fields as necessary.
 
 ## To set up fixed asset reclassification journal templates  
-You use dedicated reclassification journals when you need to transfer, split, or combine fixed assets. Dynamics NAV automatically creates a fixed asset reclassification journal template the first time that you open the **FA Reclass. Journal** window, but you can set up additional reclassification journal templates. For more information, see [Work with General Journals](ui-work-general-journals.md).  
+You use dedicated reclassification journals when you need to transfer, split, or combine fixed assets. Financials automatically creates a fixed asset reclassification journal template the first time that you open the **FA Reclass. Journal** window, but you can set up additional reclassification journal templates. For more information, see [Work with General Journals](ui-work-general-journals.md).  
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **FA Reclass. Journal Templates**, and then choose the related link.  
 2. Fill in the fields as necessary.
@@ -93,7 +93,7 @@ You use fixed asset location codes to register the location of the fixed asset, 
 2. Enter codes and names for the fixed asset locations that you want to create.
 
 ## To register opening entries  
-If you are using the fixed assets in Dynamics NAV for the first time, you must set up the general ledger application area before you set up fixed assets. How you do this depends on whether fixed assets is integrated with general ledger.  
+If you are using the fixed assets in Financials for the first time, you must set up the general ledger application area before you set up fixed assets. How you do this depends on whether fixed assets is integrated with general ledger.  
 
  The following procedure is used if fixed asset transactions are to be posted to the general ledger.  
 
@@ -107,7 +107,7 @@ If you are using the fixed assets in Dynamics NAV for the first time, you must s
 8. In the fixd asset journal, enter the following lines for each asset:
     - A line with the acquisition cost.
     - A line with the accumulated depreciation to the end of the previous fiscal year.
-    - A line with the accumulated depreciation from the start of the current fiscal year to the date that Dynamics NAV is set to start calculating the depreciation.
+    - A line with the accumulated depreciation from the start of the current fiscal year to the date that Financials is set to start calculating the depreciation.
 
 If you have other opening balances you can also enter them now, such as write\-down and appreciation.  
 
@@ -117,4 +117,4 @@ If the fixed assets are not integrated with the general ledger, skip steps 4 thr
 [Set Up Fixed Assets](fa-setup.md)  
 [Manage Fixed Assets](fa-manage.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics NAV](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
