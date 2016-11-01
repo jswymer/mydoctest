@@ -32,7 +32,7 @@ You can create as many dimensions with as many values as you want.
 ## Using Dimensions  
 In a document such as a sales order, you can add dimension information for both an individual document line and the document itself. For example, in the **Sales Order** window, you can enter dimension values for the first two shortcut dimensions on the individual sales lines, and you can add more dimension information if you choose the **Dimensions** button.  
   
-In you work in a journal instead, you can add dimension information to an entry in the same way, if you have set up shortcut dimensions as fields directly on journal lines.  
+If you work in a journal instead, you can add dimension information to an entry in the same way, if you have set up shortcut dimensions as fields directly on journal lines.  
   
 You can set up default dimensions for accounts or account types, so that dimensions and dimension values are filled in automatically.  
   
