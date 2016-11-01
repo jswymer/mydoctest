@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/01/2016"
     ms.author="SorenGP" />
 
 # How to: Reconcile Payments That Cannot be Applied Automatically
@@ -25,12 +25,12 @@ Payments that cannot be applied can appear on payment reconciliation journal lin
 
 To reconcile such payments, you can choose the Transfer Difference to Account button and then specify to which account the amount in the Difference field will be posted when you post the payment reconciliation journal.
 
-**Note**: Similar functionality exists to set up automatic reconciliation of recurring payments that cannot be applied to related open customer, vendor, or bank account ledger entries. [For more information, see How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+**Note**: Similar functionality exists to set up automatic reconciliation of recurring payments that cannot be applied to related open customer, vendor, or bank account ledger entries. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 
 ## To reconcile payments that cannot be applied
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Reconciliation Journals**, and then choose the related link.
 2. Open a payment reconciliation journal. For more information, see [How to: Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md).
-3. Choose the **Transfer Difference to Account**. The **Transfer Difference to Account** 3. window opens.
+3. Choose the **Transfer Difference to Account**. The **Transfer Difference to Account** window opens.
 4. In the **Account Type** field, specify if the type of account that the payment amount will be posted to.
 5. In the **Account No.** field, specify the account that the payment amount will be posted to.
 6. In the **Description** field, specify text that describes this direct payment posting. By default, the text in the **Transaction Text** field on the payment reconciliation journal line is inserted.
