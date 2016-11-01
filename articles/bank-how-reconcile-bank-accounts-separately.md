@@ -56,7 +56,8 @@ When the value in the **Total Balance** field in the **Bank Statement Lines** pa
 
     If you enter 0 or leave the field blank, then the **Match Automatically** function will only search for matching transaction dates on the bank account ledger entry posting date.  
 3. Choose the **OK** button.  
-All bank statement lines and bank account ledger entries that can be matched change to green font, and the **Applied** check box is selected.
+
+    All bank statement lines and bank account ledger entries that can be matched change to green font, and the **Applied** check box is selected.
 4. To remove a match, select the bank statement line, and then choose the **Remove Match** action.
 
 ## To match bank statement lines with bank account ledger entries manually
@@ -76,8 +77,9 @@ Sometimes a bank statement contain amounts for interest or fees charged. Such ba
 
     The **General Journal** window opens containing new journal lines for any banks statement lines with missing ledger entries.
 3. Complete the journal line with relevant information, such as the balancing account. For more information, see [Work with General Journals](ui-work-general-journals.md).  
-4. Choose the **Post** action.  
-When the entry is posted, proceed to match the bank transaction with to it.
+4. Choose the **Post** action.
+
+    When the entry is posted, proceed to match the bank transaction with to it.
 5. Refresh or reopen the **Bank Acc. Reconciliation** window. The new ledger entry will appear in the **Bank Account Ledger Entries** pane.
 6. Match the bank statement line with the bank account ledger entry, either manually or automatically.
 

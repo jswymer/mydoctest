@@ -27,30 +27,25 @@ You can send the posted sales credit memo to the customer to confirm the return 
   
 ## To create a sales credit memo from a posted sales invoice
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and the choose the related link.  
-2. In the **Posted Sales Invoices** window, select the posted sales invoice that you want to reverse, and then choose the **Create Corrective Credit Memo** action.  
-  
-   The sales credit memo header contains some information from the posted sales invoice. You can edit this, for example, with new information that reflects the return agreement.
-  
+2. In the **Posted Sales Invoices** window, select the posted sales invoice that you want to reverse, and then choose the **Create Corrective Credit Memo** action.
+
+    The sales credit memo header contains some information from the posted sales invoice. You can edit this, for example, with new information that reflects the return agreement.  
 3. Edit information on the lines according to the agreement, such as the number of returned items or the amount to reimburse.
 4. Choose the **Apply Entries** action.
-5. In the **Apply Customer Entries** window, select the line with the posted sales document that you want to apply the sales credit memo to, and then choose the **Applies-to ID** action.  
-  
-    The identifier of the sales credit memo displays in the **Applies-to ID** field.  
-  
+5. In the **Apply Customer Entries** window, select the line with the posted sales document that you want to apply the sales credit memo to, and then choose the **Applies-to ID** action.
+
+    The identifier of the sales credit memo displays in the **Applies-to ID** field. 
 6. In the **Amount to Apply** field, enter the amount that you want to apply if it's smaller than the original amount.  
-  
-    At the bottom of the **Apply Customer Entries** window, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.  
-  
-7. Choose the **OK** button. When you post the sales credit memo, it is applied to the posted sales documents.  
-  
-   After you create or edit sales credit memo lines, and the single or multiple applications are specified, you can post the sales credit memo.  
-  
+
+    At the bottom of the **Apply Customer Entries** window, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.
+7. Choose the **OK** button. When you post the sales credit memo, it is applied to the posted sales documents.
+
+    After you create or edit sales credit memo lines, and the single or multiple applications are specified, you can post the sales credit memo.   
 8. Choose the **Post and Send** action.  
   
-The **Post and Send Confirmation** dialog box opens showing the preferred sending method for the customer. You can change the sending method by choosing the lookup button for the **Send Document** to field. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).  
-  
-The posted sales documents that you applied the credit memo to are now reversed, and a refund payment can be created for the customer. The sales credit memo is removed and replaced with a new document in the list of posted sales credit memos.  
+The **Post and Send Confirmation** dialog box opens showing the preferred sending method for the customer. You can change the sending method by choosing the lookup button for the **Send Document** to field. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
 
+    The posted sales documents that you applied the credit memo to are now reversed, and a refund payment can be created for the customer. The sales credit memo is removed and replaced with a new document in the list of posted sales credit memos.
 ## To create a sales credit memo from scratch
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.
 2. Choose the **New** action to open a new empty sales credit memo.
