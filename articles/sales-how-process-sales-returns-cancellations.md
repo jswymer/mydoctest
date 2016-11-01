@@ -43,9 +43,10 @@ You can send the posted sales credit memo to the customer to confirm the return 
     After you create or edit sales credit memo lines, and the single or multiple applications are specified, you can post the sales credit memo.   
 8. Choose the **Post and Send** action.  
   
-The **Post and Send Confirmation** dialog box opens showing the preferred sending method for the customer. You can change the sending method by choosing the lookup button for the **Send Document** to field. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
+The **Post and Send Confirmation** dialog box opens showing the preferred sending method for the customer. You can change the sending method by choosing the lookup button for the **Send Document** to field. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).  
 
-    The posted sales documents that you applied the credit memo to are now reversed, and a refund payment can be created for the customer. The sales credit memo is removed and replaced with a new document in the list of posted sales credit memos.
+The posted sales documents that you applied the credit memo to are now reversed, and a refund payment can be created for the customer. The sales credit memo is removed and replaced with a new document in the list of posted sales credit memos.
+  
 ## To create a sales credit memo from scratch
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.
 2. Choose the **New** action to open a new empty sales credit memo.

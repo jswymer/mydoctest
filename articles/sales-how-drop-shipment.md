@@ -39,7 +39,7 @@ The line information from the sales order is inserted on the purchase order line
 You can now instruct the vendor to ship the items to your customer, for example, by mailing the purchase order as a PDF.     
 
 ## To view the linked purchase order from the sales order
-1. Select the drop-shipment sales order line, choose the **Order** action, choose the **Drop Shipment** action, and then choose the **Purchase Order** action. 
+- Select the drop-shipment sales order line, choose the **Order** action, choose the **Drop Shipment** action, and then choose the **Purchase Order** action. 
   
 ## To post a drop shipment
 After the vendor ships the items, you can post the sales order as shipped. You can also post the purchase order, but only with the **Receive** option until the sales order has been invoiced. 
