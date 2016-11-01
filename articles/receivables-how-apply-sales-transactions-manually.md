@@ -15,19 +15,19 @@
     ms.author="SorenGP" />
 
 # How to: Reconcile Customer Payments Manually
-When you receive a cash receipt from a customer or you make a cash refund to a customer, you must decide whether to apply the payment or refund to one or more open debit or credit entries. You can specify the exact amount you want to apply. For example, you may only want to apply part of the payment and thereby only partly apply customer ledger entries. It is important at some stage to close (apply) all customer ledger entries in order to obtain correct customer statistics and printouts of the account statements and finance charges.
+When you receive a cash receipt from a customer, or you make a cash refund, you must decide whether to apply the payment or refund to close one or more open debit or credit entries. You can specify the amount you want to apply. For example, you can apply partial payments to customer ledger entries. Closing customer ledger entries makes sure that information such as customer statistics, account statements, and finance charges are correct.
 
-You can apply customer ledger entries in three different ways:
+You can apply customer ledger entries in several ways:
 
-- By entering information in dedicated windows, such as the **Cash Receipt Journal** window and the **Payment Reconciliation Journal** window.
+- By entering information in dedicated windows, such as the **Cash Receipt Journal** and **Payment Reconciliation Journal** windows.
 - From sales credit memo documents.
 - From customer ledger entries after sales documents are posted but not applied.
 
-**Note**: If the **Application Method** field on the customer card contains **Apply to Oldest**, then payments will automatically be applied to the oldest open credit entry if you do not manually specify which entry to apply to. If the application method for a customer is **Manual**, then you must apply entries manually.
+**Note**: If the **Application Method** field on the customer card contains **Apply to Oldest**, payments are applied to the oldest open credit entry, unless you manually specify an entry. If the application method is **Manual**, you always apply entries manually.
 
 You can apply customer payments manually in the **Cash Receipt Journal** window. A cash receipt journal is a type of general journal, so you can use it to post transactions to general ledger, bank, customer, vendor, and fixed assets accounts. You can apply the payment to one or more debit entries when you post the payment, or you can apply from the posted entries later.
 
-You can also apply customer payments, and vendor payments, in the **Payment Reconciliation Journal** window using functions for bank statement import, automatic application, and bank account reconciliation. For more information, see [Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md). Alternatively, you can reconcile customer payments based on a list of unpaid sales documents in the **Payment Registration** window. For more information, see [How to: Reconcile Customer Payments From a List of Unpaid Sales Documents](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
+You can also apply customer and vendor payments in the **Payment Reconciliation Journal** window, by using functions for bank statement import, automatic application, and bank account reconciliation. For more information, see [Reconcile Payments Using Automatic Application](receivables-how-reconcile-payments-auto-application.md). Alternatively, you can reconcile customer payments based on a list of unpaid sales documents in the **Payment Registration** window. For more information, see [How to: Reconcile Customer Payments From a List of Unpaid Sales Documents](receivables-how-reconcile-customer-payments-list-unpaid-sales-documents.md)
 
 ## To fill and post a cash receipt journal
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Cash Receipt Journal**, and then choose the related link.
@@ -36,7 +36,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 4. Fill in the **Posting Date** field.  
 5. In the **Document Type** field, select **Payment**.
 
-    The **Document No.** field is filled by the number series assigned to the batch.  
+   The **Document No.** field is filled by the number series assigned to the batch.  
   
 6. Use the **External Document No.** field to store an identifier, such as the customer's check number.
 7. In the **Account Type** field, select **Customer**.
@@ -57,7 +57,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 8. In the **Apply Customer Entries** window, select the entry to apply the payment to.
 9. In the **Amount to Apply** field, enter the amount you want to apply to the entry. If you do not enter an amount, the maximum amount is applied.  
   
-    At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
+   At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
   
 10. Choose the **OK** button. The **Cash Receipt Journal** window now shows the entry you have selected entered in the **Applies-to Doc. Type** and **Applies-to Doc. No.** fields.
 11. Post the cash receipt journal.
@@ -74,7 +74,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 9. Select the lines with the entries that you want the applying entry to be applied to, and then choose the **Set Applies-to ID** action.
 10. On each line, in the **Amount to Apply** field, enter the amount you want to apply to the individual entry. If you do not enter an amount, the maximum amount is applied.
 
-    At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
+   At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
   
 11. Choose the **OK** button.
 12. Post the cash receipt journal.
@@ -85,7 +85,7 @@ You can also apply customer payments, and vendor payments, in the **Payment Reco
 3. To apply the credit memo to a single customer ledger entry when posting, in the **Applies-to Doc. No.** field, select the entry to which you want to apply the payment.
 4. On the line in the **Amount to Apply** field, enter the amount you want to apply to the entry.  
   
-    If you do not enter an amount, the program automatically applies the maximum amount. At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
+   If you do not enter an amount, the program automatically applies the maximum amount. At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
   
 5. Choose the **OK** button. The **Sales Credit Memo** window now shows the entry you have selected entered in the **Applies-to Doc. Type** and **Applies-to Doc. No.** fields. And the amount of the credit memo to be posted, adjusted for any possible payment discounts.
 6. Post the credit memo.
@@ -137,10 +137,10 @@ Applying customer ledger entries in different currencies must be enabled. For mo
 5. Choose the **OK** button to return to the cash receipt journal.
 6. Post the sales journal.  
   
-**Important**: When you apply entries in different currencies to one another, the entries are converted to USD. Even though the exchange rates for the two relevant currencies are fixed, for example between USD and EUR, there may be a small residual amount when these foreign-currency amounts are converted to USD. These small residual amounts are posted as gains and losses to the account specified in the **Realized Gains Account** or **Realized Losses Account** field in the **Currencies** window. The **Amount (USD)** field is also adjusted on the relevant vendor ledger entries.  
+**Important**: When you apply entries in different currencies, the entries are converted to USD. Although the exchange rates for the two currencies are fixed, for example between USD and EUR, there may be a small residual amount when they are converted to USD. These small residual amounts are posted as gains and losses to the account specified in the **Realized Gains Account** or **Realized Losses Account** fields in the **Currencies** window. The **Amount (USD)** field is also adjusted on the vendor ledger entries.  
   
-## To unapply an application of customer entries
-When you unapply an erroneous application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses. The entries that were closed by the application are reopened.  
+## To correct an application of customer entries
+When you correct an application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses. The entries that were closed by the application are reopened.  
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.
 2. Open the relevant customer card.
