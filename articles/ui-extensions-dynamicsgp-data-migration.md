@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/07/2016"
+    ms.date="11/01/2016"
     ms.author="edupont04" />
 
 # The Dynamics GP Data Migration Extension for Dynamics 365 for Financials
@@ -19,6 +19,7 @@ For more information, see [Migrate Business Data from Other Finance Systems](upl
 
 ## Exporting Data from Dynamics GP
 You must have exported some or all of your existing customers, vendors, inventory items, and accounts to a file, using the Dynamics GP functionality for data export. For the purposes of Financials, you can export the following types of data:
+
 - Account  
 - Customer  
 - Item  
