@@ -25,7 +25,7 @@ You can also set up some global and shortcut dimensions:
 - **Shortcut dimensions** are available as a field on journal and document lines. You can create up to six of these.  
   
 ## Set up default Dimensions for Customers, Vendors, and other accounts  
-You can assign a default dimension for a specific account. The dimension will be copied to the journal or document when you enter the account number on a line, but uou can delete or change the code on the line if appropriate. You can also make a dimension required for posting an entry with a specific type of account.  
+You can assign a default dimension for a specific account. The dimension will be copied to the journal or document when you enter the account number on a line, but you can delete or change the code on the line if appropriate. You can also make a dimension required for posting an entry with a specific type of account.  
 
 ## Translate the Names of Dimensions
 When you create a dimension, and especially a shortcut dimension, what you're actually creating a custom field or column heading. If your business is international, you can provide translations for the name of the dimension. Documents that include the dimension will use the translated name, where applicable.   
