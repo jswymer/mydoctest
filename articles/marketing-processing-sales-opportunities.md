@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/01/2016"
     ms.author="jswymer" />
 
 # Processing Sales Opportunities
@@ -31,7 +31,7 @@ Each of these tasks opens the **Opportunity List** window.
 You can close opportunities when the negotiations are over. When closing an opportunity, you can specify whether it was won or lost, and the reasons for closing it. To specify a reason, you must set up closed opportunity codes.
 
 1. In the **Opportunity List** window, select the opportunity, and the choose the **Close** action. The **Close Opportunity** window opens.
-  
+
 2. Fill in the relevant fields, and then choose the **OK** button.
 
   The **Close Opportunity Code** and **Date Closed** fields are required fields and must be filled in before you can choose the **OK** button.
@@ -60,7 +60,7 @@ To delete closed opportunities from the **Opportunity List** window, select the 
 
 To delete closed opportunities by using the **Delete Closed Opportunities** batch job, follow these steps:
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Delete Opportunities, and then choose the related link.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Delete Opportunities**, and then choose the related link.
 2. In the **Opportunity** section, set up the filters that specify the closed opportunities to delete.
 3. Choose the **OK** button.
 

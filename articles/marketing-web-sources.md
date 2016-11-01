@@ -3,7 +3,7 @@
                 description="Describes how to use web sources for contacts in Financials"
                 services="project-madeira"
                 documentationCenter=""
-                authors="edupont04"
+                authors="jswymer"
 />
 <tags
     ms.service="project-madeira"
@@ -11,8 +11,8 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
-    ms.author="edupont04" />
+    ms.date="11/01/2016"
+    ms.author="jswymer" />
 
 # Set Up Web Sources for Contact Companies
 You can use web sources with your contact companies to identify, for example, search engines and web sites, on the Internet that you want to use to search for information about the contacts. When assigning web sources, you specify which search engine and search word the application will use to find the requested information.
@@ -24,7 +24,7 @@ Using web sources on contacts is a two-step process. First, you define the web s
 2. Choose the **New** actions.
 3. Fill in the **Code**, **Description**, and **URL** fields.
 
-  Type %1 in the **URL** field to insert a placeholder for a search word in the URL. When you launch the web source from a contact, the %1 is replaced with the search word, for example, the name of the company that you have entered in the **Contact Web Sources** window.
+    Type %1 in the **URL** field to insert a placeholder for a search word in the URL. When you launch the web source from a contact, the %1 is replaced with the search word, for example, the name of the company that you have entered in the **Contact Web Sources** window.
 
 Repeat these steps to set up as many web sources as you want.
 

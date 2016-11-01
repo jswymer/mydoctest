@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/01/2016"
     ms.author="SorenGP" />
 
 # How to: Register New Vendors
@@ -19,7 +19,7 @@ Vendors provide the products that you sell. Each vendor that you purchase from m
 
 Before you can register new vendors, you must set up various purchase codes that you can select from when you fill vendor cards. When all of the required master data is created, you can perform additional configuration of the vendor, such as prioritize the vendor for payment purposes and list items that the vendor and other vendors can supply. Another group of setup tasks for vendors is to record your agreements concerning discounts, prices, and payment methods. For more information, see [Set Up Purchasing](purchasing-setup-purchasing.md).
 
-Vendor cards hold the information that is required to buy products from the vendor. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md) and [How to: Register new Products](inventory-how-register-new-products.md).
+Vendor cards hold the information that is required to buy products from the vendor. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md) and [How to: Register New Products](inventory-how-register-new-products.md).
 
 **Note**: If vendor templates exist for different vendor types, then a window appears when you create a new vendor card from where you can select an appropriate template. If only one vendor template exists, then new vendor cards always use that template.
 
