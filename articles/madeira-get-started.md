@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/19/2016"
+    ms.date="11/01/2016"
     ms.author="SusanneWindfeldPedersen" />
 
 # Welcome to Dynamics 365 for Financials
@@ -30,7 +30,7 @@ Home pages use a role-centric design to give you fast access to the business pro
 
 Each Home page provides an **Assisted Setup & Tasks** action that opens a list of assisted setup guides. These guides help you add features to Financials. You can also access the guides by choosing the **Search for Page or Report** icon in the top right, and then entering  **Assisted Setup**.  
 
-**Note:** The guides that are available differ, depending on the user experience you choose for your company. Fewer guides are available for the **Basic** experience, and more for the **Suite**. The first time you sign in, you use the Basic experience. For more information, see [Customizing Dynamics 365 for Financials Experience](ui-experiences.md).  
+**Note:** The guides that are available differ, depending on the user experience you choose for your company. Fewer guides are available for the **Basic** experience, and more for the **Suite**. The first time you sign in, you use the Basic experience. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).  
 
 The following table is a full list of assisted setup guides.  
 

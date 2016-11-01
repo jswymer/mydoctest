@@ -42,7 +42,7 @@ When you choose **Finish**, the **Book Value** field in the **Fixed Asset Card**
 ## To set up a component list for a main asset  
 You can group your fixed assets into main assets and their components. For example, you may have a production machine that consists of many parts that you want to group in this manner.  
 
-Both the main asset and all its components must be set up as individual fixed asset cards. After you have set up a component list, Dynamics NAV automatically fills in the **Main Assets/Component** and **Components of Main Asset** fields on the fixed asset cards.
+Both the main asset and all its components must be set up as individual fixed asset cards. After you have set up a component list, Financials automatically fills in the **Main Assets/Component** and **Components of Main Asset** fields on the fixed asset cards.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.
 2. Select the fixed asset that is the main asset, and then choose the **Main Asset Components** action.
@@ -62,7 +62,7 @@ The following procedure describes how to acquire a fixed asset manually by creat
 3. Fill in the remaining fields as necessary.
 4. Choose the **Post** action.  
 
-**Tip:** If you fill in the **Insurance No.** field in the fixed asset G/L journal when you post an acquisition cost, then Dynamics NAV will also post the acquisition cost of the fixed asset to the insurance coverage ledger. For more information, see [How to: Insure Fixed Assets](fa-how-insure.md).
+**Tip:** If you fill in the **Insurance No.** field in the fixed asset G/L journal when you post an acquisition cost, then Financials will also post the acquisition cost of the fixed asset to the insurance coverage ledger. For more information, see [How to: Insure Fixed Assets](fa-how-insure.md).
 
 ## To cancel an acquisition cost posting for one fixed asset
 If you make an error when posting an acquisition cost, you can remove the entry with the **Cancel FA Entries** batch job and then post the correct acquisition entry. The erroneous entries are transferred to the **FA Error Ledger Entries** window.

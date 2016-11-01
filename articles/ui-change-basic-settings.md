@@ -47,4 +47,4 @@ Use the options in this section if you want to specify some additional checks fo
 ## See Also
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
 [How to: Change the Role Center](change-role.md)  
-[Customizing Dynamics 365 for Financials Experience](ui-experiences.md)  
+[Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)  

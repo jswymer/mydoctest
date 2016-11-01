@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/25/2016"
+    ms.date="10/31/2016"
     ms.author="edupont04" />
 
 # What's New in Dynamics 365 for Financials
@@ -24,14 +24,20 @@ As announced on the blog, we're now a service that you use in your business. But
 ### Project management
 If you switch to the Suite experience, you can manage projects and work with resources, time sheets, and jobs. When you first log in as a Project Manager role, an assisted setup guide will help you set up how your projects are managed. You can work with the sample accounts, jobs, resources, and so on in the demonstration company to get familiar with the functionality. For more information, see [Manage Projects](projects-manage-projects.md).
 
+### Fixed assets
+If you switch to the Suite experience, you can manage fixed assets, including depreciation and insurance. A standard setup is provided, but you can modify it if anytime you want. You can register purchases of fixed assets in dedicated fixed asset G/L journals where you can also dispose of fixed assets. The right accounting entries are created automatically. For more information, see [Manage Fixed Assets](fa-manage.md).
+
 ### New extension for migrating data from Dynamics GP
 If your business uses Dynamics GP today, you can use an assisted setup guide to migrate master records to Financials. You must have exported your existing customers, vendors, inventory items, and accounts using the export data functionality in Dynamics GP. The Dynamics GP Data Migration extension automatically maps the exported data so that you can quickly get  your existing data into your new company in Dynamics 365 for Financials. For more information, see [Dynamics GP Data Migration](ui-extensions-dynamicsgp-data-migration.md).
+
+### Cash flow forecasting
+The charts on the Accountant Role Center provide insight that can help you make solid decisions about what to do with your cash. Also, you can use the **Cash Flow Forecast** chart to generate predictions of your cash flow in the future. For more information, see [Analyze cash flow in your company](finance-analyze-cash-flow.md).
 
 ### Team members
 The **Team Member** Role Center is a new role center that is defined for the Dynamics 356 team member role so that these users can read and modify most data in the system. As a team member, you can also work with timesheets and approval tasks that they are assigned.
 
 ### Synchronize your customers and services with Bookings in Office 365
-With this update, you can automatically synchronize your customer and service item records with the new **Bookings** app in Office 365. You'll create customers and services and book appointments in Bookings, and these then show up in Financials. Just like that, you'll have invoiced the customer following the service automatically - and you won't have entered the same information twice in the process. 
+With this update, you can automatically synchronize your customer and service item records with the new **Bookings** app in Office 365. You'll create customers and services and book appointments in Bookings, and these then show up in Financials. Just like that, you'll have invoiced the customer following the service automatically - and you won't have entered the same information twice in the process.
 
 ## September 2016 Update
 This update of Financials added new capabilities as [announced on the blog](https://community.dynamics.com/business/b/financials/archive/2016/09/29/new-and-updated-capabilities-in-the-september-update-of-project-quot-madeira-quot).

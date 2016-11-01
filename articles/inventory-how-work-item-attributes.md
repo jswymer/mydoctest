@@ -48,7 +48,7 @@ You can also assign item attributes to item categories, which then apply to the 
 5. In the **Default Value** field, choose the AssistEdit button and select an item attribute value. 
 6. Repeat steps 4 and 5 for all item attributes that you want to assign to the item category.
 
-**Note**: Item attributes for parent item categories will be inherited to child item categories. This is indicated by the **Inherited From** field on the **Attributes** FastTab. For more information, see [How to: Categorize Item](inventory-how-categorize-items.md).
+**Note**: Item attributes for parent item categories will be inherited to child item categories. This is indicated by the **Inherited From** field on the **Attributes** FastTab. For more information, see [How to: Categorize Items](inventory-how-categorize-items.md).
 
 ## To filter by item attributes
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Items**, and then choose the related link.
@@ -67,7 +67,7 @@ You can also assign item attributes to item categories, which then apply to the 
 The items in the **Items** window are filtered by the specified item attribute values.
  
 ## See Also
-[How to: Categorize Item](inventory-how-categorize-items.md)    
+[How to: Categorize Items](inventory-how-categorize-items.md)    
 [How to: Register New Products](inventory-how-register-new-products.md)  
 [Manage Inventory](inventory-manage-inventory.md)  
 [Work With Dynamics 365 for Financials](ui-work-product.md)
