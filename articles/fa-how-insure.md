@@ -46,7 +46,7 @@ The following procedure explains how to create an insurance journal line manuall
 3. To assign multiple fixed assets to one insurance policy, create journal lines with the same value in the **Insurance No.** field and different values in the **FA No.** field.  
 4. Choose the **Post** action.  
   
-**Note:** The entries from an insurance journal are only posted to the insurance coverage ledger.  
+    **Note:** The entries from an insurance journal are only posted to the insurance coverage ledger.  
   
 ## To update the insurance value of a fixed asset
 You can use the **Index Insurance** batch job to update the value of the fixed assets that are covered.  
@@ -54,7 +54,7 @@ You can use the **Index Insurance** batch job to update the value of the fixed a
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Index Insurance**, and then choose the related link.
 2. Fill in the fields as necessary.
 
-**Note:** In the **Index Figure** field, you enter a decrease of 5%, for example, as 95, whereas you enter an increase of 2% as 102.  
+    **Note:** In the **Index Figure** field, you enter a decrease of 5%, for example, as 95, whereas you enter an increase of 2% as 102.  
   
 3.  Choose the **OK** button.  
   

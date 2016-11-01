@@ -37,11 +37,11 @@ Once a month, or whenever you choose, you can run the **Calculate Depreciation**
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.  
 3. Choose the **OK** button.  
   
-   The batch job calculates the depreciation and creates lines in the fixed asset G/L journal.  
+    The batch job calculates the depreciation and creates lines in the fixed asset G/L journal.  
   
 4. In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.  
   
-   In the **Fixed Asset G/L Journal** window, in the **No. of Depreciation Days** field you can see how many days of depreciation have been calculated.  
+    In the **Fixed Asset G/L Journal** window, in the **No. of Depreciation Days** field you can see how many days of depreciation have been calculated.  
   
 5. Choose the **Post** action.  
   
@@ -78,11 +78,11 @@ When you fill in journal lines to post to a depreciation book, you can duplicate
 4. Choose the **Post** action.  
 5. In the top right corner, choose the **Search for Page or Report** icon, enter **FA Journals**, and then choose the related link.  
   
-   **Note:** The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.  
+    **Note:** The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.  
   
 6. Review or edit the lines, and then choose the **Post** action.  
   
-   **Note:** Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.  
+    **Note:** Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.  
   
 You can copy entries from one depreciation book to another by using the **Copy Depreciation Book** batch job. The batch job creates journal lines in the journal batch that you have specified in the **FA Journal Setup** window for the depreciation book that you want to copy to. For more information, see the following procedure.  
   

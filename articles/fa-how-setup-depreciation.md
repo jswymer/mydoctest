@@ -26,7 +26,7 @@ In a fixed asset depreciation book, you specify how fixed assets are depreciated
 2. In the **Depreciation Books List** window, choose the **New** action.
 3. In the **Depreciation Book Card** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
-**Note:** You can record fixed asset transactions in the **Fixed Asset G/L Journal** window or in the **Fixed Asset Journal** window, depending on whether the transactions are for financial reporting or for internal management. Follow the next step to define which type of journal is used for the different fixed asset activities by default.
+    **Note:** You can record fixed asset transactions in the **Fixed Asset G/L Journal** window or in the **Fixed Asset Journal** window, depending on whether the transactions are for financial reporting or for internal management. Follow the next step to define which type of journal is used for the different fixed asset activities by default.
 
 4. On the **Integration** FastTab, select the check box for each fixed asset activity whose transactions you want to post using the **Fixed Asset G/L Journal** window.
 5. Repeat steps 2 through 4 for each depreciation method or posting method that you want to assign to fixed assets as a depreciation book.
@@ -38,7 +38,7 @@ In a fixed asset depreciation book, you specify how fixed assets are depreciated
 4. If you need to assign more than one depreciation book to the fixed asset, choose the **Add More Depreciation Books** action.
 5. Alternatively, choose the **Depreciation Books** action to specify one or more fixed asset depreciation books.
 
-**Note:** When you use the manual depreciation method, you must enter depreciation manually in the fixed asset G/L journal. The **Calculate Depreciation** function omits fixed assets that use the manual depreciation method. You can use this method for assets that are not subject to depreciation, such as land.
+    **Note:** When you use the manual depreciation method, you must enter depreciation manually in the fixed asset G/L journal. The **Calculate Depreciation** function omits fixed assets that use the manual depreciation method. You can use this method for assets that are not subject to depreciation, such as land.
 
 ## To assign a depreciation book to multiple fixed assets with a batch job
 If you want to assign a depreciation book to several fixed assets, you can use the **Create FA Depreciation Books** batch job to create fixed asset depreciation books.  
@@ -61,16 +61,12 @@ For each depreciation book, you must set up how you want Financials to handle va
 2. Select the depreciation book that you want to set up, and them choose the **FA Posting Type Setup** action.
 3. In the **FA Posting Type Setup** window, fill in the fields as necessary.
 
-**NOTE:** You cannot insert or delete lines in the **FA Posting Type Setup** window. You can only modify the existing lines.
+    **NOTE:** You cannot insert or delete lines in the **FA Posting Type Setup** window. You can only modify the existing lines.
 
-We recommend that you do not change the setup for depreciation books for entries that have already been posted. Changes will not affect the entries that are already posted, which would make depreciation book statistics misleading.
+    We recommend that you do not change the setup for depreciation books for entries that have already been posted. Changes will not affect the entries that are already posted, which would make depreciation book statistics misleading.
 
 ## To set up default templates and batches for fixed asset depreciation  
-For each depreciation book, you define a default setup of templates and batches. You use these defaults to:  
-  
-- Duplicate lines from one journal to another.  
-- Create journal lines using the **Calculate Depreciation** or **Index Fixed Assets** batch jobs.  
-- Duplicate acquisition costs in the insurance journal.  
+For each depreciation book, you define a default setup of templates and batches. You use these defaults to duplicate lines from one journal to another, create journal lines using the **Calculate Depreciation** or **Index Fixed Assets** batch jobs, duplicate acquisition costs in the insurance journal.  
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.  
 2. Select the depreciation book that you want to define default journals for, and then choose the **FA Journal Setup** action.  
