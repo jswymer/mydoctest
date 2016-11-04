@@ -61,7 +61,7 @@ For each depreciation book, you must set up how you want Financials to handle va
 2. Select the depreciation book that you want to set up, and them choose the **FA Posting Type Setup** action.
 3. In the **FA Posting Type Setup** window, fill in the fields as necessary.
 
-    **NOTE:** You cannot insert or delete lines in the **FA Posting Type Setup** window. You can only modify the existing lines.
+    **Note:** You cannot insert or delete lines in the **FA Posting Type Setup** window. You can only modify the existing lines.
 
     We recommend that you do not change the setup for depreciation books for entries that have already been posted. Changes will not affect the entries that are already posted, which would make depreciation book statistics misleading.
 
