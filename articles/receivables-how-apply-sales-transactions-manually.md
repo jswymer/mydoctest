@@ -36,8 +36,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 4. Fill in the **Posting Date** field.  
 5. In the **Document Type** field, select **Payment**.
 
-   The **Document No.** field is filled by the number series assigned to the batch.  
-  
+    The **Document No.** field is filled by the number series assigned to the batch.  
 6. Use the **External Document No.** field to store an identifier, such as the customer's check number.
 7. In the **Account Type** field, select **Customer**.
 8. In the **Account No.** field, select the relevant G/L account.
@@ -55,10 +54,9 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 6. In the **Bal. Account Type** field, enter **Bank Account**.
 7. In the **Applies-to Doc. No.** field, choose the field to open the **Apply Customer Entries** window.
 8. In the **Apply Customer Entries** window, select the entry to apply the payment to.
-9. In the **Amount to Apply** field, enter the amount you want to apply to the entry. If you do not enter an amount, the maximum amount is applied.  
-  
-   At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
-  
+9. In the **Amount to Apply** field, enter the amount you want to apply to the entry. If you do not enter an amount, the maximum amount is applied.
+
+    At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
 10. Choose the **OK** button. The **Cash Receipt Journal** window now shows the entry you have selected entered in the **Applies-to Doc. Type** and **Applies-to Doc. No.** fields.
 11. Post the cash receipt journal.
 
@@ -74,8 +72,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 9. Select the lines with the entries that you want the applying entry to be applied to, and then choose the **Set Applies-to ID** action.
 10. On each line, in the **Amount to Apply** field, enter the amount you want to apply to the individual entry. If you do not enter an amount, the maximum amount is applied.
 
-   At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
-  
+    At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
 11. Choose the **OK** button.
 12. Post the cash receipt journal.
 
@@ -84,9 +81,8 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 2. Open the relevant sales credit memo.
 3. To apply the credit memo to a single customer ledger entry when posting, in the **Applies-to Doc. No.** field, select the entry to which you want to apply the payment.
 4. On the line in the **Amount to Apply** field, enter the amount you want to apply to the entry.  
-  
-   If you do not enter an amount, the program automatically applies the maximum amount. At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
-  
+
+    If you do not enter an amount, the program automatically applies the maximum amount. At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.    
 5. Choose the **OK** button. The **Sales Credit Memo** window now shows the entry you have selected entered in the **Applies-to Doc. Type** and **Applies-to Doc. No.** fields. And the amount of the credit memo to be posted, adjusted for any possible payment discounts.
 6. Post the credit memo.
 
@@ -96,9 +92,8 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 3. To apply the credit memo to multiple customer ledger entries when posting, choose the **Apply Entries** action.
 4. Select the lines with the entries that you want the applying entry to be applied to, and then choose the **Set Applies-to ID** action.
 5. On each line, in the **Amount to Apply** field, enter the amount you want to apply to the individual entry. If you do not enter an amount, the maximum amount is applied.  
-  
-  At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
 
+    At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
 6. Choose the **OK** button. The **Sales Credit Memo** window now shows the amount of the credit memo to be posted, adjusted for any possible payment discounts.
 7. Post the credit memo.
 
@@ -109,14 +104,12 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 4. Choose the **Apply Entries** action. The **Apply Customer Entries** window opens showing the open entries for the customer.
 5. Select the lines with the entries that you want the applying entry to be applied to, and then choose the **Set Applies-to ID.** action.
 6. For each line in the **Amount to Apply** field, enter the amount you want to apply to the individual entry. If you do not enter an amount, the maximum amount is applied.  
-  
-  At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field.  
 
+    At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field.  
 7. Choose the **Post Application** action. The **Post Application** window appears with the document number of the applying entry and the posting date of the entry with the most recent posting date.  
 8. Choose the **OK** button to post the application.
 
-   If the posted application has resulted in closed customer ledger entries, the **Open** field is cleared for these ledger entries.  
-  
+    If the posted application has resulted in closed customer ledger entries, the **Open** field is cleared for these ledger entries.    
 9. To see the ledger entries, in the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and choose the related link. Browse to the card for the relevant customer to see the ledger entries.  
   
 On the ledger entry list, on the line that contains the ledger entry that was fully applied to, you can see that the **Open** check box is not selected.  
