@@ -4,7 +4,7 @@ Wednesday, May 4, 2016
 
 ## Main Objectives:
 
-## Development:
+## Development: commit c
 
 1.	Get the PaaS (Management Portal) working with the initial version of the Execution Service
 
