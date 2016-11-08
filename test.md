@@ -3,6 +3,10 @@
 	services="" 
 	documentationCenter=""
 	authors="edupont" />
+
+Commit a
+Commit b
+
 # TESTTESTTEST MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
 Commit a
 Commit b
