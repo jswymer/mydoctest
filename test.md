@@ -4,6 +4,9 @@
 	documentationCenter=""
 	authors="edupont" />
 
+Commit a
+Commit b
+
 # TESTTESTTEST MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
 MICROSOFT PROJECT “Test Begin” PREVIEW 
 These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them.  This agreement applies to the pre-release software named above, which includes the media on which you received it, if any.  It also applies to any Microsoft 
