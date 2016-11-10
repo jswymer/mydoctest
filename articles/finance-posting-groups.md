@@ -6,12 +6,12 @@
                 authors="bholtorf"
 />
 <tags
-    ms-service: "project-madeira"
+    ms-service:"project-madeira"
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="Madeira"
-    ms.date="11/10/2016"
+    ms.date="11/09/2016"
     ms.author="bholtorf" />
 
 # Posting Group Setups
