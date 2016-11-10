@@ -11,11 +11,13 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/07/2016"
     ms.author="SorenGP" />
 
 # How to: Adjust Inventory   
 After you have made a physical count of an item in your inventory area, you can use the **Adjust Inventory** function to record the actual inventory quantity.
+
+**Note**: After you have adjusted inventory, you must update it with the current, calculated value. For more information, see [How to: Revalue Inventory](inventory-how-revalue-inventory.md). 
 
 You can also use the function as a simple way to place purchased items on inventory if you do not use the **Purchase Invoice** window to record your purchases. For more information, [How to: Record Purchases](purchasing-how-record-purchases.md).
 
