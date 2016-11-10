@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/31/2016"
+    ms.date="11/09/2016"
     ms.author="SorenGP" />
 
 # How to: Make Drop Shipments
@@ -23,7 +23,7 @@ When a sales order is marked for drop shipment, and you create a purchase order 
 To prepare a drop shipment, you create a sales order for an item as normal, except you must indicate on the sales line that the sale requires drop shipment.
 
 1. Create a sales order for an item. For more information, see [How to: Sell Products](sales-how-sell-products.md).
-2. On the sales order line for the to drop-ship, select the **Drop Shipment** check box.
+2. On the sales order line for the drop shipment, select the **Drop Shipment** check box. Use the **Choose Columns** function if the field is not visible. For more information, see [User Personalization](ui-user-personalization.md).
 
 ## To create the purchase order for drop shipment
 To prepare a drop shipment for the item to be sold, you create a purchase order as normal, except you must indicate on the purchase order that it must be shipped to your customer, not to yourself.
