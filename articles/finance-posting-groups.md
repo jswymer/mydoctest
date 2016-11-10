@@ -1,11 +1,12 @@
 <properties
                 pageTitle="Posting Group Setups| Dynamics NAV"
                 description="Provides an overview of posting groups"
-                        documentationCenter=""
+                services="project-madeira"
+                documentationCenter=""
                 authors="bholtorf"
 />
 <tags
-    ms-prod: "dynamics-nav-2017"
+    ms-service: "project-madeira"
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
