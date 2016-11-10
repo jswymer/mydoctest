@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/01/2016"
+    ms.date="11/07/2016"
     ms.author="edupont04" />
 # Finance
 Financials includes a standard configuration of most financial processes, but you can change the configuration to suit your business.

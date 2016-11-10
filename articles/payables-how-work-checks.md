@@ -11,13 +11,15 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/08/2016"
     ms.author="SorenGP" />
 
 # How to: Work With Checks
 Financials supports electronic and manual check issuance. Both methods use the payment journal to issue checks to vendors. You can also void checks and view check ledger entries.
 
 The process of issuing checks suggests payments, creates ledger entries, and prints the computer checks.
+
+**Note**: To make sure that your bank only clears validated checks and amounts, you can send them a file that contains vendor, check, and payment information. For more information, see [How to: Export a Positive Pay file](finance-how-positive-pay.md). 
 
 Your printer must be correctly set up with the check forms, and you must define which check layout to use. For more information, see [How to: Define Check Layouts](finance-how-define-check-layouts.md)
 
@@ -53,3 +55,4 @@ When check payment have been posted, you can only cancel (void) checks from the 
 ## See Also
 [Manage Payables](payables-manage-payables.md)  
 [Set Up Banking](bank-setup-banking.md)  
+[How to: Export a Positive Pay file](finance-how-positive-pay.md)  
