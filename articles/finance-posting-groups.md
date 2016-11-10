@@ -6,16 +6,16 @@
                 authors="bholtorf"
 />
 <tags
-    ms-service:"project-madeira"
+    ms.service="project-madeira"
     ms.topic="article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
-    ms.workload="Madeira"
-    ms.date="11/09/2016"
+    ms.workload="na"
+    ms.date="10/10/2016"
     ms.author="bholtorf" />
-
+                
 # Posting Group Setups
-Posting groups integrate entities like customers, vendors, items, resources, and sales and purchase documents with accounts in the general ledger. Use posting groups to save time and avoid mistakes when you post transactions. The transaction values go to the accounts in the posting group specified for that particular entity. The only requirement is that you have a chart of accounts. 
+Posting groups integrate entities like customers, vendors, items, resources, and sales and purchase documents with general ledger accounts. Use posting groups to save time and avoid mistakes when you post transactions. The transaction values go to the accounts in the posting group specified for that particular entity. The only requirement is that you have a chart of accounts. 
   
 Posting groups are covered under three umbrellas:  
   
