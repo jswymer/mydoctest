@@ -15,7 +15,7 @@
     ms.author="bholtorf" />
                 
 # Posting Group Setups
-Posting groups integrate entities like customers, vendors, items, resources, and sales and purchase documents with general ledger accounts. Use posting groups to save time and avoid mistakes when you post transactions. The transaction values go to the accounts in the posting group specified for that particular entity. The only requirement is that you have a chart of accounts. 
+Posting groups map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts. They save time and help avoid mistakes when you post transactions. The transaction values go to the accounts specified in the posting group for that particular entity. The only requirement is that you have a chart of accounts. For more information, see [Set Up the Chart of Accounts](finance-setup-chart-accounts.md).  
   
 Posting groups are covered under three umbrellas:  
   
@@ -33,10 +33,10 @@ The following tables describe the posting groups under each umbrella.
   
 |Specific Posting Groups | Description|
 |--- | ----|
-|Customer Posting Groups | Define the accounts to use when you post accounts receivable transactions. For example, if you use inventory with receivables, the general business posting group assigned to your customer, and the general product posting group assigned to the inventory item determine the accounts the sales order lines post to. Set these up in the **Customer Posting Groups** window.|
+|Customer Posting Groups | Define the accounts to use when you post accounts receivable transactions. If you use inventory with receivables, the general business posting group assigned to your customer, and the general product posting group assigned to the inventory item determine the accounts the sales order lines post to. Set these up in the **Customer Posting Groups** window.|
 |Vendor Posting Groups | Define where to post transactions for payables accounts, service charge accounts, and payment discount accounts. This is similar to customer posting groups. Set these up in the **Vendor Posting Groups** window.|
 |Inventory Posting Groups | Define balance sheet inventory accounts. These also provide a good way to organize your inventory, so you can separate items by their posting group when you generate reports. Set these up in the **Inventory Posting Groups** window.|
-|Bank Account Posting Groups | Simplify the processes of tracing transactions and reconciling bank accounts. Set these up in the **Bank Account Posting Groups** window.|
+|Bank Account Posting Groups | Define accounts for bank accounts. For example, this can simplify the processes of tracing transactions and reconciling bank accounts. Set these up in the **Bank Account Posting Groups** window.|
 |Fixed Assets Posting Groups | Define accounts for different types of expenses and costs, such as acquisition costs, accumulated depreciation amounts, acquisition costs on disposal, accumulated depreciation on disposal, gains on dispsal, losses on disposal, maintenance expenses, and depreciation expenses. Set these up in the **FA Posting Groups** window.|
 
 |Tax Posting Group | Description|
@@ -69,4 +69,7 @@ Your setup determines when posting happens. For example, the timing is affected 
 
 ## Copying posting setup lines
 The more product and business posting groups you have, the more lines you see in the General Posting Setup window. This can mean a lot of data entry to set up the general posting setup for the company. While there may be many different combinations of business and product posting groups, different combinations may still post to the same general ledger accounts. To limit the amount of manual entry, copy the general ledger accounts from an existing line in the **General Posting Setup** window. 
- 
+
+## See also
+[The General Ledger and the Chart of Accounts](finance-general-ledger.md)
+[Set Up Core Financial Processes](finance-setup-finance.md) 
