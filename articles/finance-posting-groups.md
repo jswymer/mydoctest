@@ -65,11 +65,11 @@ When you create a sales document, the sales header uses the customer card inform
 - The inventory posting (balance sheet) is determined by the inventory posting group.  
 - The cost of goods sold posting (income statement) is determined by the combination of general business posting group and general product posting group.  
   
-Your setup determines when posting happens. For example, the timing is affected by when you do periodic activities, such as posting inventory cost, adjusting cost item entries, and whether you're using **Automatic Cost Adjustment** (specified in the **Inventory Setup** window).
+Your setup determines when posting happens. For example, the timing is affected by when you do periodic activities, such as posting inventory cost or adjusting cost item entries.
 
 ## Copying posting setup lines
 The more product and business posting groups you have, the more lines you see in the General Posting Setup window. This can mean a lot of data entry to set up the general posting setup for the company. While there may be many different combinations of business and product posting groups, different combinations may still post to the same general ledger accounts. To limit the amount of manual entry, copy the general ledger accounts from an existing line in the **General Posting Setup** window. 
 
-## See also
-[The General Ledger and the Chart of Accounts](finance-general-ledger.md)
+## See also  
+[The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
 [Set Up Core Financial Processes](finance-setup-finance.md) 
