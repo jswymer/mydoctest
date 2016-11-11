@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/07/2016"
+    ms.date="11/10/2016"
     ms.author="SorenGP" />
 
 # Manage Inventory
@@ -19,7 +19,12 @@ For each physical product that you trade in you must create an item card of type
 
 Inventory increases and decreases are naturally also recorded when you post purchase and sales documents respectively. For more information, see [How to: Record Purchases](purchasing-how-record-purchases.md), [How to: Sell Products](sales-how-sell-products.md), and [How to: Invoice Sales](sales-how-invoice-sales.md).
 
-To increase your overview of items and to help you find them, you can categorize items and give them attributes to search and sort by.   
+To increase your overview of items and to help you find them, you can categorize items and give them attributes to search and sort by.
+
+## Inventory Reconciliation
+When you post inventory transactions, such as sales shipments, purchase invoices, or inventory adjustments, the changed item costs are recorded in item value entries. To reflect this change of inventory value in your financial books, the inventory costs are automatically posted to the related inventory accounts in the general ledger. For each inventory transaction that you post, the appropriate values are posted to the inventory account, adjustment account, and COGS account in the general ledger.
+
+Even though inventory costs are automatically posted to the general ledger, it is still necessary to first ensure that the costs of goods are forwarded to the appropriate outbound transactions, such as sales or transfers, especially in situations where you sell goods before invoicing the purchase of those goods. This is referred to as cost adjustment, which you can perform manually or set up to happen automatically. For more information, see [How to: Adjust Item Costs](inventory-how-adjust-item-costs.md).   
 
 **Note**: In Financials, a product is referred to using the term “item”.
 
@@ -32,7 +37,6 @@ To increase your overview of items and to help you find them, you can categorize
 |Assign item attributes of different value types to your items to help you sort and find items.|[How to: Work with Item Attributes](inventory-how-work-item-attributes.md)|
 |Create special item cards for items that you offer to customers but do not maintain inventory for.|[How to: Work with Nonstock Items](inventory-how-work-nonstock-items.md)|
 |Adjust item costs, either automatically or manually, to forward cost changes from inbound entries to their related outbound entries.|[How to: Adjust Item Costs](inventory-how-adjust-item-costs.md)|
-|Reflect inventory value changes in your company books by posting inventory costs, either automatically or manually, to the related inventory accounts in the general ledger.|[How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md)|
 
 ## See Also  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
