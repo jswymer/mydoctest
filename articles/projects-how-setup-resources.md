@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/24/2016"
+    ms.date="11/14/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Resources
@@ -35,15 +35,14 @@ You can combine several resources in one resource group. All capacities and budg
 2. Choose the **New** action.
 3. Fill in the fields as necessary.
 
-## To allocate a resource to a job  
-You can allocate a resource or resource group’s capacity to one or more jobs to be used in project planning.  
+## To specify capacity for a resource or resource group
+To calculate how much time a resource or a resource group can spend on jobs, their capacity must first be set up as available time per period on the work calendar. This setup is used when you fill in job planning lines that contain the resource or resource group. For more information, see [How to: Create Jobs](projects-how-create-jobs.md).
 
-1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link. 
-2. Open the relevant resource card, and then choose the **Resource Capacity** action.  
-3. Fill in the filters to specify the resource and view options, and then choose the **Show Matrix** action.  
-4. Select the line of the job that you want to allocate resources to.  
-
-To allocate resource groups to jobs, perform steps 2 and 3 by choosing the **Resource Group Capacity** action.
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.
+2. Open the relevant resource card, and then choose the **Resource Capacity** action.
+3. In the **Resource Capacity** window, in the **View By** field, specify the length of the period, such as **Day**, that is shown on columns on the **Resource Capacity Matrix** FastTab.
+4. For each resource on a line, specify for each period on the columns the number of hours that the resource is available.
+5. To specify capacity for resource groups, open the relevant resource group card, choose the **Res. Group Capacity** action, and then repeat steps 3 and 4.
 
 ## To set up alternate resource costs
 In addition to the cost specified on the resource card, you can set up alternate costs for each resource. For example, if you pay an employee a higher hourly rate for overtime, you can set up a resource cost for the overtime rate. The alternate cost that you set up for the resource will override the cost on the resource card when you use the resource in the resource journal.
@@ -53,14 +52,14 @@ In addition to the cost specified on the resource card, you can set up alternate
 3. In the **Resource Costs** window, fill in the fields on a line as necessary.  
 4. Repeat step 3 for each alternate resource cost that you want to set up.
 
-**Note**. To set up resource costs that will apply to all resources and resource groups, open the **Resource Costs** window and fill in the fields. 
+**Note**. To set up resource costs that will apply to all resources and resource groups, open the **Resource Costs** window and fill in the fields.
 
 ## To set up alternate resource prices  
 In addition to price specified on the resource card, you can set up alternate prices for each resource. These alternate prices can be conditional. They can depend on whether the resource is used with a specific job or work type.
-  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.
-2. Select the resource for that you want to set up one or more alternate prices for, and then choose the **Prices** action. 
-3. In the **Resource Prices** window, fill in the fields on a line as necessary. 
+2. Select the resource for that you want to set up one or more alternate prices for, and then choose the **Prices** action.
+3. In the **Resource Prices** window, fill in the fields on a line as necessary.
 4. Repeat step 3 for each alternate resource price that you want to set up.
 
 ## See Also
