@@ -29,7 +29,9 @@ The default Role Center is **Business Manager**, but you can select another Role
 ## Company
 A company functions as a container for data in Financials. There can be multiple companies in a database, but only one can be selected at a time.
 
-The default company is called CRONUS and contains demonstration data only.   
+The default company is called CRONUS and contains demonstration data only.
+
+**Tip**: If you want to display a different name for your company in the application (such as on the Home page), set the **Name** field on the **Company Information** page or the **Display Name** field on the **Companies** page.  
 
 ## Work date
 The default work date is usually today's date. You may have to temporarily change the work date to be able to perform tasks, such as completing transactions for a date that is not the current date.
