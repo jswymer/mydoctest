@@ -1,15 +1,15 @@
 <properties
 	pageTitle="Manage Payables | Financials"
 	description="Introduction to paying your vendors and other payments."
-	services="SMB"
+	services="project-madeira"
 	documentationCenter=""
-	authors="edupont"
+	authors="bholtorf"
 	manager="edupont"
 	editor=""/>
 	
 <tags
-	ms.service="SMB"
-	ms.workload=""
+	ms.service="project-madeira"
+	ms.workload="na"
 	ms.tgt_pltfrm="na"
 	ms.devlang="na"
 	ms.topic="article"
