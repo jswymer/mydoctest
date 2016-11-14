@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/31/2016"
     ms.author="SorenGP" />
 
 # How to: Register New Products
@@ -22,7 +22,7 @@ Products are the basis of your business, the goods or services that you trade in
 
 Item cards hold the information that is required to buy, store, sell, deliver, and account for products.
 
-The item card can be of type Inventory or Service to specify if the product is a physical unit or labor time unit. Apart from some fields that relate to the physical aspects of an item, all fields on an item card function in the same way for inventory items and services. For more information about selling an item, see [How to: Sell Products](sales-how-sell-products.md) or [How to: Invoice Sales](sales-how-invoice-sales.md).
+The item card can be of type Inventory or Service to specify if the product is a physical unit or a labor time unit. Apart from some fields that relate to the physical aspects of an item, all fields on an item card function in the same way for inventory items and services. For more information about selling an item, see [How to: Sell Products](sales-how-sell-products.md) or [How to: Invoice Sales](sales-how-invoice-sales.md).
 
 **Note**: If item templates exist for different item types, then a window appears when you create a new item card from where you can select an appropriate template. If only one item template exists, then new item cards always use that template.
 

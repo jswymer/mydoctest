@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="10/31/2016"
     ms.author="SorenGP" />
 
 # How to: Set Up Document Sending Profiles
@@ -29,7 +29,7 @@ When you choose the **Post and Send** action on a sales document, the **Post and
 ## To specify a sending profile on a customer card
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.
 2. Open the card of the customer who you want to set up a sending profile for.
-3. In the **Document Sending** Profile field, select a profile that you have set up as described in the previous procedure.
+3. In the **Document Sending Profile** field, select a profile that you have set up as described in the previous procedure.
 
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  

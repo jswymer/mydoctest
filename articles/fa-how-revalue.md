@@ -38,9 +38,8 @@ Indexation is used to adjust multiple fixed asset values, for example per genera
 2. Create an initial journal line, and fill in the fields as necessary.
 3. In the **FA Posting Type** field, select **Write-Down**.
 4. Choose the **Insert FA Bal. Account** action. A second journal line is created for the balancing account that is set up for write-down posting.
-  
-**Note:** Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Write-Down Account** field contains the general ledger credit account and the **Write-Down Expense Account** field contains the general ledger debit account to which you want to post balancing entries for write-downs. For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).  
 
+    **Note:** Step 4 only works if you have set up the following: In the **FA Posting Group Card** window for the posting group of the fixed asset, the **Write-Down Account** field contains the general ledger credit account and the **Write-Down Expense Account** field contains the general ledger debit account to which you want to post balancing entries for write-downs. For more information, see the "To set up fixed asset posting groups" section in [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).
 5. Choose the **Post** action.
 
 ## To perform general revaluation of fixed assets  
@@ -48,16 +47,14 @@ Indexation is used to adjust multiple fixed asset values, for example per genera
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Index Fixed Assets**, and then choose the related link.  
 2. Fill in the fields as necessary.
-3. Choose the **OK** button.  
+3. Choose the **OK** button.
 
     Revaluation lines are created per your settings in step 2. The lines are created in either the fixed asset journal or the fixed asset G/L journal, depending on your template and batch setup in the **FA Journal Setup** window. For more information, see [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).
-
 4. In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.  
 5. Select the journal with the fixed assets that you want to revalue, and then choose the **Ledger Entries** action.  
 6. Check the created entries, and then choose the **Post** action to post the journal.
 
-**Tip:** If the index figures are for simulation purposes only, you can create a special depreciation book to store them in. Then these entries will not affect any of the other depreciation books.
-
+    **Tip:** If the index figures are for simulation purposes only, you can create a special depreciation book to store them in. Then these entries will not affect any of the other depreciation books.
 ## To post additional acquisition costs
 You post additional acquisition cost for a fixed asset in the same way as you post the original acquisition cost: from a purchase invoice or from a fixed asset journal. For more information, see [How to: Acquire Fixed Assets](fa-how-acquire.md).  
 

@@ -30,12 +30,8 @@ You can cancel incorrect depreciation entries by using the **Cancel FA Ledger En
   
 Indexation is used to adjust values for general price-level changes. You can use the **Index Fixed Assets** batch job to recalculate the depreciation amounts.  
   
-## To calculate a depreciation automatically
-Once a month, or whenever you choose, you can run the **Calculate Depreciation** batch job. The batch job ignores fixed assets that:  
-  
-- Have been sold.  
-- Are blocked or inactive.  
-- Use the manual depreciation method.  
+## To calculate depreciation automatically
+Once a month, or whenever you choose, you can run the **Calculate Depreciation** batch job. The batch job ignores fixed assets that have been sold, are blocked or inactive, or use the manual depreciation method.  
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Calculate Depreciation**, and then choose the related link.  
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.  
@@ -49,7 +45,7 @@ Once a month, or whenever you choose, you can run the **Calculate Depreciation**
   
 5. Choose the **Post** action.  
   
-## To post a depreciation manually from the fixed asset G/L journal
+## To post depreciation manually from the fixed asset G/L journal
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Asset G/L Journal**, and then choose the related link.  
 2. Create an initial journal line and fill in the fields as necessary.  
 3. In the **FA Posting Type** field, select **Depreciation**.  
@@ -82,11 +78,11 @@ When you fill in journal lines to post to a depreciation book, you can duplicate
 4. Choose the **Post** action.  
 5. In the top right corner, choose the **Search for Page or Report** icon, enter **FA Journals**, and then choose the related link.  
   
-**Note:** The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.  
+    **Note:** The **Fixed Asset Journal** window contains new lines for different depreciation books according to the duplication list.  
   
 6. Review or edit the lines, and then choose the **Post** action.  
   
-**Note:** Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.  
+    **Note:** Another way to duplicate an entry in a separate book is to enter a depreciation book code in the **Duplicate in Depreciation Book** field when you fill in a journal line.  
   
 You can copy entries from one depreciation book to another by using the **Copy Depreciation Book** batch job. The batch job creates journal lines in the journal batch that you have specified in the **FA Journal Setup** window for the depreciation book that you want to copy to. For more information, see the following procedure.  
   
