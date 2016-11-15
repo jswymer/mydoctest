@@ -43,7 +43,7 @@ You can fill customer fields on the sales order in two ways depending on whether
 
 3. In the **Customer** field, enter the name of the new customer.
 4. In the dialog box about registering the new customer, choose the **Yes** button.  
-5. In the **Select a template for a new customer** window, choose a template to base the new customer card on, and then choose the **OK** button.
+5. In the **Select a template for a new customer** window, choose a template to base the new customer card on, and then close the window.
 
     A new customer card opens, prefilled with the information on the selected customer template. The **Name** field is prefilled with the new customer’s name that you entered on the sales order.
 6. Proceed to fill in the remaining fields on the customer card. For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).  

@@ -38,7 +38,7 @@ You can send the posted sales credit memo to the customer to confirm the return 
 6. In the **Amount to Apply** field, enter the amount that you want to apply if it's smaller than the original amount.  
 
     At the bottom of the **Apply Customer Entries** window, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.
-7. Choose the **OK** button. When you post the sales credit memo, it is applied to the posted sales documents.
+7. Close the window. When you post the sales credit memo, it is applied to the posted sales documents.
 
     After you create or edit sales credit memo lines, and the single or multiple applications are specified, you can post the sales credit memo.   
 8. Choose the **Post and Send** action.  
@@ -55,7 +55,7 @@ The posted sales documents that you applied the credit memo to are now reversed,
 5. In the **Copy Sales Document** window, in the **Document Type** field, select **Posted Invoice**.
 6. Choose the **Document No.** field to open the **Posted Sales Invoices** window, and then select the posted sales invoice that contains lines that you want to reverse.
 7. Select the **Recalculate Lines** check box if you want the copied posted sales invoice lines to be updated with any changes in item price and unit cost since the invoice was posted.
-8. Choose the **OK** button. The copied invoice lines are inserted in the sales credit memo.
+8. Close the window. The copied invoice lines are inserted in the sales credit memo.
 9. Complete the sales credit memo as explained in the "To create a sales credit memo from a posted sales invoice" section in this topic.
 
 ## See Also  

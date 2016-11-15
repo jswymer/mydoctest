@@ -50,7 +50,7 @@ A new item card prefilled with information from the nonstock item and a relevant
 3. On a new sales line, leave the **Item** field empty, choose **Line**, **Functions**, and then choose **Nonstock Items**.
 
     The nonstock item is converted to a normal item. A new item card prefilled with information from the nonstock item and a relevant item template is created.
-4. In the **Nonstock Items** window, select the nonstock item that you want to sell, and then choose the **OK** button.
+4. In the **Nonstock Items** window, select the nonstock item that you want to sell, and then close the window.
 5. When the sales order is complete, choose the **Post** action. 
 
 You can then fill or edit fields on the new item card as necessary. For more information, see [How to: Register New Products](inventory-how-register-new-products.md).

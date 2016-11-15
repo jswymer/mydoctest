@@ -52,7 +52,7 @@ The bank feed service will be enabled when you link a bank account to its relate
   
     After the process completes, the bank name will appear in the **My Accounts** pane on the **Linked** tab. The number in brackets indicates how many online bank accounts were linked.  
 
-7. Choose the **OK** button.
+7. Close the window.
 
     If you're only linking one online bank account, the **Bank Account Card** window opens and displays the name of the online bank account. In this case, the bank account linking task is completed. All that's left to do is to set up the bank account. For more information, see [How to: Set Up Bank Accounts](bank-how-setup-bank-accounts.md).
 
@@ -65,7 +65,7 @@ The bank feed service will be enabled when you link a bank account to its relate
     If a bank account already exists in Financials that you want to link the additional online bank account to, follow the next step.  
 
 9. In the **Bank Account Linking** window, select the line for an online bank account, and then choose the **Link to Existing Bank Account** action.
-10. In the **Bank Account List** window, select the bank account that you want to link to, and then choose the **OK** button.
+10. In the **Bank Account List** window, select the bank account that you want to link to, and then close the window.
 
 ## To link a bank account to an online bank account
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
@@ -77,7 +77,7 @@ The bank feed service will be enabled when you link a bank account to its relate
   
     When the process has completed successfully, the bank name will appear in the **My Accounts** pane on the **Linked** tab. If the bank has more than one bank account, only the bank account that you selected in step 2 is linked.  
 
-5. Choose the **OK** button.
+5. Close the window.
 
 In the **Bank Account List** window, the **Linked** check box is selected.
 

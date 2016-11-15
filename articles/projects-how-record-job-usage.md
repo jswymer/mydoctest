@@ -31,7 +31,7 @@ The following procedures describe how to record actual (billable) or budgeted jo
     The **Remaining Quantity** field shows the quantity that remains to complete the job and be transferred to the journal.  
 
 5. Choose the **Create Job Journal Lines** action.
-6. In the **Job Transfer Job Planning Line** window, fill in the fields as necessary, and then choose the **OK** button. Choose a field to read a short description of the field or link to more information.
+6. In the **Job Transfer Job Planning Line** window, fill in the fields as necessary, and then close the window. Choose a field to read a short description of the field or link to more information.
 7. Choose the **Open Job Journal** action.  
 8. In the **Job Journal** window, select the relevant line and then choose the **Post** action.
 9. In the **Job Planning Lines** window, review the recorded usage by observing the **Quantity**, **Remaining Quantity**, and **Qty. To Transfer to Journal** fields.  
@@ -48,7 +48,7 @@ In the next task, you also record usage, but for a job planning line of type **B
     The **Quantity to Invoice** field shows the quantity that remains to complete the job and be invoiced.  
 
 5. Choose the **Create Sales Invoice** action.
-6. In the **Job Transfer to Sales Invoice** window, fill in the fields as necessary, and then choose the **OK** button.
+6. In the **Job Transfer to Sales Invoice** window, fill in the fields as necessary, and then close the window.
 7. In the **Job Planning Lines** window, select the relevant line, and then choose the **Post** action.
 8. Review the recorded usage by observing the **Quantity**, **Quantity to Invoice**, **Qty. To Transfer to Invoice** fields, and, if the sales invoice is posted, the **Qty. Invoiced** fields.
 9. Repeat steps 3 through 8 to record additional usage.  
@@ -63,7 +63,7 @@ When you are ready to post financial information for jobs, you must create job j
 3. In the **Job Planning Lines** window, on a relevant job planning line, in the **Qty. to Transfer to Journal** field, enter the quantity that you want to transfer to a job journal.  
 4. Choose the **Create Job Journal Lines** action.
 5. In the **Job Transfer Job Planning Line** window, fill in the fields as necessary.  
-6.  Choose the **OK** button. Job journal lines are created.
+6.  Close the window. Job journal lines are created.
 7. To verify the transfer, open the relevant job journal batch and check the entries.  
 8. When the job journal lines are complete, choose the **Post** action.  
 

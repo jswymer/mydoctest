@@ -27,7 +27,7 @@ The **Posted Documents without Incoming Document** window opens showing posted p
 
 ## To connect found documents to existing incoming document records
 1. In the **Posted Documents without Incoming Document** window, select the line for a posted document that you want to connect to an existing incoming document record, and then choose the **Select Incoming Document** action.
-2. In the **Incoming Documents** window, select the incoming document record that you want to connect to posted document found, and then choose the **OK** button.
+2. In the **Incoming Documents** window, select the incoming document record that you want to connect to posted document found, and then close the window.
 3. In the **Posted Documents without Incoming Document** window, the selected incoming document record is now connected to the posted document, as you can see in the **Incoming Document Files** FactBox.
 
 If a relevant incoming document record does not exist in the **Incoming Documents** window, then you can create it. For more information, see [How to: Create Incoming Document Records](across-how-create-income-document-records.md).
