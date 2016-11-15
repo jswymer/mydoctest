@@ -37,7 +37,7 @@ If you have set up more than one number series code for the same kind of basic i
 2. Select the line with the number series you want to create relationships for and then choose **Relationships**.
 3. In the **Series Code** field, enter the code for the number series that you want to relate to the series you selected in step 2.
 4. Add a line for each code that you want to relate to the selected number series.
-5. Choose the **OK** button.
+5. Close the window.
 
 Now when you set up something that requires a number, you can use the relationships you created to select among the related number series.
 

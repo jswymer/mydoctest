@@ -22,7 +22,7 @@ Microsoft Dynamics NAV is preconfigured to support Positive Pay files for Bank o
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
 2. Open the card for the bank that you want to use Positive Pay for.
 3. In the **Positive Pay Export Code** field, enter POSPAYBANK.
-4. Choose the **OK** button.
+4. Close the window.
 
 ## To export a Positive Pay file
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.

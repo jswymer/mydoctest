@@ -24,7 +24,7 @@ On lists and document lines, not all available column information is displayed b
 1. Open the window with a list or document lines that you want to add or remove columns on. 
 2. Choose any column heading, access the drop-down menu, and then choose the **Choose Columns** action.
 3. In the **Choose Columns** window, select or clear the **Visible** check box for the columns that you want to add or remove.
-4. Choose the **OK** button.
+4. Close the window.
 
 ## See Also
 [Work With Dynamics 365 for Financials](ui-work-product.md)  

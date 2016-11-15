@@ -56,7 +56,7 @@ If you are not using a job queue, or you want to receive a finished OCR document
     
     Information for the OCR document is displayed, showing both the source content of the PDF or image file and the resulting OCR field values.
 3. Review the various field values and manually edit or enter values in fields that the OCR service has tagged as uncertain.
-4. Choose the **OK** button. The OCR process is completed and the resulting electronic document is sent to the **Incoming Documents** window in Financials,  according to the job queue schedule. 
+4. Close the window. The OCR process is completed and the resulting electronic document is sent to the **Incoming Documents** window in Financials,  according to the job queue schedule. 
 
     If you access the website by choosing the tile on the Home page, then any other OCR document to be verified is automatically displayed on the website. 
 5. Repeat step 4 for any other OCR document to be verified.

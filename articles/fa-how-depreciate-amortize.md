@@ -35,7 +35,7 @@ Once a month, or whenever you choose, you can run the **Calculate Depreciation**
   
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Calculate Depreciation**, and then choose the related link.  
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.  
-3. Choose the **OK** button.  
+3. Close the window.  
   
     The batch job calculates the depreciation and creates lines in the fixed asset G/L journal.  
   
@@ -90,7 +90,7 @@ You can copy entries from one depreciation book to another by using the **Copy D
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.  
 2. Open the relevant depreciation book card, and then choose the **Copy Depreciation Book** action.  
 3. In the **Copy Depreciation Book** window, fill in the fields as necessary.  
-4. Choose the **OK** button.  
+4. Close the window.  
   
 The copied lines are created in either the fixed asset G/L journal or the fixed asset journal, depending on whether the depreciation book that you are copying has integration to the general ledger.  
   
