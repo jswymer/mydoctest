@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/18/2016"
     ms.author="SorenGP" />
 
 # How to: Enable Customer Payments Through PayPal#
@@ -24,7 +24,7 @@ To enable customer payments through PayPal, you must do the following:
 1. Set up PayPal Payments Standard as a payment service in the **Payments Services** window.
 2. Select PayPal Payments Standard in the **Payment Service** field on the sales document in question.
 
-The PayPal Payments Standard service is installed as an extension to Financials and ready to enabled. For more information, see [Customizing Dynamics 365 for Financials Using Extensions ](ui-extensions.md).
+The PayPal Payments Standard service is installed as an extension to Financials and ready to be enabled. For more information, see [Customizing Dynamics 365 for Financials Using Extensions ](ui-extensions.md).
 
 ## To enable the PayPal Payments Standard service
 1. In the top right corner, choose the **Search for Page or Report** icon, **Payment Services**, and then choose the related link.  
