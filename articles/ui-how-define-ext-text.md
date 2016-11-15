@@ -25,7 +25,7 @@ You can extend a standard text by adding extra lines, and you can set up conditi
 5. Fill in the **Language Code** field or the **All Language Codes** field if you use language codes.
 6. Fill in the **Starting Date** and **Ending Date** fields if you want to limit the dates on which the extended text is used.
 7. Select relevant check boxes for the document types where you want the extended text printed.
-8. Choose the **OK** button.
+8. Close the window.
 
 ## See Also
 [Work With Dynamics 365 for Financials](ui-work-product.md)

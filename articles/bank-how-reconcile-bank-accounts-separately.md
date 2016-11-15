@@ -48,14 +48,14 @@ When the value in the **Total Balance** field in the **Bank Statement Lines** pa
 2. In the **Starting Date** field, enter the earliest posting date for the ledger entries to be reconciled.
 3. In the **Ending Date** field, enter the latest posting date for the ledger entries to be reconciled.
 4. Select the **Include Checks** check box to any suggest check ledger entries instead of the corresponding bank account ledger entries.
-5. Choose the **OK** button.
+5. Close the window.
 
 ## To match bank statement lines with bank account ledger entries automatically
 1. In the **Bank Acc. Reconciliation** window, choose the **Match Automatically**. **The Match Bank Entries** window opens.
 2. In the **Transaction Date Tolerance (Days)** field, specify the span of days before and after the bank account ledger entry posting date within which the function will search for matching transaction dates in the bank statement.
 
     If you enter 0 or leave the field blank, then the **Match Automatically** function will only search for matching transaction dates on the bank account ledger entry posting date.  
-3. Choose the **OK** button.  
+3. Close the window.  
 
     All bank statement lines and bank account ledger entries that can be matched change to green font, and the **Applied** check box is selected.
 4. To remove a match, select the bank statement line, and then choose the **Remove Match** action.
@@ -73,7 +73,7 @@ When the value in the **Total Balance** field in the **Bank Statement Lines** pa
 Sometimes a bank statement contain amounts for interest or fees charged. Such bank transactions cannot be matched because no related ledger entries exist in Financials. You must then post a journal line for each transaction to create a related ledger entry that it can be matched with.
 
 1. In the **Bank Acc. Reconciliation** window, choose the **Transfer to General Journal** action.  
-2. In the **Trans. Bank Rec. to Gen. Jnl.** window, specify which general journal to use, and then choose the **OK** button.
+2. In the **Trans. Bank Rec. to Gen. Jnl.** window, specify which general journal to use, and then close the window.
 
     The **General Journal** window opens containing new journal lines for any banks statement lines with missing ledger entries.
 3. Complete the journal line with relevant information, such as the balancing account. For more information, see [Work with General Journals](ui-work-general-journals.md).  

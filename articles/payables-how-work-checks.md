@@ -50,7 +50,7 @@ When check payment have been posted, you can only cancel (void) checks from the 
 2. Select the relevant bank account, choose the **Edit** action, and then choose the **Check Ledger Entries** action.
 3. In the **Check Ledger Entries** window, choose the **Void Check** action.
 4. Select the **Void Check Only** check box.
-5. Choose the **OK** button.
+5. Close the window.
 
 ## See Also
 [Manage Payables](payables-manage-payables.md)  

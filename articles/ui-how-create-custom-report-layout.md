@@ -31,7 +31,7 @@ The copy of the custom layout appears in the **Custom Report Layouts** window an
     1. Choose **New**. The **Insert Built-in Layout for a Report** window appears. The **ID** and **Name** fields are automatically filled in.
     2. To add a custom Word report layout type, then select the **Insert Word Layout** check box.
     3. To add a custom RDLC report layout type, then select the **Insert RDLC Layout** check box.
-    4. Choose the **OK** button.  
+    4. Close the window.  
     The new custom layouts appear in the **Custom Report Layouts** window. If a new layout is based on a built-in layout, then it has the words **Copy of a Built-in Layout** in the **Description** field. If there was no built-in layout for the report, then the new layout has the words **New Layout** in the **Description** field, which indicates that custom layout is blank.
 6. By default, the **Company Name** field is blank, which means that the custom layout will be available for the report in all companies. To make the custom layout available in a specific company only, choose **Edit**, and then set the **Company Name** field to the company that you want.
 

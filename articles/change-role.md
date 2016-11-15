@@ -21,7 +21,7 @@ The content on the Home page is based on the selected Role Center. The standard 
 ## To change role center
 1. In the top right corner, under the **Settings** menu, choose **My Settings**.
 2. In the **My Settings** window, in the **Role Center** field, select the Role Center that you want to set as the standard. For example, select **Accountant**.
-3. Choose the **OK** button.
+3. Close the window.
 4. Sign out of Financials and then sign in again to have the change take effect.
 
 ## See Also
