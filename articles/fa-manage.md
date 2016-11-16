@@ -45,5 +45,6 @@ The following table describes a sequence of tasks, with links to the topics that
 
 ## See Also
 [Set Up Fixed Assets](fa-setup.md)  
+[Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)  
 [Finance](finance.md)  
 [Welcome to Dynamics 365 for Financials](madeira-get-started.md)
