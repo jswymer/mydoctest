@@ -23,7 +23,7 @@ The following table lists some of the general functionality with links to topics
 |To |See |
 |---|----|
 |Change basic settings such as company or work date.|[Change Basic Settings](ui-change-basic-settings.md)|
-|Change which fields and actions are shown in your user interface to fit your company's business processes.|[Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)|    
+|Change which fields and actions are shown in the user interface to fit your company's business processes.|[Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)|    
 |Read about including symbols and special characters when searching for data.|[Entering Criteria in Filters](ui-enter-criteria-filters.md)|
 |See which fields must be filled in.|[Mandatory Fields](ui-mandatory-fields.md)|
 |Use Search to look for a specific page or report.|[Using Search for Page or Report](ui-search.md)|
