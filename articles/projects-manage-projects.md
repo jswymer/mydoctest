@@ -17,7 +17,7 @@
 # Manage Projects
 In Financials, you can perform common project management tasks, such as configuring a job and scheduling a resource, as well as providing the information needed to manage budgets and monitor progress. You can track machine and employee hours on the project by using time sheets. As a project manager, you have a good overview, not only of individual jobs, but also of the allocation of employees, machinery and other resources being used in all projects.
 
-**Note**: This feature requires that your experience is set to **Suite**. For more information, see How to: Change Which UI Elements are Displayed.
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
 
 Before you can use Financials to manage projects, you must set up resources, time sheets, and jobs. For more information, see [Set Up Project Management](projects-setup-projects.md).  
 
@@ -36,7 +36,8 @@ The following table describes a sequence of tasks, with links to the topics that
 |Record job costs for resource usage, materials, and job-related purchases on an on-going basis and invoice the customer, either when the job is finished or according to an invoicing schedule.|[How to: Invoice Jobs](projects-how-invoice-jobs.md)|
 
 ## See Also
-[Set Up Project Management](projects-setup-projects.md)    
+[Set Up Project Management](projects-setup-projects.md)
+[Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)      
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)    
 [Finance](finance.md)  

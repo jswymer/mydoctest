@@ -10,7 +10,7 @@
 		    ms.devlang="na"
 		    ms.tgt_pltfrm="na"
 		    ms.workload="na"
-		    ms.date="09/02/2016"
+		    ms.date="11/16/2016"
 		    ms.author="SusanneWindfeldPedersen" />
 
 # Work with Dynamics 365 for Financials
@@ -18,16 +18,12 @@ When performing business tasks, you interact with data in different ways, such a
 
 For example, you can adjust the size and position of any window, expand the width of columns and increase the height of column headers, and change the sorting of data in columns. And if you want to use the horizontal scroll bar to view all columns on a list page or on document lines, you will see that there is a vertical freeze pane to restrict some columns from scrolling.
 
-## Where's the Save button?
-You can stop looking because there isn't one. We immediately save the information you enter, and the settings you choose. Why waste time, right? You can always change or delete what you enter or choose. 
-
-## General use 
-The following table lists and links to descriptions of general functionality you might want to know about.
+The following table lists some of the general functionality with links to topics that describe them.
 
 |To |See |
 |---|----|
 |Change basic settings such as company or work date.|[Change Basic Settings](ui-change-basic-settings.md)|
-|Show or hide features that you may or may not use.|[Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)|
+|Change which fields and actions are shown in the user interface to fit your company's business processes.|[Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)|    
 |Read about including symbols and special characters when searching for data.|[Entering Criteria in Filters](ui-enter-criteria-filters.md)|
 |See which fields must be filled in.|[Mandatory Fields](ui-mandatory-fields.md)|
 |Use Search to look for a specific page or report.|[Using Search for Page or Report](ui-search.md)|
