@@ -33,6 +33,7 @@ The following table describes a sequence of tasks, with links to the topics that
 |Open a fiscal year.|[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)|  
 |Prepare to close a fiscal year or period.|[Close Years and Periods](year-close-years-periods.md)|
 |Organize your fixed assets, ensure correct periodic depreciation, and keep track of maintenance costs.|[Manage Fixed Assets](fa-manage.md)|
+|Monitor the flow of cash in and out of your business. | [Analyze cash flow in your company](finance-analyze-cash-flow.md|
 |Canada: Set up and use GIFI codes for financial reporting. | [How to: Work With GIFI Codes in Canada](ca-work-gifi-codes.md)|
 
 ##See Also
