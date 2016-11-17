@@ -1,7 +1,7 @@
 <properties
-	pageTitle="How to: Export Positive Pay Files| Financials" 
-    description="Describes how to make sure that your bank only clears validated checks and amounts by exporting a Positive Pay file that contains vendor and payment information." 
-    services="project-madeira" 
+	pageTitle="How to: Export Positive Pay Files| Financials"
+    description="Describes how to make sure that your bank only clears validated checks and amounts by exporting a Positive Pay file that contains vendor and payment information."
+    services="project-madeira"
     documentationCenter=""
     authors="SorenGP"/>
 <tags
@@ -12,8 +12,8 @@
     ms.workload="na"
     ms.date="11/07/2016"
     ms.author="SorenGP" />
-    
-# How to: Export a Positive Pay file 
+
+# How to: Export a Positive Pay file
 To make sure that your bank only clears validated checks and amounts, you can export a Positive Pay file that contains vendor information, check number, and payment amount, which you send to the bank for reference when you process payments.
 
 Microsoft Dynamics NAV is preconfigured to support Positive Pay files for Bank of America and City Bank.
@@ -22,7 +22,7 @@ Microsoft Dynamics NAV is preconfigured to support Positive Pay files for Bank o
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
 2. Open the card for the bank that you want to use Positive Pay for.
 3. In the **Positive Pay Export Code** field, enter POSPAYBANK.
-4. Choose the **OK** button.
+4. Close the window.
 
 ## To export a Positive Pay file
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
@@ -56,4 +56,5 @@ To reexport Positive Pay files
 ## See Also
 [Finance](finance.md)  
 [Set Up Core Financial Processes](finance-setup-finance.md)  
-[How to: Work With General Journals](ui-work-general-journals.md)
+[How to: Work With General Journals](ui-work-general-journals.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

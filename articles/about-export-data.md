@@ -60,3 +60,4 @@ We recommend that you also consider exporting data from the following pages:
 [Migrate Business Data from Other Finance Systems](upload-data.md)  
 [Finance](finance.md)  
 [Across Business Areas](ui-across-business-areas.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

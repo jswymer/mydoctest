@@ -49,4 +49,5 @@ To transfer funds between bank accounts that use different currencies, you must 
 ## See Also  
 [Manage Bank Accounts](bank-manage-bank-accounts.md)  
 [Set Up Banking](bank-setup-banking.md)  
-[Work with General Journals](ui-work-general-journals.md)
+[Work with General Journals](ui-work-general-journals.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -19,7 +19,7 @@ Financials supports electronic and manual check issuance. Both methods use the p
 
 The process of issuing checks suggests payments, creates ledger entries, and prints the computer checks.
 
-**Note**: To make sure that your bank only clears validated checks and amounts, you can send them a file that contains vendor, check, and payment information. For more information, see [How to: Export a Positive Pay file](finance-how-positive-pay.md). 
+**Note**: To make sure that your bank only clears validated checks and amounts, you can send them a file that contains vendor, check, and payment information. For more information, see [How to: Export a Positive Pay file](finance-how-positive-pay.md).
 
 Your printer must be correctly set up with the check forms, and you must define which check layout to use. For more information, see [How to: Define Check Layouts](finance-how-define-check-layouts.md)
 
@@ -50,9 +50,10 @@ When check payment have been posted, you can only cancel (void) checks from the 
 2. Select the relevant bank account, choose the **Edit** action, and then choose the **Check Ledger Entries** action.
 3. In the **Check Ledger Entries** window, choose the **Void Check** action.
 4. Select the **Void Check Only** check box.
-5. Choose the **OK** button.
+5. Close the window.
 
 ## See Also
 [Manage Payables](payables-manage-payables.md)  
 [Set Up Banking](bank-setup-banking.md)  
 [How to: Export a Positive Pay file](finance-how-positive-pay.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

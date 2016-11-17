@@ -49,7 +49,7 @@ You can export balance information using GIFI codes and save the exported file i
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Export GIFI Info. to Excel**, and then choose the related link.
 2. Specify what to export to Excel by filling the fields. Choose a field to read a short description of the field or link to more information.
-3. Choose the **OK** button.
+3. Close the window.
 
 **Note:** The Excel file has the following characteristics:
 
@@ -59,4 +59,5 @@ You can export balance information using GIFI codes and save the exported file i
 
 ## See Also
 [Finance](finance.md)   
-[Set Up Core Financial Processes](finance-setup-finance.md)
+[Set Up Core Financial Processes](finance-setup-finance.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

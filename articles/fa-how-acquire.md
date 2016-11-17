@@ -47,7 +47,7 @@ Both the main asset and all its components must be set up as individual fixed as
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Assets**, and then choose the related link.
 2. Select the fixed asset that is the main asset, and then choose the **Main Asset Components** action.
 3. In the **Main Asset Components** window, choose the **FA No**. field, and then select the fixed asset that you want to add as a component of the main asset.
-4. Choose the **OK** button.
+4. Close the window.
 5. Repeat steps 3 and 4 for each component asset that you want to add.
 6. In the top right corner, choose the **Search for Page or Report** icon, enter **Fixed Asset Setup**, and then choose the related link.
 7. Select the **Allow Posting to Main Assets** check box.
@@ -92,4 +92,5 @@ You can post the salvage value together with the acquisition cost from a fixed a
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

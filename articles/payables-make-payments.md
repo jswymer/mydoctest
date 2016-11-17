@@ -35,4 +35,5 @@ The following table describes a sequence of tasks, with links to the topics that
 ## See Also
 [Manage Payables](payables-manage-payables.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
-[Manage Receivables](receivables-manage-receivables.md)
+[Manage Receivables](receivables-manage-receivables.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

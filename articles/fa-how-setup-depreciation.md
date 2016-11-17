@@ -48,11 +48,11 @@ If you want to assign a depreciation book to several fixed assets, you can use t
 3. In the **Depreciation Book Card** window, choose the **Create FA Depreciation Books** action.
 4. In the **Create FA Depreciation Books** window, fill in the **Depreciation Book** field.
 5. Choose the **Copy from FA No.** field, and then select the fixed asset number that you want to use as the basis for creating new fixed asset depreciation books.
-  
+
     If you fill in this field, the depreciation fields in the new fixed asset depreciation books will contain the same information as the corresponding fields in the fixed asset depreciation book that you copy from. Leave the field blank if you want to create new fixed asset depreciation books with empty depreciation fields.  
-  
+
 6. On the **Fixed Asset** FastTab, you can set a filter to select the assets that you want to create the fixed asset depreciation books for.
-7. Choose the **OK** button.
+7. Close the window.
 
 ## To set up depreciation posting types  
 For each depreciation book, you must set up how you want Financials to handle various posting types. For example, whether posting should be debit or credit and whether the posting type should be included in the depreciable basis.  
@@ -67,14 +67,15 @@ For each depreciation book, you must set up how you want Financials to handle va
 
 ## To set up default templates and batches for fixed asset depreciation  
 For each depreciation book, you define a default setup of templates and batches. You use these defaults to duplicate lines from one journal to another, create journal lines using the **Calculate Depreciation** or **Index Fixed Assets** batch jobs, duplicate acquisition costs in the insurance journal.  
-  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Depreciation Books**, and then choose the related link.  
 2. Select the depreciation book that you want to define default journals for, and then choose the **FA Journal Setup** action.  
 3. If you want to have a default setup for each user, choose the **User ID** field to select from the **Users** window.  
 4. In the other fields, select the journal template or journal batch that must be used by default.  
-  
+
 ## See Also  
 [Set Up Fixed Assets](fa-setup.md)  
 [Manage Fixed Assets](fa-manage.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -46,7 +46,7 @@ You can also apply vendor payments, and customer payments, after the payments ap
     4. On each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.
 
     If you do not enter an amount, then the maximum amount is automatically applied. At the bottom of the **Apply Vendor Entries** window, you can see the amount in the Applied Amount field, and you can see whether the application balances.
-5. Choose the **OK** button.
+5. Close the window.
 6. Choose the **Post** action to post the payment journal.
 
 ## To apply a credit memo to a single or multiple vendor ledger entries
@@ -61,7 +61,7 @@ You can also apply vendor payments, and customer payments, after the payments ap
     4. On each line in the **Amount to Apply** field, enter the amount to apply to the individual entry.
 
         If you do not enter an amount, then the maximum amount is automatically applied. At the bottom of the **Apply Vendor Entries** window, you can see the amount in the **Applied Amount** field, and you can see whether the application balances.
-12. Choose the **OK** button.  
+12. Close the window.  
 The **Purchase Credit Memo** window shows the entry that you have selected in the **Applies-to Doc. Type** field and the **Applies-to Doc. No.** field. The window also shows the amount of the credit memo to be posted, adjusted for any payment discounts.
 13. Choose the **Post** button to post the purchase credit memo.
 
@@ -112,4 +112,5 @@ When you unapply an erroneous application, correcting entries that are identical
 
 ## See Also
 [Payables](payables-manage-payables.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

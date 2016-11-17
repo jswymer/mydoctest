@@ -1,7 +1,7 @@
 <properties
-	pageTitle="How to: Defer Revenues and Expenses| Financials" 
-    description="Describes how to recognize revenues and expenses in periods other than the period in which the transaction is posted by automatically deferring revenues and expenses over a specified schedule." 
-    services="project-madeira" 
+	pageTitle="How to: Defer Revenues and Expenses| Financials"
+    description="Describes how to recognize revenues and expenses in periods other than the period in which the transaction is posted by automatically deferring revenues and expenses over a specified schedule."
+    services="project-madeira"
     documentationCenter=""
     authors="SorenGP"/>
 <tags
@@ -10,13 +10,15 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/12/2016"
+    ms.date="11/17/2016"
     ms.author="SorenGP" />
-    
-# How to: Defer Revenues and Expenses 
+
+# How to: Defer Revenues and Expenses
 To recognize a revenue or an expense in a period other than the period in which the transaction was posted, you can use functionality to automatically defer revenues and expenses over a specified schedule.
 
 To distribute revenues or expenses on the involved accounting periods, you set up a deferral template for the resource, item, or G/L account that the revenue or expense will be posted for. When you post the related sales or purchase document, the revenue or expense are deferred to the involved accounting periods, according to a deferral schedule that is governed by settings in the deferral template and the posting date.
+
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
 
 ## To set up a G/L account for deferral
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Chart of Accounts**, and then choose the related link.
@@ -24,12 +26,12 @@ To distribute revenues or expenses on the involved accounting periods, you set u
 3. Fill in the fields as necessary to create a G/L account for deferred revenues. For more information, see [The General Ledger and the Chart of Accounts](finance-general-ledger.md).
 3. Repeat steps 2 and 3 to create a new G/L account for deferred expenses.
 
-For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as "Unearned Income" for deferred revenues and "Unpaid Expenses" for deferred expenses. 
+For both types of deferral, select **Balance Sheet** in the **Type** field, and name the accounts appropriately, such as "Unearned Income" for deferred revenues and "Unpaid Expenses" for deferred expenses.
 
 ## To set up a deferral template
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Deferral Templates**, and then choose the related link.
 2. Choose the **New** action.
-3. Fill in the fields as necessary. 
+3. Fill in the fields as necessary.
 4. In the **Calc. Method** field, specify how the **Amount** field for each period in the **Deferral Schedule** window is calculated. You can choose between the following options:
     - **Straight-Line**: The periodic deferral amounts are calculated according to the number of periods, distributed according to period length.
     - **Equal Per Period**: The periodic deferral amounts are calculated according to the number of periods, distributed evenly on periods.
@@ -61,7 +63,7 @@ Example: The posting date is 02/06/2016. If you enter “Expenses deferred for %
 3. Choose the **Deferral Schedule** action.
 4. In the **Deferral Schedule** window, change settings on the header or values on the lines, for example to defer the amount to an additional accounting period.
 5. Choose the **Calculate Schedule** action.
-6. Choose the **OK** button. The deferral schedule is updated for the sales invoice. The related deferral template is unchanged.
+6. Close the window. The deferral schedule is updated for the sales invoice. The related deferral template is unchanged.
 
 ## To preview how deferred revenues or expenses will be posted to the general ledger
 **Note**: The steps in this procedure are the same as when you preview how expense deferrals are posted.
@@ -81,4 +83,5 @@ G/L entries to be posted to the specified deferral account, for example, Unearne
 ## See Also
 [Finance](finance.md)  
 [Set Up Core Financial Processes](finance-setup-finance.md)  
-[How to: Work With General Journals](ui-work-general-journals.md)
+[How to: Work With General Journals](ui-work-general-journals.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

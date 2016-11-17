@@ -21,7 +21,7 @@ If you want to appreciate or depreciate an item or a specific item ledger entry,
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Revaluation Journal**, and then choose the related link.
 2. Choose the **Calculate Inventory Value** action.
 3. In the **Calculate Inventory Value** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
-4. Choose the **OK** button.
+4. Close the window.
 5. On each line in the **Revaluation Journal** window, in the **Unit Cost (Revalued)** field, enter the new unit cost. Alternatively, enter the new total amount in the **Inventory Value (Revalued)** field.
 
     The relevant fields are automatically updated. Note that the **Amount** field shows the actual change in inventory value for the selected item ledger entry. It calculates the difference between the **Inventory Value (Calculated)** field and the **Inventory Value (Revalued)** field.
@@ -33,4 +33,5 @@ New value entries are now created to reflect the revaluations that you have post
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

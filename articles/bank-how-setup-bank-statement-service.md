@@ -47,37 +47,37 @@ The bank feed service will be enabled when you link a bank account to its relate
 4. Choose the bank name. The **Log In** pane opens.
 5. Enter the username and password that you use to log on to the online bank, and then choose the **Next** button.  
 6. The bank feed service prepares to link the first online bank account at the specified bank to a new bank account in Financials.
-  
+
     **Note:** If you have more than one online bank account at the bank, you must create additional bank accounts in Financials for them. See steps 8 through 10.  
-  
+
     After the process completes, the bank name will appear in the **My Accounts** pane on the **Linked** tab. The number in brackets indicates how many online bank accounts were linked.  
 
-7. Choose the **OK** button.
+7. Close the window.
 
     If you're only linking one online bank account, the **Bank Account Card** window opens and displays the name of the online bank account. In this case, the bank account linking task is completed. All that's left to do is to set up the bank account. For more information, see [How to: Set Up Bank Accounts](bank-how-setup-bank-accounts.md).
 
     If you're linking more than one online bank accounts, the **Bank Account Linking** window opens and lists the online bank accounts that are not yet linked to bank accounts in Financials. In that case, follow the next step.  
-  
+
 8. In the **Bank Account Linking** window, select the line for an online bank account, and then choose the **Link to New Bank Account** action.  
-  
+
     The **Bank Account Card** window for a new bank account opens and displays the name of the online bank account.
 
     If a bank account already exists in Financials that you want to link the additional online bank account to, follow the next step.  
 
 9. In the **Bank Account Linking** window, select the line for an online bank account, and then choose the **Link to Existing Bank Account** action.
-10. In the **Bank Account List** window, select the bank account that you want to link to, and then choose the **OK** button.
+10. In the **Bank Account List** window, select the bank account that you want to link to, and then close the window.
 
 ## To link a bank account to an online bank account
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
 2. Select the line for a bank account that is not linked to an online bank account, and then choose the **Link to Online Bank Account** action. The **Online Bank Account Linking** window opens with the name of the bank prefilled in the **Link Account** pane.
 3. Choose the bank name. The **Log In** pane opens.
 4. Enter the username and password that you use to log on to the online bank, and then choose the **Next** button.  
-  
+
     The bank feed service prepares to link your bank account in Financials to the related online bank account.  
-  
+
     When the process has completed successfully, the bank name will appear in the **My Accounts** pane on the **Linked** tab. If the bank has more than one bank account, only the bank account that you selected in step 2 is linked.  
 
-5. Choose the **OK** button.
+5. Close the window.
 
 In the **Bank Account List** window, the **Linked** check box is selected.
 
@@ -97,9 +97,9 @@ If issues exist for any of the linked bank accounts in the **Bank Account List**
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Bank Accounts**, and then choose the related link.
 2. Select the line for a linked bank account, and then choose the **Automatic Bank Statement Import Setup** action.
 3. In the **Automatic Bank Statement Import Setup** window, in the **Number of Days Included** field, specify how far back in time to get new bank transactions for.
-  
+
     **Note**: It is recommended that you set this value to 7 days or more.  
-  
+
 4. Select the **Enabled** check box.  
 
 Every hour, the **Payment Reconciliation Journal** window will display new payments that are made on the online bank account.
@@ -110,4 +110,5 @@ Every hour, the **Payment Reconciliation Journal** window will display new payme
 [Set Up Banking](bank-setup-banking.md)  
 [Manage Bank Accounts](bank-manage-bank-accounts.md)  
 [Apply Payments Automatically and Reconcile Bank Accounts](receivables-apply-payments-auto-reconcile-bank-accounts.md)  
-[Customizing Dynamics 365 for Financials Using Extensions ](ui-extensions.md)
+[Customizing Dynamics 365 for Financials Using Extensions ](ui-extensions.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)
