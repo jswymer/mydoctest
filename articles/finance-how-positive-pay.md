@@ -1,7 +1,7 @@
 <properties
-	pageTitle="How to: Export Positive Pay Files| Financials" 
-    description="Describes how to make sure that your bank only clears validated checks and amounts by exporting a Positive Pay file that contains vendor and payment information." 
-    services="project-madeira" 
+	pageTitle="How to: Export Positive Pay Files| Financials"
+    description="Describes how to make sure that your bank only clears validated checks and amounts by exporting a Positive Pay file that contains vendor and payment information."
+    services="project-madeira"
     documentationCenter=""
     authors="SorenGP"/>
 <tags
@@ -12,8 +12,8 @@
     ms.workload="na"
     ms.date="11/07/2016"
     ms.author="SorenGP" />
-    
-# How to: Export a Positive Pay file 
+
+# How to: Export a Positive Pay file
 To make sure that your bank only clears validated checks and amounts, you can export a Positive Pay file that contains vendor information, check number, and payment amount, which you send to the bank for reference when you process payments.
 
 Microsoft Dynamics NAV is preconfigured to support Positive Pay files for Bank of America and City Bank.
@@ -56,4 +56,5 @@ To reexport Positive Pay files
 ## See Also
 [Finance](finance.md)  
 [Set Up Core Financial Processes](finance-setup-finance.md)  
-[How to: Work With General Journals](ui-work-general-journals.md)
+[How to: Work With General Journals](ui-work-general-journals.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

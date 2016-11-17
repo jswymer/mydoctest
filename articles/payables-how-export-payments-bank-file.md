@@ -55,4 +55,5 @@ If you have deleted or posted the payment journal lines after exporting them, yo
 ## See Also
 [Payables](payables-manage-payables.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)
-[Set Up Purchasing](purchasing-setup-purchasing.md)
+[Set Up Purchasing](purchasing-setup-purchasing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -13,24 +13,24 @@
     ms.workload="na"
     ms.date="10/10/2016"
     ms.author="bholtorf" />
-                
+
 # Posting Group Setups
 Posting groups map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts. They save time and help avoid mistakes when you post transactions. The transaction values go to the accounts specified in the posting group for that particular entity. The only requirement is that you have a chart of accounts. For more information, see [Set Up the Chart of Accounts](finance-setup-chart-accounts.md).  
-  
+
 Posting groups are covered under three umbrellas:  
-  
+
 - General - Define who you sell to and buy from, and what you sell and what you buy. You can also combine groups to specify things like the income statement accounts to post to, or use groups to filter reports.  
 - Specific - Use sales documents, for example, instead of posting directly to the general ledger. When you create entries in the customer ledger, corresponding entries are made in the general ledger.  
 - Tax - Define the tax percentages and calculation types that apply to who you sell to and buy from, and what you sell and what you buy.
-  
+
 The following tables describe the posting groups under each umbrella.  
-  
+
 |General Posting Groups | Description|
 |--- | ----|
 |General Business Posting Groups | Assign this group to customers and vendors to specify who you sell to, and who you buy from. Set these up in the **Gen. Business Posting Groups** window. When you do, think about how many groups you'll need to break down sales and purchases. For example, group customers and vendors by geographical area, or by the type of business.|
 |General Product Posting Groups | Assign this group to items and resources to specify what you sell, and what you buy. Set these up in the **Gen. Product Posting Groups** window. When you do, consider the number of groups you'll need to break down sales by product (items and resources) and purchases by items. For example, divide these groups by raw materials, retail, resources, capacity, and so on.|
 |General Posting Setups | Combine business and product posting groups, and choose the accounts to post to. For each combination of business and product posting groups, you can assign a set of general ledger accounts. For example, this means you can post the sale of the same item to different sales accounts in the general ledger because customers are assigned to different business posting groups. Set these up in the **General Posting Setup** window.|
-  
+
 |Specific Posting Groups | Description|
 |--- | ----|
 |Customer Posting Groups | Define the accounts to use when you post accounts receivable transactions. If you use inventory with receivables, the general business posting group assigned to your customer, and the general product posting group assigned to the inventory item determine the accounts the sales order lines post to. Set these up in the **Customer Posting Groups** window.|
@@ -47,29 +47,30 @@ The following tables describe the posting groups under each umbrella.
 
 ## Example of linking posting groups
 Here's a scenario.  
-  
+
 These posting groups are chosen on the customer card:  
-  
+
 - General business posting group
 - Customer posting group  
-  
+
 These posting groups are chosen on the item card:  
-  
+
 - General product posting group  
 - Inventory posting group  
-  
+
 When you create a sales document, the sales header uses the customer card information, and the sales lines use the item card information.  
-  
+
 - The revenue posting (income statement) is determined by the combination of the general business posting group and the general product posting group.  
 - The accounts receivable posting (balance sheet) is determined by the customer posting group.  
 - The inventory posting (balance sheet) is determined by the inventory posting group.  
 - The cost of goods sold posting (income statement) is determined by the combination of general business posting group and general product posting group.  
-  
+
 Your setup determines when posting happens. For example, the timing is affected by when you do periodic activities, such as posting inventory cost or adjusting cost item entries.
 
 ## Copying posting setup lines
-The more product and business posting groups you have, the more lines you see in the General Posting Setup window. This can mean a lot of data entry to set up the general posting setup for the company. While there may be many different combinations of business and product posting groups, different combinations may still post to the same general ledger accounts. To limit the amount of manual entry, copy the general ledger accounts from an existing line in the **General Posting Setup** window. 
+The more product and business posting groups you have, the more lines you see in the General Posting Setup window. This can mean a lot of data entry to set up the general posting setup for the company. While there may be many different combinations of business and product posting groups, different combinations may still post to the same general ledger accounts. To limit the amount of manual entry, copy the general ledger accounts from an existing line in the **General Posting Setup** window.
 
 ## See also  
 [The General Ledger and the Chart of Accounts](finance-general-ledger.md)  
-[Set Up Core Financial Processes](finance-setup-finance.md) 
+[Set Up Core Financial Processes](finance-setup-finance.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md) 

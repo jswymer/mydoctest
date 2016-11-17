@@ -33,4 +33,5 @@ The contact information is transferred from the **Contact** card to the **Bank A
 [Set Up Marketing and Contact Management](marketing-setup-marketing.md)  
 [Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [How to: Link Contacts to Existing Customers, Vendors, or Bank Accounts](marketing-how-link-contact.md)  
-[Assign Business Relations to a Contact](marketing-business-relations.md#assign-business-relations-to-a-contact)
+[Assign Business Relations to a Contact](marketing-business-relations.md#assign-business-relations-to-a-contact)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/27/2016"
+    ms.date="11/17/2016"
     ms.author="SorenGP" />
 
 # How to: Use Time Sheets for Jobs
@@ -22,6 +22,8 @@ You can copy and use your job planning lines in a time sheet. In that way, you m
 After you have approved time sheet entries for a job, you can post them to the relevant job journal or resource journal.
 
 Before you can use time sheets, you must set up general information and specify an administrator and one or more approvers of time sheets. For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).
+
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
 
 ## To create a time sheet  
 You can use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks. Then, the time sheet owner can open it and record time that has been spent on a task.

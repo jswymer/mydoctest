@@ -6,7 +6,7 @@
 	authors="bholtorf"
 	manager="edupont"
 	editor=""/>
-	
+
 <tags
 	ms.service="project-madeira"
 	ms.workload="na"
@@ -15,7 +15,7 @@
 	ms.topic="article"
 	ms.date="11/14/2016"
 	ms.author="bholtorf" />
-	
+
 # Manage Payables
 Dynamics 365 for Financials has what you need to effectively manage accounts payable.  
 
@@ -38,7 +38,7 @@ When you are ready to pay a vendor, from the **Payment Journal** window you can 
 If you do not want to post a payment journal line for an exported payment, for example because you are waiting for the bank to confirm the transaction, just delete the journal line. Later, when you create a payment journal line to pay the remaining amount on the invoice, the **Total Exported Amount** field shows how much of the payment amount has already been exported. Also, you can find detailed information about the exported total by choosing the **Credit Transfer Reg. Entries** button.
 
 If you wait to post payments until after your bank confirms that it has processed transactions, there are two ways to avoid accidently re-exporting payments for open documents:  
-  
+
 - In a payment journal with suggested payment lines, sort on either the **Exported to Payment File** or **Total Exported Amount** columns, and then delete payment suggestions for open invoices for which payments have already been made and you do not want to make payments for.
 
     **Note** You might have to add these columns to the list. For more information, see [User Personalization](ui-user-personalization.md).  
@@ -47,8 +47,5 @@ If you wait to post payments until after your bank confirms that it has processe
 
 ## See Also  
 [Payment Methods](finance-payment-methods.md)  
-[Finance](finance.md)
-
-
-
-
+[Finance](finance.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

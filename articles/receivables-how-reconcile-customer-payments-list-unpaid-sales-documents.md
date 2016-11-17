@@ -25,12 +25,12 @@ Payments for different customers that have different payment dates must be poste
 
 ## To set up the payment registration journal
 Because you can post different payment types to different balancing accounts, you must select a balancing account in the **Payment Registration Setup** window before you start processing customer payments. If you always post to the same balancing account, you can set that account as the default and avoid this step every time that you open the **Payment Registration** window.  
-  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration Setup**, and then choose the related link.
 
     Alternatively, in the **Payment Registration** window, choose the **Setup** action.    
 2. Fill in the fields in the **Payment Registration Setup** window. Choose a field to read a short description of the field or link to related information.  
-  
+
 ## To reconcile payments individually
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 2. Select the **Payment Made** check box on the line that represents the posted document for which a payment has been made.
@@ -42,46 +42,46 @@ Because you can post different payment types to different balancing accounts, yo
     For full payments, this is the same as the amount in the **Remaining Amount** field on the line. For partial payments, this is lower than the amount in the **Remaining Amount** field on the line.    
 5. Repeat steps 2-4 for other lines that represent posted documents for which payments are made.  
 6. Choose the **Post Payments** action.  
-  
+
 The payment information is posted for documents represented by lines where the **Payment Made** check box is selected.  
-  
+
 Payments entries are posted to general ledger, bank, and customer accounts. Each payment is applied to the related posted sales document.  
-  
+
 ## To reconcile lump payments
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.
 2. Select the **Payment Made** check box on the lines that represent posted documents for the same customer for which a lump payment has been made.  
-  
+
     **Note**: The customer in the **Name** field must be the same on all lines that will be posted as a lump payment.  
-  
+
     If the **Auto Fill Date Received** check box is selected in the **Payment Registration Setup** window, then the work date is filled in the **Date Received** field.  
-  
+
 3. In the **Date Received** field, enter the date when the payment was made. This date may be different from the work date.  
-  
+
     **Note**: This date must be the same on all lines that will be posted as a lump payment.  
-  
+
 4. In the **Amount Received** field, enter amounts on multiple lines that sum up to the lump payment amount.  
-  
+
     **Tip**: Try to post as many full payments as possible with the lump amount. Enter amounts that are the same as the amount in the **Remaining Amount** field on as many lines as possible.  
-  
+
 5. Repeat steps 2-4 for other lines that represent posted documents for the same customer for which a lump payment has been made.  
 6. Choose the **Post As Lump Payment** action. The entered payment information is posted for documents represented by lines where the **Payment Made** check box is selected.  
-  
+
 Payment entries are posted to general ledger, bank, and customer accounts. Each payment is applied to the related posted sales document.  
-  
+
 If a payment in the bank is not represented by line in the **Payment Registration** window, it may be because the related document has not yet been posted. In that case, you can use a search function to quickly find the document and post it to process the payment. For more information, see the How to: Find Unpaid Documents During Manual Customer Payment Reconciliation section.  
-  
+
 If a payment in the bank is not represented by any document in Financials, then you can open a prefilled general journal from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been resolved. For more information, see the "To record or post a payment without a related document" section.  
-  
+
 ## To Customer Payments with Discounts Manually
 If you have agreed on a payment discount with your customer, then the payment amounts can be lower than the invoice amounts if payment occurs before the agreed discount date.  
-  
+
 This procedure explains four different procedures for posting discounted payments in the **Payment Registration** window.  
-  
+
 - The payment amount is equal to the remaining discounted amount, and the payment date is before the discount date. You post the payment as is.  
 - The payment amount is equal to the remaining discounted amount, but the payment date is after the discount date. You post the payment as partial. The document remains open to collect/pay the remaining amount. Alternatively, you set the discount date later to allow the payment in full.  
 - The payment amount is lower than the remaining discounted amount. You post the payment as partial. The document remains open to collect/pay the remaining amount.  
 - The payment amount is more than the remaining discounted amount. You post the payments as is. Only the remaining amount is posted. The additional amount is credited to the customer.  
-  
+
 ## To process a payment amount that is equal to the discounted amount and where the payment date is before the discount date
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
 2. Enter the payment amount in the **Amount Received** field. The amount is equal to the amount in the **Rem. Amt. after Discount** field.
@@ -105,7 +105,7 @@ This procedure explains four different procedures for posting discounted payment
     The error message and the red font disappear, and you can proceed to process the discounted payment.    
 6. Verify that the **Remaining Amount** field contains the amount that remains to pay the full invoice amount.  
 7. Choose the **Post Payments** action to post the partial payment to general ledger, bank, and customer accounts.  
-  
+
 The related document remains open.
 
 ## To process a payment that is lower than the remaining discounted amount
@@ -116,7 +116,7 @@ The related document remains open.
 3. In the **Date Received** field, enter the payment date. The date is before the date in the **Pmt. Discount Date** field.
 4. Verify that the **Remaining Amount** field contains the amount that remains to pay the discounted amount.  
 5. Choose the **Post Payments** action to post the partial payment to general ledger, bank, and customer accounts.  
-  
+
 The related document remains open.
 
 ## To process a payment that is more than the remaining discounted amount
@@ -127,21 +127,21 @@ The related document remains open.
 3. In the **Date Received** field, enter the payment date. The date is before the date in the **Pmt. Discount Date** field.
 4. Verify that the **Remaining Amount** field contains zero (0).  
 5. Choose the **Post Payments** action to post the full payment to general ledger, bank, and customer accounts.  
-  
+
 The related document is closed, and the customer is credited the excess payment amount.  
-  
+
 ## To find a specific sales document that is not fully invoiced
 The **Payment Registration** window supports you in tasks needed to balance internal accounts with actual cash figures to ensure effective collection from customers and due payment to vendors. It shows outstanding incoming payments as lines that represent sales documents where an amount is due for payment.  
-  
+
 Typically, when a payment has been made, recorded in the bank or otherwise, the related sales or purchase document is represented as a line in the **Payment Registration** window because the document in question is waiting for the payment to be posted against the outstanding amount. However, sometimes a payment that has been made is not represented by a line in the **Payment Registration** window, typically because the document in question has not been fully invoice posted.
 
 In the **Document Search** window, you can search among documents that are not fully invoiced. You can search based on one or more of the following criteria:  
-  
+
 - Document number  
 - Amount or amount range  
-  
+
 The following procedure explains how to find a specific document by using both search criteria.  
-  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.
 2. With the pointer on any line, Choose the **Search Documents** action.
 3. In the **Document Search** window, enter a search value in the **Document No.** field.  
@@ -152,29 +152,30 @@ The following procedure explains how to find a specific document by using both s
 
     If you enter 10, then the function will search for amounts in a range between ten percent lower and ten percent higher than the value in the **Amount** field.    
 6. Choose the **Search** action.  
-  
+
 The Search function searches among documents that are not fully invoiced based on the specified criteria.  
-  
+
 If one or more documents match the criteria, then the **Document Search Result** window opens to display lines that represent those documents. Each line contains a document number, description, and amount so that you can easily find a specific document, for example based on information on your bank statement.  
-  
+
 If a payment in the bank is not represented by any document in Financials, then you can open a prefilled general journal from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been resolved.  
 
 ##To record or post a payment without a related document
 If a payment in the bank is not represented by any document Financials, then you can open a prefilled general journal line from the **Payment Registration** window to post the payment directly to the balancing account without applying the payment to a document. Alternatively, you may want to record the payment in the journal until the origin of the payment has been clarified.  
-  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Payment Registration**, and then choose the related link.  
-  
+
 Proceed to record an undocumented payment.  
 
 2. Choose the **General Journal** action.  
 
     The **General Journal** window opens with one line prefilled with the balancing account of the journal batch that is set up in the **Payment Registration Setup** window.  
 3. Fill in the remaining fields on the general journal line, such as the amount and the customer number or other information from the bank statement. For more information, see [How to: Work With General Journals](ui-work-general-journals.md).  
-  
+
 You can either post the journal line to update the total on the balancing account. Alternatively, you can leave the journal line unposted, and perhaps append it with a note that the payment needs more analysis.  
-  
+
 If you leave the journal line unposted, it will add to the value in the **Unposted Balance** field at the bottom of the **Payment Registration** window.  
 
 ## See Also  
 [Manage Receivables](receivables-manage-receivables.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

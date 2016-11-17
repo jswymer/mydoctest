@@ -50,3 +50,4 @@ You can delete interaction log entries that have been canceled. To delete intera
 ##See Also
 [Manage Contacts](marketing-contacts.md)  
 [Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

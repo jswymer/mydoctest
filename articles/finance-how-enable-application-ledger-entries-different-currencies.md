@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/17/2016"
     ms.author="edupont04" />
 
 # How to: Enable Application of Ledger Entries in Different Currencies
@@ -20,6 +20,8 @@ If you purchase from a vendor in one currency and submit payment in another curr
 Likewise, if you sell to a customer in one currency and receive payment in another currency, you can apply the payment to the sales invoice.
 
 The following procedure describes how to set this up for vendor ledger entries in the **Purchases & Payables Setup** window. The setup is similar for customer ledger entries in the **Sales & Receivables Setup** window.
+
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
 
 ## To enable application of vendor ledger entries in different currencies
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Purchases & Payables Setup**, and then choose the related link.
@@ -33,4 +35,5 @@ The following procedure describes how to set this up for vendor ledger entries i
 
 ## See Also  
 [Manage Payables](payables-manage-payables.md)  
-[Manage Receivables](receivables-manage-receivables.md)
+[Manage Receivables](receivables-manage-receivables.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

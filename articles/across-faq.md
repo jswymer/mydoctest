@@ -43,3 +43,4 @@ This is a bit complicated, but it looks like your administrator didn't change yo
 [Using Dynamics 365 for Financials as your Business Inbox in Outlook](madeira-outlook.md)  
 [Using Dynamics 365 for Financials without Outlook](madeira-no-outlook.md)  
 [How to: Change the Role Center](change-role.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

@@ -46,4 +46,5 @@ In the **Logged Segments** window, you can decide to create a follow-up segment 
 [Manage Segments](marketing-segments.md)  
 [Recording Interactions With Contacts](marketing-interactions.md)  
 [Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
-[Create and Manage Contacts](marketing-contacts.md)
+[Create and Manage Contacts](marketing-contacts.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

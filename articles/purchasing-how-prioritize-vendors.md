@@ -30,4 +30,5 @@ If you do not want to prioritize a vendor, leave the **Priority** field blank. T
 
 ## See Also
 [Set Up Purchasing](purchasing-setup-purchasing.md)  
-[Manage Payables](payables-manage-payables.md)
+[Manage Payables](payables-manage-payables.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

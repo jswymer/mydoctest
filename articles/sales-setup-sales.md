@@ -35,4 +35,5 @@ Finance-related sales setup, such as payment methods and currencies, are covered
 |Set your email up to contain a summary of information in the sales document that is being sent.|[How to: Send Documents by Email](ui-how-send-documents-email.md).|
 
 ## See Also  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

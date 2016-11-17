@@ -55,3 +55,4 @@ Dynamics CRM Sales Orders depends on additional information like customers, unit
 
 ## See Also
 [Relationship Management](marketing-relationship-management.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

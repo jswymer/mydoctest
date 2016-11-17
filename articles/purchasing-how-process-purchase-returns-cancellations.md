@@ -59,4 +59,5 @@ The purchase credit memo is removed and replaced with a new document in the list
 ## See Also
 [Manage Purchasing](purchasing-manage-purchasing.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)  
-[How to: How to: Correct or Cancel Unpaid Purchase Invoices](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)
+[How to: How to: Correct or Cancel Unpaid Purchase Invoices](purchasing-how-correct-cancel-unpaid-purchase-invoices.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

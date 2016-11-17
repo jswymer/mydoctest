@@ -28,3 +28,4 @@ If you have contact and either a customer, vendor, or bank account for the same 
 ##See Also
 [Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
 [Create and Manage Contacts](marketing-contacts.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

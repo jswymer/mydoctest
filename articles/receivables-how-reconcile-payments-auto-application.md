@@ -61,4 +61,5 @@ You can compare the value in the **Balance on Bank Account After Posting** field
 
 ## See Also
 [Manage Receivables](receivables-manage-receivables.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

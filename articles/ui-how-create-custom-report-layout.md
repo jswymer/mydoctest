@@ -37,4 +37,5 @@ The copy of the custom layout appears in the **Custom Report Layouts** window an
 
 ## See Also
 [Manage Report Layouts](ui-manage-report-layouts.md)  
-[How to: Change Which Layout is Currently Used on a Report](ui-how-change-layout-currently-used-report.md)
+[How to: Change Which Layout is Currently Used on a Report](ui-how-change-layout-currently-used-report.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

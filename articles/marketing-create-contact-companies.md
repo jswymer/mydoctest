@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Create Contact Companies | Financials" 
-                description="Describes how to create contact companies in Financials" 
-                services="project-madeira" 
+                pageTitle="Create Contact Companies | Financials"
+                description="Describes how to create contact companies in Financials"
+                services="project-madeira"
                 documentationCenter=""
                 authors="edupont04"
 />
@@ -34,4 +34,5 @@ The following table describes a sequence of tasks, with links to the topics that
 |Assign Web sources (search engines and Web sites) to your contacts to indicate where on the Internet you intend to search for information about the contacts.|[Set Up Web Sources on Contacts](marketing-web-sources.md)|
 
 ##See Also
-[Create Contact Persons](marketing-create-contact-persons.md)
+[Create Contact Persons](marketing-create-contact-persons.md)   
+[Work With Dynamics 365 for Financials](ui-work-product.md)

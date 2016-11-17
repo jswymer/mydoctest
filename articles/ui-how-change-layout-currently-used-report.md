@@ -39,4 +39,5 @@ If you selected a built-in RDLC or Word report layout, then no further action is
 You return to the **Report Layout Selection** window. The name of the selected custom layout displays in the **Custom Layout Description** field. The custom layout will be used the next time that you run the report.
 
 ## See Also
-[Manage Report Layouts](ui-manage-report-layouts.md)
+[Manage Report Layouts](ui-manage-report-layouts.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

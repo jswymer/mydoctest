@@ -47,4 +47,5 @@ The PayPal Payments Standard service is installed as an extension to Financials 
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)
+[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)
