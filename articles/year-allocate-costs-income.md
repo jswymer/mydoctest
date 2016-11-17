@@ -12,7 +12,7 @@
     ms.workload="na"
     ms.date="05/12/2016"
     ms.author="jswymer" />
-	
+
 # Allocate Costs and Income
 You can allocate an entry in a general journal to several different accounts when you post the journal. The allocation can be made by three different methods:
 
@@ -31,6 +31,5 @@ The following table describes a sequence of tasks, with links to the topics that
 |Change an allocation key that has already been set up.|[To change an allocation key](ui-how-use-allocation-keys-general-journals.md)|
 
 ## See Also
-[Close Years and Periods](year-close-years-periods.md)
-
-
+[Close Years and Periods](year-close-years-periods.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

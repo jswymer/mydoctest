@@ -57,4 +57,5 @@ To always post fuel expenses incurred at Shell gas stations to the general ledge
 [Manage Receivables](receivables-manage-receivables.md)  
 [Manage Sales](sales-manage-sales.md)  
 [How to: Set Up the Envestnet Yodlee Bank Feeds Service](bank-how-setup-bank-statement-service.md)  
-[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)
+[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

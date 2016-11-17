@@ -24,4 +24,5 @@ On every document and journal that can be posted, you can choose the **Preview P
 The **G/L Entries Preview** window shows which entries will be created when you post the purchase invoice.
 
 ## See Also
-[Post Documents and Journals](ui-post-documents-journals.md)
+[Post Documents and Journals](ui-post-documents-journals.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

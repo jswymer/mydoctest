@@ -92,4 +92,5 @@ You can post the salvage value together with the acquisition cost from a fixed a
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

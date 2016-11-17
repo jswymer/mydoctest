@@ -52,3 +52,4 @@ You can reduce a segment as many times as you want. If you have refined the segm
 [How to: Create a Segment](marketing-how-create-segment.md)   
 [Manage Segments](marketing-segments.md)  
 [Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

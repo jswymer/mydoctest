@@ -62,4 +62,5 @@ The following procedure describes how to send a posted sales invoice as an email
 
 ## See Also  
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
-[How to: Invoice Sales](sales-how-invoice-sales.md)
+[How to: Invoice Sales](sales-how-invoice-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

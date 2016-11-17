@@ -41,4 +41,5 @@ Repeat these steps to assign as many web sources as you want.
 You can also assign web sources from the **Contact List** window by following the same procedure.
 
 ##See Also
-[Create Contact Companies](marketing-create-contact-companies.md)
+[Create Contact Companies](marketing-create-contact-companies.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

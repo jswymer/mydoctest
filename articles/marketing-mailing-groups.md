@@ -38,4 +38,5 @@ After you have assigned mailing groups to your contacts, you can use this inform
 
 ##See Also
 [Create Contact Companies](marketing-create-contact-companies.md)  
-[Create Contact Persons](marketing-create-contact-persons.md)
+[Create Contact Persons](marketing-create-contact-persons.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -61,4 +61,5 @@ You have now signed up for the bank data conversion service. Proceed to reflect 
 
 ## See Also  
 [Set Up Banking](bank-setup-banking.md)  
-[Manage Bank Accounts](bank-manage-bank-accounts.md)
+[Manage Bank Accounts](bank-manage-bank-accounts.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

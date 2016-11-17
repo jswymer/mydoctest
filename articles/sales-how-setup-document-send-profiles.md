@@ -33,4 +33,5 @@ When you choose the **Post and Send** action on a sales document, the **Post and
 
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

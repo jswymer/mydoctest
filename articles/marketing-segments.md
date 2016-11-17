@@ -32,4 +32,5 @@ The following table describes a sequence of tasks, with links to the topics that
 
 ##See Also
 [Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
-[Manage Contacts](marketing-contacts.md)
+[Manage Contacts](marketing-contacts.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

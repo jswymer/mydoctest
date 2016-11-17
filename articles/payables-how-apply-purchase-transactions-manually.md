@@ -112,4 +112,5 @@ When you unapply an erroneous application, correcting entries that are identical
 
 ## See Also
 [Payables](payables-manage-payables.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -1,7 +1,7 @@
 <properties
-                pageTitle="Create Contact Persons | Financials" 
-                description="Describes how to create contact persons in Financials" 
-                services="project-madeira" 
+                pageTitle="Create Contact Persons | Financials"
+                description="Describes how to create contact persons in Financials"
+                services="project-madeira"
                 documentationCenter=""
                 authors="jswymer"
 />
@@ -34,4 +34,5 @@ The following table describes a sequence of tasks, with links to the topics that
 |Assign mailing groups your contacts|[Assign Mailing Groups to a Contact](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)|
 
 ##See Also
-[Create Contact Companies](marketing-create-contact-companies.md)
+[Create Contact Companies](marketing-create-contact-companies.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -40,4 +40,6 @@ You can either post, or post and print. If you choose to post and print, a repor
 When the posting is completed, the posted purchase lines are removed from the order. A message tells you when the posting is completed. After this, you will be able to see the posted entries in the various windows that contain posted entries, such as the **Vendor Ledger Entries**, **G/L Entries**, **Item Ledger Entries**, **Purchase Receipts**, and **Posted Purchase Invoices** windows.
 
 ## See Also
-[Post Documents and Journals](ui-post-documents-journals.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
+[Post Documents and Journals](ui-post-documents-journals.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

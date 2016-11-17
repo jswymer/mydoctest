@@ -25,4 +25,5 @@ When yo have set up a salesperson in the **Salespeople** window, you can select 
 
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

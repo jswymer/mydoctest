@@ -64,4 +64,5 @@ The invoice discount is now set up and assigned to the vendor in question. When 
 
 ## See Also  
 [Set Up Purchasing](purchasing-setup-purchasing.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)
