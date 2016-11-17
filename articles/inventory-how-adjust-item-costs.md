@@ -48,7 +48,6 @@ You can adjust item costs in two ways:
 
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)  
-[How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md)  
 [Manage Sales](sales-manage-sales.md)  
 [Manage Purchasing](purchasing-manage-purchasing.md)  
 [Work With Dynamics 365 for Financials](ui-work-product.md)
