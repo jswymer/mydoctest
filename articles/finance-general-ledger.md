@@ -52,7 +52,7 @@ For example, the default balance statement has a subcategory for Cash under Curr
 2. Specify the additional report definition **Cash Accounts** for these subcategories.  
 3. Indent them under the **Cash** subcategory.  
   
-Then, the next time you generate account schedules your balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.  
+The next time you generate account schedules your balance statement will show a total balance for cash and two lines with balances for petty cash and the checking account.  
   
 ##See Also  
 [Finance](finance.md)  
