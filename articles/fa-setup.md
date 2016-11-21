@@ -16,18 +16,18 @@
 
 # Set Up Fixed Assets
 Before you can work with Fixed Assets, you need to define a few things:  
-  
+
 - How you insure, maintain, and depreciate fixed assets.  
 - How you record costs and other values in the general ledger.  
-  
+
 The table below has links to more information. After you set those things up, you can start various activities. For more information, see [How to: Manage Fixed Assets](fa-manage.md).  
-  
+
 **Note**: You can record fixed asset transactions in the **Fixed Asset G/L Journal** or **Fixed Asset Journal** windows, depending on whether the transactions are for financial reporting or for internal management. Help for Fixed Assets only describes how to use the **Fixed Asset G/L Journal** window.  
-  
+
 When you enable a fixed asset activity in the **G/L Integration** section in the **Depreciation Book Card** window, the **Fixed Asset G/L Journal** window is used to post transactions for the activity.
 
 The following table describes a sequence of tasks, with links to the topics that describe them.  
-  
+
 |To |See |
 |---|----|
 |Set up default G/L accounts, allocation keys, journal templates and batches for fixed asset posting, and set up fixed asset classes and subclasses, such as Tangible and Intangible.|[How to: Set Up General Fixed Assets Information](fa-how-setup-general.md)|
@@ -39,4 +39,5 @@ The following table describes a sequence of tasks, with links to the topics that
 ## See Also
 [Manage Fixed Assets](fa-manage.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

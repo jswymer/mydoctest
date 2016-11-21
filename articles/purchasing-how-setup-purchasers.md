@@ -29,4 +29,5 @@ If several purchasers work at your company, you can set them up in a window and 
 
 ## See Also
 [Set Up Purchasing](purchasing-setup-purchasing.md)  
-[Manage Payables](payables-manage-payables.md)
+[Manage Payables](payables-manage-payables.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

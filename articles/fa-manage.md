@@ -11,13 +11,11 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/18/2016"
+    ms.date="11/17/2016"
     ms.author="SorenGP" />
 
 # Manage Fixed Assets
 The Fixed Assets functionality in Financials provides an overview of your fixed assets and ensures correct periodic depreciation. It also enables you to keep track of your maintenance costs, manage insurance policies, post fixed asset transactions, and generate various reports and statistics.
-
-**Note**: This feature requires that your experience is set to Suite. For more information, see How to: Change Which UI Elements are Displayed.
 
 For each fixed asset, you must set up a card containing information about the asset. You can set up buildings or production equipment as a main asset with a component list, and you can group them in various ways, such as by class, department, or location. Then you can begin to acquire, maintain, and sell the fixed assets. You can also set up budgeted assets. This makes it possible to include any anticipated acquisitions and sales in reports.
 
@@ -28,6 +26,8 @@ For each asset, you can record maintenance costs and the next service date. Keep
 Each fixed asset can be attached to one or more insurance policies. You can therefore easily verify that insurance policy amounts are in accordance with the value of the assets that are linked to the policy. This also makes it easy to monitor annual insurance premiums.
 
 **Note**: You can record fixed asset transactions in the **Fixed Asset G/L Journal** window or in the **Fixed Asset Journal** window, depending on whether the transactions are for financial reporting or for internal management. Help for Fixed Assets only describes how to use the **Fixed Asset G/L Journal** window. For more information, see [How to: Set Up Fixed Asset Depreciation](fa-how-setup-depreciation.md).
+
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
@@ -47,4 +47,5 @@ The following table describes a sequence of tasks, with links to the topics that
 [Set Up Fixed Assets](fa-setup.md)  
 [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

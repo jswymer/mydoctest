@@ -64,4 +64,5 @@ The invoice discount is now set up and assigned to the customer in question. Whe
 
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

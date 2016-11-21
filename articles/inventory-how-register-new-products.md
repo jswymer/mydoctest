@@ -53,4 +53,5 @@ The item template is added to the list of item templates, so that you can use it
 ## See Also
   [Manage Inventory](inventory-manage-inventory.md)  
   [Manage Purchasing](purchasing-manage-purchasing.md)  
-  [Manage Sales](sales-manage-sales.md)
+  [Manage Sales](sales-manage-sales.md)  
+  [Work With Dynamics 365 for Financials](ui-work-product.md)

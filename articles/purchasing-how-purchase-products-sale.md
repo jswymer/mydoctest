@@ -34,4 +34,5 @@ From an open sales invoice, you can use the **Create Purchase Invoice** function
 [Manage Purchasing](purchasing-manage-purchasing.md)  
 [How to: Record Purchases](purchasing-how-record-purchases.md)  
 [How to: Invoice Sales](sales-how-invoice-sales.md)  
-[How to: Register New Vendors](purchasing-how-register-new-vendors.md)
+[How to: Register New Vendors](purchasing-how-register-new-vendors.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

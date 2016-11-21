@@ -44,4 +44,5 @@ The **Payment Application** window  closes, and in the **Payment Reconciliation 
 
 ## See Also
 [Manage Receivables](receivables-manage-receivables.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

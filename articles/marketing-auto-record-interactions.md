@@ -28,3 +28,4 @@ To open the **Interaction Template Setup** window, in the top right corner, choo
 
 ## See Also
 [Recording Interactions With Contacts](marketing-interactions.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

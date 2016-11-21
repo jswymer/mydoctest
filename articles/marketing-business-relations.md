@@ -43,4 +43,5 @@ The number of business relations you have assigned to the contact is displayed i
 After you have assigned business relations to your contacts, you can use this information to select contacts for your segments. For more information, see [How to: Add Contacts to Segments](marketing-add-contact-segment.md).
 
 ##See Also
-[Create Contact Companies](marketing-create-contact-companies.md)
+[Create Contact Companies](marketing-create-contact-companies.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

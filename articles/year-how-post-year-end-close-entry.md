@@ -28,4 +28,5 @@ After you use the Close Income Statement batch job to generate the year-end clos
 ## See Also
 [How to: Close Accounting Periods](year-close-account-periods.md)  
 [Close Books](year-close-books.md)  
-[Close Income Statement](year-close-income-statement.md)
+[Close Income Statement](year-close-income-statement.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

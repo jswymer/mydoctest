@@ -45,7 +45,7 @@ If you have already set up a number of customers, vendors, and bank accounts, yo
 3. Choose the **OK** button to start creating contacts.
 
     The next contact numbers in the number series are assigned to the new contacts. The business relation for vendors that is specified in the **Marketing Setup** window is assigned to the newly created contacts.
-  
+
 **Tip**: You can also create a customer, vendor, or bank account from a contact. For more information, see [Create a Customer, Vendor, or Bank Account From a Contact](marketing-how-create-contacts-new-customers-vendors-bank-accounts.md).
 ##See Also
 [Synchronizing Contacts With Customers, Vendors, and Bank Accounts](marketing-synchronize-contacts-customers-vendors-bank-accounts.md)  
@@ -53,3 +53,4 @@ If you have already set up a number of customers, vendors, and bank accounts, yo
 [Assign Industry Groups to a Contact](marketing-industry-groups.md#assign-industry-groups-to-a-contact)  
 [Assign Mailing Groups to a Contact](marketing-mailing-groups.md#assign-mailing-groups-to-a-contact)  
 [How to: Create Contact Persons](marketing-create-contact-persons.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -44,3 +44,4 @@ The following table describes a sequence of tasks, with links to the topics that
 [Manage Projects](projects-manage-projects.md)    
 [Import from Other Finance Systems](upload-data.md)  
 [Work with General Journals](ui-work-general-journals.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

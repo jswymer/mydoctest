@@ -33,4 +33,5 @@ New value entries are now created to reflect the revaluations that you have post
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

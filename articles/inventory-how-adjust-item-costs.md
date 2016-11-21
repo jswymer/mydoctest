@@ -26,7 +26,7 @@ The cost adjustment function processes only value entries that have not yet been
 
 You can adjust item costs in two ways:  
 - Automatically, by having the system adjusted any cost changes every time that inventory transactions occur.  
-- Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed. 
+- Manually, by running the **Adjust Cost - Item Entries** batch job for one or more items when you know that their costs have changed.
 
 ## To adjust item costs automatically
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Inventory Setup**, and then  choose the related link.
@@ -48,6 +48,6 @@ You can adjust item costs in two ways:
 
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)  
-[How to: Post Inventory Costs to the General Ledger](inventory-how-post-inventory-cost-gl.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)
