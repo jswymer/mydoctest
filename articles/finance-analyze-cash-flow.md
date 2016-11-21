@@ -49,4 +49,4 @@ If you want to examine the forecast, in addition to forecast entries, you can al
 [Set Up Core Financial Processes](finance-setup-finance.md)  
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Setting Up Cash Flow Analyses](finance-setup-cash-flow-analyses.md)  
-[Work With Dynamics 365 for Financials](ui-work-product.md)  
+
