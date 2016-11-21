@@ -25,7 +25,7 @@ In the **General Ledger Setup** window, you specify how to handle certain accoun
 - Address formats  
 - Whether to use an additional reporting currency  
   
-Similarly, in the **General Posting Setup** window, you specify how you want to set up combinations of general business and general product posting groups. You fill in a line for each combination of business posting group and product posting group.  
+Similarly, in the **General Posting Setup** window, you specify how you want to set up combinations of general business and general product posting groups. Posting groups map entities like customers, vendors, items, resources, and sales and purchase documents to general ledger accounts. You fill in a line for each combination of business posting group and product posting group. For more information, see [Posting Group Setups](finance-posting-groups.md)  
   
 ## The Chart of Accounts  
 The chart of accounts shows all general ledger accounts. From the chart of accounts, you can do things like:  
