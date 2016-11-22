@@ -62,7 +62,7 @@ You can also assign item attributes to item categories, which then apply to the 
 7. In the **Value** field, enter an attribute value to filter items by.
 
     **Example**: To filter on items where the material description begins with "blue", fill in the fields as follows: **Attribute** field: Material Description, **Condition** field: Begins With, **Value** field: blue.
-8. Close the window.   
+8. Choose the **OK** button.   
 
 The items in the **Items** window are filtered by the specified item attribute values.
  

@@ -63,7 +63,7 @@ Example: The posting date is 02/06/2016. If you enter “Expenses deferred for %
 3. Choose the **Deferral Schedule** action.
 4. In the **Deferral Schedule** window, change settings on the header or values on the lines, for example to defer the amount to an additional accounting period.
 5. Choose the **Calculate Schedule** action.
-6. Close the window. The deferral schedule is updated for the sales invoice. The related deferral template is unchanged.
+6. Choose the **OK** button. The deferral schedule is updated for the sales invoice. The related deferral template is unchanged.
 
 ## To preview how deferred revenues or expenses will be posted to the general ledger
 **Note**: The steps in this procedure are the same as when you preview how expense deferrals are posted.

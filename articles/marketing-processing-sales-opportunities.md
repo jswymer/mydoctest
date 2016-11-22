@@ -32,11 +32,11 @@ You can close opportunities when the negotiations are over. When closing an oppo
 
 1. In the **Opportunity List** window, select the opportunity, and the choose the **Close** action. The **Close Opportunity** window opens.
 
-2. Fill in the relevant fields, and then close the window.
+2. Fill in the relevant fields, and then choose the **OK** button.
 
-  The **Close Opportunity Code** and **Date Closed** fields are required fields and must be filled in before you can close the window.
+  The **Close Opportunity Code** and **Date Closed** fields are required fields and must be filled in before you can choose the **OK** button.
 
-  In the **Close Opportunity Code** field, you can choose from one of the existing close opportunity codes or add a new code. To add a new code, from the drop-down list, choose **Select from full list**, and then choose **new**. On the new blank line, fill in the **Code**, **Type**, and **Description** fields, and then close the window.
+  In the **Close Opportunity Code** field, you can choose from one of the existing close opportunity codes or add a new code. To add a new code, from the drop-down list, choose **Select from full list**, and then choose **new**. On the new blank line, fill in the **Code**, **Type**, and **Description** fields, and then choose the **OK** button.
 
 ## Create quotes for opportunities
 You can create sales quotes for contacts that are not recorded as customers.
@@ -62,7 +62,7 @@ To delete closed opportunities by using the **Delete Closed Opportunities** batc
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Delete Opportunities**, and then choose the related link.
 2. In the **Opportunity** section, set up the filters that specify the closed opportunities to delete.
-3. Close the window.
+3. Choose the **OK** button.
 
 After you have deleted an opportunity, it is removed it from the **Opportunity List** window.
 
@@ -76,7 +76,7 @@ If an opportunity follows a sales cycle, you can move it forward or back through
   * **Previous** moves the opportunity back one stage.
   * **Jump** moves the opportunity back one or several stages in the sales cycle, which you specify in the **Presentation** field.
   * **Update** enables you to change information (such as to modify your evaluation of their chances of success and estimated values) without moving to another stage.
-3. Fill in the other fields as needed, and then close the window.
+3. Fill in the other fields as needed, and then choose the **OK** button.
 
 ##See Also  
 [Manage Sales](sales-manage-sales.md)  

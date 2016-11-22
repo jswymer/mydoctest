@@ -34,7 +34,7 @@ You assign resources to jobs by creating job planning lines for the job. For mor
 If you want to change costs or prices for a large number of resources, you can use a batch job.  
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Adjust Resource Costs/Prices**, and then choose the related link.
-2. Fill in the fields on a line as necessary, and then close the window.
+2. Fill in the fields on a line as necessary, and then choose the **OK** button.
 
 **Note**: This batch job does not create or adjust alternate costs or prices for resources. It only changes the contents of the field on the resource card for the **Adjust Field** field that you selected in the batch job. The adjustment will take effect immediately for resources, so check your adjustment factors before you run the batch job.
 
@@ -43,7 +43,7 @@ If you have already set up alternate resource price for some resources, you can 
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resource Price Changes**, and then choose the related link.
 2. Choose the **Suggest Res. Price Chg. (Price)** action, and then fill in the fields as necessary.
-3. Close the window.  
+3. Choose the **OK** button.  
 4. When the batch job is finished, the **Resource Price Changes** window shows the results of the batch job.
 
 ## To get resource price change suggestions based on standard prices  
@@ -51,7 +51,7 @@ If you want to set up multiple alternate resource prices based on the standard p
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resource Price Changes**, and then choose the related link.
 2. Choose the **Suggest Res. Price Chg. (Res.)** action, and then fill in the fields as necessary.  
-3. Close the window.  
+3. Choose the **OK** button.  
 4. When the batch job is finished, open the **Resource Price Changes** window to see the results of the batch job.
 
 ## To get resource price change suggestions based on alternate prices  
@@ -59,7 +59,7 @@ If you have already set up alternate resource price for some resources, you can 
 
 1. In the **Search** box, enter **Suggest Res. Price Chg. (Price)**, and then choose the related link.  
 2. Fill in the fields as necessary.
-3. Close the window.  
+3. Choose the **OK** button.  
 4. When the batch job is finished, open the **Resource Price Changes** window to see the results of the batch job.
 
 ## See Also
