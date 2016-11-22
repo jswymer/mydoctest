@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/17/2016"
+    ms.date="11/22/2016"
     ms.author="SorenGP" />
 
 # How to: Use Time Sheets for Jobs
@@ -34,7 +34,7 @@ You can use the **Create Time Sheets** batch job to set up time sheets for a spe
 
 **Note**: The **Use Time Sheet** and **Time Sheet Owner User ID** fields must be filled in on the card for the resource of the time sheet.
 
-4. Close the window.  
+4. Choose the **OK** button.  
 
 You can view the time sheets that you have created in the **Time Sheet list** window.
 
