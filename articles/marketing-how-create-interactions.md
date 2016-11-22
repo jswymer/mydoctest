@@ -22,7 +22,7 @@ Before you create interactions, you must set up interaction templates. For more 
 ## To create an interaction
 1. Open the contact, salesperson, or interaction log entry.
 2. Choose the **Create Interaction** action.
-3. Fill in the fields, and close the window.
+3. Fill in the fields, and choose the **OK** button.
 
 **Note**: If you need to perform another task before finishing the interaction, you can choose **Cancel**, and choose to finish the interaction at a later time. This postpones the interaction.
 

@@ -47,7 +47,7 @@ Indexation is used to adjust multiple fixed asset values, for example per genera
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Index Fixed Assets**, and then choose the related link.  
 2. Fill in the fields as necessary.
-3. Close the window.
+3. Choose the **OK** button.
 
     Revaluation lines are created per your settings in step 2. The lines are created in either the fixed asset journal or the fixed asset G/L journal, depending on your template and batch setup in the **FA Journal Setup** window. For more information, see [How to: Set Up General Fixed Asset Information](fa-how-setup-general.md).
 4. In the top right corner, choose the **Search for Page or Report** icon, enter **FA G/L Journals**, and then choose the related link.  

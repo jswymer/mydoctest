@@ -52,7 +52,7 @@ If you want to assign a depreciation book to several fixed assets, you can use t
     If you fill in this field, the depreciation fields in the new fixed asset depreciation books will contain the same information as the corresponding fields in the fixed asset depreciation book that you copy from. Leave the field blank if you want to create new fixed asset depreciation books with empty depreciation fields.  
 
 6. On the **Fixed Asset** FastTab, you can set a filter to select the assets that you want to create the fixed asset depreciation books for.
-7. Close the window.
+7. Choose the **OK** button.
 
 ## To set up depreciation posting types  
 For each depreciation book, you must set up how you want Financials to handle various posting types. For example, whether posting should be debit or credit and whether the posting type should be included in the depreciable basis.  

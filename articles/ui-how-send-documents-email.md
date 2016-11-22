@@ -44,9 +44,9 @@ Now, when you choose, for example, the Send action in the **Posted Sales Invoice
 The following procedure describes how to send a posted sales invoice as an email message with the document attached as a PDF file and with a document-specific email body.
 ## To send documents by email
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.
-2. Select the relevant sales invoice, and then, on the **Home** tab, in the **Invoice** group, choose **Send**. The **Send Document To** window opens.
+2. Select the relevant sales invoice, and then choose the **Send** action. The **Send Document To** window opens.
 3. In the **Email** field, select **Yes (Prompt for Settings)**. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
-4. Close the window. The **Send Email** window opens.
+4. Choose the **OK** button. The **Send Email** window opens.
 5. In the **To:** field, enter a valid email address. The default value is the customer email address.
 6. In the **Cc:** field, specify an email address to have a copy of the email message sent to another recipient.
 7. In the **Bcc:** field, specify an email address to have a copy of the email sent to another recipient without that email address and name appearing to other recipients.

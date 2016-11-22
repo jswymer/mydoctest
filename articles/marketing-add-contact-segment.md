@@ -22,7 +22,7 @@ After you have created a segment and entered basic information about it, you may
 2. Select the segment, and then choose the **Add Contacts** action. The **Add Contacts** batch job window opens.
 3. In the **Contact** section, set filters to specify the information by which you want to select contacts.
 
-To enter additional filters, repeat this procedure on each of the remaining sections, and then close the window.
+To enter additional filters, repeat this procedure on each of the remaining sections, and then choose the **OK** button.
 
 If you have added contacts by mistake and want to go back one step, then choose the **Go Back** action.
 
@@ -32,7 +32,7 @@ After you have selected the contacts within a segment, you may decide to remove 
 1. Open the segment.
 2. Choose **Contacts**, and then choose the **Refine Contacts** action. The **Remove Contacts - Refine** window opens.
 3. In the **Contact** section, enter filters to specify the information that you want to use to select the contacts to be removed from the segment.
-4. Add additional filters as needed, and then close the window.
+4. Add additional filters as needed, and then choose the **OK** button.
 
 You can refine a segment as many times as you want. If you have refined the segment by mistake and want to go one step back, choose the **Go Back**.
 
@@ -44,7 +44,7 @@ After you have selected the contacts within a segment, you may want to remove so
 1. Open the segment.
 2. Choose Contacts, and then choose the **Reduce Contacts** action. The **Remove Contacts - Reduce** window opens.
 3. In the **Contact** section, enter filters to specify the information that you want to use to select the contacts to be removed from the segment.
-4. Add additional filters as needed, and then close the window.
+4. Add additional filters as needed, and then choose the **OK** button.
 
 You can reduce a segment as many times as you want. If you have refined the segment by mistake and want to go one step back, then choose the **Go Back** action.
 

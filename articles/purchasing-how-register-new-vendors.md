@@ -29,7 +29,7 @@ Vendor cards hold the information that is required to buy products from the vend
 
     If more than one vendor template exists, then a window opens from which you can select a vendor template. In that case, follow the next two steps.
 3. In the **Select a template for a new vendor** window, choose the template that you want to use for the new vendor card.
-4. Close the window. A new vendor card opens with some fields filled with information from the template.
+4. Choose the **OK** button. A new vendor card opens with some fields filled with information from the template.
 5. Proceed to fill or change fields on the vendor card as necessary. Choose a field to read a short description of the field or link to more information.
 
 The vendor is now registered, and the vendor card is ready to be used on purchase documents.
@@ -41,7 +41,7 @@ If you want to use this vendor card as a template when you create new vendor car
 2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 3. To reuse dimensions in templates, choose the **Dimensions** action. The **Dimension Templates** window opens showing any dimension codes that are set up for the vendor.
 4. Edit or enter dimension codes that will apply to new vendor cards created by using the template.
-5. When you have completed the new vendor template, close the window.  
+5. When you have completed the new vendor template, choose the **OK** button.  
 The vendor template is added to the list of vendor templates, so that you can use it to create new vendor cards.
 
 ## See Also
