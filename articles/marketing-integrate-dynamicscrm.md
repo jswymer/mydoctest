@@ -36,12 +36,12 @@ To import an existing Dynamics CRM solution, the setup guide uses an administrat
 - System Administrator  
 - Solution Customizer  
 
-For more information, see [Create users and assign Microsoft Dynamics 365 (online) security roles](https://technet.microsoft.com/en-us/library/jj191623.aspx).  
+For more information, see [Create users and assign Microsoft Dynamics 365 (online) security roles](https://technet.microsoft.com/library/jj191623.aspx).  
 
 This account is only used during the setup. Once the solution is imported into Financials, the account is no longer needed.
 
 ### Set up the user account for synchronization
-The integration relies on a shared user account. So in your Office 365 subscription, you must create a dedicated user that will be used for synchronization between the two services. This account must already be a valid user in Dynamics CRM, but you do not have to assign security roles to the account because the setup guide will do that for you. You must specify this user account one or more times in the setup guide, depending how much synchronization you want to enable. For more information, see [Create a user account](https://technet.microsoft.com/en-us/library/jj191623.aspx#BKMK_create_users).
+The integration relies on a shared user account. So in your Office 365 subscription, you must create a dedicated user that will be used for synchronization between the two services. This account must already be a valid user in Dynamics CRM, but you do not have to assign security roles to the account because the setup guide will do that for you. You must specify this user account one or more times in the setup guide, depending how much synchronization you want to enable. For more information, see [Create a user account](https://technet.microsoft.com/library/jj191623.aspx#BKMK_create_users).
 
 If you choose to enable *item availability*, the integration user account must have a web services access key. This is a two-step thing - in the Financials page for that user account, you must choose the **Change Web Service Key** button; and in the CRM connection setup guide, you must specify that user as the OData web service user.
 
