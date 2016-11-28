@@ -41,7 +41,7 @@ You can create a job WIP method that reflects the needs of your organization. Af
 5. In the **Default WIP Method** field, choose the method from the list.
 
 ## To define a WIP method for a job  
-When you create a new job, you must specify which job WIP method that applies. In some cases, which Job WIP method that you can use has been set up for you as a default. 
+When you create a new job, you must specify which job WIP method that applies. In some cases, which Job WIP method that you can use has been set up for you as a default.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
 2. Choose the **New** action. For more information, see [How to: Create Jobs](projects-how-create-jobs.md).  
@@ -53,7 +53,7 @@ You can determine the WIP amount that is to be posted to balance sheet accounts 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Calculate WIP**, and then choose the related link.  
 2. Choose the **Calculate WIP** action.
 3. In the **Job Calculate WIP** window, fill in the fields as necessary.
-4. Close the window.  
+4. Choose the **OK** button.  
 
 **Note**: The batch job only calculates the WIP. It is not posted to the general ledger. To do so, you must run the **Post WIP to G/L** batch job when you have calculated the WIP. For more information, see the following procedure.
 
@@ -62,7 +62,7 @@ When you have calculated WIP, you can post it to balance sheet accounts for the 
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Post WIP to G/L**, and then choose the related link.  
 2. In the **Job Post WIP to G/L** window, fill in the fields as necessary.  
-3. Close the window.
+3. Choose the **OK** button.
 
 ## To view job usage estimates and post updates  
 You can view job usage up to the completion of a project in one step. To do so, you use the **Job Calc. Remaining Usage** batch job for all the tasks up to and including the end of a job.  
@@ -73,7 +73,7 @@ This lets you track and compare your original estimates against actual results a
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job Journals**, and then choose the related link.  
 2. Select a relevant job journal, and then choose the **Calc. Remaining Usage** action.  
-3. In the **Job Calc. Remaining Usage** window, enter the document number and posting date that is to be inserted in the journal, and then close the window.  
+3. In the **Job Calc. Remaining Usage** window, enter the document number and posting date that is to be inserted in the journal, and then choose the **OK** button.  
 4. Update the journal with any modifications that may be needed.  
 5. Choose the **Post**.
 

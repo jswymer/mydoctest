@@ -44,7 +44,7 @@ To calculate how much time a resource or a resource group can spend on jobs, the
 4. For each resource on a line, specify for each period on the columns the number of hours that the resource is available.
 5. Alternatively, to detail the resource's weekly capacity within a starting and ending date, choose the **Set Capacity** action.
 6. In the **Resource Capacity Settings** window, fill in the fields as necessary.
-7. Choose X in the top right corner to save and close the window. The **Resource Capacity** window is updated with the entered capacity.
+7. Choose X in the top right corner to save and choose the **OK** button. The **Resource Capacity** window is updated with the entered capacity.
 8. To specify capacity for resource groups, open the relevant resource group card, choose the **Res. Group Capacity** action, and then repeat steps 3 through 7 with similar information.
 
 ## To set up alternate resource costs

@@ -56,7 +56,7 @@ You can use the **Index Insurance** batch job to update the value of the fixed a
 
     **Note:** In the **Index Figure** field, you enter a decrease of 5%, for example, as 95, whereas you enter an increase of 2% as 102.  
 
-3.  Close the window.  
+3.  Choose the **OK** button.  
 
     The batch job calculates the new amount as a percentage of the total value insured, as stated in the **Insurance Statistics** window, and then creates a line in the insurance journal.  
 
