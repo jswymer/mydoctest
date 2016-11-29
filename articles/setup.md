@@ -10,12 +10,13 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/27/2016"
+    ms.date="11/29/2016"
     ms.author="edupont04" />
 
 # Set Up Dynamics 365 for Financials
-Dynamics 365 for Financials includes standard configurations for most business processes, but you can change the configuration to suit your business' needs.
-From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to Financials. For more information, see [Welcome to Financials](madeira-get-started.md).  
+Financials includes standard configurations for most business processes, but you can change the configuration to suit your business' needs.
+
+From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to Financials. Several areas of business functionality must be set up manually. Some of those are listed below. For information about how to access all assisted and manual setup windows, see [Getting Ready for Doing Business](ui-get-ready-business.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
