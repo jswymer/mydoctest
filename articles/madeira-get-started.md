@@ -19,12 +19,17 @@ Financials is a business management solution for small and mid-sized organizatio
 When you sign up for the Financials preview you get access to a demonstration company. The demonstration company contains sample data, but you can create your own sales documents, for example, or set up a bank account.  
 
 ## Get to know Financials
-In Financials, some things will be familiar to you, and other things might be unfamiliar. In the demonstration company, you can see visual guides that explain core functionality. These guides let you try out daily tasks such as making a sales invoice and viewing a report.  
+In Financials, some things will be familiar to you, and other things might be unfamiliar. In the demonstration company, visual guides explain core functionality, and help you try out daily tasks like creating a sales invoice and viewing a report. If you leave a guide, for example, to explore Financials on your own, but want to return to it, go back to the Home page and launch the Getting Started tour.  
 
-When you want to explore Financials on your own, you can always go back to the Getting Started tour by launching it from the Home page.  
+For some quick, nice-to-know tricks, see:  
 
-We also have a lists of nice-to-know tricks, such as how to [find things](ui-search.md), how to [set filters](ui-enter-criteria-filters.md), or how to [sort data in lists](ui-sorting.md). For more information, see [Work With Dynamics 365 for Financials](ui-work-product.md).  
-
+- [Find things](ui-search.md)  
+- [Set filters](ui-enter-criteria-filters.md)  
+- [Sort data in lists](ui-sorting.md)  
+  
+For more information, see [Work With Dynamics 365 for Financials](ui-work-product.md).  
+  
+When you're ready to do some heavier lifting, and want to look at some of the business processes that Financials supports, see [Business functionality](madeira-business-functionality.md).  
 ## The Home pages  
 Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job. For example, an accountant can monitor payments and approvals, and view finance performance charts. Check out the various Home pages by choosing **My Settings** in the top right corner, and then the Role Center to explore. Sign in again to apply the change. For more information, see [Changing the Role Center](change-role.md).  
 
