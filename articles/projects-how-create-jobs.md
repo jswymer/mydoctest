@@ -32,7 +32,7 @@ You create a job card and then create job task lines and job planning lines for 
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.  
 2. Choose the **New** action, and then fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
-3. To specify the job with information on other jobs, choose the **Copy Job** action, fill in the fields as necessary, and then close the window.
+3. To specify the job with information on other jobs, choose the **Copy Job** action, fill in the fields as necessary, and then choose the **OK** button.
 
 **NOTE**: If you are using time sheets with your job, you must also designate a person responsible. This person can approve time sheets for the employee tasks associated with the job. For more information, see [How to: Set Up Timesheets](projects-how-setup-time-sheets.md).
 
@@ -44,7 +44,7 @@ A key part of creating a job is to specify the various tasks involved in the job
 3. On the **Tasks** FastTab, fill in the fields as necessary on a new line.
 4. To indent tasks and create a hierarchy, Choose the **Tasks** action, the then choose **Indent Job Tasks** action.
 5. Repeat steps 3 and 4 for all the tasks that you need for the job.
-6. To specify the job tasks with information on other job tasks, choose the **Copy Job Tasks from** action, fill in the fields as necessary, and then close the window.
+6. To specify the job tasks with information on other job tasks, choose the **Copy Job Tasks from** action, fill in the fields as necessary, and then choose the **OK** button.
 
 ## To create planning lines for a job  
 You can refine your new job tasks on job planning lines. A planning line can be used to capture any information that you want to track for a job. You can use planning lines to add information such as what resources are required or to capture what items are needed to perform the job. For example, if you have a task to obtain customer approval of a job, you can associate that task with planning lines for items such as meeting with the customer and assigning a resource.  

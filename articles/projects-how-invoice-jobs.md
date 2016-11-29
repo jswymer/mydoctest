@@ -40,7 +40,7 @@ You can create an invoice from a job planning lines, and indicate at that time t
 4. On a job planning line, in the **Qty. To Transfer to Invoice** field, enter the quantity of the item, resource, general ledger account type that you want to invoice.  
 5. Choose the **Create Sales Invoice** action.
 6. In the **Job Create Sales Invoice** window, enter the posting date and whether you want to create a new invoice or append this invoice to an existing one. 
-7. Close the window.  
+7. Choose the **OK** button.  
 
     On the job planning line, in the **Qty. Transferred to Invoice** field, you can see the quantity. 
     

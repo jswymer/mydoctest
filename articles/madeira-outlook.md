@@ -31,7 +31,7 @@ Once you have the data entered, you can post the quote. You can then send it by 
 
 Similarly, if you get an email from a vendor, you can use the add-in to work with vendors and purchase invoices.  
 
-Sometimes you want to see more fields than you can see in the add-in, such as when you want to fill in lines in an invoice. To give you a bit more space to work with, you can pop out the add-in to a separate window. It's still part of Outlook, but you have more space. As you enter data for the document in the pop-out view, the changes are automatically saved. When you are done entering data for the document, you can close the window. Choosing the add-in frame in Outlook automatically refreshes the document with the changes you made in the pop-out view.  
+Sometimes you want to see more fields than you can see in the add-in, such as when you want to fill in lines in an invoice. To give you a bit more space to work with, you can pop out the add-in to a separate window. It's still part of Outlook, but you have more space. As you enter data for the document in the pop-out view, the changes are automatically saved. When you are done entering data for the document, you can choose the **OK** button. Choosing the add-in frame in Outlook automatically refreshes the document with the changes you made in the pop-out view.  
 
 ## Create invoices from your meeting appointments
 Some businesses record all billable appointments in the Outlook calendar. With Financials, you can create the invoice for the customer right from the calendar item: Open the appointment, and then you can open the Financials add-in, look up existing information or create an invoice or another sales document right there.  

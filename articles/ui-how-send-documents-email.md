@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/22/2016"
     ms.author="SorenGP" />
 
 # How to: Send Documents by Email
@@ -37,16 +37,16 @@ The following procedure describes how to set the **Sales - Invoice** report up t
     Report layouts define both the style and the content of the email body, including the standard text that precedes the core document information in the email body. You can see all available report layouts if you choose the **Select from full list** button in the drop-down list.
 6. To view or edit the layout that the email body is based on, select the layout in the **Custom Report Layouts** window, and then choose the **Edit Layout** action.
 7. If you want to offer customers to pay for sales electronically, you can set up the related payment service, such as PayPal, and then have the PayPal information and hyperlink inserted in the email body as well. For more information, see [How to: Enable Customer Payments Through PayPal](sales-how-enable-customer-payments-paypal.md).
-8. Close the window.
+8. Choose the **OK** button.
 
 Now, when you choose, for example, the Send action in the **Posted Sales Invoice** window, the email body will contain the document information of report 1306 preceded by styled standard text according to the report layout that you selected in step 5.
 
 The following procedure describes how to send a posted sales invoice as an email message with the document attached as a PDF file and with a document-specific email body.
 ## To send documents by email
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.
-2. Select the relevant sales invoice, and then, on the **Home** tab, in the **Invoice** group, choose **Send**. The **Send Document To** window opens.
+2. Select the relevant sales invoice, and then choose the **Send** action. The **Send Document To** window opens.
 3. In the **Email** field, select **Yes (Prompt for Settings)**. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
-4. Close the window. The **Send Email** window opens.
+4. Choose the **OK** button. The **Send Email** window opens.
 5. In the **To:** field, enter a valid email address. The default value is the customer email address.
 6. In the **Cc:** field, specify an email address to have a copy of the email message sent to another recipient.
 7. In the **Bcc:** field, specify an email address to have a copy of the email sent to another recipient without that email address and name appearing to other recipients.

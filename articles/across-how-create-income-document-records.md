@@ -34,7 +34,7 @@ If you approve the incoming document record, the **Released** check box on the i
 1. On the app bar, choose the **Create Incoming Document from Camera** tile, and then go to step 4.
 2. Alternatively, on the app bar, choose the options button, choose **Incoming Documents**, and then choose **All**.
 3. In the **Incoming Documents** window, choose the ellipsis button, and then choose **Create from Camera**. The camera on the tablet or phone is activated.
-4. Take a photo of a document, such as a purchase receipt, that you want to process as an incoming document, and then close the window.
+4. Take a photo of a document, such as a purchase receipt, that you want to process as an incoming document, and then choose the **OK** button.
 
 A new incoming document record is created, with the image attached.
 
@@ -44,7 +44,7 @@ A new incoming document record is created, with the image attached.
 1. On the app bar, choose the options button, choose **Incoming Documents**, and then choose **All**.
 2. Open the card for an existing incoming document record.
 3. In the **Incoming Document** window, choose the ellipsis button, and then choose **Attach Image from Camera**. The camera on the tablet or phone is activated.
-4. Take a photo of a document, such as a purchase receipt, that you want to process as an incoming document, and then close the window.
+4. Take a photo of a document, such as a purchase receipt, that you want to process as an incoming document, and then choose the **OK** button.
 
 The image is attached to the incoming document record.
 

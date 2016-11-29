@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/01/2016"
+    ms.date="11/28/2016"
     ms.author="SusanneWindfeldPedersen" />
 
 # Welcome to Dynamics 365 for Financials
@@ -28,11 +28,11 @@ We also have a lists of nice-to-know tricks, such as how to [find things](ui-sea
 ## The Home pages  
 Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job. For example, an accountant can monitor payments and approvals, and view finance performance charts. Check out the various Home pages by choosing **My Settings** in the top right corner, and then the Role Center to explore. Sign in again to apply the change. For more information, see [Changing the Role Center](change-role.md).  
 
-Each Home page provides an **Assisted Setup & Tasks** action that opens a list of assisted setup guides. These guides help you add features to Financials. You can also access the guides by choosing the **Search for Page or Report** icon in the top right, and then entering  **Assisted Setup**.  
+Each Home page provides a **Setup and Extensions** button. Here you have access to a list of assisted setup that can help you get started by setting selected areas up quickly. If an area is not covered by an assisted setup, choose the **Manual Setup** action to access setup windows where you can fill in setup fields for all areas manually.  
 
-**Note:** The guides that are available differ, depending on the user experience you choose for your company. Fewer guides are available for the **Basic** experience, and more for the **Suite**. The first time you sign in, you use the Basic experience. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).  
+**Note:** The list of setup guides, extensions, and services that are available differ depending on the user experience you choose for your company. The **Basic** experience gives access to fewer than the **Suite** experience does. The first time you sign in, you use the Basic experience. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).  
 
-The following table is a full list of assisted setup guides.  
+In the **Assisted Setup** window, you will find the following with the **Suite** experience:
 
 |Assisted Setup           |Description                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
@@ -53,7 +53,7 @@ The following table is a full list of assisted setup guides.
 ## Trying things out in your own company
 Thinking about subscribing? You can easily change from the demonstration company, and create and work in a company of your own. This is a great way to start toward a subscription. Setups for finances are provided; you just need to create or import your items, customers, and vendors. After that, you're ready to post invoices and use business intelligence tools to analyze your business. You can use your company for free for a 30-day trial period. If you subscribe to Financials during that time, you're already up and running. You can continue with the work you did during the trial.  
 
-To create a company to try things out, go to the **My Settings** menu in the top right corner, and change the company to **My Company**. Sign out of Financials and then sign in again to apply the change. An assisted setup guide will help you provide basic information about your company. When that's done, explore the Home page and find the **Assisted Setup & Tasks** action.  
+To create a company to try things out, go to the **My Settings** menu in the top right corner, and change the company to **My Company**. Sign out of Financials and then sign in again to apply the change. An assisted setup guide will help you provide basic information about your company. When that's done, explore the Home page and find the **Assisted Setup** action.  
 
 ## Ready to subscribe?
 Each time you sign in during the trial period, a notification in a blue bar at the top displays the time remaining. If you decide to subscribe, use the link in the notification to get in touch with Microsoft. You can also go to [Microsoft Dynamics 365](https://go.microsoft.com/fwlink/?linkid=828707).

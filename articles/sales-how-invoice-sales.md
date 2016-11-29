@@ -46,7 +46,7 @@ You can fill customer fields on the sales invoice in two ways depending on wheth
       
 4. In the **Customer** field, enter the name of the new customer.
 5. In the dialog box about registering the new customer, choose the **Yes** button.
-6. In the **Select a template for a new customer** window, choose a template to base the new customer card on, and then close the window.
+6. In the **Select a template for a new customer** window, choose a template to base the new customer card on, and then choose the **OK** button.
 7. A new customer card displays the information on the selected customer template. Fill in the remaining fields. For more information, see [How to: Register New Customers](sales-how-register-new-customers.md).  
 8. After you complete the customer card, choose the **OK** button to return to the **Sales Invoice** window.
   

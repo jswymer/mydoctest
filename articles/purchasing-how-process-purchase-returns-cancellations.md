@@ -36,7 +36,7 @@ In addition to the original posted purchase invoice, you can apply the purchase 
 6. In the **Amount to Apply** field, enter the amount that you want to apply if smaller than the original amount.
 
     At the bottom of the **Apply Vendor Entries** window, you can see the total amount to apply to reverse all involved entries, namely when the value in the **Balance** field is zero.
-7. Close the window. When you post the purchase credit memo, it will be applied to the specified posted purchase documents.
+7. Choose the **OK** button. When you post the purchase credit memo, it will be applied to the specified posted purchase documents.
 
     When you have created or edited the needed purchase credit memo lines and the single or multiple applications are specified, you can proceed to post the purchase credit memo.
 8. Choose the **Post** action.
@@ -53,7 +53,7 @@ The purchase credit memo is removed and replaced with a new document in the list
 5. In the **Copy purchase Document** window, in the **Document Type** field, select **Posted Invoice**.
 6. Choose the **Document No.** field to open the **Posted purchase Invoices** window, and then select the posted purchase invoice that contains lines that you want to reverse.
 7. Select the **Recalculate Lines** check box if you want the copied posted purchase invoice lines to be updated with any changes in item price and unit cost since the invoice was posted.
-8. Close the window. The copied invoice lines are inserted in the purchase credit memo.
+8. Choose the **OK** button. The copied invoice lines are inserted in the purchase credit memo.
 9. Complete the purchase credit memo as explained in the "To create a purchase credit memo from a posted purchase invoice" section in this topic.
 
 ## See Also

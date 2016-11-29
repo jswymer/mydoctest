@@ -57,7 +57,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 9. In the **Amount to Apply** field, enter the amount you want to apply to the entry. If you do not enter an amount, the maximum amount is applied.
 
     At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
-10. Close the window. The **Cash Receipt Journal** window now shows the entry you have selected entered in the **Applies-to Doc. Type** and **Applies-to Doc. No.** fields.
+10. Choose the **OK** button. The **Cash Receipt Journal** window now shows the entry you have selected entered in the **Applies-to Doc. Type** and **Applies-to Doc. No.** fields.
 11. Post the cash receipt journal.
 
 ## To apply a payment to multiple customer ledger entries
@@ -73,7 +73,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 10. On each line, in the **Amount to Apply** field, enter the amount you want to apply to the individual entry. If you do not enter an amount, the maximum amount is applied.
 
     At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
-11. Close the window.
+11. Choose the **OK** button.
 12. Post the cash receipt journal.
 
 ## To apply a credit memo to a single customer ledger entry
@@ -83,7 +83,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 4. On the line in the **Amount to Apply** field, enter the amount you want to apply to the entry.  
 
     If you do not enter an amount, the program automatically applies the maximum amount. At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.    
-5. Close the window. The **Sales Credit Memo** window now shows the entry you have selected entered in the **Applies-to Doc. Type** and **Applies-to Doc. No.** fields. And the amount of the credit memo to be posted, adjusted for any possible payment discounts.
+5. Choose the **OK** button. The **Sales Credit Memo** window now shows the entry you have selected entered in the **Applies-to Doc. Type** and **Applies-to Doc. No.** fields. And the amount of the credit memo to be posted, adjusted for any possible payment discounts.
 6. Post the credit memo.
 
 ## To apply a credit memo to multiple customer ledger entries
@@ -94,7 +94,7 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 5. On each line, in the **Amount to Apply** field, enter the amount you want to apply to the individual entry. If you do not enter an amount, the maximum amount is applied.  
 
     At the bottom of the **Apply Customer Entries** window, you can see the specific amount in the **Applied Amount** field and also whether the application balances.  
-6. Close the window. The **Sales Credit Memo** window now shows the amount of the credit memo to be posted, adjusted for any possible payment discounts.
+6. Choose the **OK** button. The **Sales Credit Memo** window now shows the amount of the credit memo to be posted, adjusted for any possible payment discounts.
 7. Post the credit memo.
 
 ## To apply posted customer ledger entries

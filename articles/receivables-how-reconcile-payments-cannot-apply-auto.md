@@ -34,7 +34,7 @@ To reconcile such payments, you can choose the Transfer Difference to Account bu
 4. In the **Account Type** field, specify if the type of account that the payment amount will be posted to.
 5. In the **Account No.** field, specify the account that the payment amount will be posted to.
 6. In the **Description** field, specify text that describes this direct payment posting. By default, the text in the **Transaction Text** field on the payment reconciliation journal line is inserted.
-7. Close the window.
+7. Choose the **OK** button.
 
 If the value in the **Difference** field was equal to the value in the **Transaction Amount** field when you post the payment reconciliation journal, the whole payment on the journal line will be posted directly to the specified balancing account.
 
