@@ -6,7 +6,7 @@
 	authors="SorenGP"/>
 <tags
     ms.service="project-madeira"
-    ms.topic="setup-email-article"
+    ms.topic="get-started-article"
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
@@ -16,7 +16,7 @@
 # How to: Set up Email
 To send and receive emails from within Financials, you must fill in the fields in the **SMTP Mail Setup** window.
 
-**Note**: Instead of entering the SMTP server details, you can use a function to enter them with information from your Office 365 subscription. 
+**Note**: Instead of entering the SMTP server details, you can use a function to enter them with information from your Office 365 subscription.
 
 You can either set email up manually or you can get help by using the **Email Setup** assisted setup. For more information, see [Getting Ready for Doing Business](ui-get-ready-business.md).  
 
