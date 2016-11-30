@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Set up Email| Financials"
-    description="Describes how to configure the company's SMTP server to send and receive email, alternatively how to use the Office 365 server settings that were cqreated with the Dynamics 365 subscription."
+	pageTitle="How to: Set up Email| Financials"
+    description="Describes how to use the company's SMTP server to send and receive email within Financials, alternatively how to use the email server settings that were created with the Office 365 subscription."
 	services="project-madeira"
 	documentationCenter=""
 	authors="SorenGP"/>
@@ -13,8 +13,19 @@
     ms.date="11/30/2016"
     ms.author="SorenGP" />
 
-# Set up Email
+# How to: Set up Email
+To send and receive emails from within Financials, you must fill in the fields in the **SMTP Mail Setup** window.
 
+**Note**: Instead of entering the SMTP server details, you can use a function to enter them with information from your Office 365 subscription. 
+
+You can either set email up manually or you can get help by using the **Email Setup** assisted setup. For more information, see [Getting Ready for Doing Business](ui-get-ready-business.md).  
+
+## To set up email
+1. In the top right corner, choose the **Search for Page or Report** icon, enter **SMTP Email Setup**, and then choose the related link.
+2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
+3. Alternatively, choose the **Apply Office 365 Server Settings** action to insert any information that is already defined for your Office 365 subscription.
+4. When all the fields are correctly filled in, choose the **Test Email Setup** action.
+5. When the test succeeds, close the window.
 
 ## See Also  
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
@@ -22,4 +33,4 @@
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
 [Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
 [Using Dynamics 365 for Financials as your Business Inbox in Outlook](madeira-outlook.md)  
-[Get Dynamics 365 for Financials on my Mobile Device](install-mobile-app.md)  
+[Get Dynamics 365 for Financials on my Mobile Device](install-mobile-app.md)
