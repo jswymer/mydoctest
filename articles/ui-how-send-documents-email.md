@@ -61,6 +61,7 @@ The following procedure describes how to send a posted sales invoice as an email
 **Note**: If you do not need to specify email settings each time you email a document, you can select the **Yes (Use Default Settings)** option in the Email field in the **Send Document To** window. In that case, the **Send Email** window will not open. See Step 4. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
 
 ## See Also  
-[Work With Dynamics 365 for Financials](ui-work-product.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)
+[How to: Set up Email](madeira-how-setup-email.md)    
 [How to: Invoice Sales](sales-how-invoice-sales.md)  
 [Work With Dynamics 365 for Financials](ui-work-product.md)
