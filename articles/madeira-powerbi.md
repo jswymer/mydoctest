@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Using the Dynamics 365 for Financials Content Pack for Power BI | Financials"
-    description="Using the Dynamics 365 for Financials content pack for Power BI"
+	pageTitle="Using the Dynamics 365 for Financials Content Packs for Power BI | Financials"
+    description="Getting insights into your Financials data is easy with Power BI and the Financials content packs."
 	services="project-madeira"
 	documentationCenter=""
 	authors="edupont04"/>
@@ -10,13 +10,13 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/17/2016"
+    ms.date="12/01/2016"
     ms.author="edupont" />
 
-# Using the Dynamics 365 for Financials Content Pack for Power BI
-Getting insights into your Financials data is easy with Power BI and the Financials content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
+# Using the Dynamics 365 for Financials Content Packs for Power BI
+Getting insights into your Financials data is easy with Power BI and the Financials content packs. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
 
-The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for Dynamics 365 for Financials.  
+The content packs are preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for Dynamics 365 for Financials.  
 
 - Choose any visual on the dashboard to bring up one of seven underlying reports.  
 - Filter the report or add fields that you want to monitor.  
