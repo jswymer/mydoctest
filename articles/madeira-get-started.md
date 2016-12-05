@@ -26,10 +26,10 @@ For some quick, nice-to-know tricks, see:
 - [Find things](ui-search.md)  
 - [Set filters](ui-enter-criteria-filters.md)  
 - [Sort data in lists](ui-sorting.md)  
-  
+
 For more information, see [Work With Dynamics 365 for Financials](ui-work-product.md).  
-  
-When you're ready to do some heavier lifting, and want to look at some of the business processes that Financials supports, see [Business functionality](madeira-business-functionality.md).  
+
+When you're ready to do some heavier lifting, and want to look at some of the business processes that Financials supports, see [Business Functionality](madeira-business-functionality.md).  
 ## The Home pages  
 Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job. For example, an accountant can monitor payments and approvals, and view finance performance charts. Check out the various Home pages by choosing **My Settings** in the top right corner, and then the Role Center to explore. Sign in again to apply the change. For more information, see [Changing the Role Center](change-role.md).  
 
@@ -65,7 +65,7 @@ Each time you sign in during the trial period, a notification in a blue bar at t
 
 ## See Also  
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
-[Setup](setup.md)  
+[Set Up Dynamics 365 for Financials](setup.md)  
 [Finance](finance.md)  
 [Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
 [Using Dynamics 365 for Financials as your Business Inbox in Outlook](madeira-outlook.md)  
