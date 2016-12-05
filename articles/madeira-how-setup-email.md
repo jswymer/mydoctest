@@ -32,5 +32,5 @@ You can either set email up manually or you can get help by using the **Email Se
 [Set Up Dynamics 365 for Financials](setup.md)  
 [How to: Send Documents by Email](ui-how-send-documents-email.md)  
 [Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
-[Using Dynamics 365 for Financials as your Business Inbox in Outlook](madeira-outlook.md)  
-[Get Dynamics 365 for Financials on my Mobile Device](install-mobile-app.md)
+[Using Dynamics 365 for Financials as Your Business Inbox in Outlook](madeira-outlook.md)  
+[Get Dynamics 365 for Financials on My Mobile Device](install-mobile-app.md)
