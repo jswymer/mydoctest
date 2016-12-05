@@ -59,4 +59,5 @@ You can export balance information using GIFI codes and save the exported file i
 
 ## See Also
 [Finance](finance.md)   
-[Set Up Core Financial Processes](finance-setup-finance.md)
+[Set Up Core Financial Processes](finance-setup-finance.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

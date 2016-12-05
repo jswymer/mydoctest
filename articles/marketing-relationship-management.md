@@ -30,3 +30,4 @@ To get started, see the following topics:
 [Manage Sales](sales-manage-sales.md)  
 [Set Up Marketing and Contact Management](marketing-setup-marketing.md)
 [Manage Your Customer Relationships using Dynamics CRM from inside Dynamics 365 for Financials](marketing-relationship-management.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

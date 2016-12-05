@@ -42,4 +42,5 @@ If the value in the **Difference** field was lower than the value in the **Trans
 
 ## See Also
 [Manage Receivables](receivables-manage-receivables.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -35,14 +35,17 @@ You can combine several resources in one resource group. All capacities and budg
 2. Choose the **New** action.
 3. Fill in the fields as necessary.
 
-## To specify capacity for a resource or resource group
+## To set capacity for a resource or resource group
 To calculate how much time a resource or a resource group can spend on jobs, their capacity must first be set up as available time per period on the work calendar. This setup is used when you fill in job planning lines that contain the resource or resource group. For more information, see [How to: Create Jobs](projects-how-create-jobs.md).
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Resources**, and then choose the related link.
 2. Open the relevant resource card, and then choose the **Resource Capacity** action.
 3. In the **Resource Capacity** window, in the **View By** field, specify the length of the period, such as **Day**, that is shown on columns on the **Resource Capacity Matrix** FastTab.
 4. For each resource on a line, specify for each period on the columns the number of hours that the resource is available.
-5. To specify capacity for resource groups, open the relevant resource group card, choose the **Res. Group Capacity** action, and then repeat steps 3 and 4.
+5. Alternatively, to detail the resource's weekly capacity within a starting and ending date, choose the **Set Capacity** action.
+6. In the **Resource Capacity Settings** window, fill in the fields as necessary.
+7. Choose X in the top right corner to save and choose the **OK** button. The **Resource Capacity** window is updated with the entered capacity.
+8. To specify capacity for resource groups, open the relevant resource group card, choose the **Res. Group Capacity** action, and then repeat steps 3 through 7 with similar information.
 
 ## To set up alternate resource costs
 In addition to the cost specified on the resource card, you can set up alternate costs for each resource. For example, if you pay an employee a higher hourly rate for overtime, you can set up a resource cost for the overtime rate. The alternate cost that you set up for the resource will override the cost on the resource card when you use the resource in the resource journal.

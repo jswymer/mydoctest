@@ -36,7 +36,7 @@ Before you create interactions, you must set up interaction templates. For more 
 2. In the **Segment window**, in the **Interaction** section, fill in the fields to specify which interaction you want to assign to the segment.
 
     After you have assigned an interaction to the segment, you can personalize the interaction for each particular contact within the segment, for example, by selecting another interaction template on the lines in the **Segment** window.  
-  
+
 3. To log the segment and interactions, choose the **Log** action. The **Log Segment** window opens.
 4. If you want to create a new segment containing the same contacts, select the **Create Follow-up Segment** check box. To create a follow-up segment, you must have specified number series for segments in the **Marketing Setup** window.
 
@@ -48,4 +48,5 @@ If you have selected the **Create Follow-up Segment** check box, a new segment i
 [Recording Interactions](marketing-interactions.md)  
 [Manage Contacts](marketing-contacts.md)  
 [Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
-[Set Up Marketing and Contact Management](marketing-setup-marketing.md)
+[Set Up Marketing and Contact Management](marketing-setup-marketing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

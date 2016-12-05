@@ -111,30 +111,30 @@ You can also apply customer and vendor payments in the **Payment Reconciliation 
 
     If the posted application has resulted in closed customer ledger entries, the **Open** field is cleared for these ledger entries.    
 9. To see the ledger entries, in the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and choose the related link. Browse to the card for the relevant customer to see the ledger entries.  
-  
+
 On the ledger entry list, on the line that contains the ledger entry that was fully applied to, you can see that the **Open** check box is not selected.  
-  
+
 **Note**: After you select an entry in the **Apply Customer Entries** window, or several entries by setting the **Applies-to ID**, the **Applied Amount** field on the journal line will contain the sum of the remaining amounts for the posted entries you have selected, unless the field contains something already. If you select **Apply to Oldest** in the **Application Method** field on the customer card, the application occurs automatically.
 
 ## To apply customer ledger entries in different currencies to one another
 If you sell to a customer in one currency and receive payment in another currency, you can still apply the invoice to the payment.  
-  
+
 If you apply an entry (Entry 1) in one currency to an entry (Entry 2) in a different currency, the posting date on Entry 1 is used to find the relevant exchange rate to convert amounts on Entry 2. The relevant exchange rate is found in the **Currency Exchange Rates** window.  
-  
+
 Applying customer ledger entries in different currencies must be enabled. For more information, see [How to: Enable Application of Ledger Entries in Different Currencies](finance-how-enable-application-ledger-entries-different-currencies.md).  
-  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Cash Receipts Journal**, and choose the related link.
 2. Open the journal you want, and fill in the first empty journal line using a currency code.
 3. Choose the **Apply Entries** action.
 4. Select the line with the entry you want to apply to the entry in the cash receipt journal, choose the **Set Applies-to ID** action, and then select the entry you want to apply to.
 5. Choose the **OK** button to return to the cash receipt journal.
 6. Post the sales journal.  
-  
+
 **Important**: When you apply entries in different currencies, the entries are converted to USD. Although the exchange rates for the two currencies are fixed, for example between USD and EUR, there may be a small residual amount when they are converted to USD. These small residual amounts are posted as gains and losses to the account specified in the **Realized Gains Account** or **Realized Losses Account** fields in the **Currencies** window. The **Amount (USD)** field is also adjusted on the vendor ledger entries.  
-  
+
 ## To correct an application of customer entries
 When you correct an application, correcting entries that are identical to the original entry but with opposite sign in the amount field are created and posted for all entries, including all general ledger posting derived from the application, such as payment discount and currency gains/losses. The entries that were closed by the application are reopened.  
-  
+
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.
 2. Open the relevant customer card.
 3. Choose the **Ledger Entries** action.
@@ -142,9 +142,10 @@ When you correct an application, correcting entries that are identical to the or
 5. Alternatively, choose the **Detailed Ledger Entry** action.
 6. Select the application entry, and then choose the **Unapply Entries** action.
 7. Fill in the fields in the header, and then choose the **Unapply** action.  
-  
+
 **Important**: If an entry has been applied by more than one application entry, you must unapply the latest application entry first.  
-  
+
 ## See Also  
 [Manage Receivables](receivables-manage-receivables.md)  
-[Manage Sales](sales-manage-sales.md)
+[Manage Sales](sales-manage-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

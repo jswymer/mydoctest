@@ -30,3 +30,4 @@ You can now add contacts to the segment. For more information, see [How to: Add 
 ##See Also
 [Manage Segments](marketing-segments.md)  
 [Manage Sales Opportunities](marketing-manage-sales-opportunities.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

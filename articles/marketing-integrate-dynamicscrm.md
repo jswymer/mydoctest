@@ -1,6 +1,6 @@
 <properties
-                pageTitle="Manage your customer relationships using Dynamics CRM from inside Dynamics 365 for Financials | Financials"
-                description="Describes the capabilities when you set up a connection between Financials and Dynamics CRM"
+                pageTitle="Manage your customer relationships using Dynamics 365 for Sales from inside Dynamics 365 for Financials | Financials"
+                description="If you use Dynamics 365 for Sales for customer engagement, you can use Dynamics 365 for Financials for order processing and finances and have seamless integration in the lead-to-cash process"
                 services="project-madeira"
                 documentationCenter=""
                 authors="edupont04"
@@ -11,25 +11,37 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/28/2016"
+    ms.date="11/28/2016"
     ms.author="edupont" />
 
-# Manage Your Customer Relationships using Dynamics CRM from inside Dynamics 365 for Financials
-If you use Dynamics CRM for customer engagement, you can use Financials for order processing and financials and have seamless integration in the lead-to-cash process.
+# Manage Your Customer Relationships using Dynamics 365 for Sales from inside Dynamics 365 for Financials
+If you use Dynamics 365 for Sales for customer engagement, you can use Financials for order processing and finances and have seamless integration in the lead-to-cash process.
 
-When your application is set up to integrate with Dynamics CRM, you have access to Dynamics CRM data from Financials and vice versa in some cases. This integration enables you to work with and synchronize data types that are common to both Dynamics CRM and Financials, such as customers, contacts, and sales information, and keep the data up\-to\-date in both locations.  
+When your application is set up to integrate with Dynamics 365 for Sales, you have access to Sales data from Financials and vice versa in some cases. This integration enables you to work with and synchronize data types that are common to both services, such as customers, contacts, and sales information, and keep the data up\-to\-date in both locations.  
+
+**Note**: In Financials, Dynamics 365 for Sales is referred to as Dynamics CRM. For simplicity, the remainder of this article will use the terminology that is used in Financials.  
 
 For example, the sales person in Dynamics CRM can use the price lists from Financials when they create a sales order. When they add the item to the sales order line in Dynamics CRM, they are also able to see the inventory level (availability) of the item from Financials. This data is published as part of the assisted setup guide, **Dynamics CRM Connection Setup**.  
 
-**Note**: You'll have to choose set the experience to *Suite* in the **Company Information** window to get access to integration to the Dynamics CRM functionality.  
+**Note**: You'll have to set the experience to *Suite* in the **Company Information** window to get access to integration to the Dynamics CRM functionality.  
 
 ## Setting up the connection
 From Home, you can access the **Dynamics CRM Connection Setup** guide that helps you set up the connection. Once that's done, you'll have a seamless coupling of Dynamics CRM records with Financials records.  
 
-In the setup guide, you can choose which data to synchronize between the two services. Depending on your choices, you must
+In the setup guide, you can choose which data to synchronize between the two services. You can also specify that you want to import your existing Dynamics CRM solution. In that case, you must specify an administrative user account.  
+
+### Set up the user account for importing the solution
+To import an existing Dynamics CRM solution, the setup guide uses an administrative account. This account must be a valid user in Dynamics CRM with the following security roles:
+
+- System Administrator  
+- Solution Customizer  
+
+For more information, see [Create users and assign Microsoft Dynamics 365 (online) security roles](https://technet.microsoft.com/library/jj191623.aspx).  
+
+This account is only used during the setup. Once the solution is imported into Financials, the account is no longer needed.
 
 ### Set up the user account for synchronization
-The integration relies on a shared user account. So in your Office 365 subscription, you must create a dedicated user that will be used for synchronization between the two services. In Dynamics CRM, make sure that this user is assigned one of the Dynamics CRM security roles. You must specify this user account one or more times in the setup guide, depending how much synchronization you want to enable.
+The integration relies on a shared user account. So in your Office 365 subscription, you must create a dedicated user that will be used for synchronization between the two services. This account must already be a valid user in Dynamics CRM, but you do not have to assign security roles to the account because the setup guide will do that for you. You must specify this user account one or more times in the setup guide, depending how much synchronization you want to enable. For more information, see [Create a user account](https://technet.microsoft.com/library/jj191623.aspx#BKMK_create_users).
 
 If you choose to enable *item availability*, the integration user account must have a web services access key. This is a two-step thing - in the Financials page for that user account, you must choose the **Change Web Service Key** button; and in the CRM connection setup guide, you must specify that user as the OData web service user.
 
@@ -55,3 +67,4 @@ Dynamics CRM Sales Orders depends on additional information like customers, unit
 
 ## See Also
 [Relationship Management](marketing-relationship-management.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

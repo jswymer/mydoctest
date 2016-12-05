@@ -1,6 +1,6 @@
 <properties
-	pageTitle="Using the Dynamics 365 for Financials Content Pack for Power BI | Financials"
-    description="Using the Dynamics 365 for Financials content pack for Power BI"
+	pageTitle="Using the Dynamics 365 for Financials Content Packs for Power BI | Financials"
+    description="Getting insights into your Financials data is easy with Power BI and the Financials content packs."
 	services="project-madeira"
 	documentationCenter=""
 	authors="edupont04"/>
@@ -10,13 +10,13 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="06/03/2016"
-    ms.author="edupont04" />
+    ms.date="12/01/2016"
+    ms.author="edupont" />
 
-# Using the Dynamics 365 for Financials Content Pack for Power BI
-Getting insights into your Financials data is easy with Power BI and the Financials content pack. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
+# Using the Dynamics 365 for Financials Content Packs for Power BI
+Getting insights into your Financials data is easy with Power BI and the Financials content packs. Power BI retrieves your data and then builds an out-of-the-box dashboard and reports based on that data.  
 
-The content pack is preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for Dynamics 365 for Financials.  
+The content packs are preconfigured to work with sales data and financial data from the demonstration company that you get when you sign up for Dynamics 365 for Financials.  
 
 - Choose any visual on the dashboard to bring up one of seven underlying reports.  
 - Filter the report or add fields that you want to monitor.  
@@ -35,21 +35,24 @@ To access the Financials content pack in Power BI, on the connection page, you m
 
 | Field       | Description              |
 |-------------|--------------------------|
-|**OData Feed URL**|The OData URL so Power BI can access data from your company, such as https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US').|
+|**OData Feed URL**|The OData URL so Power BI can access data from your company, such as https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('My%2Business').|
 |**Authentication method**|Choose **Basic**.|
-|**User name**|The email account that you used to sign up for Financials, such as *me@mybusiness.com*.|
+|**User name**|Your name as it displays for your account in Financials, such as *John Smith*.|
 |**Password**|This is the web service access key for your user account in Financials.|
 
-This means that you must get two pieces of information from Financials: The OData URL and the web service access key for your user account.  
-**Getting the URL**  
+This means that you must get 3 pieces of information from Financials: The OData URL and the web service access key for your user account.  
+
+### Getting the URL  
 When you add Financials to Power BI, you must specify a URL so Power BI can access data from your company. On the connection page, the URL is referred to as the **OData Feed URL**, and it must have the following format:
 
-         https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+         https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')  
 In this example, *mybusiness* is the name of your Financials service, and *CRONUS US* is the name of the demonstration company with *%20* representing the space in the name.   
 To get the URL, in Financials, search for and open the **Web Services** window. This window lists the web services that are currently available, and you can copy the link from the **OData URL** field for one of the default OData web services.  
-**Getting the web service access key**  
-In order to use data from Financials, in Power BI, in the **Connect to Financials** window, you must specify your user name, which is your email account, and a password. The password is the web service access key that is set up for your user account in Financials.  
-To get a web service access key, in Financials, search for the **Users** window, and then open the card for your user account. On the **Web Service Access** FastTab, copy the contents of the **Web Service Access Key** field. If the field is blank, in the ribbon, choose **Change Web Service Access Key**, choose the **Key Never Expires** field, and then choose the OK button. You can then copy the key.  
+
+### Getting the user name and the web service access key  
+In order to use data from Financials in Power BI, in the **Connect to Financials** window, you must specify a user name and a password. The user name is your name as it displays for your account in Financials so that Power BI can log in to Financials The password is the web service access key that is set up for your user account in Financials.  
+
+To find this information, in Financials, search for the **Users** window, and then open the card for your user account. On the **General** FastTab, copy the content of the **User Name** field, and on the **Web Service Access** FastTab, copy the contents of the **Web Service Access Key** field. If the **Web Service Access Key** field is blank, in the ribbon, choose **Change Web Service Access Key**, choose the **Key Never Expires** field, and then choose the OK button. You can then copy the key.  
 
 ## Getting Data from Financials
 The Financials dashboard shows the most typical reports that you will want to use to track your business. The data is extracted from your Financials company using web services to read live data. In Financials, the **Web Services** window lists the web services that have been set up for you, including the following that are consumed by the content pack in Power BI:  
@@ -73,7 +76,7 @@ If you see this error after you enter your Financials URL, make sure the followi
 
 - The URL follows exactly this pattern:
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')  
 - Delete any text after the company name in parenthesis  
 - Make sure there are no trailing forward slash at the end of the URL.  
 - Make sure that it is a secure connection as indicated by the URL starting with *https*.  
@@ -95,13 +98,13 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 
 * Verify that the URL follows the pattern that was specified earlier:
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')  
+    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')  
 * A common mistake is to specify the full URL for a specific web service:
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/Company('CRONUS%20US')/powerbifinance  
+    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/Company('CRONUS%20US')/powerbifinance  
 * Or you might have forgotten to specify the company name:
 
-    https://mybusiness.projectmadeira.com:7048/MS/OData/  
+    https://mybusiness.financials.dynamics.com:7048/MS/ODataV4/  
 
 
 ## See Also

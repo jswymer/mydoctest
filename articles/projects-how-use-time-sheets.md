@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/27/2016"
+    ms.date="11/22/2016"
     ms.author="SorenGP" />
 
 # How to: Use Time Sheets for Jobs
@@ -23,14 +23,18 @@ After you have approved time sheet entries for a job, you can post them to the r
 
 Before you can use time sheets, you must set up general information and specify an administrator and one or more approvers of time sheets. For more information, see [How to: Set Up Time Sheets](projects-how-setup-time-sheets.md).
 
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
+
 ## To create a time sheet  
 You can use the **Create Time Sheets** batch job to set up time sheets for a specified number of time periods or weeks. Then, the time sheet owner can open it and record time that has been spent on a task.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Time Sheets**, and then choose the related link.
 2. In the **Time Sheet List** window, choose the **Create Time Sheets** action.
-3. Fill in the fields as necessary, and then choose the **OK** button. Choose a field to read a short description of the field or link to more information.
+3. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
-**Note**: The **Use Time Sheet** and **Time Sheet Owner User ID** fields must be filled in on the card for the resource of the time sheet.  
+**Note**: The **Use Time Sheet** and **Time Sheet Owner User ID** fields must be filled in on the card for the resource of the time sheet.
+
+4. Choose the **OK** button.  
 
 You can view the time sheets that you have created in the **Time Sheet list** window.
 

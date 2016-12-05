@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/22/2016"
     ms.author="SorenGP" />
 
 # How to: Send Documents by Email
@@ -44,7 +44,7 @@ Now, when you choose, for example, the Send action in the **Posted Sales Invoice
 The following procedure describes how to send a posted sales invoice as an email message with the document attached as a PDF file and with a document-specific email body.
 ## To send documents by email
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Posted Sales Invoices**, and then choose the related link.
-2. Select the relevant sales invoice, and then, on the **Home** tab, in the **Invoice** group, choose **Send**. The **Send Document To** window opens.
+2. Select the relevant sales invoice, and then choose the **Send** action. The **Send Document To** window opens.
 3. In the **Email** field, select **Yes (Prompt for Settings)**. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
 4. Choose the **OK** button. The **Send Email** window opens.
 5. In the **To:** field, enter a valid email address. The default value is the customer email address.
@@ -61,5 +61,7 @@ The following procedure describes how to send a posted sales invoice as an email
 **Note**: If you do not need to specify email settings each time you email a document, you can select the **Yes (Use Default Settings)** option in the Email field in the **Send Document To** window. In that case, the **Send Email** window will not open. See Step 4. For more information, see [How to: Set Up Document Sending Profiles](sales-how-setup-document-send-profiles.md).
 
 ## See Also  
-[Work With Dynamics 365 for Financials](ui-work-product.md)  
-[How to: Invoice Sales](sales-how-invoice-sales.md)
+[Work With Dynamics 365 for Financials](ui-work-product.md)
+[How to: Set up Email](madeira-how-setup-email.md)    
+[How to: Invoice Sales](sales-how-invoice-sales.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

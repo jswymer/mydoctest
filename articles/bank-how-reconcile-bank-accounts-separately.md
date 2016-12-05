@@ -85,4 +85,5 @@ Sometimes a bank statement contain amounts for interest or fees charged. Such ba
 
 ## See Also  
 [Manage Bank Accounts](bank-manage-bank-accounts.md)  
-[Set Up Banking](bank-setup-banking.md)
+[Set Up Banking](bank-setup-banking.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

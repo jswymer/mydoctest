@@ -12,7 +12,7 @@
     ms.workload="na"
     ms.date="05/12/2016"
     ms.author="jswymer" />
-	
+
 # Close Years and Periods
 At the end of a fiscal year, there are a number of administrative tasks that you have to perform, like making sure all documents and journals are posted, making sure currency data are up-to-date, closing the books, and more. The actual tasks will depend your company.
 
@@ -29,4 +29,5 @@ The following table provides an overview of tasks that you typically perform to 
 |Print reports that can assist you in creating financial statements.|[Prepare Closing Statements](year-prepare-close-statements.md)|
 
 ## See Also
-[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)
+[How to: Open a New Fiscal Year](finance-how-open-new-fiscal-year.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)
