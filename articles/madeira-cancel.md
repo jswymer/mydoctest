@@ -25,7 +25,7 @@ User accounts and licenses are managed in the [Office Portal](https://portal.off
 If you signed up for Financials using a non-Office 365 business account, you do not have an Office 365 administrator. Instead, you must unsubscribe by contacting the Financials Cancelation team. Currently, you must contact the team by sending an email message at cancel-madeira@microsoft.com. You must include the name of your Financials tenant in the message so that we can identify you. The easiest way to do that is to copy the URL from your Financials Home page.  
 
 ## Resetting your Financials experience
-If you have added data to your Financials preview and you want to start over with a fresh experience, you can create a new company and then resetting the first company. If you open the **Companies** page, you can create a copy of your current company, sign out and then sign into your new company, and then reset the original company.  
+If you have added data to your Financials preview and you want to start over with a fresh experience, you can create a new company and then reset the first company. If you open the **Companies** page, you can create a copy of your current company, sign out and then sign into your new company, and then reset the original company.  
 **Note**: When you reset a company that you are sharing with other people from your organization, you must make sure other people are not logged in when you reset the company.  
 
 ## Removing Financials from your app launcher
