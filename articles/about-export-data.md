@@ -17,7 +17,7 @@
 If you want to work with your data from Financials in Excel, you can open all lists in Excel and work with it there. Similarly, if you want to cancel your subscription for Financials, you can export your data to Excel so that you can take it with you.
 
 ## Opening Lists in Excel
-You can open data in Excel from any journal, list, or worksheet. You just open the page that you want, and then choose **Open in Excel**. For example, open the customer list (search for **Customers**), and then choose **Open in Excel**. Your browser will prompt you to open or save the generated Excel workbook.  
+You can open data in Excel from any journal, list, or worksheet. You just open the page that you want, and then choose **Open in Excel**. For example, open the list of customers (search for **Customers**), and then choose **Open in Excel**. Your browser will prompt you to open or save the generated Excel workbook.  
 
 Each list includes a number of columns, and the export to Excel will include any columns that are in your current view. If you want to add or remove columns before you open the list in Excel, you simply open the shortcut menu for any column and then specify which columns that you want to see. This list of columns is different for most lists, and it reflects the structure in the database where your data is stored. If you are not sure what type of data a certain column contains, you can add it to your view and then decide if you want to remove it again.  
 
@@ -56,7 +56,7 @@ We recommend that you also consider exporting data from the following pages:
 **Note**: If you have set up more than one company in Financials, you must export the relevant data from each company.
 
 ## See Also
-[Canceling your Subscription for Dynamics 365 for Financials](madeira-cancel.md)  
+[Canceling Your Subscription for Dynamics 365 for Financials](madeira-cancel.md)  
 [Migrate Business Data from Other Finance Systems](upload-data.md)  
 [Finance](finance.md)  
 [Across Business Areas](ui-across-business-areas.md)  
