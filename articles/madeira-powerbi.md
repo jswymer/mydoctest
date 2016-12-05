@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="12/01/2016"
+    ms.date="12/05/2016"
     ms.author="edupont" />
 
 # Using the Dynamics 365 for Financials Content Packs for Power BI
@@ -22,6 +22,8 @@ The content packs are preconfigured to work with sales data and financial data f
 - Filter the report or add fields that you want to monitor.  
 - Pin this customized view to the dashboard to continue tracking.  
 The dashboard and underlying reports refresh daily. You can control the refresh schedule and modify the frequency on the dataset.  
+
+**Note**: You can also build your own reports and dashboards in Power BI based on your Financials data. For more information, see [Using Dynamics 365 for Financials as a Power BI Data Source](across-how-use-financials-data-source-powerbi).  
 
 ## Accessing Financials in Power BI
 To see your Financials data in Power BI, you must have the following:  
@@ -110,3 +112,6 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 ## See Also
 [Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
 [Migrate Business Data from Other Finance Systems](upload-data.md)  
+[Using Dynamics 365 for Financials as a Power BI Data Source](across-how-use-financials-data-source-powerbi)  
+[Using Dynamics 365 for Financials as a PowerApps Data Source](across-how-use-financials-data-source-powerapps)  
+[Using Dynamics 365 for Financials in Microsoft Flow](across-how-use-financials-data-source-flow)  

@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/28/2016"
+    ms.date="12/05/2016"
     ms.author="SusanneWindfeldPedersen" />
 
 # Welcome to Dynamics 365 for Financials
@@ -70,3 +70,6 @@ Each time you sign in during the trial period, a notification in a blue bar at t
 [Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
 [Using Dynamics 365 for Financials as your Business Inbox in Outlook](madeira-outlook.md)  
 [Get Dynamics 365 for Financials on my Mobile Device](install-mobile-app.md)  
+[Using Dynamics 365 for Financials as a Power BI Data Source](across-how-use-financials-data-source-powerbi)  
+[Using Dynamics 365 for Financials as a PowerApps Data Source](across-how-use-financials-data-source-powerapps)  
+[Using Dynamics 365 for Financials in Microsoft Flow](across-how-use-financials-data-source-flow)  
