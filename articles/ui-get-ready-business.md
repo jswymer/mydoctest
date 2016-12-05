@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/28/2016"
+    ms.date="12/05/2016"
     ms.author="SusanneWindfeldPedersen" />
 
 # Getting Ready for Doing Business
@@ -18,7 +18,7 @@ Congratulations, you have just set up your first company in Financials.
 
 We have prepared some company data for you, for example, your chart of accounts is prefilled with a number of posting accounts ready for use. You can, of course, change the chart of accounts to suit your needs. For more information, see [Finance](Finance.md).
 
-On the Home page, you will find the **Assisted Setup and Tasks** button. Here you have access to a list of assisted setup guides that can help you get started. Once you have migrated data such as vendors, customers, and items from your existing financial system, you are ready to begin. But depending on your needs, consider if the other assisted setup can help you.
+On the Home page, you will find the **Assisted Setup and Tasks** action. Here you have access to a list of assisted setup guides that can help you get started. Once you have migrated data such as vendors, customers, and items from your existing financial system, you are ready to begin. But depending on your needs, consider if the other assisted setup can help you.
 
 **Note:** The list of setup guides, extensions, and services that are available differ depending on the user experience you choose for your company. The **Basic** experience gives access to fewer than the **Suite** experience does. The first time you sign in, you use the Basic experience. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
 
