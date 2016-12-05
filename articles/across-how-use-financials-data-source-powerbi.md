@@ -52,5 +52,5 @@ Once the data is loaded it will appear in the right navigation on the page. At t
 ## See Also
 [Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
 [Migrate Business Data from Other Finance Systems](upload-data.md)  
-[Set Up Dynamics 365 for Financials](madeira-setup.md)  
+[Set Up Dynamics 365 for Financials](setup.md)  
 [Finance](finance.md)  

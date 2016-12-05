@@ -18,7 +18,7 @@ Financials provides functionality for common business processes in small and mid
 
 The Sales, Purchasing, and Inventory application areas also support common supply chain processes, although limited to the needs of wholesale and distribution companies without managed warehouse handling. For more information, see [Supply Chain](madeira-supply-chain.md).
 
-Financials includes standard configurations for most business processes, but you can change the configuration to suit your business' needs. From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to Financials. Several areas of business functionality must be set up manually. For more information, see [Set Up Dynamics 365 for Financials](madeira-setup.md).
+Financials includes standard configurations for most business processes, but you can change the configuration to suit your business' needs. From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to Financials. Several areas of business functionality must be set up manually. For more information, see [Set Up Dynamics 365 for Financials](setup.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
@@ -32,6 +32,6 @@ The following table describes a sequence of tasks, with links to the topics that
 |Manage and support your sales efforts and focus your interactions on preferred customers and contacts.|[Manage Relationships](marketing-relationship-management.md)|  
 
 ## See Also  
-[Set Up Dynamics 365 for Financials](madeira-setup.md)  
+[Set Up Dynamics 365 for Financials](setup.md)  
 [Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
