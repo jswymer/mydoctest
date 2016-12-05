@@ -18,7 +18,7 @@ Financials includes standard configurations for most business processes, but you
 
 From your Home page, you can access assisted setup guides that help you configure certain scenarios and add features to Financials. For information about how to access all assisted and manual setup windows, see [Getting Ready for Doing Business](ui-get-ready-business.md).
 
-Some functionality, both general or for specific business processes, can be set up manually in addition to the assisted setup. Others must be set up manually. Some of those are listed below. 
+Some functionality, both general or for specific business processes, can be set up manually in addition to the assisted setup. Others must be set up manually. Some of those are listed below.
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 

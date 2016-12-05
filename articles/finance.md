@@ -15,7 +15,7 @@
     ms.author="edupont04" />
 # Finance
 Financials includes a standard configuration of most financial processes, but you can change the configuration to suit your business.
-Also, if you chose not to apply the standard configuration, you must add your own configuration. For more information, see [Set Up Dynamics 365 for Financials](madeira-setup.md).  
+Also, if you chose not to apply the standard configuration, you must add your own configuration. For more information, see [Set Up Dynamics 365 for Financials](setup.md).  
 
 The default configuration includes a chart of accounts and standard posting groups that make the process of assigning default general ledger posting accounts to customers, vendors, and items more efficient.  
 

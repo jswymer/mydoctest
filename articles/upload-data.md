@@ -30,4 +30,4 @@ The assisted setup includes an option to change the default configuration of the
 ## See Also
 [Finance](finance.md)  
 [Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)   
-[Set Up Dynamics 365 for Financials](madeira-setup.md)
+[Set Up Dynamics 365 for Financials](setup.md)
