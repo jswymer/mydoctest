@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="12/05/2016"
+    ms.date="12/06/2016"
     ms.author="SusanneWindfeldPedersen" />
 
 # Welcome to Dynamics 365 for Financials
@@ -33,11 +33,11 @@ When you're ready to do some heavier lifting, and want to look at some of the bu
 ## The Home pages  
 Home pages use a role-centric design to give you fast access to the business process and intelligence tools that you need to do your job. For example, an accountant can monitor payments and approvals, and view finance performance charts. Check out the various Home pages by choosing **My Settings** in the top right corner, and then the Role Center to explore. Sign in again to apply the change. For more information, see [Changing the Role Center](change-role.md).  
 
-Each Home page provides an **Assisted Setup and Tasks** action. Here you have access to a list of assisted setup guides that can help you set up selected areas up quickly.
+Each Home page provides a **Setup and Extensions** button. Here you have access to a list of assisted setup that can help you get started by setting selected areas up quickly. If an area is not covered by an assisted setup, choose the **Manual Setup** action to access setup windows where you can fill in setup fields for all areas manually. For more information, see also [Set Up Dynamics 365 for Financials](setup.md).  
 
 **Note:** The list of setup guides, extensions, and services that are available differ depending on the user experience you choose for your company. The **Basic** experience gives access to fewer than the **Suite** experience does. The first time you sign in, you use the Basic experience. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).  
 
-In the **Assisted Setup and Tasks** window, you will find the following with the **Suite** experience:
+In the **Assisted Setup** window, you will find the following with the **Suite** experience:
 
 |Assisted Setup           |Description                                                                                      |
 |-------------------------|-------------------------------------------------------------------------------------------------|
@@ -70,6 +70,3 @@ Each time you sign in during the trial period, a notification in a blue bar at t
 [Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
 [Using Dynamics 365 for Financials as your Business Inbox in Outlook](madeira-outlook.md)  
 [Get Dynamics 365 for Financials on my Mobile Device](install-mobile-app.md)  
-[Using Dynamics 365 for Financials as a Power BI Data Source](across-how-use-financials-data-source-powerbi)  
-[Using Dynamics 365 for Financials as a PowerApps Data Source](across-how-use-financials-data-source-powerapps)  
-[Using Dynamics 365 for Financials in Microsoft Flow](across-how-use-financials-data-source-flow)  

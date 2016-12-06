@@ -15,16 +15,19 @@
     ms.author="SorenGP" />
 
 # How to: Register Employees
-To use the Human Resources functionality, you must register employees by creating an employee card for each with all the core and related information.
+To use the Human Resources functionality, you must first register each employee by creating a card with all the core and related information.
 
 You can modify an employee's details at any time. Keeping up-to-date records about your employees simplifies personnel tasks. For example, if an employee's address changes, you register this on the employee card.
 
+The following procedures describe how to create an initial employee card and how to assign two types of employee details to an employee. In addition, you can assign various other related information, such as qualifications and causes of inactivity. You assign employee information either by choosing a field or an action in the **Employee Card** window.
+
 ## To set up an employee
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Employees**, and then choose the related link.
-2. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
+2. Choose the **New** action.
+3. In the **Employee Card** window, fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 3. Close the window.
 
-## To register an alternative address for an employee
+## To register an alternate address for an employee
 You can use alternate addresses to keep track of your employees’ location, for example if they are stationed abroad, on a long business trip, or residing at a summer residence.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Employees**, and then choose the related link.
@@ -37,8 +40,8 @@ You can use alternate addresses to keep track of your employees’ location, for
 If you have a digitalized picture of an employee, that is, a picture that is a file in .bmp format, you can insert it on the employee card.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Employees**, and then choose the related link.
-2. Select the relevant employee,  and then choose the **Picture** action.
-3. In the **Empolyee Picture** window, choose the **Insert Picture** action.
+2. Select the relevant employee, and then choose the **Picture** action.
+3. In the **Employee Picture** window, choose the **Insert Picture** action.
 4. Select the file, and then choose **Open**.
 5. Close the window.
 
