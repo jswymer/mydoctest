@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="12/05/2016"
+    ms.date="12/06/2016"
     ms.author="edupont" />
 
 # Using the Dynamics 365 for Financials Content Packs for Power BI
@@ -31,9 +31,9 @@ To see your Financials data in Power BI, you must have the following:
 - Access to Financials. For more information, see [Financials](http://go.microsoft.com/fwlink/?LinkID=759714).  
 - Access to Power BI. For more information, see [Power BI](https://powerbi.microsoft.com).
 
-On the Power BI site, you can find additional information about [adding the Financials content pack to Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
+On the Power BI site, you can find additional information about [connecting to services with content packs for Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
 
-To access the Financials content pack in Power BI, on the connection page, you must specify the following information:
+To access your Financials data in Power BI, on the connection page, you must specify the following information:
 
 | Field       | Description              |
 |-------------|--------------------------|
