@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="11/29/2016"
+    ms.date="12/06/2016"
     ms.author="SorenGP" />
 
 # Business Functionality
@@ -24,7 +24,7 @@ The following table describes a sequence of tasks, with links to the topics that
 
 | To                                                                  | See                      |
 |---------------------------------------------------------------------|--------------------------|
-|Make and collect payments, manage your cash flow, defer income and revenue, and prepare year-end closing.|[Manage your Finances](finance.md)|
+|Make and collect payments, manage your cash flow, defer income and revenue, prepare year-end closing, and manage fixed assets.|[Manage Finances and Fixed Assets](finance.md)|
 |Manage sales processes and information, such as quotes, orders, returns, and customer accounts, and make drop shipments.|[Manage Sales](sales-manage-sales.md)|
 |Manage purchasing processes and information, such as invoices, orders, returns, and vendor accounts, and purchase products from sales documents.|[Manage Purchasing](purchasing-manage-purchasing.md)|
 |Register new products, categorize items for easy searching, adjust inventory levels, and perform common inventory costing tasks.|[Manage Inventory](inventory-manage-inventory.md)|

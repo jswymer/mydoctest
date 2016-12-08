@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="12/01/2016"
+    ms.date="12/06/2016"
     ms.author="edupont" />
 
 # Using the Dynamics 365 for Financials Content Packs for Power BI
@@ -23,15 +23,17 @@ The content packs are preconfigured to work with sales data and financial data f
 - Pin this customized view to the dashboard to continue tracking.  
 The dashboard and underlying reports refresh daily. You can control the refresh schedule and modify the frequency on the dataset.  
 
+**Note**: You can also build your own reports and dashboards in Power BI based on your Financials data. For more information, see [Using Dynamics 365 for Financials as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md).  
+
 ## Accessing Financials in Power BI
 To see your Financials data in Power BI, you must have the following:  
 
 - Access to Financials. For more information, see [Financials](http://go.microsoft.com/fwlink/?LinkID=759714).  
 - Access to Power BI. For more information, see [Power BI](https://powerbi.microsoft.com).
 
-On the Power BI site, you can find additional information about [adding the Financials content pack to Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
+On the Power BI site, you can find additional information about [connecting to services with content packs for Power BI](http://go.microsoft.com/fwlink/?LinkID=760850).  
 
-To access the Financials content pack in Power BI, on the connection page, you must specify the following information:
+To access your Financials data in Power BI, on the connection page, you must specify the following information:
 
 | Field       | Description              |
 |-------------|--------------------------|
@@ -110,3 +112,6 @@ If you see an "Oops" error dialog after you pass the authentication dialog, this
 ## See Also
 [Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
 [Migrate Business Data from Other Finance Systems](upload-data.md)  
+[Using Dynamics 365 for Financials as a Power BI Data Source](across-how-use-financials-data-source-powerbi.md)  
+[Using Dynamics 365 for Financials as a PowerApps Data Source](across-how-use-financials-data-source-powerapps.md)  
+[Using Dynamics 365 for Financials in Microsoft Flow](across-how-use-financials-data-source-flow.md)  
