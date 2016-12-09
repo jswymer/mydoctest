@@ -10,7 +10,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/31/2016"
+    ms.date="12/09/2016"
     ms.author="edupont04" />
 
 # Customizing Dynamics 365 for Financials Using Extensions
@@ -46,7 +46,7 @@ Microsoft provides the following extensions:
 - [QuickBooks Data Migration](ui-extensions-quickbooks-data-migration.md)  
 - [Sales and Inventory Forecast](ui-extensions-sales-forecast.md)
 - [Ceridian Payroll](ui-extensions-ceridian-payroll.md)
-- [Quickbooks Payroll](ui-extensions-quickbooks-payroll.md) 
+- [Quickbooks Payroll File Import](ui-extensions-quickbooks-payroll.md) 
 
 
 ## See Also  
