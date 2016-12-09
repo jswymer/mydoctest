@@ -17,7 +17,7 @@
 # How to: Import Payroll Transactions
 To account for salary payments and related transactions, you must import and post financial transactions made by your payroll provider to the general ledger. To do this, you first import a file that you receive from the payroll provider into the **General Journal** window. Then you map the external accounts in the payroll file to the relevant G/L accounts. Lastly, you post the payroll transactions according to the account mapping.
 
-**Note**: To use this functionality, an extension for payroll import must be installed and enabled. Two extensions are pre-installed in Financials, Quickbooks Payroll and Ceridian Payroll. For more information, see [Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md). 
+**Note**: To use this functionality, an extension for payroll import must be installed and enabled. Two extensions are pre-installed in Financials: Quickbooks Payroll File Import and Ceridian Payroll. For more information, see [Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md). 
 
 ## To import a payroll file
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **General Journals**, and then choose the related link.
