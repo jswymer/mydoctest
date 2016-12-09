@@ -45,6 +45,8 @@ Microsoft provides the following extensions:
 - [PayPal Payments Standard](ui-extensions-paypal-payments-standard.md)  
 - [QuickBooks Data Migration](ui-extensions-quickbooks-data-migration.md)  
 - [Sales and Inventory Forecast](ui-extensions-sales-forecast.md)
+- [Ceridian Payroll](ui-extensions-ceridian-payroll.md)
+- [Quickbooks Payroll](ui-extensions-quickbooks-payroll.md) 
 
 
 ## See Also  
