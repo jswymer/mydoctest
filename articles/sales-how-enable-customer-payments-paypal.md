@@ -11,7 +11,7 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="05/12/2016"
+    ms.date="11/18/2016"
     ms.author="SorenGP" />
 
 # How to: Enable Customer Payments Through PayPal#
@@ -24,18 +24,18 @@ To enable customer payments through PayPal, you must do the following:
 1. Set up PayPal Payments Standard as a payment service in the **Payments Services** window.
 2. Select PayPal Payments Standard in the **Payment Service** field on the sales document in question.
 
-The PayPal Payments Standard service is installed as an extension to Financials and ready to enabled. For more information, see [Customizing Dynamics 365 for Financials Using Extensions ](ui-extensions.md).
+The PayPal Payments Standard service is installed as an extension to Financials and ready to be enabled. For more information, see [Customizing Dynamics 365 for Financials Using Extensions ](ui-extensions.md).
 
 ## To enable the PayPal Payments Standard service
 1. In the top right corner, choose the **Search for Page or Report** icon, **Payment Services**, and then choose the related link.  
 2. In the **Payment Services** window, choose the **New** action.
-3. Select **PayPal Standard**, and then choose the **OK** button.
+3. Select **PayPal Standard**, and then close the window.
 4. In the **Payment Services** window, choose the **Setup** action.
 5. Fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.
 
     **Note**: Select the **Always Include on Documents** check box if the hyperlink for the PayPal payment service should always be visible on sales documents where payment through PayPal is enabled.
 
-6. Choose the **OK** button.
+6. Close the window.
 
 ## To select PayPal Payments Standard on a sales invoice
 1. On the Home page, choose **Sales Invoices**.
@@ -47,4 +47,5 @@ The PayPal Payments Standard service is installed as an extension to Financials 
 ## See Also  
 [Set Up Sales](sales-setup-sales.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)
+[Customizing Dynamics 365 for Financials Using Extensions](ui-extensions.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

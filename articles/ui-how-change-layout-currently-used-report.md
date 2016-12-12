@@ -34,9 +34,10 @@ If you selected a built-in RDLC or Word report layout, then no further action is
 
 ## To specify a custom layout on a report
 1. You specify which custom layout to use on the report from the **Custom Report Layouts** window. If the **Custom Report Layouts** window is not open, then in the **Report Layout Description** field, choose the lookup button.
-2. In the **Custom Report Layouts** window, select the row for custom layout that you want to use, and then choose the **OK** button.
+2. In the **Custom Report Layouts** window, select the row for custom layout that you want to use, and then close the window.
 
 You return to the **Report Layout Selection** window. The name of the selected custom layout displays in the **Custom Layout Description** field. The custom layout will be used the next time that you run the report.
 
 ## See Also
-[Manage Report Layouts](ui-manage-report-layouts.md)
+[Manage Report Layouts](ui-manage-report-layouts.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

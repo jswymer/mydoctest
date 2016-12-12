@@ -36,12 +36,12 @@ You can create a job WIP method that reflects the needs of your organization. Af
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Job WIP Methods**, and then choose the related link.  
 2. Choose the **New** action, and then fill in the fields as necessary. Choose a field to read a short description of the field or link to more information.  
-3. Choose the **OK** button.   
+3. Close the window.   
 4. To make this new method the default, in the top right corner, choose the **Search for Page or Report** icon, enter **Jobs Setup**, and then choose the related link.  
 5. In the **Default WIP Method** field, choose the method from the list.
 
 ## To define a WIP method for a job  
-When you create a new job, you must specify which job WIP method that applies. In some cases, which Job WIP method that you can use has been set up for you as a default. 
+When you create a new job, you must specify which job WIP method that applies. In some cases, which Job WIP method that you can use has been set up for you as a default.
 
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Jobs**, and then choose the related link.
 2. Choose the **New** action. For more information, see [How to: Create Jobs](projects-how-create-jobs.md).  

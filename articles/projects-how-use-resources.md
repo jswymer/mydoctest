@@ -11,13 +11,18 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/28/2016"
+    ms.date="11/17/2016"
     ms.author="SorenGP" />
 
 # How to: Use Resources for Jobs
 You record the usage of resources in the job journal to keep track of costs, prices, and the work types that are linked to jobs. For more information, see [How to: Record Usage for Jobs](projects-how-record-job-usage.md).
 
 You can also post the usage of a resource in a resource journal. Entries posted in a resource journal have no effect on the general ledger.
+
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
+
+## To assign resources to jobs
+You assign resources to jobs by creating job planning lines for the job. For more information, see [How to: Create Jobs](projects-how-create-jobs.md).
 
 ## To record resource usage for a job
 

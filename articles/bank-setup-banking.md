@@ -29,4 +29,5 @@ To use electronic banking services to import bank statements and  export payment
 ## See Also
 [Manage Bank Accounts](bank-manage-bank-accounts.md)  
 [Manage Receivables](receivables-manage-receivables.md)  
-[Manage Payables](payables-manage-payables.md)
+[Manage Payables](payables-manage-payables.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

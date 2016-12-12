@@ -52,13 +52,13 @@ If you are not using a job queue, or you want to receive a finished OCR document
 1. In the **OCR Status** field, choose the **Awaiting Verification** hyperlink. Alternatively, choose the **Awaiting Verification** tile on the Home page.
 2. On the OCR service website, log in using the credentials of your OCR service account. These are the credentials you also used when setting up the service. For more information, see the "To set up an OCR service" section in [How to: Set Up Incoming Documents](across-how-setup-income-documents.md).
 
-    If you access the website from the **OCR Status** field, the document in question is displayed immediately after your sign in. If you access the website by choosing the tile on the Home page, on the first OCR service page that opens, you must choose the **Start** button on the **Verify** tab or double-click the document that you want to verify. 
-    
+    If you access the website from the **OCR Status** field, the document in question is displayed immediately after your sign in. If you access the website by choosing the tile on the Home page, on the first OCR service page that opens, you must choose the **Start** button on the **Verify** tab or double-click the document that you want to verify.
+
     Information for the OCR document is displayed, showing both the source content of the PDF or image file and the resulting OCR field values.
 3. Review the various field values and manually edit or enter values in fields that the OCR service has tagged as uncertain.
 4. Choose the **OK** button. The OCR process is completed and the resulting electronic document is sent to the **Incoming Documents** window in Financials,  according to the job queue schedule. 
 
-    If you access the website by choosing the tile on the Home page, then any other OCR document to be verified is automatically displayed on the website. 
+    If you access the website by choosing the tile on the Home page, then any other OCR document to be verified is automatically displayed on the website.
 5. Repeat step 4 for any other OCR document to be verified.
 
 Now you can proceed to create document records for the received electronic documents in Financials, manually or automatically. For more information, see the "To create a document record in Financials from a received OCR document" section. You can also connect the new incoming document record to existing posted or non-posted document so that the source file is easy to access from Financials. For more information, see [Process Incoming Documents](across-process-income-documents.md).
@@ -67,14 +67,14 @@ Now you can proceed to create document records for the received electronic docum
 The following procedure describes how to create a purchase invoice record from a vendor invoice received as an electronic document from the OCR service. The procedure is the same when you create, for example, a general journal line from an expense receipt.
 
 **Note**: The **Description** and **No.** fields on the created document lines will only be filled if you have first mapped text found on the OCR document to the two fields in Financials. You can do this either as item cross-references, for document lines of type Item, or as text-to-account mappings, for document or journal lines of type G/L Account. For more information, see the tooltip for the **Cross References** action on item cards and the related procedure, [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
-        
-For incoming documents, you typically use the **Map Text to Account** action to define that a certain text on a vendor invoice received from the OCR service is mapped to a certain vendor account. Going forward, any part of the incoming document description that exists as a mapping text means that the **No.** field on resulting document or journal lines of type G/L Account are filled with the vendor in question. 
+
+For incoming documents, you typically use the **Map Text to Account** action to define that a certain text on a vendor invoice received from the OCR service is mapped to a certain vendor account. Going forward, any part of the incoming document description that exists as a mapping text means that the **No.** field on resulting document or journal lines of type G/L Account are filled with the vendor in question.
 
 In addition to mapping to a vendor account or G/L accounts, you can also map to a bank account. This is practical, for example, for electronic documents for expenses that are already paid where you want to create a general journal line that is ready to post to a bank account.
 
 1. Select the incoming document line for the electronic vendor document received from the OCR service.
 2. To map text on the document to the vendor's account, a debit account, choose the **Map Text to Account** action, and then fill in the **Text-to-Account Mapping** window with information that will apply to the vendor going forward. For more information, see [How to: Map Text on Recurring Payments to Accounts for Automatic Reconciliation](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
-3. To map the item numbers on the document to your descriptions of the vendor's items, open the card of each item, and then choose the **Cross References** action to set up cross-references between your item descriptions and those of the vendor. 
+3. To map the item numbers on the document to your descriptions of the vendor's items, open the card of each item, and then choose the **Cross References** action to set up cross-references between your item descriptions and those of the vendor.
 4. In the **Incoming Documents** window, choose the **Create Document** action.
 
 A purchase invoice will be created in Financials based on the information in the electronic vendor document that you received from the OCR service.

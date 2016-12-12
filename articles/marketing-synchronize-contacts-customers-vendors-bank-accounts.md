@@ -39,4 +39,5 @@ When the contact is synchronized with the customer, vendor, bank account:
 **Note**: Some details, such as invoicing and posting details, do not appear on the contact card. Therefore, you may want to add them manually on the customer card, vendor card, or bank account card when you create contacts as customers, vendors or bank accounts.
 
 ##See Also
-[Manage Contacts](marketing-contacts.md)
+[Manage Contacts](marketing-contacts.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

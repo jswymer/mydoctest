@@ -38,4 +38,6 @@ For each sales order line, an item ledger entry will be created in the **Item Le
 When the posting is completed, the posted sales lines are removed from the order. A message tells you when the posting is completed. After this, you will be able to see the posted entries in the various windows that contain posted entries, such as the **Cust. Ledger Entries**, **G/L Entries**, **Item Ledger Entries**, **Posted Sales Shipments**, and **Posted Sales Invoices** windows.
 
 ## See Also
-[How to: Send Documents by Email](ui-how-send-documents-email.md)
+[Manage Sales](sales-manage-sales)  
+[How to: Send Documents by Email](ui-how-send-documents-email.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

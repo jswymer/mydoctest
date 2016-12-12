@@ -11,13 +11,15 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="09/29/2016"
+    ms.date="11/17/2016"
     ms.author="SorenGP" />
 
 # How to: Manage Budgets for Fixed Assets
 You can set up budgeted fixed assets. For example, this lets you include anticipated acquisitions and sales in reports.  
 
 To prepare your budgeted income statement, budgeted balance sheet, and cash budget, you need information about future investments, disposals and depreciation of fixed assets. You can get this information from the **Fixed Asset - Projected Value** report. Before you print this report, you must prepare the budget.  
+
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
 
 ## To budget the acquisition cost of a fixed asset
 To prepare a budget, you have to set up fixed asset cards for fixed assets that you intend to buy in the future. The budget fixed assets are set up as ordinary fixed assets, but it must be set up to not post to the general ledger.
@@ -56,4 +58,5 @@ You can use the **Fixed Asset - Projected Value** report to calculate future dep
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -25,8 +25,9 @@ If several purchasers work at your company, you can set them up in a window and 
 ## To assign purchasers to vendors
 1. In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.
 2. Open the relevant vendor card for the vendor that will be assigned a purchaser.
-3. In the **Purchaser Code** field, select the applicable purchaser code and choose the **OK** button..
+3. In the **Purchaser Code** field, select the applicable purchaser code and then close the window.
 
 ## See Also
 [Set Up Purchasing](purchasing-setup-purchasing.md)  
-[Manage Payables](payables-manage-payables.md)
+[Manage Payables](payables-manage-payables.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

@@ -70,4 +70,5 @@ You can combine multiple fixed assets into one fixed asset, for example when you
 [Manage Fixed Assets](fa-manage.md)  
 [Set Up Fixed Assets](fa-setup.md)  
 [Finance](finance.md)  
-[Welcome to Dynamics 365 for Financials](madeira-get-started.md)
+[Welcome to Dynamics 365 for Financials](madeira-get-started.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

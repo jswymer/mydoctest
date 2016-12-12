@@ -40,4 +40,5 @@ After you have assigned job responsibilities to your contacts, you can use this 
 
 ##See Also
 [Create Contact Persons](marketing-create-contact-persons.md)  
-[Create Contact Companies](marketing-create-contact-companies.md)
+[Create Contact Companies](marketing-create-contact-companies.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

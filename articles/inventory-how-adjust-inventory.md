@@ -17,7 +17,7 @@
 # How to: Adjust Inventory   
 After you have made a physical count of an item in your inventory area, you can use the **Adjust Inventory** function to record the actual inventory quantity.
 
-**Note**: After you have adjusted inventory, you must update it with the current, calculated value. For more information, see [How to: Revalue Inventory](inventory-how-revalue-inventory.md). 
+**Note**: After you have adjusted inventory, you must update it with the current, calculated value. For more information, see [How to: Revalue Inventory](inventory-how-revalue-inventory.md).
 
 You can also use the function as a simple way to place purchased items on inventory if you do not use the **Purchase Invoice** window to record your purchases. For more information, [How to: Record Purchases](purchasing-how-record-purchases.md).
 
@@ -32,4 +32,5 @@ The item’s inventory is now adjusted. The new quantity is shown in the **Curre
 ## See Also
 [Manage Inventory](inventory-manage-inventory.md)  
 [Manage Sales](sales-manage-sales.md)  
-[Manage Purchasing](purchasing-manage-purchasing.md)
+[Manage Purchasing](purchasing-manage-purchasing.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)

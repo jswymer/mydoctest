@@ -11,13 +11,15 @@
     ms.devlang="na"
     ms.tgt_pltfrm="na"
     ms.workload="na"
-    ms.date="10/26/2016"
+    ms.date="12/05/2016"
     ms.author="SorenGP" />
 
 # Manage Projects
 In Financials, you can perform common project management tasks, such as configuring a job and scheduling a resource, as well as providing the information needed to manage budgets and monitor progress. You can track machine and employee hours on the project by using time sheets. As a project manager, you have a good overview, not only of individual jobs, but also of the allocation of employees, machinery and other resources being used in all projects.
 
 Before you can use Financials to manage projects, you must set up resources, time sheets, and jobs. For more information, see [Set Up Project Management](projects-setup-projects.md).  
+
+**Note**: This functionality requires that your experience is set to **Suite**. For more information, see [Customizing the Dynamics 365 for Financials Experience](ui-experiences.md).
 
 The following table describes a sequence of tasks, with links to the topics that describe them.
 
@@ -31,10 +33,11 @@ The following table describes a sequence of tasks, with links to the topics that
 |Purchase supplies for a job, either on purchase orders or invoices, and record item and time usage.|[How to: Manage Job Supplies](projects-how-manage-project-supplies.md)|
 |Learn about WIP (Work in Process), a feature that ensures correct financial statements and enables you to estimate the financial value of jobs that are ongoing.|[Understanding WIP Methods](projects-understanding-wip.md)|
 |Post the consumption of materials, resources, and other expenses of job work in process (WIP) to monitor its financial value and to maintain correct financial statements even though you post job expenses before invoicing the job.|[How to: Monitor Job Progress and Performance](projects-how-monitor-progress-performance.md)|
-|Record job costs for resource usage, materials, and job-related purchases on an on-going basis and invoice the customer, either when the job is finished or according to an invoicing schedule.|[How to: Invoice Jobs](projects-how-invoice-jobs.md)| 
+|Record job costs for resource usage, materials, and job-related purchases on an on-going basis and invoice the customer, either when the job is finished or according to an invoicing schedule.|[How to: Invoice Jobs](projects-how-invoice-jobs.md)|
 
 ## See Also
-[Set Up Project Management](projects-setup-projects.md)    
+[Set Up Project Management](projects-setup-projects.md)  
+[Customizing the Dynamics 365 for Financials Experience](ui-experiences.md)      
 [Manage Purchasing](purchasing-manage-purchasing.md)         
 [Manage Sales](sales-manage-sales.md)    
 [Finance](finance.md)  

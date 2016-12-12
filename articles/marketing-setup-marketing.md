@@ -58,3 +58,4 @@ You can exchange email messages with your contacts, customers, vendors, and so o
 
 ## See Also
 [Manage Contacts](marketing-contacts.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

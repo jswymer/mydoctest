@@ -29,3 +29,4 @@ After you have set up the change log, activated it, and made a change to data, y
 [Change Basic Settings](ui-change-basic-settings.md)  
 [Sorting](ui-sorting.md)  
 [Using Search for Page or Report](ui-search.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)  

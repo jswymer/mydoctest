@@ -42,6 +42,6 @@ The following table describes a sequence of tasks, with links to the topics that
 [Set Up Purchasing](purchasing-setup-purchasing.md)  
 [Manage Payables](payables-manage-payables.md)  
 [Manage Projects](projects-manage-projects.md)    
-[Supply Chain](supply-chain.md)      
+[Supply Chain](madeira-supply-chain.md)      
 [Work With Dynamics 365 for Financials](ui-work-product.md)  
 [Across Business Areas](ui-across-business-areas.md)

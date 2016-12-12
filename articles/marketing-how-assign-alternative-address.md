@@ -35,4 +35,5 @@ You can also assign alternative addresses from the contact list window by follow
 Repeat these steps to assign as many date ranges as you want.
 
 ##See Also
-[Create Contact Companies](marketing-create-contact-companies.md)
+[Create Contact Companies](marketing-create-contact-companies.md)  
+[Work With Dynamics 365 for Financials](ui-work-product.md)
