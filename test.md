@@ -7,12 +7,7 @@
 Commit b
 
 # TESTTESTTEST MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
-This was added in branch1
-
-Commit b
-
 This was added to master
-
 
 commit c
 
