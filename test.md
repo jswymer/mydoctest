@@ -1,12 +1,13 @@
-<properties pageTitle="Software License Terms for Project "Test"" 
-	description="Contains the terms of use for Project Madeira as specified below." 
-	services="" 
+<properties pageTitle="Software License Terms for Project "Test""
+	description="Contains the terms of use for Project Madeira as specified below."
+	services=""
 	documentationCenter=""
 	authors="edupont" />
 
 Commit b
 
 # TESTTESTTEST MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
+This was added in branch1
 Commit b
 
 commit c
@@ -19,8 +20,8 @@ commit f
 
 commit g
 
-MICROSOFT PROJECT “Test Begin” PREVIEW 
-These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them.  This agreement applies to the pre-release software named above, which includes the media on which you received it, if any.  It also applies to any Microsoft 
+MICROSOFT PROJECT “Test Begin” PREVIEW
+These license terms are an agreement between Microsoft Corporation (or based on where you live, one of its affiliates) and you. Please read them.  This agreement applies to the pre-release software named above, which includes the media on which you received it, if any.  It also applies to any Microsoft
 •	updates,
 •	supplements,
 •	Internet-based services, and
@@ -42,7 +43,7 @@ If you comply with these license terms, you have the rights below.
     - Microsoft SQL Server Reporting Services Map Report Item. Report Viewer may include features that retrieve content such as maps, images and other data through the Bing Maps (or successor branded) application programming interface (the “Bing Maps APIs”). The purpose of these features is to create reports displaying data on top of maps, aerial and hybrid imagery. If these features are included, you may use them to create and view dynamic or static documents. This may be done only in conjunction with and through methods and means of access integrated in the supplement. You may not otherwise copy, store, archive, or create a database of the content available through the Bing Maps APIs. You may not use the following for any purpose even if they are available through the Bing Maps APIs:
       -	Bing Maps APIs to provide sensor based guidance/routing, or
       -	any Road Traffic Data or Bird’s Eye Imagery (or associated metadata).
-      - Your use of the Bing Map APIs and associated content is also subject to the additional terms and conditions at go.microsoft.com/fwlink/?LinkId=21969. 
+      - Your use of the Bing Map APIs and associated content is also subject to the additional terms and conditions at go.microsoft.com/fwlink/?LinkId=21969.
 2. THIRD PARTY PROGRAMS. The software may include third party programs that Microsoft, not the third party, licenses to you under this agreement.  Notices, if any, for the third party program are included for your information only.
 3.	TERM. The term of this agreement begins when you accept it and ends on November 30, 2016, or commercial release of the software, whichever is first.
 4.	PRE-RELEASE SOFTWARE. This software is a pre-release version.  It may not work the way a final version of the software will.  We may change it for the final, commercial version.  We also may not release a commercial version.
@@ -75,9 +76,8 @@ FOR AUSTRALIA – You have statutory guarantees under the Australian Consumer La
 14.	LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. You can recover from Microsoft and its suppliers only direct damages up to U.S. $5.00. You cannot recover any other damages, including consequential, lost profits, special, indirect, punitive, or incidental damages.  This limitation applies to
   - anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and  
   - claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
-  
+
   It also applies even if Microsoft knew or should have known about the possibility of the damages. The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
 
 ## See Also  
 [Legal Resources for Project "Madeira"](legal-resources.md)  
-
