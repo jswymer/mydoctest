@@ -6,11 +6,8 @@
 
 Commit b
 
-# TESTTESTTEST MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERM
-This too was added in branch1
-
+# TESTTESTTEST MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
 This too was added to master
-
 
 This was alos added in master
 This was added in branch1
