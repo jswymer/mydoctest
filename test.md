@@ -4,6 +4,7 @@
 	documentationCenter=""
 	authors="edupont" />
 
+This was added in master friday
 Commit b
 
 # TESTTESTTEST MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
