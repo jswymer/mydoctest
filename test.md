@@ -3,7 +3,10 @@
 	services=""
 	documentationCenter=""
 	authors="edupont" />
+
 This was added in branch1 friday
+
+
 Commit b
 
 # TESTTESTTEST MICROSOFT PRE-RELEASE SOFTWARE LICENSE TERMS
